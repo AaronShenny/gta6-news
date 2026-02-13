@@ -42,6 +42,13 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: frontend/out
+      - name: Run automation script
+        run: python fetch.py
+        working-directory: .
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+
 
   deploy:
     environment:
