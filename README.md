@@ -33,7 +33,7 @@ A fully automated news aggregator for Grand Theft Auto VI. Fetches news from RSS
    Copy `.env.example` to `.env` and fill in your keys:
    ```
    GEMINI_API_KEY=your_key
-   GITHUB_TOKEN=your_token
+   GIT_TOKEN=your_token
    ```
 
 ## Usage

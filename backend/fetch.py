@@ -16,7 +16,7 @@ load_dotenv()
 
 # Configuration
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
+GIT_TOKEN = os.getenv("GIT_TOKEN") or os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")  # e.g., "username/repo"
 
 # RSS Feeds
@@ -180,13 +180,13 @@ def main():
 
     # Commit changes if in CI/CD and have new posts
     # For now, we rely on the git commands in the workflow or manual execution.
-    # But if GITHUB_TOKEN is present, we could attempt to push?
+    # But if GIT_TOKEN is present, we could attempt to push?
     # The requirement says "Commit via GitHub API".
     
-    if new_posts and GITHUB_TOKEN and REPO_NAME:
+    if new_posts and GIT_TOKEN and REPO_NAME:
         print("Committing new posts to GitHub...")
         try:
-            g = Github(GITHUB_TOKEN)
+            g = Github(GIT_TOKEN)
             repo = g.get_repo(REPO_NAME)
             
             for post_path in new_posts:
