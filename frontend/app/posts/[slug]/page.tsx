@@ -1,5 +1,4 @@
 import { getPostData, getAllPostIds } from '@/lib/posts';
-import Head from 'next/head';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -82,7 +81,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
                         </div>
 
                         <div className="bg-gradient-to-br from-pink-600 to-purple-700 p-6 rounded-2xl text-white">
-                            <h3 className="text-xl font-bold mb-2 uppercase">Don't Miss Out</h3>
+                            <h3 className="text-xl font-bold mb-2 uppercase">Don&apos;t Miss Out</h3>
                             <p className="text-sm opacity-90 mb-4">Join our newsletter for weekly GTA VI updates directly to your inbox.</p>
                             <input type="email" placeholder="Email address" className="w-full p-2 rounded bg-black/20 border border-white/20 placeholder:text-white/50 mb-2 focus:outline-none focus:border-white" />
                             <button className="w-full py-2 bg-white text-pink-600 font-bold uppercase text-sm hover:bg-gray-100 rounded">
