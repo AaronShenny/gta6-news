@@ -1,0 +1,7 @@
+feedparser
+requests
+google-generativeai
+python-dotenv
+PyGithub
+beautifulsoup4
+html2text
