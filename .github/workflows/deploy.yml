@@ -43,7 +43,7 @@ jobs:
         with:
           path: frontend/out
       - name: Run automation script
-        run: python fetch.py
+        run: python frontend/fetch.py
         working-directory: .
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
