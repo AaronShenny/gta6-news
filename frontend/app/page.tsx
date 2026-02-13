@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/posts';
-import { ShieldCheck, Map, Calendar, Newspaper } from 'lucide-react';
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
@@ -32,14 +31,14 @@ export default function Home() {
       <section className="py-12 bg-zinc-900/50 border-y border-zinc-800">
         <div className="container mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-8">
           {[
-            { icon: Newspaper, label: "Daily News" },
-            { icon: Map, label: "Map Leaks" },
-            { icon: ShieldCheck, label: "Verified Info" },
-            { icon: Calendar, label: "Release Date" },
+            { icon: "📰", label: "Daily News" },
+            { icon: "🗺️", label: "Map Leaks" },
+            { icon: "✅", label: "Verified Info" },
+            { icon: "📅", label: "Release Date" },
           ].map((item, idx) => (
             <div key={idx} className="flex flex-col items-center text-center group cursor-pointer">
               <div className="p-4 bg-zinc-800 rounded-2xl group-hover:bg-pink-500/20 group-hover:text-pink-500 transition-colors">
-                <item.icon size={32} />
+                <span className="text-3xl" aria-hidden="true">{item.icon}</span>
               </div>
               <span className="mt-3 font-medium text-gray-300 group-hover:text-white">{item.label}</span>
             </div>
