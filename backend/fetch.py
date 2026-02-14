@@ -72,7 +72,7 @@ Return ONLY valid JSON with this structure:
 
     try:
         response = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model="models/gemini-1.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.7,
