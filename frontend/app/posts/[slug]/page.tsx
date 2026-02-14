@@ -1,4 +1,6 @@
 import { getPostData, getAllPostIds } from '@/lib/posts';
+import Image from 'next/image';
+import { getCoverAsset } from '@/lib/covers';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -41,14 +43,20 @@ export default async function Post({ params }: { params: { slug: string } }) {
         notFound();
     }
 
+    const cover = getCoverAsset(postData.title, postData.tags);
+
     return (
         <article className="min-h-screen bg-black text-white selection:bg-pink-500 selection:text-white">
             <div className="relative h-[40vh] w-full">
-                <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent z-10"></div>
-                {/* Placeholder for hero image */}
-                <div className="w-full h-full bg-zinc-900 flex items-center justify-center">
-                    <span className="text-6xl">🌴</span>
-                </div>
+                <Image
+                    src={cover.imageUrl}
+                    alt={cover.imageAlt}
+                    fill
+                    priority
+                    sizes="100vw"
+                    className="object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent z-10"></div>
             </div>
 
             <div className="container mx-auto px-4 relative z-20 -mt-20">

@@ -33,6 +33,16 @@ function escapeHtml(value: string): string {
         .replaceAll("'", '&#39;');
 }
 
+function parseInlineMarkdown(text: string): string {
+    let html = escapeHtml(text);
+
+    html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+    html = html.replace(/\[(.+?)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+
+    return html;
+}
+
 function parseFrontMatter(fileContents: string): ParsedPost {
     if (!fileContents.startsWith('---\n')) {
         return {
@@ -132,7 +142,7 @@ function markdownToHtml(markdown: string): string {
                 htmlParts.push('</ul>');
                 inList = false;
             }
-            htmlParts.push(`<h3>${escapeHtml(trimmed.slice(4))}</h3>`);
+            htmlParts.push(`<h3>${parseInlineMarkdown(trimmed.slice(4))}</h3>`);
             continue;
         }
 
@@ -141,7 +151,7 @@ function markdownToHtml(markdown: string): string {
                 htmlParts.push('</ul>');
                 inList = false;
             }
-            htmlParts.push(`<h2>${escapeHtml(trimmed.slice(3))}</h2>`);
+            htmlParts.push(`<h2>${parseInlineMarkdown(trimmed.slice(3))}</h2>`);
             continue;
         }
 
@@ -150,7 +160,16 @@ function markdownToHtml(markdown: string): string {
                 htmlParts.push('</ul>');
                 inList = false;
             }
-            htmlParts.push(`<h1>${escapeHtml(trimmed.slice(2))}</h1>`);
+            htmlParts.push(`<h1>${parseInlineMarkdown(trimmed.slice(2))}</h1>`);
+            continue;
+        }
+
+        if (trimmed === 'Key Takeaways' || trimmed === 'FAQ') {
+            if (inList) {
+                htmlParts.push('</ul>');
+                inList = false;
+            }
+            htmlParts.push(`<h2>${trimmed}</h2>`);
             continue;
         }
 
@@ -159,7 +178,7 @@ function markdownToHtml(markdown: string): string {
                 htmlParts.push('<ul>');
                 inList = true;
             }
-            htmlParts.push(`<li>${escapeHtml(trimmed.slice(2))}</li>`);
+            htmlParts.push(`<li>${parseInlineMarkdown(trimmed.slice(2))}</li>`);
             continue;
         }
 
@@ -168,7 +187,7 @@ function markdownToHtml(markdown: string): string {
             inList = false;
         }
 
-        htmlParts.push(`<p>${escapeHtml(trimmed)}</p>`);
+        htmlParts.push(`<p>${parseInlineMarkdown(trimmed)}</p>`);
     }
 
     if (inList) {
