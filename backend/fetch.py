@@ -26,7 +26,9 @@ if GEMINI_API_KEY:
     
     
     )
-    print(client.models.list())
+    for m in client.models.list():
+        print(m.name)
+
 
 # RSS Feeds
 FEEDS = [
@@ -72,7 +74,7 @@ Return ONLY valid JSON with this structure:
 
     try:
         response = client.models.generate_content(
-            model="models/gemini-1.5-flash",
+            model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.7,
