@@ -33,8 +33,8 @@ KEYWORDS = ["GTA 6", "Grand Theft Auto VI", "Vice City", "GTA VI"]
 # Initialize Gemini
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
-
+    model = genai.GenerativeModel('gemini-1.5-pro')
+1
 def clean_html(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
     return soup.get_text(separator=" ")
