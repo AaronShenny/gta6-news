@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 import re
 from bs4 import BeautifulSoup
 from google import genai
+from google.genai import types
 
 # Load environment variables
 load_dotenv()
@@ -71,15 +72,20 @@ Return ONLY valid JSON with this structure:
 
     try:
         response = client.models.generate_content(
-            model="models/gemini-1.5-flash",
+            model="gemini-1.5-flash",
             contents=prompt,
-            config={
-                "response_mime_type": "application/json",
-                "temperature": 0.7,
-            }
+            config=types.GenerateContentConfig(
+                temperature=0.7,
+                response_mime_type="application/json"
+            )
         )
 
-        return json.loads(response.text)
+        raw_text = response.text.strip()
+
+        if raw_text.startswith("```"):
+            raw_text = raw_text.split("```")[1]
+
+        return json.loads(raw_text)
 
     except Exception as e:
         print(f"Error summarising article: {e}")
