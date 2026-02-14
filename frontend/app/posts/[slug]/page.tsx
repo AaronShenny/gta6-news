@@ -1,4 +1,5 @@
 import { getPostData, getAllPostIds } from '@/lib/posts';
+import { getCoverStyle } from '@/lib/covers';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -41,13 +42,15 @@ export default async function Post({ params }: { params: { slug: string } }) {
         notFound();
     }
 
+    const cover = getCoverStyle(postData.title, postData.tags);
+
     return (
         <article className="min-h-screen bg-black text-white selection:bg-pink-500 selection:text-white">
-            <div className="relative h-[40vh] w-full">
+            <div className={`relative h-[40vh] w-full ${cover.gradientClassName}`}>
                 <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent z-10"></div>
-                {/* Placeholder for hero image */}
-                <div className="w-full h-full bg-zinc-900 flex items-center justify-center">
-                    <span className="text-6xl">🌴</span>
+                <div className="absolute inset-0 opacity-25 bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.35),_transparent_50%)]"></div>
+                <div className="w-full h-full flex items-center justify-center">
+                    <span className="text-7xl drop-shadow-2xl">{cover.emoji}</span>
                 </div>
             </div>
 
