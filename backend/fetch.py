@@ -18,17 +18,13 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 
+# Free-tier protection
+MAX_REQUESTS = 5
+
 # Initialize Gemini Client
 client = None
 if GEMINI_API_KEY:
-    client = genai.Client(
-    api_key=GEMINI_API_KEY,
-    
-    
-    )
-    for m in client.models.list():
-        print(m.name)
-
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
 # RSS Feeds
 FEEDS = [
@@ -135,6 +131,7 @@ source: "{data.get('source_link', '')}"
     os.makedirs(output_dir, exist_ok=True)
 
     filepath = os.path.join(output_dir, filename)
+
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(md_content)
 
@@ -143,6 +140,7 @@ source: "{data.get('source_link', '')}"
 
 def main():
     seen_file = "backend/seen.json"
+    request_count = 0
 
     if os.path.exists(seen_file):
         with open(seen_file, "r") as f:
@@ -159,6 +157,11 @@ def main():
             feed = feedparser.parse(feed_url)
 
             for entry in feed.entries:
+
+                if request_count >= MAX_REQUESTS:
+                    print("Reached max free-tier requests. Stopping.")
+                    break
+
                 if entry.link in seen_urls:
                     continue
 
@@ -182,6 +185,7 @@ def main():
                     )
 
                     if summary_data:
+                        request_count += 1
                         summary_data['source_link'] = entry.link
 
                         if hasattr(entry, 'published_parsed') and entry.published_parsed:
@@ -196,6 +200,9 @@ def main():
                         if filepath:
                             seen_urls.add(entry.link)
                             new_posts.append(filepath)
+
+            if request_count >= MAX_REQUESTS:
+                break
 
         except Exception as e:
             print(f"Error processing feed {feed_url}: {e}")
