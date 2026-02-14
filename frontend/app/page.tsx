@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/posts';
-import { getCoverStyle } from '@/lib/covers';
+import Image from 'next/image';
+import { getCoverAsset } from '@/lib/covers';
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
@@ -61,13 +62,19 @@ export default function Home() {
         {allPostsData.length > 0 ? (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {allPostsData.map(({ slug, date, title, description, tags }) => {
-              const cover = getCoverStyle(title, tags);
+              const cover = getCoverAsset(title, tags);
 
               return (
                 <Link href={`/posts/${slug}`} key={slug} className="group relative block bg-zinc-900 rounded-3xl overflow-hidden hover:-translate-y-2 transition-transform duration-300 border border-zinc-800 hover:border-pink-500/50">
-                  <div className={`aspect-video ${cover.gradientClassName} w-full group-hover:scale-105 transition-transform duration-500 flex items-center justify-center relative`}>
-                    <div className="absolute inset-0 opacity-20 bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.4),_transparent_55%)]"></div>
-                    <span className="text-5xl relative z-10 drop-shadow-xl">{cover.emoji}</span>
+                  <div className="aspect-video w-full group-hover:scale-105 transition-transform duration-500 relative">
+                    <Image
+                      src={cover.imageUrl}
+                      alt={cover.imageAlt}
+                      fill
+                      sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+                      className="object-cover"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
                   </div>
                   <div className="p-6">
                     <div className="flex gap-2 mb-3">

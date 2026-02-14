@@ -1,29 +1,50 @@
-const COVER_THEMES: Array<{ match: string[]; emoji: string; from: string; via: string; to: string }> = [
-  { match: ['ai', 'artificial intelligence', 'rumor', 'theory'], emoji: '🤖', from: 'from-fuchsia-600/60', via: 'via-violet-600/40', to: 'to-cyan-500/40' },
-  { match: ['map', 'mapping', 'leak', 'vice city'], emoji: '🗺️', from: 'from-emerald-600/60', via: 'via-teal-600/40', to: 'to-cyan-500/40' },
-  { match: ['release', 'date', 'launch', 'delay'], emoji: '📅', from: 'from-orange-600/60', via: 'via-rose-600/40', to: 'to-pink-500/40' },
-  { match: ['trailer', 'video', 'screenshot', 'visual'], emoji: '🎬', from: 'from-red-600/60', via: 'via-orange-500/40', to: 'to-yellow-500/40' },
-  { match: ['online', 'multiplayer', 'community', 'reddit'], emoji: '🌐', from: 'from-blue-600/60', via: 'via-indigo-600/40', to: 'to-violet-500/40' },
-];
-
-const DEFAULT_THEME = {
-  emoji: '🎮',
-  from: 'from-pink-600/60',
-  via: 'via-purple-600/40',
-  to: 'to-cyan-500/40',
-};
-
-export interface CoverStyle {
-  emoji: string;
-  gradientClassName: string;
+interface CoverTheme {
+  match: string[];
+  imageUrl: string;
+  imageAlt: string;
 }
 
-export function getCoverStyle(title: string, tags: string[] = []): CoverStyle {
-  const haystack = `${title} ${tags.join(' ')}`.toLowerCase();
-  const theme = COVER_THEMES.find((candidate) => candidate.match.some((keyword) => haystack.includes(keyword))) ?? DEFAULT_THEME;
+const COVER_THEMES: CoverTheme[] = [
+  {
+    match: ['ai', 'artificial intelligence', 'rumor', 'theory'],
+    imageUrl: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1800&q=80',
+    imageAlt: 'Futuristic AI-themed digital artwork',
+  },
+  {
+    match: ['map', 'mapping', 'leak', 'vice city'],
+    imageUrl: 'https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1800&q=80',
+    imageAlt: 'City map spread out on a desk',
+  },
+  {
+    match: ['release', 'date', 'launch', 'delay'],
+    imageUrl: 'https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=1800&q=80',
+    imageAlt: 'Calendar and planning setup',
+  },
+  {
+    match: ['trailer', 'video', 'screenshot', 'visual'],
+    imageUrl: 'https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1800&q=80',
+    imageAlt: 'Cinema screen and film visuals',
+  },
+  {
+    match: ['online', 'multiplayer', 'community', 'reddit'],
+    imageUrl: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1800&q=80',
+    imageAlt: 'People discussing content together',
+  },
+];
 
-  return {
-    emoji: theme.emoji,
-    gradientClassName: `bg-gradient-to-br ${theme.from} ${theme.via} ${theme.to}`,
-  };
+const DEFAULT_COVER = {
+  imageUrl: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1800&q=80',
+  imageAlt: 'Gaming setup with controller and monitor',
+};
+
+export interface CoverAsset {
+  imageUrl: string;
+  imageAlt: string;
+}
+
+export function getCoverAsset(title: string, tags: string[] = []): CoverAsset {
+  const haystack = `${title} ${tags.join(' ')}`.toLowerCase();
+  const theme = COVER_THEMES.find((candidate) => candidate.match.some((keyword) => haystack.includes(keyword)));
+
+  return theme ?? DEFAULT_COVER;
 }
