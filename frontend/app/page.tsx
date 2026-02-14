@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/posts';
+import Image from 'next/image';
+import { getCoverAsset } from '@/lib/covers';
 
 export default function Home() {
   const allPostsData = getSortedPostsData();
@@ -59,33 +61,43 @@ export default function Home() {
 
         {allPostsData.length > 0 ? (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {allPostsData.map(({ slug, date, title, description, tags }) => (
-              <Link href={`/posts/${slug}`} key={slug} className="group relative block bg-zinc-900 rounded-3xl overflow-hidden hover:-translate-y-2 transition-transform duration-300 border border-zinc-800 hover:border-pink-500/50">
-                <div className="aspect-video bg-zinc-800 w-full object-cover group-hover:scale-105 transition-transform duration-500 flex items-center justify-center text-zinc-700">
-                  {/* Placeholder for actual image if we had one, or a generative pattern */}
-                  <span className="text-4xl">🌴</span>
-                </div>
-                <div className="p-6">
-                  <div className="flex gap-2 mb-3">
-                    {tags && tags.slice(0, 2).map(tag => (
-                      <span key={tag} className="text-xs font-bold text-pink-400 bg-pink-400/10 px-2 py-1 rounded-md uppercase tracking-wide">
-                        {tag}
-                      </span>
-                    ))}
+            {allPostsData.map(({ slug, date, title, description, tags }) => {
+              const cover = getCoverAsset(title, tags);
+
+              return (
+                <Link href={`/posts/${slug}`} key={slug} className="group relative block bg-zinc-900 rounded-3xl overflow-hidden hover:-translate-y-2 transition-transform duration-300 border border-zinc-800 hover:border-pink-500/50">
+                  <div className="aspect-video w-full group-hover:scale-105 transition-transform duration-500 relative">
+                    <Image
+                      src={cover.imageUrl}
+                      alt={cover.imageAlt}
+                      fill
+                      sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+                      className="object-cover"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
                   </div>
-                  <h3 className="text-xl font-bold mb-2 group-hover:text-pink-400 transition-colors line-clamp-2">
-                    {title}
-                  </h3>
-                  <p className="text-gray-400 text-sm line-clamp-3 mb-4">
-                    {description}
-                  </p>
-                  <div className="flex items-center justify-between text-xs text-zinc-500">
-                    <span>{date}</span>
-                    <span className="group-hover:translate-x-1 transition-transform">Read Article &rarr;</span>
+                  <div className="p-6">
+                    <div className="flex gap-2 mb-3">
+                      {tags && tags.slice(0, 2).map(tag => (
+                        <span key={tag} className="text-xs font-bold text-pink-400 bg-pink-400/10 px-2 py-1 rounded-md uppercase tracking-wide">
+                          {tag}
+                        </span>
+                      ))}
+                    </div>
+                    <h3 className="text-xl font-bold mb-2 group-hover:text-pink-400 transition-colors line-clamp-2">
+                      {title}
+                    </h3>
+                    <p className="text-gray-400 text-sm line-clamp-3 mb-4">
+                      {description}
+                    </p>
+                    <div className="flex items-center justify-between text-xs text-zinc-500">
+                      <span>{date}</span>
+                      <span className="group-hover:translate-x-1 transition-transform">Read Article &rarr;</span>
+                    </div>
                   </div>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
         ) : (
           <div className="text-center py-20 bg-zinc-900/50 rounded-3xl border border-zinc-800/50 border-dashed">

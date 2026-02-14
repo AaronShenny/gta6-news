@@ -1,4 +1,7 @@
 import { getPostData, getAllPostIds } from '@/lib/posts';
+import Image from 'next/image';
+import { getCoverAsset } from '@/lib/covers';
+import { getSiteUrl } from '@/lib/site';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -16,20 +19,35 @@ export async function generateMetadata({ params }: { params: { slug: string } })
             title: 'Post Not Found',
         };
     }
+    const siteUrl = getSiteUrl();
+    const postUrl = `${siteUrl}/posts/${params.slug}`;
+    const cover = getCoverAsset(postData.title, postData.tags);
+
     return {
         title: `${postData.title} | GTA VI Hub`,
         description: postData.description,
+        alternates: {
+            canonical: `/posts/${params.slug}`,
+        },
         openGraph: {
             title: postData.title,
             description: postData.description,
             type: 'article',
             publishedTime: postData.date,
             tags: postData.tags,
+            url: postUrl,
+            images: [
+                {
+                    url: cover.imageUrl,
+                    alt: cover.imageAlt,
+                },
+            ],
         },
         twitter: {
             card: 'summary_large_image',
             title: postData.title,
             description: postData.description,
+            images: [cover.imageUrl],
         }
     };
 }
@@ -41,14 +59,20 @@ export default async function Post({ params }: { params: { slug: string } }) {
         notFound();
     }
 
+    const cover = getCoverAsset(postData.title, postData.tags);
+
     return (
         <article className="min-h-screen bg-black text-white selection:bg-pink-500 selection:text-white">
             <div className="relative h-[40vh] w-full">
-                <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent z-10"></div>
-                {/* Placeholder for hero image */}
-                <div className="w-full h-full bg-zinc-900 flex items-center justify-center">
-                    <span className="text-6xl">🌴</span>
-                </div>
+                <Image
+                    src={cover.imageUrl}
+                    alt={cover.imageAlt}
+                    fill
+                    priority
+                    sizes="100vw"
+                    className="object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent z-10"></div>
             </div>
 
             <div className="container mx-auto px-4 relative z-20 -mt-20">
