@@ -1,6 +1,7 @@
 import { getPostData, getAllPostIds } from '@/lib/posts';
 import Image from 'next/image';
 import { getCoverAsset } from '@/lib/covers';
+import { getSiteUrl } from '@/lib/site';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
@@ -18,20 +19,35 @@ export async function generateMetadata({ params }: { params: { slug: string } })
             title: 'Post Not Found',
         };
     }
+    const siteUrl = getSiteUrl();
+    const postUrl = `${siteUrl}/posts/${params.slug}`;
+    const cover = getCoverAsset(postData.title, postData.tags);
+
     return {
         title: `${postData.title} | GTA VI Hub`,
         description: postData.description,
+        alternates: {
+            canonical: `/posts/${params.slug}`,
+        },
         openGraph: {
             title: postData.title,
             description: postData.description,
             type: 'article',
             publishedTime: postData.date,
             tags: postData.tags,
+            url: postUrl,
+            images: [
+                {
+                    url: cover.imageUrl,
+                    alt: cover.imageAlt,
+                },
+            ],
         },
         twitter: {
             card: 'summary_large_image',
             title: postData.title,
             description: postData.description,
+            images: [cover.imageUrl],
         }
     };
 }
