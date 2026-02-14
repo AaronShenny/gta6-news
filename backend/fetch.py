@@ -20,7 +20,11 @@ REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 # Initialize Gemini Client
 client = None
 if GEMINI_API_KEY:
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = genai.Client(
+    api_key=GEMINI_API_KEY,
+    http_options={"api_version": "v1"}
+    print(client.models.list())
+)
 
 # RSS Feeds
 FEEDS = [
@@ -66,7 +70,7 @@ Return ONLY valid JSON with this structure:
 
     try:
         response = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model="models/gemini-1.5-flash",
             contents=prompt,
             config={
                 "response_mime_type": "application/json",
