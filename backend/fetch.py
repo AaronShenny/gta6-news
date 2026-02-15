@@ -211,30 +211,76 @@ def main():
     with open(seen_file, "w") as f:
         json.dump(list(seen_urls), f, indent=2)
 
-    # GitHub Commit
-    if new_posts and GITHUB_TOKEN and REPO_NAME:
+    # -------------------------
+    # GitHub Commit Section
+    # -------------------------
+    if GITHUB_TOKEN and REPO_NAME:
         print("Committing to GitHub...")
 
         try:
             g = Github(GITHUB_TOKEN)
             repo = g.get_repo(REPO_NAME)
 
+            # ---- Update or Create seen.json ----
+            with open(seen_file, "r", encoding="utf-8") as f:
+                seen_content = f.read()
+
+            try:
+                existing_seen = repo.get_contents(seen_file, ref="main")
+
+                repo.update_file(
+                    existing_seen.path,
+                    "Update seen.json",
+                    seen_content,
+                    existing_seen.sha,
+                    branch="main"
+                )
+                print("seen.json updated.")
+
+            except Exception:
+                repo.create_file(
+                    seen_file,
+                    "Create seen.json",
+                    seen_content,
+                    branch="main"
+                )
+                print("seen.json created.")
+
+            # ---- Update or Create Posts ----
             for post_path in new_posts:
                 rel_path = os.path.relpath(post_path, os.getcwd()).replace("\\", "/")
+
                 with open(post_path, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                repo.create_file(
-                    rel_path,
-                    f"Add post: {os.path.basename(post_path)}",
-                    content,
-                    branch="main"
-                )
+                try:
+                    existing_file = repo.get_contents(rel_path, ref="main")
 
-            print("Posts committed successfully.")
+                    if existing_file.decoded_content.decode("utf-8") != content:
+                        repo.update_file(
+                            existing_file.path,
+                            f"Update post: {os.path.basename(post_path)}",
+                            content,
+                            existing_file.sha,
+                            branch="main"
+                        )
+                        print(f"Updated: {rel_path}")
+                    else:
+                        print(f"No changes: {rel_path}")
+
+                except Exception:
+                    repo.create_file(
+                        rel_path,
+                        f"Add post: {os.path.basename(post_path)}",
+                        content,
+                        branch="main"
+                    )
+                    print(f"Created: {rel_path}")
+
+            print("GitHub commit completed successfully.")
 
         except Exception as e:
             print(f"GitHub API Error: {e}")
 
 if __name__ == "__main__":
-    main()
+    main() 
