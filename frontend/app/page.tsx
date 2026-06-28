@@ -20,33 +20,45 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen selection:bg-vice-pink selection:text-white pb-20 pt-24">
+    <main className="min-h-screen selection:bg-vice-pink selection:text-white pb-20">
       <Header />
       
       {/* Hero Section */}
-      <section className="container mx-auto px-6 pt-12">
-        <div className="flex flex-col md:flex-row items-center justify-between gap-12 mb-16">
-          <div className="max-w-2xl relative z-10">
-            <div className="absolute -inset-20 bg-vice-pink/10 blur-[100px] rounded-full pointer-events-none"></div>
-            <h1 className="text-6xl md:text-8xl font-display font-black uppercase tracking-tighter leading-none mb-6 text-white drop-shadow-2xl">
-              RETURN TO <br/>
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-vice-pink via-vice-purple to-vice-blue">VICE CITY</span>
-            </h1>
-            <p className="text-xl text-zinc-400 mb-8 max-w-lg font-light leading-relaxed">
-              Your premier automated source for the latest Grand Theft Auto VI news, leaks, rumors, and confirmed updates.
-            </p>
-            <div className="flex items-center gap-4">
-              <Link href="#news" className="group flex items-center gap-2 bg-white text-black px-8 py-4 rounded-full font-bold hover:bg-zinc-200 transition-all duration-300">
-                Latest News <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
-            </div>
-            
-            {/* Newsletter Placeholder */}
-            <div className="mt-10 p-1 rounded-full bg-zinc-900/50 border border-zinc-800 flex items-center max-w-md">
-              <input type="email" placeholder="Enter email for weekly digest..." className="bg-transparent border-none outline-none px-6 py-3 flex-1 text-sm text-white placeholder:text-zinc-600" />
-              <button className="bg-vice-purple hover:bg-vice-pink transition-colors text-white px-6 py-3 rounded-full text-sm font-bold shadow-[0_0_20px_rgba(138,43,226,0.4)]">
-                Subscribe
-              </button>
+      <section className="relative pt-32 pb-24 mb-16 overflow-hidden min-h-[70vh] flex items-center mt-0">
+        <div className="absolute inset-0 z-0">
+          <Image
+            src="/hero-bg.png"
+            alt="Vice City Hero Cover"
+            fill
+            className="object-cover opacity-50 mix-blend-screen"
+            priority
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-transparent to-transparent"></div>
+          <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a0a] via-[#0a0a0a]/80 to-transparent"></div>
+        </div>
+        <div className="container mx-auto px-6 relative z-10">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-12">
+            <div className="max-w-2xl relative z-10">
+              <h1 className="text-6xl md:text-8xl font-display font-black uppercase tracking-tighter leading-none mb-6 text-white drop-shadow-2xl">
+                RETURN TO <br/>
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-vice-pink via-vice-purple to-vice-blue">VICE CITY</span>
+              </h1>
+              <p className="text-xl text-zinc-300 mb-8 max-w-lg font-light leading-relaxed drop-shadow-md">
+                Your premier automated source for the latest Grand Theft Auto VI news, leaks, rumors, and confirmed updates.
+              </p>
+              <div className="flex items-center gap-4">
+                <Link href="#news" className="group flex items-center gap-2 bg-white text-black px-8 py-4 rounded-full font-bold hover:bg-zinc-200 transition-all duration-300">
+                  Latest News <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                </Link>
+              </div>
+              
+              {/* Newsletter Placeholder */}
+              <div className="mt-10 p-1 rounded-full bg-black/50 backdrop-blur-md border border-white/10 flex items-center max-w-md shadow-xl">
+                <input type="email" placeholder="Enter email for weekly digest..." className="bg-transparent border-none outline-none px-6 py-3 flex-1 text-sm text-white placeholder:text-zinc-300" />
+                <button className="bg-vice-purple hover:bg-vice-pink transition-colors text-white px-6 py-3 rounded-full text-sm font-bold shadow-[0_0_20px_rgba(138,43,226,0.4)]">
+                  Subscribe
+                </button>
+              </div>
             </div>
           </div>
         </div>
