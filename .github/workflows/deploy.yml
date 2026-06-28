@@ -55,6 +55,14 @@ jobs:
           cache: "npm"
           cache-dependency-path: frontend/package-lock.json
 
+      - name: Cache Next.js
+        uses: actions/cache@v4
+        with:
+          path: frontend/.next/cache
+          key: ${{ runner.os }}-nextjs-${{ hashFiles('frontend/**/package-lock.json') }}-${{ hashFiles('frontend/**.[jt]s', 'frontend/**.[jt]sx') }}
+          restore-keys: |
+            ${{ runner.os }}-nextjs-${{ hashFiles('frontend/**/package-lock.json') }}-
+
       - name: Install Dependencies
         run: npm ci
         working-directory: frontend

@@ -6,7 +6,7 @@ import html from 'remark-html';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
-export interface PostData {
+export interface PostSummary {
     slug: string;
     title: string;
     date: string;
@@ -14,10 +14,13 @@ export interface PostData {
     tags: string[];
     source?: string;
     classification?: string;
+}
+
+export interface PostData extends PostSummary {
     contentHtml: string;
 }
 
-export function getSortedPostsData() {
+export function getSortedPostsData(): PostSummary[] {
     if (!fs.existsSync(postsDirectory)) {
         fs.mkdirSync(postsDirectory, { recursive: true });
         return [];
