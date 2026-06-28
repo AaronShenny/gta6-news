@@ -85,7 +85,7 @@ export default function Home() {
                 
                 <div className="w-full lg:w-2/5 p-8 lg:p-12 flex flex-col justify-center">
                   <div className="flex gap-2 mb-4 flex-wrap">
-                    {heroPost.tags && heroPost.tags.slice(0, 3).map(tag => (
+                    {heroPost.tags && heroPost.tags.slice(0, 3).map((tag: string) => (
                       <span key={tag} className="text-xs font-bold text-vice-blue bg-vice-blue/10 px-3 py-1 rounded-full uppercase tracking-wide">
                         {tag}
                       </span>

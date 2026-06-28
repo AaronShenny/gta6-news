@@ -5,7 +5,7 @@ import { getSiteUrl } from '@/lib/site';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
-import { Twitter, ArrowLeft, ExternalLink } from 'lucide-react';
+import { Share2, ArrowLeft, ExternalLink } from 'lucide-react';
 
 export async function generateStaticParams() {
     const paths = getAllPostIds();
@@ -141,7 +141,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
                               rel="noopener noreferrer"
                               className="flex items-center justify-center gap-2 w-full py-4 bg-[#1DA1F2]/10 text-[#1DA1F2] border border-[#1DA1F2]/30 hover:bg-[#1DA1F2]/20 font-bold uppercase tracking-wide transition-colors rounded-xl"
                             >
-                                <Twitter className="w-5 h-5" /> Share on X
+                                <Share2 className="w-5 h-5" /> Share on X
                             </a>
                         </div>
                     </aside>
