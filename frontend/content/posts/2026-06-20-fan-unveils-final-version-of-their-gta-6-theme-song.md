@@ -1,5 +1,5 @@
 ---
-title: "Fan Unveils "Final Version" of Their GTA 6 Theme Song"
+title: "Fan Unveils 'Final Version' of Their GTA 6 Theme Song"
 date: "2026-06-20T05:56:26"
 description: "Reddit user u/No-Performance979 has released what they're calling the 'final version' of their fan-made Grand Theft Auto 6 theme song, available now on YouTube."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Creation", "Theme Song", "Gaming Music", "Reddit", "YouTube", "Rockstar Games"]

@@ -1,5 +1,5 @@
 ---
-title: "GTA VI's "Loyalty Simulator" Theory: Jason's Infidelity Could Be a Tactical Nightmare"
+title: "GTA VI's 'Loyalty Simulator' Theory: Jason's Infidelity Could Be a Tactical Nightmare"
 date: "2026-02-17T17:20:27"
 description: "A deep dive into community speculation suggesting GTA VI might feature a 'Trust System' where Jason's actions, particularly infidelity, could lead to significant in-game consequences from Lucia, impacting gameplay and requiring strategic planning."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Loyalty System", "Trust System", "Jason and Lucia", "Gameplay Mechanics", "Speculation", "AI", "Realism", "Gaming News"]

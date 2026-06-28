@@ -1,5 +1,5 @@
 ---
-title: "Take-Two CEO Strauss Zelnick "Can't Imagine" Adults Skipping GTA 6"
+title: "Take-Two CEO Strauss Zelnick 'Can't Imagine' Adults Skipping GTA 6"
 date: "2026-03-17T21:08:00"
 description: "Take-Two CEO Strauss Zelnick expresses unwavering confidence in Grand Theft Auto 6, asserting its broad appeal to both new players and adults, dismissing notions of players aging out or skipping the highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto 6", "Take-Two", "Strauss Zelnick", "Rockstar Games", "Gaming Industry", "Video Game Release", "Player Engagement", "AI in Gaming", "Gaming Demographics", "Mature Rating"]

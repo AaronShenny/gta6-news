@@ -1,7 +1,7 @@
 ---
-title: "GTA VI Fan Theory Uncovers Potential "Good vs. Evil" Factions Through Rim Lighting"
+title: "GTA VI Fan Theory Uncovers Potential 'Good vs. Evil' Factions Through Rim Lighting"
 date: "2026-06-20T23:14:53"
-description: "A deep dive into the "Rimlight Theory" reveals how subtle, consistent dual lighting in official GTA VI artwork might be signaling character alignments and opposing groups, including protagonists Jason and Lucia."
+description: "A deep dive into the 'Rimlight Theory' reveals how subtle, consistent dual lighting in official GTA VI artwork might be signaling character alignments and opposing groups, including protagonists Jason and Lucia."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Theory", "Rimlight Theory", "Rockstar Games", "Character Alignment", "Narrative Clues", "Gaming News", "Jason", "Lucia"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubaewo/i_think_i_found_whos_good_and_whos_bad_in_gta_vi/"
 classification: "RUMOR"

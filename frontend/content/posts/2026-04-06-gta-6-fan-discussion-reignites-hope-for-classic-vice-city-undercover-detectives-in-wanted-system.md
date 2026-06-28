@@ -1,7 +1,7 @@
 ---
 title: "GTA 6 Fan Discussion Reignites Hope for Classic Vice City Undercover Detectives in Wanted System"
 date: "2026-04-06T19:09:31"
-description: "A Reddit user on r/GTA6 sparks debate, expressing hope for the return of "Miami Vice-like" undercover detectives, a distinct feature of Grand Theft Auto: Vice City's wanted system, in the upcoming GTA 6."
+description: "A Reddit user on r/GTA6 sparks debate, expressing hope for the return of 'Miami Vice-like' undercover detectives, a distinct feature of Grand Theft Auto: Vice City's wanted system, in the upcoming GTA 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "Wanted System", "Vice City", "Undercover Detectives", "Rockstar Games", "Fan Discussion", "Reddit", "Gaming News", "Miami Vice"]
 source: "https://www.reddit.com/r/GTA6/comments/1se8b2l/regarding_an_aspect_of_the_wanted_system/"
 classification: "RUMOR"

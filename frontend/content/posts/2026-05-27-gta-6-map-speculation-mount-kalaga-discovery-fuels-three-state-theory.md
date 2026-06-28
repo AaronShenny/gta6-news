@@ -1,7 +1,7 @@
 ---
 title: "GTA 6 Map Speculation: Mount Kalaga Discovery Fuels Three-State Theory"
 date: "2026-05-27T21:59:12"
-description: "A recent fan map discovery of "Mount Kalaga" in GTA 6's rumored Leonida has sparked speculation about the game featuring three distinct states, hinting at Rockstar's commitment to realism."
+description: "A recent fan map discovery of 'Mount Kalaga' in GTA 6's rumored Leonida has sparked speculation about the game featuring three distinct states, hinting at Rockstar's commitment to realism."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Map Speculation", "Mount Kalaga", "Leonida", "North Carolina", "Game World", "Realism", "Fan Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1tpk2dj/discussion_on_the_map_will_we_end_up_with_three/"
 classification: "RUMOR"
