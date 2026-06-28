@@ -11,8 +11,8 @@ export default function Countdown() {
   });
 
   useEffect(() => {
-    // Target date: Fall 2025 (assuming roughly Sep 1, 2025)
-    const targetDate = new Date('2025-09-01T00:00:00').getTime();
+    // Target date: November 19, 2026 (based on the latest delay rumors)
+    const targetDate = new Date('2026-11-19T00:00:00').getTime();
 
     const updateTimer = () => {
       const now = new Date().getTime();
