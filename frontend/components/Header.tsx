@@ -6,13 +6,8 @@ export default function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 px-6 py-4">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
-        <Link href="/" className="group flex items-center space-x-2">
-          <div className="bg-gradient-to-tr from-vice-pink to-vice-purple p-2 rounded-xl">
-            <Newspaper className="text-white w-6 h-6" />
-          </div>
-          <span className="font-display font-black text-2xl tracking-tighter text-white group-hover:text-vice-pink transition-colors">
-            GTA<span className="text-vice-blue">VI</span> HUB
-          </span>
+        <Link href="/" className="group flex items-center space-x-3">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Grand_Theft_Auto_VI_logo.svg" alt="GTA VI Logo" className="h-10 w-auto group-hover:scale-105 transition-transform" />
         </Link>
         
         <div className="hidden md:block">
