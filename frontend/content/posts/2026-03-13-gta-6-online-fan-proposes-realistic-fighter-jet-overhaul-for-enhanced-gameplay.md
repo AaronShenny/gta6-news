@@ -4,6 +4,7 @@ date: "2026-03-13T01:47:01"
 description: "A dedicated fan on Reddit has outlined a detailed proposal to rebalance fighter jets in GTA 6 Online, suggesting a fuel system, missile limits, and challenging acquisition methods to enhance realism and gameplay."
 tags: ["GTA 6", "GTA Online", "Fighter Jets", "Game Mechanics", "Fan Suggestions", "Rockstar Games", "Community Feedback", "Online Multiplayer", "Vehicles", "Realism"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsa8vg/how_to_fix_fighter_jets_for_gta_6_online/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Online: Fan Proposes Realistic Fighter Jet Overhaul for Enhanced Gameplay

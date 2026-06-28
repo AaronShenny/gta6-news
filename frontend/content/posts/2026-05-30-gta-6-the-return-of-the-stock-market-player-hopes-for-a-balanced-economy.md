@@ -4,6 +4,7 @@ date: "2026-05-30T22:11:20"
 description: "A Reddit user discusses their hopes for the stock market's return in GTA 6, advocating for it as an optional money-making system rather than the primary method, unlike its implementation in GTA V."
 tags: ["GTA 6", "Stock Market", "Economy", "GTA V", "Red Dead Redemption 2", "Money Making", "Player Feedback", "Gaming Economy"]
 source: "https://www.reddit.com/r/GTA6/comments/1tsd3pc/stock_market_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Return of the Stock Market – Player Hopes for a Balanced Economy

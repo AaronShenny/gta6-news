@@ -4,6 +4,7 @@ date: "2026-06-17T15:02:11"
 description: "A Reddit post speculates that Rockstar Games isn't delaying GTA 6 due to development issues, but is strategically extending GTA V's lifespan for maximum profit."
 tags: ["GTA 6", "Rockstar Games", "GTA V", "Game Development", "Monetization", "Gaming Industry", "Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8cnh0/no_delays_for_gta_6_rockstar_is_just_doing_one/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Not Delayed, But Is Rockstar Milking GTA V for 'One Last Cash Grab'?

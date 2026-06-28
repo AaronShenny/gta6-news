@@ -4,6 +4,7 @@ date: "2026-05-18T18:11:06"
 description: "A Reddit user expresses growing frustration over the lack of official GTA 6 news, stating that only direct announcements from Rockstar Games will be believed after months of speculative theories."
 tags: ["GTA 6", "Rockstar Games", "Grand Theft Auto", "Gaming News", "Fan Theories", "Community Sentiment", "Game Development Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1tgvhqf/at_this_point_i_dont_believe_anything_about_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Dries Up: Fans Declare Only Official Rockstar News is Credible

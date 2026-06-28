@@ -4,6 +4,7 @@ date: "2026-05-06T18:20:45"
 description: "Fans are speculating whether Rockstar will reintroduce and expand upon the beloved in-game mini-games, reminiscent of GTA San Andreas, in the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Mini-Games", "GTA San Andreas", "Fan Speculation", "In-Game Features", "Gaming Community", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5l91r/back_in_the_gta_san_andreas_days_you_could_play/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will In-Game Mini-Games Make a Comeback, Expanding on San Andreas' Legacy?

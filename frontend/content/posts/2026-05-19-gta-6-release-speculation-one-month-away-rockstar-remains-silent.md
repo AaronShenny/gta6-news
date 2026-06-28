@@ -4,6 +4,7 @@ date: "2026-05-19T14:39:04"
 description: "A recent online post speculates that Grand Theft Auto 6 could be released as early as one month from October 19th, despite a complete lack of official announcements from Rockstar Games."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Release Date", "Speculation", "Gaming News", "Fan Theories", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1thoyo1/its_october_19th_gta_6_is_one_month_away_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Release Speculation: One Month Away, Rockstar Remains Silent

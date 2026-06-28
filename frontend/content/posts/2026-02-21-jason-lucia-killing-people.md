@@ -4,6 +4,7 @@ date: "2026-02-21T18:46:39"
 description: "A Reddit post sparks debate on GTA 6 protagonists Jason and Lucia, questioning if their perceived 'normalcy' will clash with the series' typical high-kill missions, advocating for a more grounded, RDR2-style approach."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jason and Lucia", "Protagonists", "Gameplay", "Narrative", "Character Development", "Rockstar Games", "Red Dead Redemption 2", "Mission Design", "Player Expectations"]
 source: "https://www.reddit.com/r/GTA6/comments/1raz1nz/jasonlucia_killing_people/"
+classification: "UNKNOWN"
 ---
 
 # Jason/Lucia. Killing people.

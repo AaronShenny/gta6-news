@@ -4,6 +4,7 @@ date: "2026-04-03T00:14:12"
 description: "A dedicated Grand Theft Auto fan expresses a strong desire for GTA 6 to integrate Red Dead Redemption 2's acclaimed melee combat system and additional minigames, anticipating a decade of content."
 tags: ["GTA 6", "Grand Theft Auto VI", "Red Dead Redemption 2", "Melee Combat", "Fan Wishlist", "Gaming Features", "Rockstar Games", "Minigames"]
 source: "https://www.reddit.com/r/GTA6/comments/1saybsu/features_youd_like_to_see_from_diffrent_games_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Pitches Red Dead Redemption 2-Style Melee Combat and Minigames

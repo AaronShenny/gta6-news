@@ -4,6 +4,7 @@ date: "2026-06-13T16:37:08"
 description: "A Reddit discussion sparks excitement for GTA 6's Florida-inspired Leonida, with players eager to see everything from wandering alligators to chaotic hurricanes and bizarre 'Florida Man' events."
 tags: ["GTA 6", "Leonida", "Florida", "Rockstar Games", "Open World", "Community Wishlist", "Gaming News", "Grand Theft Auto", "Game Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4vjlf/leonida_is_basically_rockstars_version_of_florida/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Leonida: What 'Florida Man' Moments Do Players Hope To See?

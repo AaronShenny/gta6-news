@@ -4,6 +4,7 @@ date: "2026-02-15T15:25:38"
 description: "A Reddit user shares a charming piece of fan art from their girlfriend, envisioning the couple within the highly anticipated world of Grand Theft Auto VI for Valentine's Day."
 tags: ["GTA VI", "Grand Theft Auto 6", "Fan Art", "Community", "Valentine's Day", "Gaming Culture", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5hazg/my_girlfriend_drew_us_in_gta_vi_for_valentines/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Fan Art Captures Valentine's Spirit

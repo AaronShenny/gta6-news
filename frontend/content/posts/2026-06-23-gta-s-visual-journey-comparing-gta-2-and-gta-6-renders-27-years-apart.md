@@ -4,6 +4,7 @@ date: "2026-06-23T12:04:31"
 description: "A Reddit post highlights the astounding graphical evolution of the Grand Theft Auto series by juxtaposing renders from GTA 2 and the upcoming GTA 6, spanning 27 years."
 tags: ["GTA 6", "GTA 2", "Graphics Comparison", "Visual Evolution", "Gaming History", "Rockstar Games", "Rendering", "Technological Advancement", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1udf9lo/gta_2_and_gta_6_render_27_years_apart/"
+classification: "UNKNOWN"
 ---
 
 # GTA's Visual Journey: Comparing GTA 2 and GTA 6 Renders 27 Years Apart

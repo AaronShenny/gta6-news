@@ -4,6 +4,7 @@ date: "2026-05-21T16:59:00"
 description: "Rockstar's highly anticipated GTA 6 is set for a November launch, directly challenging Call of Duty: Modern Warfare 4 and potentially impacting its sales volumes."
 tags: ["GTA 6", "Grand Theft Auto", "Modern Warfare 4", "Call of Duty", "Release Date", "Sales", "Competition", "Gaming Industry"]
 source: "https://www.gamespot.com/articles/modern-warfare-4-reveal-looks-imminent-as-infinity-ward-teases-a-relentless-experience/1100-6540082/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's November Launch Poised to Challenge Modern Warfare 4 Sales

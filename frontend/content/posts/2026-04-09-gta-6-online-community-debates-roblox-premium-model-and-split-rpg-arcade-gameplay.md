@@ -4,6 +4,7 @@ date: "2026-04-09T14:42:44"
 description: "A Reddit user sparks discussion on GTA 6 Online's future, questioning a potential 'Roblox Premium' model and advocating for separate RPG and arcade-style game modes to cater to diverse player preferences."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Gaming Community", "Player Feedback", "RPG Elements", "Arcade Gameplay", "Subscription Model", "Future Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgrlb5/do_you_think_rockstar_will_make_a_roblox_premium/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Community Debates 'Roblox Premium' Model and Split RPG/Arcade Gameplay

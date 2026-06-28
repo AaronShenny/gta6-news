@@ -4,6 +4,7 @@ date: "2026-02-15T20:56:23"
 description: "A dedicated GTA fan reflects on the series' iconic mysteries, from Bigfoot to Mount Chiliad, and expresses hope that GTA 6 will continue this tradition of hidden secrets and community-driven puzzles."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Mysteries", "Mount Chiliad", "Bigfoot", "Easter Eggs", "Community Engagement", "Fan Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5psny/mysterys_in_vi/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Deliver Gaming's Next Great Mystery? Fans Hope So

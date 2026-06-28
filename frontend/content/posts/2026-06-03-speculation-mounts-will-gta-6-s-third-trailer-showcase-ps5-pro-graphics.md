@@ -4,6 +4,7 @@ date: "2026-06-03T05:33:30"
 description: "A Reddit user speculates that Grand Theft Auto 6's third trailer could leverage PS5 Pro graphics, citing Sony's marketing deal with Take-Two and recent State of Play trends."
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailer 3", "PS5 Pro", "Graphics", "Sony", "Take-Two", "Gaming News", "Speculation", "Reddit Theory"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvfyew/trailer_3_graphics/"
+classification: "RUMOR"
 ---
 
 # Speculation Mounts: Will GTA 6's Third Trailer Showcase PS5 Pro Graphics?

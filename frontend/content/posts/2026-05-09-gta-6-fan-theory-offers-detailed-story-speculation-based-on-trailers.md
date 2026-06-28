@@ -4,6 +4,7 @@ date: "2026-05-09T04:25:31"
 description: "A Reddit user has proposed an extensive theory outlining the potential story progression of Grand Theft Auto 6, connecting narrative dots from both official trailers, from The Keys to Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Theory", "Storyline Speculation", "Trailer Analysis", "Vice City", "Jason", "Lucia", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7um0t/story_of_both_trailers/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory Offers Detailed Story Speculation Based on Trailers

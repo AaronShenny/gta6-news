@@ -4,6 +4,7 @@ date: "2026-04-01T00:48:09"
 description: "A Reddit user expresses hope for the return of compelling organized crime families in GTA 6, drawing comparisons to GTA 4's narrative depth over GTA 5's factions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Organized Crime", "Mafia", "Vice City", "Storyline", "Narrative", "Fan Wishlist", "GTA 4", "GTA 5"]
 source: "https://www.reddit.com/r/GTA6/comments/1s95mg3/i_hope_some_kind_of_organized_crime_family_is/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Crave a Return to Deep Organized Crime Family Storylines

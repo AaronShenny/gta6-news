@@ -4,6 +4,7 @@ date: "2026-05-27T00:26:05"
 description: "A Reddit user showcases their dedication to GTA 6, detailing a recent 4K TV purchase and future Xbox Series X acquisition, all in preparation for the highly anticipated title."
 tags: ["GTA 6", "4K TV", "Xbox Series X", "Gaming Hardware", "Fan Anticipation", "Next-Gen Gaming", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1topeog/4k_tv_for_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Cycle: One Fan's Early 4K TV Upgrade for Vice City's Return

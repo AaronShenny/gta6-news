@@ -4,6 +4,7 @@ date: "2026-05-09T03:23:39"
 description: "A Reddit user questions the overwhelming hype for the rumored GTA 6 character 'Raul,' comparing him unfavorably to 'Jason' and suggesting 'Brian' as a more compelling protagonist akin to a retired Tommy Vercetti."
 tags: ["GTA 6", "Grand Theft Auto VI", "Character Speculation", "Raul", "Jason", "Brian", "Tommy Vercetti", "Fan Discussion", "Reddit", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7tcis/raul/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Character Debate: The 'Raul' Enigma

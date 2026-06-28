@@ -4,6 +4,7 @@ date: "2026-03-19T03:48:19"
 description: "Explore a compelling fan concept for GTA 6 Online that introduces dynamic business sell prices, fluctuating based on collective player engagement to simulate market saturation and encourage diverse gameplay."
 tags: ["GTA 6 Online", "Dynamic Economy", "Player Influence", "Business Mechanics", "Market Saturation", "Fan Concept", "Rockstar Games", "Grand Theft Auto", "Online Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1rxpz5q/dynamic_sell_prices_for_gta_6_online/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Fan Proposes Dynamic Market System Influenced by Player Activity

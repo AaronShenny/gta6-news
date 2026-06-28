@@ -4,6 +4,7 @@ date: "2026-06-19T05:16:43"
 description: "A viral Reddit post on r/GTA6 highlights a community split over the visual quality of GTA 6's Vice City, with some fans praising its photo-realism while others draw comparisons to GTA V."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Graphics", "Visuals", "Fan Debate", "Reddit", "Photo-Realism", "Gaming Community", "Next-Gen"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9szwb/los_santos_vs_vice_city/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Vice City Graphics Ignite Fan Debate: Photo-Realism vs. GTA V Comparisons

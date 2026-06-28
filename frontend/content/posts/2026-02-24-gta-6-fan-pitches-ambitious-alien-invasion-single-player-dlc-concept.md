@@ -4,6 +4,7 @@ date: "2026-02-24T04:35:33"
 description: "A passionate GTA 6 fan outlines their dream 'Alien Invasion' single-player DLC, advocating for rich story content amidst concerns about an online-only focus for Rockstar's upcoming title."
 tags: ["GTA 6", "DLC", "Single-player", "Alien Invasion", "Fan Concept", "Rockstar Games", "Undead Nightmare", "GTA Online", "Story Expansion", "Community Wishlist"]
 source: "https://www.reddit.com/r/GTA6/comments/1rd5v68/gta_6_dlc_alien_invasion/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Pitches Ambitious 'Alien Invasion' Single-Player DLC Concept

@@ -4,6 +4,7 @@ date: "2026-06-22T19:22:13"
 description: "An in-depth look at Raul's varying attire in GTA 6 footage suggests complex, multi-stage heists and potential story foreshadowing, drawing parallels to past Vice City antagonists."
 tags: ["GTA 6", "Grand Theft Auto VI", "Raul", "Heist", "Outfit Changes", "Theories", "Vice City", "Foreshadowing", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucu63q/rauls_clothings_changes_in_every_iteration_likely/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Heist Theories: Raul's Outfit Changes Point to Multi-Phase Operations and Narrative Twists

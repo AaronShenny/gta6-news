@@ -4,6 +4,7 @@ date: "2026-06-22T23:30:23"
 description: "A closer look at a minor yet impactful detail in GTA 6: the dynamic inclusion of RGB lighting in skyscraper windows, making the game's urban landscape more vibrant."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Design", "Visual Details", "City Life", "RGB Lighting", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1ud0nry/i_still_love_that_some_windows_in_skyscrapers/"
+classification: "UNKNOWN"
 ---
 
 # Subtle Visual Flair: GTA 6's RGB Skyscraper Windows Praised for Enhancing City Life

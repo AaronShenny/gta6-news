@@ -4,6 +4,7 @@ date: "2026-05-25T20:51:20"
 description: "Dedicated fans have compiled snippets from the official Grand Theft Auto VI website, offering a speculative look at potential game content while anticipation for Trailer 3 builds."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer 3", "Fan Compilation", "Website Snippets", "Gaming News", "Community Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnliih/clipssnippets_from_the_website_compilation/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fans Create Website Snippet Compilation Amidst Trailer 3 Anticipation

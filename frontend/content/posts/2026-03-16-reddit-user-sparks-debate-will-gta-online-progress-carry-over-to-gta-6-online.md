@@ -4,6 +4,7 @@ date: "2026-03-16T06:43:12"
 description: "A Reddit user has initiated a community discussion questioning whether Grand Theft Auto Online characters and progress will transfer to the upcoming GTA 6 Online, or if players will face a complete fresh start."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Online Gaming", "Player Progress", "Community Discussion", "Reddit", "Speculation", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1rv25nj/gtao_to_gta6o/"
+classification: "RUMOR"
 ---
 
 # Reddit User Sparks Debate: Will GTA Online Progress Carry Over to GTA 6 Online?

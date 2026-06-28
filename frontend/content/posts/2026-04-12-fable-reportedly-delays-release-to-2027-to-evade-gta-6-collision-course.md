@@ -4,6 +4,7 @@ date: "2026-04-12T17:47:44"
 description: "Unconfirmed reports suggest the upcoming Fable reboot has been internally delayed, potentially to 2027, as developers aim to avoid a direct launch clash with Grand Theft Auto 6."
 tags: ["Fable", "GTA 6", "Game Delay", "Xbox", "Playground Games", "Rockstar Games", "Gaming Industry", "Release Date", "Competition"]
 source: "https://www.reddit.com/r/GTA6/comments/1sjla3e/fable_reportedly_delayed_internally_and_may_be/"
+classification: "CONFIRMED"
 ---
 
 # Fable Reportedly Delays Release to 2027 to Evade GTA 6 Collision Course

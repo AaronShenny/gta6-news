@@ -4,6 +4,7 @@ date: "2026-05-25T17:22:33"
 description: "A Reddit post from user /u/Davilette sparks discussion by calculating Rockstar Games has '176 extra days' (4254 hours) to polish GTA 6 ahead of its anticipated 2025 release, prompting community speculation on development focus."
 tags: ["GTA 6", "Rockstar Games", "Game Development", "Game Polish", "Release Date", "Community Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnfqr2/rockstar_has_176_extra_days_left_to_finish_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Reddit User Highlights '176 Extra Days' for Rockstar's Final Polish Efforts

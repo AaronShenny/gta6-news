@@ -4,6 +4,7 @@ date: "2026-06-27T00:20:16"
 description: "A Reddit analysis suggests that Grand Theft Auto 6, when adjusted for historical inflation, could be the most budget-friendly 3D universe GTA title at launch, challenging initial price concerns."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming", "Pricing", "Inflation", "Reddit", "Fan Discussion", "Game Economics", "Launch Price"]
 source: "https://www.reddit.com/r/GTA6/comments/1ugnrc3/gta_6_is_the_cheapest_3d_universe_gta_game_at/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6: Inflation-Adjusted Price Positions It as the Most Affordable 3D Universe Launch

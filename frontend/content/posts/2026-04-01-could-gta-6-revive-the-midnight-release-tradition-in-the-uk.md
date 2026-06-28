@@ -4,6 +4,7 @@ date: "2026-04-01T12:17:30"
 description: "A discussion from the GTA 6 community explores the nostalgic appeal and potential viability of large-scale midnight launch events for Grand Theft Auto VI across major UK cities, citing its universal anticipation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Midnight Release", "UK Gaming", "Gaming Culture", "Video Game Launch", "Rockstar Games", "Gaming Nostalgia"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9ivth/midnight_release_uk/"
+classification: "UNKNOWN"
 ---
 
 # Could GTA 6 Revive the Midnight Release Tradition in the UK?

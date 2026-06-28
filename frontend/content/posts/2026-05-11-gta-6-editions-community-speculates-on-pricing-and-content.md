@@ -4,6 +4,7 @@ date: "2026-05-11T08:17:12"
 description: "Gaming enthusiasts are speculating on potential GTA 6 editions, drawing comparisons to GTA V and RDR2 for pricing and bonus content predictions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Editions", "Collector's Edition", "Pre-orders", "Game Pricing", "Speculation", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9wxnp/gta_vi_editions/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Editions: Community Speculates on Pricing and Content

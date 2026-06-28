@@ -4,6 +4,7 @@ date: "2026-06-16T08:44:18"
 description: "A dedicated GTA 6 fan shares their wishlist for the upcoming game, drawing inspiration from RDR2 mods, focusing on advanced NPC interactions, dynamic world events, and deeper hunting/fishing mechanics."
 tags: ["GTA 6", "Rockstar Games", "Open World", "Game Features", "Immersion", "NPC Interactions", "Hunting", "Fishing", "Game Mods", "RDR2", "Wishlist", "Fan Hopes"]
 source: "https://www.reddit.com/r/GTA6/comments/1u77w88/my_tedtalkexcitementhopes/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan's Deep Dive into Hopes for Enhanced Immersion and Dynamic World Features

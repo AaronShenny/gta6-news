@@ -4,6 +4,7 @@ date: "2026-06-05T22:26:56"
 description: "New insights, combining ex-Rockstar developer estimates and details from leaked GTA 5 source code, suggest GTA 6's development could have logged over a million bugs, highlighting the immense complexity of modern AAA titles."
 tags: ["GTA 6", "Rockstar Games", "Game Development", "Bugs", "Quality Assurance", "Open World Games", "Obbe Vermeji", "BugStar", "Leaks", "AAA Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1txzifa/gta_6_may_have_had_over_1_million_bugs_logged/"
+classification: "LEAK"
 ---
 
 # GTA 6 Development: Estimating Over a Million Bugs Logged

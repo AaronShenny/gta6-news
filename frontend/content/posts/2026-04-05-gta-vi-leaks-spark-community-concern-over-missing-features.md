@@ -4,6 +4,7 @@ date: "2026-04-05T07:28:31"
 description: "Alleged GTA VI leaks from 'GameRoll' are causing a stir, with one Reddit user expressing significant disappointment over potential missing features such as a panhandle map, prone mechanics, and dual-wielding."
 tags: ["GTA 6", "Grand Theft Auto VI", "Leaks", "GameRoll", "Rockstar Games", "Community Reaction", "Game Features", "Gameplay Mechanics", "Map Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1scxd5x/i_really_hope_gamerolls_gta_vi_leaks_are_in_fact/"
+classification: "RUMOR"
 ---
 
 # GTA VI Leaks Spark Community Concern Over Missing Features

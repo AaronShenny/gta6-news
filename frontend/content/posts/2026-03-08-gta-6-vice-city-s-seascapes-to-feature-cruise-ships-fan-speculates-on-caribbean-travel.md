@@ -4,6 +4,7 @@ date: "2026-03-08T12:05:05"
 description: "A Reddit user working at the Port of Miami shares insights, sparking excitement and speculation about accessible cruise ships and potential Caribbean destinations in Grand Theft Auto 6's Vice City."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Cruise Ships", "Miami", "Caribbean", "Open World", "Fan Speculation", "Reddit", "Community Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1ro37ty/cruise_ships_in_vice_city/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Vice City's Seascapes to Feature Cruise Ships, Fan Speculates on Caribbean Travel

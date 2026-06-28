@@ -4,6 +4,7 @@ date: "2026-02-26T19:15:52"
 description: "A Reddit user on r/GTA6 predicts that Grand Theft Auto 6 will include an in-game TV show parodying the popular 'Kill Tony' podcast, citing its cultural influence and GTA's history of satirical content."
 tags: ["GTA 6", "Grand Theft Auto", "Kill Tony", "podcast parody", "in-game TV", "speculation", "Reddit", "comedy", "social media", "gaming news"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfjg9c/calling_it_gta6_will_have_a_kill_tony_parody_on/"
+classification: "RUMOR"
 ---
 
 # Reddit User Speculates GTA 6 Will Feature 'Kill Tony' Parody In-Game

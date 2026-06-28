@@ -4,6 +4,7 @@ date: "2026-03-21T23:21:20"
 description: "A Reddit user shares a vivid real-life account of an island believed to be featured in GTA 6, describing its lively atmosphere and iguana population."
 tags: ["GTA 6", "Grand Theft Auto VI", "Picnic Island", "Party Island", "Location Speculation", "Real-Life Inspiration", "Vice City", "Reddit", "Fan Theory", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1s05ww1/picnic_island_in_gta_vi_party_island_as_i_call_it/"
+classification: "RUMOR"
 ---
 
 # GTA 6 'Picnic Island' Location Detailed by Fan's Real-Life 'Party Island' Experience

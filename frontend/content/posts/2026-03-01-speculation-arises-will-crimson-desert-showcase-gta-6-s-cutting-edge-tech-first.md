@@ -4,6 +4,7 @@ date: "2026-03-01T02:23:33"
 description: "A Reddit post suggests that much of the advanced technology expected in Grand Theft Auto 6 might debut in Pearl Abyss's upcoming RPG, Crimson Desert."
 tags: ["GTA 6", "Grand Theft Auto 6", "Crimson Desert", "Rockstar Games", "Pearl Abyss", "Gaming Technology", "Video Game Speculation", "Next-Gen Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhla7y/i_think_a_lot_of_the_new_technology_present_in/"
+classification: "RUMOR"
 ---
 
 # Speculation Arises: Will Crimson Desert Showcase GTA 6's Cutting-Edge Tech First?

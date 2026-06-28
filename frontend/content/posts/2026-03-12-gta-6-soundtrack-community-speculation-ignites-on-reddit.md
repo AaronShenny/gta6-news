@@ -4,6 +4,7 @@ date: "2026-03-12T03:04:11"
 description: "Grand Theft Auto fans are actively discussing and speculating about the potential soundtrack and radio stations for the upcoming GTA 6 in a popular Reddit thread."
 tags: ["GTA 6", "Grand Theft Auto 6", "Soundtrack", "Music", "Speculation", "Community Discussion", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rrfczk/what_do_you_think_gta_6s_soundtrack_would_sound/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Soundtrack: Community Speculation Ignites on Reddit

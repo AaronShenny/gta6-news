@@ -4,6 +4,7 @@ date: "2026-03-29T01:49:13"
 description: "A Reddit user has offered a prediction for the next Grand Theft Auto 6 trailer, suggesting a release window between March 30 and April 3, 2026. This remains unconfirmed fan speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer", "Prediction", "Release Date", "Speculation", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6ig1q/gta_6_prediction_for_the_next_trailer/"
+classification: "RUMOR"
 ---
 
 # Reddit User Speculates on Next GTA 6 Trailer Release Window

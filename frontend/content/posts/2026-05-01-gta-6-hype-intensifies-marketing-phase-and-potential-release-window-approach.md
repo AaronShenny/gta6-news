@@ -4,6 +4,7 @@ date: "2026-05-01T10:54:01"
 description: "Gaming enthusiasts are buzzing with excitement as GTA 6's marketing phase and potential release draw near, with hopes for updates during the upcoming Take-Two earnings call."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Gaming News", "Game Marketing", "Release Date", "Hype", "Anticipation", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0q0xr/the_feeling_of_being_this_close_to_the_marketing/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Intensifies: Marketing Phase and Potential Release Window Approach

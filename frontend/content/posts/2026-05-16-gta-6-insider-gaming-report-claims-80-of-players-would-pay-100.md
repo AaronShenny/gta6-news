@@ -4,6 +4,7 @@ date: "2026-05-16T16:17:25"
 description: "A report attributed to Insider Gaming suggests a significant majority of players, 80%, are willing to pay $100 for the highly anticipated Grand Theft Auto 6, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Video Game Pricing", "Player Sentiment", "Insider Gaming", "Gaming News", "Community Poll"]
 source: "https://www.reddit.com/r/GTA6/comments/1tey332/insider_gaming_reports_80_of_players_would_pay/"
+classification: "LEAK"
 ---
 
 # GTA 6: Insider Gaming Report Claims 80% of Players Would Pay $100

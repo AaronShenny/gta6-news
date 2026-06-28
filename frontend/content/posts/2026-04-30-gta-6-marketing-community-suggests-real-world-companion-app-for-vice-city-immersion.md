@@ -4,6 +4,7 @@ date: "2026-04-30T03:41:46"
 description: "A GTA 6 fan proposes an innovative marketing strategy: releasing a real-world version of the in-game phone app to offer early Vice City content and introduce game systems."
 tags: ["GTA 6", "Grand Theft Auto 6", "Marketing Strategy", "Companion App", "Vice City", "Rockstar Games", "Fan Suggestion", "Gaming News", "Immersion", "Pre-release Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1szktzm/they_should_publish_the_ingame_app_for_marketing/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing: Community Suggests Real-World Companion App for Vice City Immersion

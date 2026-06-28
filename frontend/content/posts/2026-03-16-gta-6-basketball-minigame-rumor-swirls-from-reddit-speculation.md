@@ -4,6 +4,7 @@ date: "2026-03-16T15:14:39"
 description: "A recent Reddit post has sparked discussion and speculation among fans regarding the potential inclusion of a basketball minigame in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Basketball", "Minigame", "Rumor", "Speculation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvc88l/is_this_a_sign_that_gta_6_will_have_a_basketball/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Basketball Minigame Rumor Swirls from Reddit Speculation

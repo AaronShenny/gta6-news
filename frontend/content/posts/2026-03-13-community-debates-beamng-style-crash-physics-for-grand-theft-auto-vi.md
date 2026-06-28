@@ -4,6 +4,7 @@ date: "2026-03-13T19:54:49"
 description: "A discussion has emerged within the GTA 6 community regarding the potential inclusion of realistic, BeamNG.drive-style crash physics in the upcoming title. Fans are weighing in on whether this level of vehicle deformation would enhance the gameplay experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "BeamNG", "Crash Physics", "Vehicle Damage", "Gaming Community", "Game Development", "Realism", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsxtos/should_gta_vi_have_beamng_crash_physics/"
+classification: "UNKNOWN"
 ---
 
 # Community Debates BeamNG-Style Crash Physics for Grand Theft Auto VI

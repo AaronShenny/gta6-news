@@ -4,6 +4,7 @@ date: "2026-05-08T10:48:09"
 description: "GTA 6 fans are eagerly discussing the potential for a significant graphical upgrade in upcoming trailers, reflecting on the already stunning visuals of Trailer 2 and Rockstar's track record for delivering highly polished games."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Graphics", "Game Trailer", "Gaming Industry", "Anticipation", "Visuals", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1t74bmc/graphics_jump_from_trailer_2_to_trailer_3/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Graphics: Community Buzzes Over Potential Visual Leap from Trailer 2 to Future Reveals

@@ -4,6 +4,7 @@ date: "2026-06-10T23:43:28"
 description: "An archived 2014 Reddit post resurfaces, comparing GTA 6's anticipated development time to the Sagrada Familia's construction, highlighting the gaming community's long-standing anticipation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Humor", "Reddit", "Fan Anticipation", "Game Development", "Sagrada Familia", "Archived Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2it77/humankind_finished_the_highest_tower_of_la/"
+classification: "RUMOR"
 ---
 
 # A Blast from the Past: 2014 Reddit Post Humorously Foresaw GTA 6's Epic Wait

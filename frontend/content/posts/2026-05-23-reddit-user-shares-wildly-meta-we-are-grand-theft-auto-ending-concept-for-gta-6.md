@@ -4,6 +4,7 @@ date: "2026-05-23T14:49:04"
 description: "A speculative fan theory for Grand Theft Auto 6's ending has emerged from Reddit, envisioning a dramatic, fourth-wall-breaking finale with Lucia, Jason, and an iconic declaration."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fan Theory", "Ending Speculation", "Reddit", "Gaming News", "Lucia and Jason", "Rockstar Games", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tliifg/imagine_this_ending_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # Reddit User Shares Wildly Meta 'WE ARE GRAND THEFT AUTO' Ending Concept for GTA 6

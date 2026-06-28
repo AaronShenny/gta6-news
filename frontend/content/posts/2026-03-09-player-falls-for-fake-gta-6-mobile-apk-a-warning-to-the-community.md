@@ -4,6 +4,7 @@ date: "2026-03-09T17:43:14"
 description: "A Reddit user's experience highlights the dangers of unofficial GTA 6 mobile APK downloads. Learn why any current GTA 6 mobile game is a scam."
 tags: ["GTA 6", "Grand Theft Auto 6", "APK", "Mobile Gaming", "Scam Alert", "Malware Warning", "Unofficial Downloads", "Rockstar Games", "Gaming Security"]
 source: "https://www.reddit.com/r/GTA6/comments/1rp71pv/why_the_gta_6_apk_i_downloaded_looking_a_little/"
+classification: "CONFIRMED"
 ---
 
 # Player Falls for Fake GTA 6 Mobile APK: A Warning to the Community

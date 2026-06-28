@@ -4,6 +4,7 @@ date: "2026-06-28T01:29:51"
 description: "The GTA 6 community issues a critical warning against prevalent fake giveaways on TikTok. Learn to identify these scams, protect your account, and avoid falling victim to fraudulent livestreams."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gaming Scams", "TikTok Scams", "Fake Giveaways", "Online Fraud", "Consumer Alert", "Rockstar Games", "Digital Games", "Cybersecurity", "Xbox Gifting", "PlayStation Security"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhjwmh/psa_to_all_the_kids_in_the_subreddit_mods_please/"
+classification: "CONFIRMED"
 ---
 
 # Gaming Community Sounds Alarm: Beware of Widespread Fake GTA 6 Giveaways on TikTok

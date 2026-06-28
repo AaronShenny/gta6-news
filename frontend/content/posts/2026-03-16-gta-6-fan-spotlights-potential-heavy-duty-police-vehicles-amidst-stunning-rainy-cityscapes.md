@@ -4,6 +4,7 @@ date: "2026-03-16T12:21:09"
 description: "A GTA 6 fan shares a captivating image, highlighting potential heavy-duty police vehicles and the game's impressive rainy downtown skyline, fueling community excitement."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Fan Reaction", "Police Vehicles", "Game Environment", "Vice City", "Game Graphics"]
 source: "https://www.reddit.com/r/GTA6/comments/1rv7whb/fav_gta_6_police_vehicle/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Spotlights Potential Heavy-Duty Police Vehicles Amidst Stunning Rainy Cityscapes

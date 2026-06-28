@@ -4,6 +4,7 @@ date: "2026-05-20T09:42:02"
 description: "Gaming enthusiasts and the community widely anticipate Grand Theft Auto 6 will set a new standard for in-game detail, surpassing Red Dead Redemption 2 upon its release."
 tags: ["GTA 6", "Red Dead Redemption 2", "Rockstar Games", "Game Graphics", "Detail Benchmark", "Gaming Community", "Expectations", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1tigp14/red_dead_redemption_2_seeing_gta_6_replace_it_as/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Poised to Dethrone Red Dead Redemption 2 as Gaming's Detail Benchmark

@@ -4,6 +4,7 @@ date: "2026-04-06T04:20:31"
 description: "A Reddit discussion highlights community anticipation for a robust unarmed combat system in GTA 6, leveraging Jason's rumored military background and Lucia's potential boxing expertise to offer more advanced fighting mechanics than previous titles."
 tags: ["GTA 6", "Grand Theft Auto VI", "Unarmed Combat", "Hand-to-Hand Combat", "Jason", "Lucia", "Rockstar Games", "Speculation", "Gaming News", "Character Abilities", "Military Background", "Boxing", "Luis Lopez"]
 source: "https://www.reddit.com/r/GTA6/comments/1sdorrn/jason_was_in_the_military_lucia_is_a_boxer/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Unarmed Combat: Community Hopes for Deep Hand-to-Hand Mechanics Driven by Jason's Military Past and Lucia's Boxing Skills

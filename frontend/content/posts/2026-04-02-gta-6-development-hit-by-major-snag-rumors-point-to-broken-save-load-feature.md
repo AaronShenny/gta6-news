@@ -4,6 +4,7 @@ date: "2026-04-02T15:34:51"
 description: "Unconfirmed reports from UK gossip site PopBitch suggest Grand Theft Auto VI's prolonged development, now estimated at $3 billion, is stalled by a fundamental, broken feature: the ability to save and load the game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Development", "Rumors", "Leaks", "PopBitch", "Delay", "Save/Load Feature"]
 source: "https://www.reddit.com/r/GTA6/comments/1sakqb0/rumour_from_popbitch/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Development Hit by Major Snag? Rumors Point to Broken Save/Load Feature

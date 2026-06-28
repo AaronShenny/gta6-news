@@ -4,6 +4,7 @@ date: "2026-03-08T04:29:02"
 description: "A Reddit user's analysis of GTA 6 Trailer 2 suggests key sections are direct gameplay, highlighting a significant upgrade in NPC behavior where characters dynamically avoid collisions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gameplay", "Trailer 2", "NPCs", "Animation", "Rockstar Games", "Fan Theory", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnv752/this_part_is_gameplay_npcs_can_give_way_instead/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 2: Fan Analysis Confirms Gameplay, Hints at Dynamic NPC Behavior

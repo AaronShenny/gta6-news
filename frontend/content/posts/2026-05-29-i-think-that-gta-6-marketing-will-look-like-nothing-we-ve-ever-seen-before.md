@@ -4,6 +4,7 @@ date: "2026-05-29T13:46:55"
 description: "A Reddit user speculates on Rockstar's unconventional GTA 6 marketing strategy, predicting a focus on social media, real-life activations, and community involvement over traditional TV ads."
 tags: ["GTA 6", "Rockstar Games", "Marketing Strategy", "Video Game Industry", "Social Media Marketing", "Community Engagement", "Gaming News", "Grand Theft Auto VI", "Hype", "Influencer Marketing"]
 source: "https://www.reddit.com/r/GTA6/comments/1tr2f1v/i_think_that_gta_6_marketing_will_look_like/"
+classification: "RUMOR"
 ---
 
 # I think that GTA 6 marketing will look like nothing we've ever seen before

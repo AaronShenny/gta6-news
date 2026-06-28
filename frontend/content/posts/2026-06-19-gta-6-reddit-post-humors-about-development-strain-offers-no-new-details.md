@@ -4,6 +4,7 @@ date: "2026-06-19T21:48:43"
 description: "A humorous Reddit post from the r/GTA6 community speculates on the perceived intensity of Grand Theft Auto VI's development, offering no concrete information."
 tags: ["GTA 6", "Reddit", "Gaming Community", "Speculation", "Humor", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1uaes64/what_6_months_of_gta_6_development_does_to_a_man/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Reddit Post Humors About Development Strain, Offers No New Details

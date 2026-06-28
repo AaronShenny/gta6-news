@@ -4,6 +4,7 @@ date: "2026-06-27T11:01:56"
 description: "A Reddit post highlights a growing sentiment among some fans who are prematurely labeling Grand Theft Auto VI as 'trash,' sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Reaction", "Community Opinion", "Gaming Speculation", "Reddit", "Pessimism"]
 source: "https://www.reddit.com/r/GTA6/comments/1ugzubr/some_people_acting_here_are_like_gta_vi_is_going/"
+classification: "RUMOR"
 ---
 
 # Early Pessimism Emerges Among Some GTA VI Fans

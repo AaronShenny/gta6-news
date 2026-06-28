@@ -4,6 +4,7 @@ date: "2026-03-13T18:36:18"
 description: "A Reddit user sparks discussion on GTA 6's potential side content, advocating for the immersive and rewarding design seen in Red Dead Redemption 2 over GTA V's approach."
 tags: ["GTA 6", "Red Dead Redemption 2", "RDR2", "Grand Theft Auto V", "GTA V", "Side Content", "Open World Games", "Rockstar Games", "Gaming Community", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsvo0m/does_anyone_else_hope_gta_6s_side_content_is_more/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Hope for Red Dead Redemption 2-Level Side Content Depth

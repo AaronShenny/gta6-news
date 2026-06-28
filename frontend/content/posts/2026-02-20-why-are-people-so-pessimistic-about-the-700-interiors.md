@@ -4,6 +4,7 @@ date: "2026-02-20T23:57:49"
 description: "A Reddit post argues that the rumored 700 enterable interiors in GTA 6 are a realistic possibility, citing detailed building designs and accessible hotel areas seen in screenshots."
 tags: ["GTA 6", "Grand Theft Auto VI", "Interiors", "Open World", "Game Features", "Speculation", "Rockstar Games", "Vice City", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1rabu7e/why_are_people_so_pessimistic_about_the_700/"
+classification: "RUMOR"
 ---
 
 # Why are people so pessimistic about the 700 interiors?

@@ -4,6 +4,7 @@ date: "2026-06-08T10:02:52"
 description: "An old Reddit post on r/GTA6 features a user claiming their crew logo is the GTA 6 emblem, offering no official details or game information."
 tags: ["GTA 6", "Reddit", "speculation", "fan content", "gaming community", "Grand Theft Auto VI", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u03j76/who_wants_a_copy/"
+classification: "RUMOR"
 ---
 
 # Reddit User Shares Speculative 'GTA 6 Logo' for Crew in Minimalist Post

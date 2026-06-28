@@ -4,6 +4,7 @@ date: "2026-06-27T20:56:24"
 description: "Grand Theft Auto 6 has taken the top spot on the PlayStation Store sales charts, with its $100 Ultimate Edition proving to be a runaway success, outperforming major competitors."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "PlayStation Store", "Game Sales", "Ultimate Edition", "Gaming Industry", "Record Sales"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhdq2x/gta_6_is_now_the_topselling_game_on_the/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Shatters Records on PlayStation Store, Ultimate Edition Driving Massive Sales

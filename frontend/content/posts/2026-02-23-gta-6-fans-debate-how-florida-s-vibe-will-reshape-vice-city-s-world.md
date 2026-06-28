@@ -4,6 +4,7 @@ date: "2026-02-23T18:25:23"
 description: "The GTA community is actively discussing how Florida's unique characteristics, from weather to architecture, could dramatically differentiate GTA 6 from GTA 5's California-inspired setting."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Florida", "California", "Rockstar Games", "Fan Speculation", "Open World", "Gaming News", "Environment", "Weather", "Map Design", "Vehicle Types", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcpf4r/florida_vs_california/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Debate How Florida's Vibe Will Reshape Vice City's World

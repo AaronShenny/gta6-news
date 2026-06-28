@@ -4,6 +4,7 @@ date: "2026-03-12T23:59:40"
 description: "A Reddit user sparks a discussion, questioning the immense hype surrounding Grand Theft Auto 6 and seeking insights into what truly drives players' anticipation beyond GTA V's online success."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Hype", "Community Discussion", "Player Anticipation", "Rockstar Games", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rs7qtd/whats_your_reason_for_being_so_hyped_for_the_new/"
+classification: "UNKNOWN"
 ---
 
 # Unpacking the GTA 6 Hype: A Community's Quest to Understand the Anticipation

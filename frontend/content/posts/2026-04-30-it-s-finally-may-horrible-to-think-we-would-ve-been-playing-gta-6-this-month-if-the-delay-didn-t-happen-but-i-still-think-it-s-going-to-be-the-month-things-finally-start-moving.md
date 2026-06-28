@@ -4,6 +4,7 @@ date: "2026-04-30T23:41:34"
 description: "A Reddit user speculates about GTA 6's potential release window, lamenting a hypothetical May launch and predicting significant news this month."
 tags: ["GTA 6", "Grand Theft Auto 6", "Speculation", "Release Date", "Gaming News", "Reddit", "May", "Anticipation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0cubv/its_finally_may_horrible_to_think_we_wouldve_been/"
+classification: "RUMOR"
 ---
 
 # It’s finally May! Horrible to think we would’ve been playing GTA 6 this month if the delay didn’t happen. But I still think it’s going to be THE month things finally start moving.

@@ -4,6 +4,7 @@ date: "2026-06-09T19:56:49"
 description: "A Reddit user expresses their anticipation for specific, immersive radio conversations in the upcoming Grand Theft Auto VI, highlighting community interest in the game's audio experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "Radio", "Community Hopes", "Player Feedback", "Reddit", "Gaming Anticipation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1fy1r/i_hope_we_have_this_kinda_convo_on_radio_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Share Hopes for Engaging Radio Conversations

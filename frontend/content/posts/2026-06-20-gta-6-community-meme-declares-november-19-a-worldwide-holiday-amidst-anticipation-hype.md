@@ -4,6 +4,7 @@ date: "2026-06-20T13:00:52"
 description: "A viral Reddit post on r/GTA6 humorously highlights a community meme suggesting businesses are 'closed on November 19' due to overwhelming GTA 6 anticipation, sparking a 'worldwide holiday' sentiment among fans."
 tags: ["GTA 6", "Grand Theft Auto 6", "Reddit", "r/GTA6", "Gaming Meme", "Community Hype", "November 19", "Video Game News", "Fan Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1uaw23v/another_place_is_closed_on_november_19_due_to_gta/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Community Meme Declares November 19 a 'Worldwide Holiday' Amidst Anticipation Hype

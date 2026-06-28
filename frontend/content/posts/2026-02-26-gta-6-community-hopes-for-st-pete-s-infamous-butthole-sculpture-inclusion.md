@@ -4,6 +4,7 @@ date: "2026-02-26T03:47:16"
 description: "A Reddit post on r/GTA6 reveals a humorous community wish for St. Petersburg, Florida's controversial 'butthole sculpture' to appear in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Florida", "St. Petersburg", "Community Wishlist", "Gaming News", "Easter Eggs", "Open World Games", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1rezo2g/praying_the_st_pete_fl_butthole_sculpture_makes/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for St. Pete's Infamous 'Butthole Sculpture' Inclusion

@@ -4,6 +4,7 @@ date: "2026-06-01T19:44:10"
 description: "A popular Reddit theory suggests Rockstar Games might start promoting GTA 6 through GTA Online events, mirroring their strategy for Red Dead Redemption 2. Explore the speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA Online", "Rockstar Games", "Red Dead Redemption 2", "Game Teasers", "Gaming Rumors", "Summer DLC", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tu3fjy/they_might_start_teasingpromoting_gta_vi_through/"
+classification: "RUMOR"
 ---
 
 # GTA Online: Could In-Game Events Be Teasing Grand Theft Auto VI?

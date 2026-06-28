@@ -4,6 +4,7 @@ date: "2026-05-01T18:28:13"
 description: "A Reddit user speculates that the KnoWay app from GTA Online could return in Grand Theft Auto 6, serving as the game's primary ride-sharing service, similar to Uber."
 tags: ["GTA 6", "Grand Theft Auto VI", "KnoWay", "GTA Online", "Fan Theory", "Speculation", "Ride-Sharing", "Uber", "Leonida", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t11ooc/knoway_in_leonida/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: Could GTA Online's KnoWay App Become GTA 6's Uber-Style Ride Service?

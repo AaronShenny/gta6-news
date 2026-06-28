@@ -4,6 +4,7 @@ date: "2026-05-10T17:48:38"
 description: "A Reddit user sparks discussion about the likelihood of players ignoring GTA 6's main story at launch to instead focus on exploring its highly anticipated open world."
 tags: ["GTA 6", "Grand Theft Auto 6", "Open World", "Map Exploration", "Gaming Community", "Player Experience", "Rockstar Games", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9dpem/anyone_else_planning_to_ignore_gta_6s_story_at/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Players Anticipate Prioritizing Map Exploration Over Story Missions

@@ -4,6 +4,7 @@ date: "2026-03-01T01:50:54"
 description: "A Miami resident is astonished by the real-life accuracy of Vice City in the GTA 6 trailer, particularly a scene mirroring I-95, boosting anticipation for the game."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Miami", "Realism", "Game Detail", "Trailer Analysis", "Hype", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhklgt/gta_vice_city_real_life_miami_trailer_1_scene/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Trailer's Vice City Accuracy Stuns Miami Resident, Igniting Hype

@@ -4,6 +4,7 @@ date: "2026-03-15T01:52:36"
 description: "A new detail from GTA 6 reveals significant improvements in NPC height variation, promising a more immersive world compared to previous Rockstar titles like Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto 6", "NPCs", "Immersion", "Realism", "Character Detail", "Height Differences", "Rockstar Games", "Gaming News", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1ru1k2l/one_immersive_detail_i_liked/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 to Feature More Immersive and Realistic NPC Height Differences

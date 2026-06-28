@@ -4,6 +4,7 @@ date: "2026-02-24T04:08:54"
 description: "A Reddit user's speculation on r/GTA6 sparks discussion about the potential for real-world music streaming services like Spotify or Apple Music to be integrated into GTA 6's car radios."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming", "Music Integration", "Spotify", "Apple Music", "Fan Speculation", "In-Game Radio", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1rd4w0m/what_if_gta_6_car_radio_have_spotify_or_apple/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Radio: Could Spotify and Apple Music Stream In-Game?

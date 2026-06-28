@@ -4,6 +4,7 @@ date: "2026-03-30T13:07:00"
 description: "Get ready for the Xbox Games Showcase on June 7, featuring new game reveals and a dedicated deep dive into Gears of War: E-Day. Discover Xbox's future under new leadership and strategic release plans."
 tags: ["Xbox Games Showcase", "Gears of War: E-Day", "Microsoft", "Xbox", "Gaming News", "The Coalition", "Emergence Day", "Marcus Fenix", "Dom Santiago", "Xbox FanFest", "Asha Sharma", "Grand Theft Auto VI", "Game Reveals", "Livestream"]
 source: "https://www.gamespot.com/articles/xbox-games-showcase-set-for-june-7-gears-of-war-e-day-deep-dive-to-follow/1100-6539086/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Xbox Unveils June 7 Showcase, Gears of War: E-Day Deep Dive Confirmed

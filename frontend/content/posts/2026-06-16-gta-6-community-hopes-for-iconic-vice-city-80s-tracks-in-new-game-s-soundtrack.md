@@ -4,6 +4,7 @@ date: "2026-06-16T14:40:50"
 description: "A viral Reddit post highlights fan desires for GTA 6's radio, specifically yearning for the return of classic 80s songs from Grand Theft Auto: Vice City, sparking debate on licensing."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Soundtrack", "80s Music", "Radio Station", "Rockstar Games", "Fan Wishlist", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7fgng/whos_hoping_for_an_80s_radio_station/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Iconic Vice City 80s Tracks in New Game's Soundtrack

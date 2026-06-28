@@ -4,6 +4,7 @@ date: "2026-05-23T13:15:24"
 description: "With GTA 6 on the horizon, a Reddit user suggests buying your PS5 or Xbox now to avoid potential price hikes and ensure day-one access."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PlayStation 5", "Xbox", "Console Pricing", "Gaming Hardware", "Release Date", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlg7vw/reminder_to_buy_a_new_console_as_soon_as_possible/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Prep: Why Securing Your Next-Gen Console Now Could Save You Money

@@ -4,6 +4,7 @@ date: "2026-03-03T01:56:38"
 description: "A Reddit user speculates on the possibility of streaming services in Grand Theft Auto 6, allowing players to watch in-game content on modern TVs, potentially bringing back classic GTA shows."
 tags: ["GTA 6", "Grand Theft Auto VI", "Streaming Services", "In-Game Content", "Speculation", "Reddit", "Rockstar Games", "Gaming Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjcfyg/streaming_services_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Could GTA 6 Introduce In-Game Streaming Services?

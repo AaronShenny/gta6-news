@@ -4,6 +4,7 @@ date: "2026-04-06T10:40:35"
 description: "A Reddit user expresses strong excitement for the 'incredible' night atmosphere of Vice City in the upcoming Grand Theft Auto 6, echoing widespread community anticipation."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Night Atmosphere", "Community Excitement", "Fan Anticipation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sdv9ch/who_else_is_looking_forward_to_walking_in_vice/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Eagerly Anticipate Vice City's Nightlife Atmosphere

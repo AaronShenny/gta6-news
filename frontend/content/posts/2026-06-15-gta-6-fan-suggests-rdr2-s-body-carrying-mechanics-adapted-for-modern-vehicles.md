@@ -4,6 +4,7 @@ date: "2026-06-15T22:58:14"
 description: "A dedicated GTA 6 fan proposes integrating Red Dead Redemption 2's versatile NPC handling, allowing players to carry bodies and store them in car trunks for an expanded sandbox experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "Red Dead Redemption 2", "RDR2", "Fan Suggestion", "Gameplay Mechanics", "Open World", "Sandbox", "NPC Interaction", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6w99t/gta_vi_needs_the_ability_to_carry_npcs_like_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Suggests RDR2's Body-Carrying Mechanics Adapted for Modern Vehicles

@@ -4,6 +4,7 @@ date: "2026-05-25T12:13:51"
 description: "A 2013 Reddit post from r/GTA6 resurfaces, reflecting on a hypothetical scenario where players might have been pre-downloading Grand Theft Auto VI by November 19th, showcasing early fan anticipation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Speculation", "Reddit", "Fan Anticipation", "Gaming History", "Retrospective"]
 source: "https://www.reddit.com/r/GTA6/comments/1tn7ct8/in_less_than_24_hours_we_could_have_been_playing/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Release Date Speculation: A Nostalgic Look at a Hypothetical November 19th Launch

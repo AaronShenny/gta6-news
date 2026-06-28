@@ -4,6 +4,7 @@ date: "2026-03-07T10:40:34"
 description: "A dedicated Grand Theft Auto 6 fan shares their anxiety about potential story spoilers ruining their extensive play experience, fearing a need to disconnect from the internet."
 tags: ["GTA 6", "Grand Theft Auto 6", "Spoilers", "Gaming Community", "Player Experience", "Reddit", "Online Gaming", "Anticipation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rn6weh/something_im_nervous_about/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Expresses Major Spoiler Concerns Ahead of Release

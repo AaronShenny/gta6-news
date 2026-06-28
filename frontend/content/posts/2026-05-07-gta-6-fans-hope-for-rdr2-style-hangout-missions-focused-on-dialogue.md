@@ -4,6 +4,7 @@ date: "2026-05-07T15:53:23"
 description: "A Reddit user expresses a strong desire for character-driven 'hangout' missions in Grand Theft Auto 6, akin to Red Dead Redemption 2's 'A Quiet Time,' speculating on their inclusion based on early screenshots."
 tags: ["GTA 6", "Grand Theft Auto 6", "Missions", "Hangout Missions", "A Quiet Time", "RDR2", "Red Dead Redemption 2", "Jason", "Lucia", "Dialogue", "Character Interaction", "Rockstar Games", "Fan Wishlist"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6elkj/i_hope_that_we_get_a_mission_like_a_quiet_time_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for RDR2-Style 'Hangout' Missions Focused on Dialogue

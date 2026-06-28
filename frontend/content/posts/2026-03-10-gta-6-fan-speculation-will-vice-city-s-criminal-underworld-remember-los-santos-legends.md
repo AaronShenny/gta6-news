@@ -4,6 +4,7 @@ date: "2026-03-10T21:19:19"
 description: "Fans are debating whether GTA V's iconic protagonists, Michael, Franklin, and Trevor, will receive major references or cameos in the upcoming GTA 6, similar to past game nods."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA V", "Michael De Santa", "Franklin Clinton", "Trevor Philips", "Niko Bellic", "Fan Speculation", "Video Games", "Rockstar Games", "Easter Eggs", "Sequel", "References", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rq9v4b/do_you_think_there_will_be_any_major_references/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Speculation: Will Vice City's Criminal Underworld Remember Los Santos Legends?

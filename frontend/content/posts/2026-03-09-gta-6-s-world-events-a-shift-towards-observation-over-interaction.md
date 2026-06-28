@@ -4,6 +4,7 @@ date: "2026-03-09T20:19:17"
 description: "A deep dive into fan speculation suggesting GTA 6's world events will move away from player-centric action, emphasizing observation and a more organic, less interactive open world experience."
 tags: ["GTA 6", "World Events", "Gameplay Mechanics", "Player Interaction", "Rockstar Games", "Open World", "Immersion", "RDR2", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpbgqq/world_events/"
+classification: "RUMOR"
 ---
 
 # GTA 6's World Events: A Shift Towards Observation Over Interaction

@@ -4,6 +4,7 @@ date: "2026-03-15T16:56:53"
 description: "Explore how Grand Theft Auto 6, set in Vice City, could propel Miami into global pop culture dominance, mirroring GTA 5's impact on Los Angeles's 2010s internet era influence."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Miami", "Pop Culture", "Gaming Influence", "Cultural Impact", "Los Angeles", "GTA Online", "Social Media Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1ruj7zr/do_you_think_gta_6_could_boost_the_hype_around/"
+classification: "UNKNOWN"
 ---
 
 # Could GTA 6 Transform Miami into the Next Cultural Hotspot, Mirroring LA's GTA 5-Era Rise?

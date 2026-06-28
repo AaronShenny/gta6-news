@@ -4,6 +4,7 @@ date: "2026-04-28T16:35:00"
 description: "Rockstar Games introduces the new 'Community Mission Series' for GTA Online, featuring player-made missions, substantial rewards for creators, and a roadmap for upcoming content leading into 2026."
 tags: ["GTA Online", "Rockstar Games", "Community Mission Series", "Mission Creator", "Old School Hits", "Player-made Content", "In-game Rewards", "Gaming News", "Grand Theft Auto"]
 source: "https://www.gamespot.com/articles/rockstar-wants-you-to-make-its-next-great-gta-online-mission/1100-6539669/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Rockstar Launches Player-Created Mission Series in GTA Online, Teases Future Content

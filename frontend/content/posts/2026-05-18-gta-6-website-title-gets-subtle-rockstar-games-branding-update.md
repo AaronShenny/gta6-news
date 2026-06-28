@@ -4,6 +4,7 @@ date: "2026-05-18T20:43:23"
 description: "Eagle-eyed fans have spotted a minor but significant change to the GTA 6 website title, now officially prefixed with 'Rockstar Games:'."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Website Update", "Gaming News", "Fan Speculation", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1th0m6n/gta_vi_website_title_changed/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Website Title Gets Subtle Rockstar Games Branding Update

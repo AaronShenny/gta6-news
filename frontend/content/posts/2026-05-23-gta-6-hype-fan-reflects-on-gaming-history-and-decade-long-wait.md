@@ -4,6 +4,7 @@ date: "2026-05-23T21:03:22"
 description: "A Reddit user shares a nostalgic moment, reflecting on the Grand Theft Auto series' evolution and their decade-long anticipation for GTA 6's release."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Anticipation", "Gaming Nostalgia", "Reddit Post", "Game Release Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1tls4re/a_blast_from_the_past/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype: Fan Reflects on Gaming History and Decade-Long Wait

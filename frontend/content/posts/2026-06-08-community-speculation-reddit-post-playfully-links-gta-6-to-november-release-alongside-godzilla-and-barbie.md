@@ -4,6 +4,7 @@ date: "2026-06-08T01:07:31"
 description: "A viral Reddit post from r/GTA6 humorously suggests a November launch for Grand Theft Auto 6, drawing parallels with major film releases. Delve into the community's lighthearted take on GTA 6's anticipated arrival."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date Speculation", "Reddit Community", "Gaming Humor", "Rockstar Games", "Fan Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1tztl3s/godzilla_barbie_and_gta_6_are_all_coming_out_in/"
+classification: "RUMOR"
 ---
 
 # Community Speculation: Reddit Post Playfully Links GTA 6 to November Release Alongside 'Godzilla' and 'Barbie'

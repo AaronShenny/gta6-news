@@ -4,6 +4,7 @@ date: "2026-06-22T16:13:55"
 description: "Explore the significant development challenges and reasons behind the delays for Grand Theft Auto IV and V, including engine development, technical limitations, and extensive bug fixing."
 tags: ["GTA IV", "GTA V", "Grand Theft Auto", "Game Development", "Development Delays", "Rockstar Games", "RAGE Engine", "Technical Limitations", "Game Bugs", "Gaming History"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucp02m/in_your_opinion_what_were_the_reasons_for_the_two/"
+classification: "UNKNOWN"
 ---
 
 # Historical Hurdles: Unpacking the Development Delays of GTA IV and V

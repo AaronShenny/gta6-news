@@ -4,6 +4,7 @@ date: "2026-03-29T09:48:00"
 description: "This article serves as a direct link to a Reddit post from user /u/Opening_Stuff4508, showcasing a Grand Theft Auto 6 meme within the /r/GTA6 community."
 tags: ["GTA 6", "meme", "Reddit", "community content", "social media", "gaming news"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6qw5z/gta_6_meme/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Meme Post Highlights Community Engagement on Reddit

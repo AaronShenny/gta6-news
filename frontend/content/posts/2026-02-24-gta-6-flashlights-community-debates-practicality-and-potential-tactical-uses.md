@@ -4,6 +4,7 @@ date: "2026-02-24T13:22:42"
 description: "A look into player speculation surrounding the rumored flashlights in Grand Theft Auto 6, exploring their potential for navigation, stealth, and immersion based on leaked footage."
 tags: ["GTA 6", "Grand Theft Auto 6", "Flashlights", "Gameplay Features", "Leaks", "Community Discussion", "Rockstar Games", "Open World", "Stealth"]
 source: "https://www.reddit.com/r/GTA6/comments/1rdg3wf/flashlights_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Flashlights: Community Debates Practicality and Potential Tactical Uses

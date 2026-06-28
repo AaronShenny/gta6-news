@@ -4,6 +4,7 @@ date: "2026-05-21T20:13:17"
 description: "A Reddit post has surfaced, claiming Grand Theft Auto VI is officially not delayed, reassuring fans about its development progress."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Release Date", "Development Status", "No Delay"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjwgtx/gta_vi_oficially_not_delayed/"
+classification: "RUMOR"
 ---
 
 # GTA VI Reportedly On Schedule, Dispelling Delay Rumors

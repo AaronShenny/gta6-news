@@ -4,6 +4,7 @@ date: "2026-05-29T19:07:20"
 description: "A dedicated fan brings GTA 6 trailer moments to life, meticulously recreating iconic scenes in Miami with a low budget and small crew for a new short film."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Project", "Real-Life Recreation", "Vice City", "Miami", "Filmmaking", "Gaming News", "Trailer Recreation"]
 source: "https://www.reddit.com/r/GTA6/comments/1trc94v/i_recreated_images_from_the_trailers_in_real_life/"
+classification: "CONFIRMED"
 ---
 
 # Fan Recreates GTA 6 Trailer Scenes in Real-Life Miami for 'Vice City' Short

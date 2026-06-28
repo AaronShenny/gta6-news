@@ -4,6 +4,7 @@ date: "2026-05-18T01:59:24"
 description: "A barebones Reddit post titled 'Gta VI also on Monday,May 18th' has surfaced, sparking minimal speculation regarding a potential date related to Grand Theft Auto VI, though no further context is provided."
 tags: ["GTA VI", "Grand Theft Auto 6", "Release Date Rumor", "Speculation", "Reddit", "Gaming News", "May 18th"]
 source: "https://www.reddit.com/r/GTA6/comments/1tg8p4r/gta_vi_also_on_mondaymay_18th/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Speculates May 18th for GTA VI, Lacks Details

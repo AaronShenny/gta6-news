@@ -4,6 +4,7 @@ date: "2026-04-11T16:05:35"
 description: "A Reddit post claims Jason Duval was seen at Rockstar North, reportedly addressing another GTA 6 leak, sparking fresh speculation about the game's development and security."
 tags: ["GTA 6", "Rockstar Games", "Rockstar North", "Gaming Leaks", "Jason Duval", "Video Game Development", "Rumors", "Gaming News", "Information Security"]
 source: "https://www.reddit.com/r/GTA6/comments/1sin1ka/jason_duval_spotted_at_rockstar_north_while/"
+classification: "RUMOR"
 ---
 
 # Alleged Jason Duval Sighting at Rockstar North Fuels New GTA 6 Leak Concerns

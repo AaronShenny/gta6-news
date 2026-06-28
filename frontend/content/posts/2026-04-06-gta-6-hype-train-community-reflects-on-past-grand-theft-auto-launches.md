@@ -4,6 +4,7 @@ date: "2026-04-06T02:06:23"
 description: "As GTA 6 anticipation builds, fans on Reddit are sharing nostalgic memories of previous Grand Theft Auto launches, comparing the current excitement to iconic past releases."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Community", "Reddit", "Game Launch", "Hype", "Nostalgia", "GTA V", "Gaming History"]
 source: "https://www.reddit.com/r/GTA6/comments/1sdlzp8/who_was_around_for_the_launches_for_the_previous/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Train: Community Reflects on Past Grand Theft Auto Launches

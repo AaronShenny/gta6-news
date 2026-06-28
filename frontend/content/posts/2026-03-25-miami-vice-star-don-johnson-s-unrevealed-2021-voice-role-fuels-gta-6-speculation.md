@@ -4,6 +4,7 @@ date: "2026-03-25T23:29:59"
 description: "Don Johnson, iconic for his role as Sonny Crockett in Miami Vice, recorded voice lines for an undisclosed video game in 2021. Fans are now speculating if this could be for the highly anticipated Grand Theft Auto VI, citing strong connections to Rockstar Games."
 tags: ["GTA 6", "Grand Theft Auto VI", "Don Johnson", "Miami Vice", "Voice Acting", "Rockstar Games", "Rumor", "Speculation", "Video Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s3r3pq/don_johnson_sonny_crockett_did_voice_acting_for/"
+classification: "RUMOR"
 ---
 
 # Miami Vice Star Don Johnson's Unrevealed 2021 Voice Role Fuels GTA 6 Speculation

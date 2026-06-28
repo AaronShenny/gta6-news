@@ -4,6 +4,7 @@ date: "2026-06-20T16:34:18"
 description: "As GTA 6 marketing ramps up with cover art and pre-order date reveals, the gaming community is buzzing about anticipated gameplay features, particularly an improved NPC dialogue system and increased NPC density."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gameplay Features", "NPC Dialogue", "NPC Density", "Rockstar Games", "Gaming Community", "RDR2", "Trailer 3", "Pre-order"]
 source: "https://www.reddit.com/r/GTA6/comments/1ub0zna/what_new_gameplay_features_are_you_all_most/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: Anticipating Enhanced Gameplay Features

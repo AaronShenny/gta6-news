@@ -4,6 +4,7 @@ date: "2026-06-28T03:09:50"
 description: "Explore the real-world Miami-Dade County inspirations behind GTA 6's Vice-Dale County, from the iconic Ocean Beach to the exclusive Leaf Links Island, revealing Rockstar's detailed world-building."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Vice-Dale County", "Miami-Dade", "South Beach", "Art Deco", "Indian Creek Island", "Brickell", "Little Havana", "Rockstar Games", "Open World", "Location Reveal", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhlygy/vicedale_county_cities_neighborhoods_and_islands/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Vice-Dale County: A Deep Dive into Its Miami-Dade Inspirations

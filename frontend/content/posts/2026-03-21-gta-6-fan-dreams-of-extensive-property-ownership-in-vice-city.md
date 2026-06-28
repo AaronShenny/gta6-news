@@ -4,6 +4,7 @@ date: "2026-03-21T12:11:02"
 description: "A dedicated GTA 6 fan expresses their strong desire for buyable mansions and penthouses in Vice City, envisioning luxurious waterfront properties and detailed interiors."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Vice City", "Property Ownership", "Mansions", "Penthouses", "Fan Wishlist", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzpvu6/mansions_and_penthouses_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Dreams of Extensive Property Ownership in Vice City

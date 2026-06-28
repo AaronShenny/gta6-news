@@ -4,6 +4,7 @@ date: "2026-06-13T02:24:50"
 description: "A Reddit discussion on r/GTA6 explores the hypothetical scenario of a massive GTA 6 gameplay leak, revealing players' struggle between anticipation and preserving the launch experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "Leaks", "Gameplay", "Gaming Community", "Anticipation", "Reddit", "Fan Debate", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4esaz/if_a_full_gameplay_walkthrough_leaked_right_now/"
+classification: "LEAK"
 ---
 
 # GTA 6 Leak Conundrum: Players Debate How Much Leaked Gameplay They'd Watch

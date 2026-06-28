@@ -4,6 +4,7 @@ date: "2026-05-13T09:59:00"
 description: "Impatient GTA 6 fans are leaving negative Google reviews for Rockstar North and engaging in speculative theories as they await new information, a year after the last trailer. Take-Two's May 21 investment briefing is now a key focus."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar North", "Take-Two", "Gaming News", "Fan Frustration", "Game Development", "PS5", "Xbox Series X|S", "AI in Gaming"]
 source: "https://www.gamespot.com/articles/gta-6-wait-has-fans-flooding-rockstar-with-bad-google-reviews/1100-6539906/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Flood Rockstar With Negative Google Reviews Amid Trailer Wait

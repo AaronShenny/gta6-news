@@ -4,6 +4,7 @@ date: "2026-05-09T19:48:16"
 description: "A Reddit post has ignited discussion among GTA VI fans, speculating on which radio stations might appear in the highly anticipated game, though no specific station is detailed."
 tags: ["GTA 6", "Grand Theft Auto VI", "Radio Stations", "Community Speculation", "Fan Theories", "Rockstar Games", "Gaming News", "Reddit Discussion", "Soundtrack"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8hmtf/do_you_think_this_station_will_appear_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA VI Community Abuzz with Speculation Over Potential Radio Station Return

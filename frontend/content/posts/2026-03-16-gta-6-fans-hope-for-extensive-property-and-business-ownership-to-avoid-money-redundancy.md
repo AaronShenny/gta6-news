@@ -4,6 +4,7 @@ date: "2026-03-16T16:15:39"
 description: "A Reddit user expresses a strong desire for more property and business acquisition options in GTA 6, citing past Grand Theft Auto and Red Dead Redemption 2 experiences where money became meaningless."
 tags: ["GTA 6", "Grand Theft Auto 6", "Properties", "Businesses", "Money Sinks", "Fan Feedback", "Reddit", "Rockstar Games", "Open World Games", "Player Economy"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvdxex/i_would_like_properties_and_businesses_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for Extensive Property and Business Ownership to Avoid Money Redundancy

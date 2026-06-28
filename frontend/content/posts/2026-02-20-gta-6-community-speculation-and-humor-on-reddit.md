@@ -4,6 +4,7 @@ date: "2026-02-20T18:32:02"
 description: "A Reddit post titled 'How Playing GTA 6 Gonna Be 😂' from u/Revolutionary_Cod_62 invites humorous speculation and discussion about the upcoming Grand Theft Auto 6 gameplay experience."
 tags: ["GTA 6", "Reddit", "Community", "Speculation", "Humor", "Gaming Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ra3eve/how_playing_gta_6_gonna_be/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Speculation and Humor on Reddit

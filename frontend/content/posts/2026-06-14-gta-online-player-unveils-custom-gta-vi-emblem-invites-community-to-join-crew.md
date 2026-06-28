@@ -4,6 +4,7 @@ date: "2026-06-14T09:25:43"
 description: "A dedicated GTA Online player, u/Hakan76, shares a custom-made GTA VI emblem created in 2023, offering it for use on cars and inviting fellow fans to join their in-game crew."
 tags: ["GTA VI", "GTA Online", "Custom Emblem", "Fan Creation", "Gaming Community", "Rockstar Games", "Grand Theft Auto", "Vehicle Customization"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5gjyq/i_made_a_gta_vi_emblem_in_gta_online/"
+classification: "UNKNOWN"
 ---
 
 # GTA Online Player Unveils Custom GTA VI Emblem, Invites Community to Join Crew

@@ -4,6 +4,7 @@ date: "2026-03-03T17:20:28"
 description: "A Reddit user shares their apprehension about the emotional impact of violence in the highly anticipated GTA 6, drawing parallels to the moral dilemmas faced in Red Dead Redemption 2."
 tags: ["GTA 6", "Red Dead Redemption 2", "Gaming Realism", "Player Morality", "Violence in Games", "Emotional Impact", "Reddit Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjvad6/i_feel_like_killing_people_is_going_to_feel_so_bad/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Realism Sparks Player Morality Concerns Ahead of Launch

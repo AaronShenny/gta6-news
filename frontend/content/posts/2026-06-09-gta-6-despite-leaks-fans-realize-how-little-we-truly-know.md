@@ -4,6 +4,7 @@ date: "2026-06-09T06:02:32"
 description: "A Reddit post highlights the surprising lack of concrete information about Grand Theft Auto 6, even for dedicated fans, predicting an explosion of hype once official trailers drop."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming Hype", "Game Leaks", "Gaming Community", "Trailer Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0wls1/the_fact_that_we_know_so_little_is_insane/"
+classification: "LEAK"
 ---
 
 # GTA 6: Despite Leaks, Fans Realize How Little We Truly Know

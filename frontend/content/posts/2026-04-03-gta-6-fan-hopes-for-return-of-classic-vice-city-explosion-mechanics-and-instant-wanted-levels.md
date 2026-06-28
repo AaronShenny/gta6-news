@@ -4,6 +4,7 @@ date: "2026-04-03T15:07:59"
 description: "A Grand Theft Auto fan on Reddit expresses a nostalgic desire for GTA 6 to feature over-the-top explosions and instant three-star wanted levels reminiscent of the original Vice City."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Reddit", "Fan Wishlist", "Explosions", "Wanted Level", "Gameplay Mechanics", "Nostalgia"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbg61p/not_the_best_picture_but_i_hope_blowing_this_up/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Hopes for Return of Classic Vice City Explosion Mechanics and Instant Wanted Levels

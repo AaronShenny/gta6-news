@@ -4,6 +4,7 @@ date: "2026-02-19T11:25:02"
 description: "A popular Reddit theory suggests GTA 6 Online could introduce a groundbreaking mechanic: characters live streaming and posting content from their in-game mobile devices, complete with social media integration."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Online", "Game Mechanics", "Social Media Integration", "Reddit Theory", "Gaming News", "Rockstar Games", "Player Interaction"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8wqtr/what_new_revolutionary_game_mechanic_do_you_think/"
+classification: "RUMOR"
 ---
 
 # Reddit Theory Proposes Revolutionary In-Game Social Media for GTA 6 Online

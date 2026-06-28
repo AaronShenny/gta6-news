@@ -4,6 +4,7 @@ date: "2026-06-20T17:32:15"
 description: "A dedicated fan analyzes the scale of GTA 6's Vice City, arguing that even with real-world comparisons, the in-game map will be exceptionally large and immersive, challenging common misconceptions."
 tags: ["GTA 6", "Vice City", "Map Size", "Open World", "Fan Analysis", "Gaming News", "Rockstar Games", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1ub2e6w/the_people_who_think_this_map_is_small_are_nuts/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Vice City Map: Fan Analysis Debunks 'Small' Claims, Touts 'Insanely Large' Scale

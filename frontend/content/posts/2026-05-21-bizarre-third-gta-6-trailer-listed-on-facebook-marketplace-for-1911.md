@@ -4,6 +4,7 @@ date: "2026-05-21T01:23:12"
 description: "A highly suspicious listing for a 'third GTA 6 trailer' has appeared on Facebook Marketplace, asking for £1911. Gamers are warned against potential scams exploiting anticipation for Rockstar's next title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Scam Alert", "Facebook Marketplace", "Fake Trailer", "Video Game Industry", "Fan Anticipation", "Online Safety"]
 source: "https://www.reddit.com/r/GTA6/comments/1tj5ic5/the_third_gta_6_trailer_is_on_sale_on_facebook/"
+classification: "CONFIRMED"
 ---
 
 # Bizarre 'Third GTA 6 Trailer' Listed on Facebook Marketplace for £1911

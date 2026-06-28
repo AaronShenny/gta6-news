@@ -4,6 +4,7 @@ date: "2026-06-07T18:15:46"
 description: "The GTA 6 community is alive with speculation, pondering what groundbreaking and unique features Rockstar Games might be keeping under wraps for the highly anticipated title."
 tags: ["GTA 6", "Rockstar Games", "Speculation", "Hidden Features", "Community Discussion", "Anticipation", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzjkn0/whats_one_gta_6_feature_you_think_rockstar_is/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: What Unique Features is Rockstar Hiding?

@@ -4,6 +4,7 @@ date: "2026-05-04T16:08:00"
 description: "Randy Pitchford, head of Borderlands developer Gearbox, addresses fan backlash over an AI selfie, clarifying his studio's strict AI policy and Take-Two's firm stance against generative AI in GTA 6."
 tags: ["Randy Pitchford", "Gearbox", "Borderlands", "Take-Two", "GTA 6", "AI in games", "Generative AI", "Game development", "Strauss Zelnick", "Gaming News"]
 source: "https://www.gamespot.com/articles/borderlands-studio-head-responds-after-fans-rip-him-for-ai-slop-selfie/1100-6539764/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # Gearbox Boss Clarifies AI Stance Amid Backlash, Take-Two Reaffirms 'Zero Part' for Generative AI in GTA 6

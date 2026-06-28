@@ -4,6 +4,7 @@ date: "2026-03-21T09:58:59"
 description: "A Reddit user proposes that GTA 6 could demand 200-300GB, suggesting distribution via SSDs for PS5 and expansion cards for Xbox due to traditional disc limitations."
 tags: ["GTA 6", "Grand Theft Auto VI", "Storage Space", "Disc Space", "PS5", "Xbox", "SSD", "Expansion Card", "Gaming Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rznmp4/gta_vi_disc_space/"
+classification: "RUMOR"
 ---
 
 # Reddit User Speculates on GTA 6's Massive Storage Needs and Novel Distribution Methods

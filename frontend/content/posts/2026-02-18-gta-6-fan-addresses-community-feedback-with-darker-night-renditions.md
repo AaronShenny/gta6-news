@@ -4,6 +4,7 @@ date: "2026-02-18T07:35:10"
 description: "Reddit user /u/LonelyKrill shares new GTA 6 fan-modified images, transforming daytime scenes into significantly darker night environments in response to community requests."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Community Feedback", "Graphics", "Night Cycle", "Reddit", "User Creation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r7wo2j/gta_vi_day_time_images_turned_to_night_made_darker/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fan Addresses Community Feedback with Darker Night Renditions

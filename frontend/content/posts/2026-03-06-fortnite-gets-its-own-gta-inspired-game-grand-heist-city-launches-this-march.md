@@ -4,6 +4,7 @@ date: "2026-03-06T20:30:00"
 description: "Jogo Games is bringing 'Grand Heist City,' a Grand Theft Auto-inspired open-world game, to Fortnite via UEFN on March 14, 2026, offering a free alternative ahead of GTA 6's launch."
 tags: ["Fortnite", "Grand Heist City", "GTA", "Grand Theft Auto", "GTA 6", "Jogo Games", "Andre Rebelo", "Typical Gamer", "UEFN", "Unreal Editor for Fortnite", "Epic Mega Grant", "Open World", "Gaming News", "Release Date", "Microtransactions"]
 source: "https://www.gamespot.com/articles/fortnite-adding-a-gta-style-game-and-its-not-shy-about-its-inspiration/1100-6538647/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Fortnite Gets Its Own GTA-Inspired Game: Grand Heist City Launches This March

@@ -4,6 +4,7 @@ date: "2026-02-15T11:59:55"
 description: "A dedicated Grand Theft Auto VI fan on Reddit, u/Dragono301064, has shared impressive hand-drawn 'screenies' created using only a phone and a stylus, emphasizing no AI was used."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Reddit", "Gaming Community", "Hand-Drawn", "No AI", "Concept Art", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5cwya/i_drew_some_gta_vi_screenies/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Impresses Community with Hand-Drawn 'Screenshots' Created on a Phone

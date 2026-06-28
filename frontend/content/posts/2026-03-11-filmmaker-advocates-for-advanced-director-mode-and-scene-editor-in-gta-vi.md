@@ -4,6 +4,7 @@ date: "2026-03-11T00:30:59"
 description: "A filmmaker expresses strong hopes for an enhanced Director Mode and scene editor in Grand Theft Auto VI, highlighting its potential as a powerful creative tool for animated films."
 tags: ["GTA VI", "Grand Theft Auto 6", "Director Mode", "Rockstar Editor", "Filmmaking", "Game Tools", "User Generated Content", "Modding", "Creative Tools"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqet7h/i_hope_gta_vi_has_a_director_mode_and_scene/"
+classification: "RUMOR"
 ---
 
 # Filmmaker Advocates for Advanced Director Mode and Scene Editor in GTA VI

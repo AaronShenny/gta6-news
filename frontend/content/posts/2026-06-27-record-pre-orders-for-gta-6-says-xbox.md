@@ -4,6 +4,7 @@ date: "2026-06-27T15:35:13"
 description: "A Reddit post from nine years ago claims Xbox announced record pre-orders for GTA 6, though the 'article' provides no further details or contemporary verification."
 tags: ["GTA 6", "Grand Theft Auto", "Xbox", "Pre-orders", "Rumor", "Speculation", "Reddit", "Gaming News", "Unverified"]
 source: "https://www.reddit.com/r/GTA6/comments/1uh5srw/record_pre_orders_for_gta_6_says_xbox/"
+classification: "RUMOR"
 ---
 
 # Record pre orders for GTA 6, says Xbox.

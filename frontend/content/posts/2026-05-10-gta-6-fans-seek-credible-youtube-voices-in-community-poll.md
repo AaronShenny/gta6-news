@@ -4,6 +4,7 @@ date: "2026-05-10T20:23:56"
 description: "A Reddit user sparks a community discussion, asking for recommendations for knowledgeable GTA 6 YouTubers beyond 'GTA VI o clock' to gain diverse, credible insights into the upcoming game."
 tags: ["GTA 6", "Grand Theft Auto VI", "YouTube", "Gaming Community", "Content Creators", "Reddit", "Fan Discussion", "Gaming News", "Recommendations"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9hvt6/ok_heres_a_question_apart_from_gta_vi_o_clock_who/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Seek Credible YouTube Voices in Community Poll

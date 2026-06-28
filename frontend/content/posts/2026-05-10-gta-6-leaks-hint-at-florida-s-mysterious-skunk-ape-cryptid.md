@@ -4,6 +4,7 @@ date: "2026-05-10T06:48:05"
 description: "Early GTA 6 leaks suggest the legendary Florida Skunk Ape, a Sasquatch-like cryptid, could make an appearance in the upcoming game, sparking fan speculation about in-game encounters."
 tags: ["GTA 6", "Grand Theft Auto 6", "Skunk Ape", "Cryptid", "Florida", "Leaks", "Folklore", "Easter Egg", "Gaming News", "Rockstar Games", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8zfyo/skunk_ape/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Leaks Hint at Florida's Mysterious Skunk Ape Cryptid

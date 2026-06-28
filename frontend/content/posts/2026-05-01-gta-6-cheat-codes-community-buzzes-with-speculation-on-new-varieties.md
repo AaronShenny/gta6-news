@@ -4,6 +4,7 @@ date: "2026-05-01T06:16:44"
 description: "The GTA 6 community is already looking ahead, discussing the potential for new and exciting cheat codes in Rockstar's highly anticipated title. What game-changing cheats could we see?"
 tags: ["GTA 6", "Grand Theft Auto 6", "Cheat Codes", "Community Speculation", "Rockstar Games", "Gaming News", "r/GTA6"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0l4gb/what_type_of_new_variety_of_cheat_codes_can_we/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cheat Codes: Community Buzzes with Speculation on New Varieties

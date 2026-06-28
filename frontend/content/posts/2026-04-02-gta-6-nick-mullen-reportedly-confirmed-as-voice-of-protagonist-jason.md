@@ -4,6 +4,7 @@ date: "2026-04-02T05:05:07"
 description: "A Reddit post suggests comedian Nick Mullen has been confirmed as the voice actor for Jason, one of the main characters in Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Nick Mullen", "Jason voice actor", "Rockstar Games", "Gaming News", "Voice Acting", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sa88jz/nick_mullen_confirmed_as_the_voice_actor_for_gta/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6: Nick Mullen Reportedly Confirmed as Voice of Protagonist Jason

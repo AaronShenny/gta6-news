@@ -4,6 +4,7 @@ date: "2026-06-06T22:08:56"
 description: "A Reddit user sparks discussion on the possibility of playing an arcade version of the original Grand Theft Auto within the upcoming GTA 6's Vice City, drawing parallels to Minecraft's in-game Doom."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Reddit", "Fan Concept", "In-game Arcade", "Retro Gaming", "Gaming Culture", "Minecraft", "Doom"]
 source: "https://www.reddit.com/r/GTA6/comments/1tyub7p/minecraft_has_a_playable_version_of_doom_in_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Ponder In-Game Retro Arcade Experience, Featuring Original GTA

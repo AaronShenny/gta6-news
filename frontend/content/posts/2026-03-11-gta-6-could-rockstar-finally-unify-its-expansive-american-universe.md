@@ -4,6 +4,7 @@ date: "2026-03-11T04:26:42"
 description: "Fan theories suggest GTA 6 could be the game where Rockstar merges the universes of Grand Theft Auto and Red Dead Redemption, expanding on lore and state names."
 tags: ["GTA 6", "Rockstar Games", "Grand Theft Auto", "Red Dead Redemption", "Game Lore", "Universe Merger", "Fan Speculation", "Liberty City", "Leonida", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqk076/will_gta_vi_be_the_game_where_rockstar_finally/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Rockstar Finally Unify Its Expansive American Universe?

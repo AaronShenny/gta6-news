@@ -4,6 +4,7 @@ date: "2026-05-04T23:36:42"
 description: "Speculation mounts as Take-Two CEO Strauss Zelnick's recent interviews discussing GTA 6's scale, pricing, and brand strategy spark theories of an 'unofficial' marketing kick-off."
 tags: ["GTA 6", "Grand Theft Auto VI", "Marketing", "Strauss Zelnick", "Take-Two Interactive", "Rockstar Games", "Gaming News", "Speculation", "Jason Schreier", "Brand Deals"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3yl0g/has_the_marketing_already_started_and_we_havent/"
+classification: "RUMOR"
 ---
 
 # Is GTA 6's Marketing Campaign Already Underway, Unbeknownst to Us?

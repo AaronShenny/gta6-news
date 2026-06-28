@@ -4,6 +4,7 @@ date: "2026-04-07T19:04:44"
 description: "A Reddit user humorously observes the visual and thematic parallels between GTA 6's Jason and Lucia and Fast & Furious characters Brian O'Conner and Monica Fuentes."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Fast & Furious", "Jason", "Lucia", "Brian O'Conner", "Monica Fuentes", "Gaming Humor", "Fan Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sf5fn9/gta_6_you_mean_2fast2furious_the_video_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Protagonists Spark Humorous Fast & Furious Comparisons Among Fans

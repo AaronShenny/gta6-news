@@ -4,6 +4,7 @@ date: "2026-06-25T09:35:00"
 description: "A Reddit user claims to have encountered a 'cool' GTA 6 login animation on PlayStation, sharing a phone recording of the elusive moment."
 tags: ["GTA 6", "Grand Theft Auto 6", "PlayStation", "Login Animation", "User Report", "Gaming News", "Leak"]
 source: "https://www.reddit.com/r/GTA6/comments/1uf5box/cool_animation_for_gta_6_when_you_login_to/"
+classification: "LEAK"
 ---
 
 # User Captures Glimpse of 'Cool' GTA 6 PlayStation Login Animation

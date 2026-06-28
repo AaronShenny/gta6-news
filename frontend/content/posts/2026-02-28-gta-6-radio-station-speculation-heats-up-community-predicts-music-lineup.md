@@ -4,6 +4,7 @@ date: "2026-02-28T21:17:37"
 description: "A Reddit discussion delves into predictions and wishlists for the radio stations that could feature in Grand Theft Auto VI, from Latin folk to extreme metal."
 tags: ["GTA 6", "Grand Theft Auto VI", "Radio Stations", "Music", "Gaming Speculation", "Community Discussion", "Vice City", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rheb3w/what_radios_will_appear_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Radio Station Speculation Heats Up: Community Predicts Music Lineup

@@ -4,6 +4,7 @@ date: "2026-05-26T01:04:16"
 description: "A dedicated GTA fan celebrates their 25th birthday, reflecting on childhood memories of Vice City and the imminent release of Grand Theft Auto VI, highlighting the enduring legacy of the series."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Gaming Nostalgia", "Fan Story", "Birthday Celebration", "Reddit", "Gaming Community", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnrnqe/hoje_é_meu_aniversário_e_me_fizeram_uma_surpresa/"
+classification: "UNKNOWN"
 ---
 
 # GTA Fan's 25th Birthday: From Vice City Nostalgia to GTA 6 Anticipation

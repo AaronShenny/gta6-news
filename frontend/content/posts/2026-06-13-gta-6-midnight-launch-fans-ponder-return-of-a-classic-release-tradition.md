@@ -4,6 +4,7 @@ date: "2026-06-13T19:32:05"
 description: "A Reddit user sparks discussion on the possibility of a traditional midnight launch for Grand Theft Auto 6, reminiscing about past major releases despite the digital shift."
 tags: ["GTA 6", "Grand Theft Auto 6", "Midnight Release", "Gaming Industry", "Digital Distribution", "Fan Speculation", "Reddit", "Gaming News", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4zx9f/do_you_think_gta_6_will_have_a_midnight_release/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Midnight Launch: Fans Ponder Return of a Classic Release Tradition

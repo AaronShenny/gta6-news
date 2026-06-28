@@ -4,6 +4,7 @@ date: "2026-05-24T17:07:49"
 description: "A Grand Theft Auto Online player, returning after a six-year hiatus, expresses heightened anticipation for GTA 6, citing the impressive quality of recent car models in GTAO."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Car Models", "Player Hype", "Gaming News", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmhwtw/i_hadnt_played_gtao_in_almost_6_years_and_seeing/"
+classification: "UNKNOWN"
 ---
 
 # GTA Online's Recent Car Model Quality Fuels GTA 6 Hype for Returning Player

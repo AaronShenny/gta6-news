@@ -4,6 +4,7 @@ date: "2026-04-28T16:41:29"
 description: "A Reddit user shares their hopes for GTA 6, advocating for Red Dead Redemption 2's immersive looting and detailed interior exploration to make the open world more rewarding."
 tags: ["GTA 6", "Red Dead Redemption 2", "RDR2", "Looting Mechanics", "Game Features", "Exploration", "Open World", "Fan Wishlist", "Rockstar Games", "NPCs"]
 source: "https://www.reddit.com/r/GTA6/comments/1sy6ri9/what_features_from_rdr2_you_think_gta_vi_will_use/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Eye RDR2's Deep Looting and Exploration Mechanics for Enhanced Immersion

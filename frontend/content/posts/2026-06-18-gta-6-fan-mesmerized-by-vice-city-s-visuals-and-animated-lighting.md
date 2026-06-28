@@ -4,6 +4,7 @@ date: "2026-06-18T14:32:36"
 description: "A Reddit user on r/GTA6 expresses immense excitement and praise for Grand Theft Auto 6's Vice City, specifically highlighting the game's 'animated lights' and overall graphical fidelity."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Graphics", "Visuals", "Animated Lights", "Fan Reaction", "Reddit", "Gaming Community", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u97x8o/vice_city_looks_so_good_i_love_the_animated_lights/"
+classification: "LEAK"
 ---
 
 # GTA 6 Fan Mesmerized by Vice City's Visuals and Animated Lighting

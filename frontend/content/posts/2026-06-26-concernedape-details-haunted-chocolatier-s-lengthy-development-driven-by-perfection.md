@@ -4,6 +4,7 @@ date: "2026-06-26T14:48:28"
 description: "Stardew Valley creator Eric 'ConcernedApe' Barone explains the five-year development of Haunted Chocolatier, citing a meticulous pursuit of perfection and a reluctance to reveal 'half-baked' gameplay."
 tags: ["Haunted Chocolatier", "ConcernedApe", "Eric Barone", "Stardew Valley", "Game Development", "Indie Games", "Release Date", "Gaming News", "Perfectionism"]
 source: "https://www.gamespot.com/articles/haunted-chocolatier-long-development-comes-down-to-chasing-perfection/"
+classification: "CONFIRMED"
 ---
 
 # ConcernedApe Details Haunted Chocolatier's Lengthy Development Driven by 'Perfection'

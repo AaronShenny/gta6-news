@@ -4,6 +4,7 @@ date: "2026-02-14T03:25:34"
 description: "Rockstar Games' GTA 6 continues its record-breaking reach as Trailer 2 surpasses 150 million views in 9 months, contributing to a staggering combined total of 423 million views across both trailers."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Video Game Trailer", "YouTube Views", "Gaming News", "Milestone", "Gaming Industry", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1r49txq/gta_6_trailer_2_finally_hits_150_million_views/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Trailer 2 Hits 150 Million Views, Combined Trailer Count Surpasses 400 Million Mark

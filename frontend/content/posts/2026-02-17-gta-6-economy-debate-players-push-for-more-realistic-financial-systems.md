@@ -4,6 +4,7 @@ date: "2026-02-17T04:39:48"
 description: "A Reddit user sparks a lively discussion on GTA 6's potential economy, advocating for realistic expenses, taxation, and consequences to enhance gameplay longevity and player reward."
 tags: ["GTA 6", "Grand Theft Auto", "Economy", "In-Game Economy", "Realism", "Gaming Community", "Player Feedback", "Rockstar Games", "Open World", "Longevity", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6wkku/gta_6_economy/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Economy Debate: Players Push for More Realistic Financial Systems

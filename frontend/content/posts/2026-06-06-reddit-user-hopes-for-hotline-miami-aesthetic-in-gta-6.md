@@ -4,6 +4,7 @@ date: "2026-06-06T16:15:42"
 description: "A Reddit user on r/GTA6 expresses their desire for Grand Theft Auto 6 to incorporate a specific aesthetic, including references to the game Hotline Miami."
 tags: ["GTA 6", "Grand Theft Auto", "Hotline Miami", "Game Aesthetics", "Fan Wishlist", "Reddit", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1tylgw6/need_gta_6_to_have_some_of_this_aesthetic_plus/"
+classification: "RUMOR"
 ---
 
 # Reddit User Hopes for Hotline Miami Aesthetic in GTA 6

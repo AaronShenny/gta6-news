@@ -4,6 +4,7 @@ date: "2026-06-18T13:44:38"
 description: "A new animation on the official GTA VI website reveals a subtle but impactful window parallax effect, hinting at a more dynamic and realistic game world."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Parallax Effect", "Game Graphics", "Visual Fidelity", "Environmental Design", "Game Animation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u96ow9/window_parallax/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Teases Dynamic Environments with Window Parallax Effect

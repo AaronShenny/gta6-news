@@ -4,6 +4,7 @@ date: "2026-06-14T15:19:17"
 description: "Prominent insider NateTheHate suggests Grand Theft Auto VI remains on track for its anticipated November release window, according to a Reddit post."
 tags: ["GTA VI", "Grand Theft Auto 6", "Release Date", "NateTheHate", "Rockstar Games", "Gaming News", "Insider Rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5nvw2/natethehate_says_gta_vi_is_still_on_track_for_its/"
+classification: "RUMOR"
 ---
 
 # NateTheHate Reaffirms GTA VI's November Release Window

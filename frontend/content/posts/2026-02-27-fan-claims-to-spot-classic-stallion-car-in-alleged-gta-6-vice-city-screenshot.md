@@ -4,6 +4,7 @@ date: "2026-02-27T01:25:23"
 description: "A Reddit user claims to have spotted the iconic Stallion vehicle in a screenshot reportedly from Grand Theft Auto 6, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Stallion", "Vehicle", "Leak", "Screenshot", "Vice City", "Fan Speculation", "Community Discussion", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfswud/stallion_spotted/"
+classification: "RUMOR"
 ---
 
 # Fan Claims to Spot Classic Stallion Car in Alleged GTA 6 Vice City Screenshot

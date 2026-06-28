@@ -4,6 +4,7 @@ date: "2026-05-04T15:44:26"
 description: "Inspired by Red Dead Redemption 2's eerie Hani's Bethel site, a Reddit user suggests Grand Theft Auto VI could feature 'brutal' and highly atmospheric random encounters, including UFO events."
 tags: ["GTA 6", "Grand Theft Auto VI", "RDR2", "Red Dead Redemption 2", "Atmospheric Events", "UFOs", "Random Encounters", "Gaming", "Fan Wishlist", "Rockstar Games", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3lha2/imagine_ufo_events_like_this_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA VI Fans Hope for RDR2-Style Atmospheric Encounters and UFO Events

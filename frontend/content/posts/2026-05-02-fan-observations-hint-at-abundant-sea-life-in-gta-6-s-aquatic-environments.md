@@ -4,6 +4,7 @@ date: "2026-05-02T06:47:33"
 description: "A Reddit post offers an early glimpse, suggesting GTA 6 will feature a rich and diverse underwater world teeming with sea animals, according to fan observations."
 tags: ["GTA 6", "Grand Theft Auto 6", "Sea Life", "Underwater Environments", "Gaming Rumors", "Fan Speculation", "Rockstar Games", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1t1id0g/gta_6_will_have_a_lot_of_sea_life_in_water/"
+classification: "RUMOR"
 ---
 
 # Fan Observations Hint at Abundant Sea Life in GTA 6's Aquatic Environments

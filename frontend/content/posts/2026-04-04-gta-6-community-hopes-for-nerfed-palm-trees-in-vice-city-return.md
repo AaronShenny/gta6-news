@@ -4,6 +4,7 @@ date: "2026-04-04T11:11:07"
 description: "A Reddit user's humorous post highlights a long-standing GTA frustration: the surprising indestructibility of environmental foliage, sparking hopes for more realistic destructibility in GTA 6."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Vice City", "Gameplay Mechanics", "Environmental Destructibility", "Community Feedback", "Humor", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sc6io8/my_biggest_concern_for_the_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for 'Nerfed' Palm Trees in Vice City Return

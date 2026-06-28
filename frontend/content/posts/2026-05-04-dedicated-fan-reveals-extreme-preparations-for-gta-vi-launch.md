@@ -4,6 +4,7 @@ date: "2026-05-04T15:25:51"
 description: "A Reddit user details their extensive and passionate plans for the release of Grand Theft Auto VI, including hardware upgrades, collector's editions, and a complete social media blackout for ultimate immersion."
 tags: ["GTA VI", "Grand Theft Auto 6", "Gaming Preparations", "Fan Enthusiasm", "PS5 Pro", "Collector's Edition", "Release Day", "Gaming Culture", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3kyg5/what_are_you_doing_to_prepare_for_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # Dedicated Fan Reveals Extreme Preparations for GTA VI Launch

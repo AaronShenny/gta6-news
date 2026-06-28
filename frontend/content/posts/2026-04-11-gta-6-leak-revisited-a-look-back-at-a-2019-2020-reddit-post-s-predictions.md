@@ -4,6 +4,7 @@ date: "2026-04-11T22:00:27"
 description: "A Reddit user recalls a GTA 6 'leak' from 2019-2020, detailing rumored dual protagonists, Vice City, enhanced NPC AI, and a relationship meter, offering a nostalgic glimpse into early speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Leak", "Rumor", "Reddit", "Vice City", "Protagonists", "NPC AI", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1siw9cm/anyone_remember_this_post_from_around_20192020/"
+classification: "RUMOR"
 ---
 
 # GTA 6 'Leak' Revisited: A Look Back at a 2019-2020 Reddit Post's Predictions

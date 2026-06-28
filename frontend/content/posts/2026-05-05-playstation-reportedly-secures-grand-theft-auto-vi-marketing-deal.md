@@ -4,6 +4,7 @@ date: "2026-05-05T18:39:18"
 description: "Bloomberg reports PlayStation has seemingly landed the marketing deal for the highly anticipated Grand Theft Auto VI, hinting at an imminent ramp-up in promotional activities."
 tags: ["GTA 6", "Grand Theft Auto VI", "PlayStation", "Marketing Deal", "Rockstar Games", "Bloomberg", "Gaming News", "Industry Rumor"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4obus/playstation_seemingly_lands_gta_6_marketing_deal/"
+classification: "RUMOR"
 ---
 
 # PlayStation Reportedly Secures Grand Theft Auto VI Marketing Deal

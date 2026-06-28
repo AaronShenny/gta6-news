@@ -4,6 +4,7 @@ date: "2026-06-08T13:47:13"
 description: "An analysis of a 2013 Reddit post referencing Take-Two CEO Strauss Zelnick's early speculation regarding Grand Theft Auto VI's potential release window."
 tags: ["GTA VI", "Grand Theft Auto", "Strauss Zelnick", "Take-Two Interactive", "Gaming Industry", "Game Development", "Speculation", "Retro News", "2013", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1u08fa3/strauss_zelnick_talks_about_what_gta_vi_has_to_do/"
+classification: "RUMOR"
 ---
 
 # A Look Back: Strauss Zelnick's 2013 Speculation on GTA VI's Release Timeline

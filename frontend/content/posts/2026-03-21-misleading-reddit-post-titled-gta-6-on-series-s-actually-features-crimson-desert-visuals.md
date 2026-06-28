@@ -4,6 +4,7 @@ date: "2026-03-21T06:41:28"
 description: "A viral Reddit post with the headline 'This is how GTA 6 gonna look on series S' disappointingly links to content showcasing Crimson Desert's graphics on Xbox Series S, offering no actual GTA 6 information."
 tags: ["GTA 6", "Grand Theft Auto VI", "Xbox Series S", "Crimson Desert", "Gaming News", "Misleading Content", "Reddit", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzkk6v/this_is_how_gta_6_gonna_look_on_series_s/"
+classification: "UNKNOWN"
 ---
 
 # Misleading Reddit Post Titled 'GTA 6 on Series S' Actually Features Crimson Desert Visuals

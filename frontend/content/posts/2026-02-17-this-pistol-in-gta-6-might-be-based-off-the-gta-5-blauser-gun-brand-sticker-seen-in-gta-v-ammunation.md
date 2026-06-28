@@ -4,6 +4,7 @@ date: "2026-02-17T04:02:47"
 description: "A Reddit user speculates that a new pistol seen in GTA 6 could be from the 'Blauser' brand, a parody of Sig Sauer found on a sticker in GTA V's Ammu-Nation."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA V", "Blauser", "Sig Sauer", "Glock", "Pistol", "Weapons", "Easter Egg", "Speculation", "Game Lore", "Rockstar Games", "Ammunation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6vtsg/this_pistol_in_gta_6_might_be_based_off_the_gta_5/"
+classification: "RUMOR"
 ---
 
 # This Pistol In GTA 6 Might Be Based Off The GTA 5 Blauser Gun Brand Sticker Seen In GTA V Ammunation.

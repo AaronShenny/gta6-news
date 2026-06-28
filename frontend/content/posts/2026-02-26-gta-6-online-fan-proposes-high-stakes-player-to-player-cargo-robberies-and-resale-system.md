@@ -4,6 +4,7 @@ date: "2026-02-26T21:13:18"
 description: "A dedicated GTA 6 fan outlines an ambitious vision for online gameplay, suggesting a dynamic system where players can rob and resell each other's cargo and drugs, introducing high-risk, high-reward criminal interactions."
 tags: ["GTA 6 Online", "Grand Theft Auto", "Player-to-Player", "PvP", "Cargo Robbery", "Drug Trafficking", "Criminal Gameplay", "Game Mechanics", "Fan Suggestion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfmmdw/gta_6_online_should_allow_players_to_rob_each/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Fan Proposes High-Stakes Player-to-Player Cargo Robberies and Resale System

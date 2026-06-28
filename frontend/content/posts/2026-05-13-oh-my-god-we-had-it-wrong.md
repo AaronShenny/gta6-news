@@ -4,6 +4,7 @@ date: "2026-05-13T23:51:11"
 description: "A Reddit user humorously speculates on the GTA 6 release date based on a fortune cookie message, suggesting May 20th."
 tags: ["GTA 6", "Reddit", "Fan Theory", "Speculation", "Humor", "Sarcasm", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1tch698/oh_my_god_we_had_it_wrong/"
+classification: "RUMOR"
 ---
 
 # Oh my God… WE HAD IT WRONG

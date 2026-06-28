@@ -4,6 +4,7 @@ date: "2026-02-28T09:04:55"
 description: "As GTA 6 anticipation builds, fans are debating which realistic RDR2 gameplay mechanics, like weight management and car fuel, should or shouldn't make it into the next Grand Theft Auto."
 tags: ["GTA 6", "Red Dead Redemption 2", "Gameplay Mechanics", "Realism", "Arcade Style", "Fan Debate", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgxymp/which_rdr2_gameplay_mechanic_are_u_genuinely/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Players Debate RDR2 Mechanics – How Much Realism is Too Much?

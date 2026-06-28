@@ -4,6 +4,7 @@ date: "2026-05-23T19:42:41"
 description: "A Reddit user suggests Rockstar implement 'The Crew Motorfest'-style realistic wheelspin and sand deformation physics in Grand Theft Auto 6 for enhanced environmental interaction."
 tags: ["GTA 6", "Rockstar Games", "Game Physics", "Environmental Interaction", "The Crew Motorfest", "Sand Deformation", "Wheelspin", "Community Suggestion", "Realistic Driving"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlq3u2/i_saw_an_interesting_video_on_youtube_comparing/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Eye Motorfest's Realistic Sand Physics for Immersive Driving

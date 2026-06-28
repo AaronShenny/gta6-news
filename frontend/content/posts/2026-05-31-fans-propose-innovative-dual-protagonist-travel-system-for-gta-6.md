@@ -4,6 +4,7 @@ date: "2026-05-31T17:31:17"
 description: "A Reddit user suggests an innovative GTA 6 feature allowing players to control one protagonist for in-game activities while the other drives, enhancing immersion and productivity during travel."
 tags: ["GTA 6", "Grand Theft Auto 6", "Dual Protagonists", "Gameplay Feature", "Community Idea", "Travel System", "Lucia", "Jason", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tt1o8m/you_drive_illscroll/"
+classification: "RUMOR"
 ---
 
 # Fans Propose Innovative Dual-Protagonist Travel System for GTA 6

@@ -4,6 +4,7 @@ date: "2026-02-28T01:11:29"
 description: "Dive into the wildest fan theories surrounding the mysterious in-game console spotted in the GTA 6 trailer, from expected minigames to the highly speculative inclusion of full classic Rockstar titles or even a playable demo for a new Max Payne."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Speculation", "Trailer Analysis", "In-Game Console", "Minigames", "Max Payne 4", "Midnight Club", "Take-Two Interactive", "Fan Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgoxkt/here_is_my_what_ifs_about_something_in_this/"
+classification: "RUMOR"
 ---
 
 # GTA 6's In-Game Console: A Portal to Minigames, Classic Rockstar Titles, or Even New Demos?

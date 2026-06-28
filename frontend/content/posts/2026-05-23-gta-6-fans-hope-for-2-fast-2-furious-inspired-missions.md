@@ -4,6 +4,7 @@ date: "2026-05-23T20:50:06"
 description: "A Reddit post reveals a fan's specific wish for Grand Theft Auto 6 to feature a mission inspired by a memorable scene from '2 Fast 2 Furious,' fueling speculation about potential street racing and cinematic car sequences."
 tags: ["GTA 6", "Grand Theft Auto 6", "2 Fast 2 Furious", "2F2F", "Fan Speculation", "Missions", "Street Racing", "Car Culture", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlrt2d/i_hope_this_2f2f_scene_is_in_one_of_gta_6s/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for '2 Fast 2 Furious'-Inspired Missions

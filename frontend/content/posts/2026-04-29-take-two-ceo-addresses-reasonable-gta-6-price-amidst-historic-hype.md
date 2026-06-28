@@ -4,6 +4,7 @@ date: "2026-04-29T13:48:00"
 description: "Strauss Zelnick, CEO of Take-Two, discusses the anticipated price of GTA 6, emphasizing 'value' and 'reasonableness' for the highly anticipated title, slated for November 19."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Game Price", "AAA Games", "Video Game Industry", "Release Date", "PS5", "Xbox Series X|S"]
 source: "https://www.gamespot.com/articles/gta-6-price-commented-on-by-rockstars-owner/1100-6539688/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Take-Two CEO Addresses 'Reasonable' GTA 6 Price Amidst Historic Hype

@@ -4,6 +4,7 @@ date: "2026-05-08T00:30:57"
 description: "A dedicated Grand Theft Auto VI fan has unveiled their custom-designed poster and wallpapers for the highly anticipated game, generating buzz within the r/GTA6 subreddit."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Community Creation", "Reddit", "Gaming News", "Wallpapers", "Poster Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6sgsl/i_made_a_gta_vi_poster_and_wallpapers/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Fan Creates Impressive Custom Poster and Wallpapers, Igniting Community Excitement

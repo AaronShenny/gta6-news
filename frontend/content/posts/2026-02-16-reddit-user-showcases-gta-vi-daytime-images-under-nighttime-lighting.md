@@ -4,6 +4,7 @@ date: "2026-02-16T07:59:54"
 description: "A Reddit user has shared 'official GTA VI daytime images at night time,' offering a glimpse into the game's visuals under different lighting conditions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Visuals", "Lighting", "Reddit", "Fan Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1r63q7v/gta_vi_daytime_images_at_night_pt_1/"
+classification: "CONFIRMED"
 ---
 
 # Reddit User Showcases GTA VI Daytime Images Under Nighttime Lighting

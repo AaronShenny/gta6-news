@@ -4,6 +4,7 @@ date: "2026-06-05T19:12:00"
 description: "A Reddit user shared an image of a unique holographic GTA 6 themed baggie, reportedly used for cannabis, generating buzz in the gaming community due to its unexpected nature."
 tags: ["GTA 6", "Reddit", "Fan Content", "Gaming Culture", "Merchandise", "Unofficial Merch", "Viral Post", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1txufqf/my_weed_came_in_this_holo_gta_6_baggie_bananas/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Branding Spotted on Unexpected Item in Viral Reddit Post

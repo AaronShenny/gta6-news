@@ -4,6 +4,7 @@ date: "2026-03-09T01:26:36"
 description: "Fans are voicing concerns about Grand Theft Auto VI's graphical direction, questioning if Rockstar will prioritize extreme photorealism at the expense of a distinct and memorable art style."
 tags: ["GTA 6", "Grand Theft Auto VI", "Graphics", "Photorealism", "Art Style", "Rockstar Games", "Fan Debate", "Visuals", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1romq2p/are_you_guys_concerned_that_gta_vis_graphics_will/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Graphics Debate: Will Photorealism Overshadow Art Style?

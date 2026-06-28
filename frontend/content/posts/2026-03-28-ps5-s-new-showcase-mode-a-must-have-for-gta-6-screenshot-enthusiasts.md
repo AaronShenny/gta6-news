@@ -4,6 +4,7 @@ date: "2026-03-28T15:15:27"
 description: "Discover the PS5's latest update, Showcase Mode, enabling players to create immersive full-view slideshows of their favorite GTA 6 screenshots."
 tags: ["PS5", "PlayStation 5", "Showcase Mode", "GTA 6", "Grand Theft Auto 6", "Screenshots", "Slideshow", "Gaming Update", "Console Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1s630xc/ps5s_new_showcase_mode_lets_you_add_your_favorite/"
+classification: "UNKNOWN"
 ---
 
 # PS5's New Showcase Mode: A Must-Have for GTA 6 Screenshot Enthusiasts

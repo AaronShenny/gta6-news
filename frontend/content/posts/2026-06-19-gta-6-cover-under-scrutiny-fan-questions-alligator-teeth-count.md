@@ -4,6 +4,7 @@ date: "2026-06-19T05:37:20"
 description: "A Reddit user has sparked discussion by pointing out that the alligator on the GTA 6 cover appears to have fewer teeth than a real alligator, prompting speculation about potential hidden meanings or a design oversight."
 tags: ["GTA 6", "Grand Theft Auto 6", "Cover Art", "Easter Egg", "Alligator", "Fan Theory", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9tdlr/mistake_with_the_gta_6_cover/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cover Under Scrutiny: Fan Questions Alligator Teeth Count

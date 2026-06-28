@@ -4,6 +4,7 @@ date: "2026-02-23T07:37:03"
 description: "A dedicated fan speculates on GTA 6 incorporating realistic rush hour traffic, potentially adding new layers of immersion and strategic gameplay to the open world experience. Discover the pros and cons of this ambitious idea."
 tags: ["GTA 6", "Grand Theft Auto", "Rush Hour", "Traffic", "Open World", "Immersion", "Gameplay", "Speculation", "Fan Theory", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcb5z3/is_there_a_possibility_gta_6_will_have_rush_hour/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Dynamic Rush Hour Traffic Redefine Vice City's Open World Immersion?

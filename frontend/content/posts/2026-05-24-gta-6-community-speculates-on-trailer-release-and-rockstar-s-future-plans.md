@@ -4,6 +4,7 @@ date: "2026-05-24T16:28:12"
 description: "A Reddit user humorously expresses impatience for GTA 6's third trailer, suggesting 'Shrek 6' might arrive first, while also anticipating a potential Rockstar Games announcement on May 26th."
 tags: ["GTA 6", "Rockstar Games", "Gaming News", "Fan Speculation", "Video Game Trailers", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmguz5/trailer_3_is_gonna_be_like/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Trailer Release and Rockstar's Future Plans

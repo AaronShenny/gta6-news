@@ -4,6 +4,7 @@ date: "2026-05-28T16:25:45"
 description: "A Reddit post titled 'Gta 6 death wall in Poland' has appeared, sparking curiosity without providing any further information or context about the intriguing claim."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Rumor", "Speculation", "Gaming News", "Poland", "Death Wall"]
 source: "https://www.reddit.com/r/GTA6/comments/1tq8j4q/gta_6_death_wall_in_poland/"
+classification: "RUMOR"
 ---
 
 # Mysterious 'GTA 6 Death Wall in Poland' Post Surfaces on Reddit, Lacks Details

@@ -4,6 +4,7 @@ date: "2026-06-27T13:50:25"
 description: "A Reddit user shares a positive first impression of GTA 6's road scales, suggesting they strike a perfect balance that will enhance the game's overall map perception and player experience."
 tags: ["GTA 6", "Grand Theft Auto 6", "Road Scales", "Map Design", "Game Development", "Reddit", "Community Reaction", "Rockstar Games", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1uh3axf/gta_6_road_scales_are_perfect/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Praises GTA 6 Road Scales for Optimal Map Feel

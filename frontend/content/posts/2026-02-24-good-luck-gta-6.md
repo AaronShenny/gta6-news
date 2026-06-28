@@ -4,6 +4,7 @@ date: "2026-02-24T01:00:23"
 description: "A dedicated GTA Online player expresses grave concerns about the persistent anti-cheat issues plaguing the game, warning that GTA 6's online component could face a rapid decline if Rockstar doesn't significantly improve its hacker detection and prevention."
 tags: ["GTA 6", "Grand Theft Auto Online", "Anti-Cheat", "Rockstar Games", "Hackers", "Online Gaming", "Player Concerns", "Game Longevity", "GTA 5"]
 source: "https://www.reddit.com/r/GTA6/comments/1rd024w/good_luck_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # Good luck GTA 6

@@ -4,6 +4,7 @@ date: "2026-03-29T22:51:10"
 description: "A Reddit post sparks discussion among PlayStation users and GTA Online players about the potential requirement of a PS Plus subscription for GTA 6 Online on PS5."
 tags: ["GTA 6", "GTA Online", "PlayStation 5", "PS Plus", "Online Multiplayer", "Gaming", "Subscription", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s79lid/gta_6_online_on_playstation/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Online on PlayStation: Will PS Plus Be Required?

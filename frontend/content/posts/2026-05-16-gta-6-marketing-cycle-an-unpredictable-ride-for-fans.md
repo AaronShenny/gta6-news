@@ -4,6 +4,7 @@ date: "2026-05-16T12:07:00"
 description: "The GTA 6 marketing cycle continues to baffle fans and journalists alike, with conflicting rumors about preorders, trailer releases, and official announcements keeping the community guessing."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Marketing Cycle", "Game Leaks", "Preorders", "Game Trailer", "Speculation", "Gaming News", "Community Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1teruwx/what_the_hell_is_this_marketing_cycle/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing Cycle: An Unpredictable Ride for Fans

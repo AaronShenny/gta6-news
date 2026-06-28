@@ -4,6 +4,7 @@ date: "2026-03-22T15:01:52"
 description: "A Reddit post has sparked discussion among Grand Theft Auto fans, asking what new gameplay mechanic GTA 6 should introduce in its opening level, following a tradition set by previous titles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gameplay Mechanics", "Fan Speculation", "Reddit", "Rockstar Games", "Gaming News", "Game Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0nvfr/what_gameplay_mechanic_should_gta_6_introduce_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Speculate on Groundbreaking Launch Mechanic

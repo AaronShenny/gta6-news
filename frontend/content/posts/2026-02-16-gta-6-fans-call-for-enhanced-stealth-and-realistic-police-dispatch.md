@@ -4,6 +4,7 @@ date: "2026-02-16T14:10:14"
 description: "A Reddit user outlines their hopes for GTA 6, advocating for significant improvements to the stealth system and police dispatch mechanics, drawing inspiration from games like Watch Dogs."
 tags: ["GTA 6", "Grand Theft Auto VI", "Stealth System", "Police AI", "Dispatch System", "Gameplay Improvements", "Fan Feedback", "Watch Dogs", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6alu4/better_stealth_and_dispatch_system_and_custom/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Call for Enhanced Stealth and Realistic Police Dispatch

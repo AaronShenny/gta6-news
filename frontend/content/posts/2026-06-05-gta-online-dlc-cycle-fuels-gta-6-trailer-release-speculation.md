@@ -4,6 +4,7 @@ date: "2026-06-05T02:03:45"
 description: "A Reddit user analyzes GTA+ benefit cycles and past GTA Online DLC trailer timings, sparking discussion on whether Rockstar will apply similar strategies to upcoming content or the highly anticipated Grand Theft Auto VI trailer."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA Online", "Rockstar Games", "DLC", "Trailer", "Release Date", "Speculation", "Gaming News", "GTA+"]
 source: "https://www.reddit.com/r/GTA6/comments/1tx7lbf/gta_5_online_dlc/"
+classification: "RUMOR"
 ---
 
 # GTA Online DLC Cycle Fuels GTA 6 Trailer Release Speculation

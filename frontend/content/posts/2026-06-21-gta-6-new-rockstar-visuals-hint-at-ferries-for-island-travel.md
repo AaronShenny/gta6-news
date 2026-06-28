@@ -4,6 +4,7 @@ date: "2026-06-21T09:15:15"
 description: "A Reddit post from /u/kalkoentje1234 suggests that a recent Rockstar screenshot or GIF confirms the inclusion of ferries in Grand Theft Auto VI, potentially linking locations like Terminal Island and Fisher Island."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Ferries", "Transportation", "Leaks", "Rumors", "Game Features", "Open World", "Terminal Island", "Fisher Island"]
 source: "https://www.reddit.com/r/GTA6/comments/1ublg9d/ferries_confirmed/"
+classification: "RUMOR"
 ---
 
 # GTA 6: New Rockstar Visuals Hint at Ferries for Island Travel

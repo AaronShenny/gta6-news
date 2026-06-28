@@ -4,6 +4,7 @@ date: "2026-03-29T18:42:08"
 description: "A Reddit user speculates on the dynamic, unpredictable street life in Grand Theft Auto 6, highlighting the potential for spontaneous character actions."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Open World", "NPC Behavior", "Community Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1s738fv/i_feel_like_this_could_be_a_real_random_scene_on/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Envisions Realistic Random Street Scenes

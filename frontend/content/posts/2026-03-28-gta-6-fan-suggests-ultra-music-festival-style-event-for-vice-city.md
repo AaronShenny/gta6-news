@@ -4,6 +4,7 @@ date: "2026-03-28T15:21:17"
 description: "A dedicated GTA 6 fan proposes the inclusion of a massive, multi-day music festival, inspired by Ultra Music Festival, within the game, potentially as a setting for exciting missions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Music Festival", "Ultra Music Festival", "Fan Suggestion", "Rockstar Games", "Vice City", "Missions", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6369q/ultra_music_festival_or_something_similar_for/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Suggests Ultra Music Festival-Style Event for Vice City

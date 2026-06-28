@@ -4,6 +4,7 @@ date: "2026-05-09T06:00:56"
 description: "The GTA 6 subreddit is buzzing with intense anticipation as a major fan theory approaches its moment of truth, leaving the community to wonder if it's a breakthrough or another 'moon theory disaster'."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Rumors", "Fan Theories", "Gaming Community", "Reddit", "Video Game Hype", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7wfuy/we_are_at_the_final_stage_of_this_hopium_journey/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Community Reaches Peak 'Hopium' as Key Theory Nears Verdict

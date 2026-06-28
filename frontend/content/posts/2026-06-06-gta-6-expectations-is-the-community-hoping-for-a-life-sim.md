@@ -4,6 +4,7 @@ date: "2026-06-06T18:24:53"
 description: "A Reddit user weighs in on the high expectations for GTA 6, suggesting some fans might be anticipating a 'real-life simulator' more akin to The Sims than a traditional Grand Theft Auto experience."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Expectations", "Life Simulator", "The Sims", "Gaming Community", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tyotbv/sometimes_i_think_people_want_a_sims_game_instead/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Expectations: Is the Community Hoping for a Life Sim?

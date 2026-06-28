@@ -4,6 +4,7 @@ date: "2026-04-15T21:44:00"
 description: "Dead Space creator Glen Schofield discusses Grand Theft Auto 6's overwhelming market presence, the challenges of game launches, and the transformative role of AI in game development."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gaming Industry", "Game Development", "Glen Schofield", "Dead Space", "AI in Gaming", "Game Launches", "Market Saturation", "Rockstar Games", "AAA Games", "Video Games"]
 source: "https://www.gamespot.com/articles/dead-space-creator-talks-gta-6s-effect-on-other-games-you-dont-wanna-be-near-it/1100-6539432/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Industry Impact & The Future of Game Dev: Dead Space Creator Weighs In

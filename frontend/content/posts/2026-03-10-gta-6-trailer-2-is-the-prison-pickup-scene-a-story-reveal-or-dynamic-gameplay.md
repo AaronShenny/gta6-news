@@ -4,6 +4,7 @@ date: "2026-03-10T05:10:14"
 description: "A new fan theory speculates that the GTA 6 Trailer 2 scene featuring Jason picking up Lucia from prison may be a recurring gameplay event, similar to RDR 2's arrest mechanics, rather than a fixed story beat."
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailer 2", "Prison Scene", "Lucia", "Jason", "Gameplay Mechanics", "Story Speculation", "Rockstar Games", "RDR 2 Comparison"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpo3av/i_think_trailer_2_prison_scene_is_misleading/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 2: Is the Prison Pickup Scene a Story Reveal or Dynamic Gameplay?

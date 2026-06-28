@@ -4,6 +4,7 @@ date: "2026-06-25T17:38:38"
 description: "Playing Grand Theft Auto 6 at launch in 2026 will come with an unprecedented price tag for new console owners, as PS5 and Xbox Series X|S prices are soaring instead of dropping, unlike previous GTA releases."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "Xbox Series X", "Xbox Series S", "Console Prices", "Gaming Industry", "Chip Shortage", "AI Industry", "Rockstar Games", "Gaming Costs", "Video Game Hardware"]
 source: "https://www.gamespot.com/articles/buying-gta-6-and-a-new-console-this-fall-you-better-be-rich/"
+classification: "UNKNOWN"
 ---
 
 # Buying GTA 6 And A New Console This Fall? You Better Be Rich

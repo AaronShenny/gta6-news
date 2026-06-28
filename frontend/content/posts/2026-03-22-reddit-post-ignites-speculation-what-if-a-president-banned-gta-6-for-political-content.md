@@ -4,6 +4,7 @@ date: "2026-03-22T11:42:40"
 description: "A Reddit user on r/GTA6 explores a hypothetical scenario where a U.S. President attempts to ban Grand Theft Auto 6 over political parody or anti-MAGA content, sparking discussion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Reddit", "Speculation", "Political Satire", "Censorship", "Gaming News", "Donald Trump", "MAGA"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0jhdu/just_stirring_the_pot/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Ignites Speculation: What if a President Banned GTA 6 for Political Content?

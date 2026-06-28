@@ -4,6 +4,7 @@ date: "2026-02-19T19:23:00"
 description: "AI's memory chip hunger is driving up hardware prices. This unprecedented shortage could impact next-gen gaming, affecting PC builds and the future of titles like GTA 6."
 tags: ["Gaming", "Chip Shortage", "AI", "RAM", "GPU", "PC Gaming", "Hardware", "Consoles", "Game Development", "Tech Industry", "Memory Prices", "DIY PC", "GTA 6", "Next-Gen Gaming"]
 source: "https://www.gamespot.com/articles/the-chip-shortage-is-coming-for-your-games/1100-6538293/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # AI's Insatiable Hunger: How the Chip Shortage Could Impact Games Like GTA 6

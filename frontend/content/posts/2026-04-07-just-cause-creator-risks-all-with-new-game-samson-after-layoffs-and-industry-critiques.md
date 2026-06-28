@@ -4,6 +4,7 @@ date: "2026-04-07T20:14:00"
 description: "Christofer Sundberg, co-creator of Just Cause, discusses the high stakes for his new studio Liquid Swords and its debut game, Samson, following significant layoffs and a scaled-back vision, while also criticizing the state of the modern game industry."
 tags: ["Samson: A Tyndalston Story", "Liquid Swords", "Christofer Sundberg", "Just Cause", "Game Development", "Layoffs", "AA Games", "PC Gaming", "Gaming Industry", "Crime Game", "Action Game", "Game Release"]
 source: "https://www.gamespot.com/articles/battling-layoffs-gta-comparisons-and-the-industrys-crap-how-just-causes-creator-is-risking-it-all/1100-6539258/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # Just Cause Creator Risks All with New Game 'Samson' After Layoffs and Industry Critiques

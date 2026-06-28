@@ -4,6 +4,7 @@ date: "2026-03-01T18:44:19"
 description: "A Reddit discussion on r/GTA6 speculates on contemporary gaming trends that fans believe Rockstar Games might incorporate into GTA 6, even if they seem 'pointless' for the franchise."
 tags: ["GTA 6", "Rockstar Games", "Gaming Trends", "Reddit", "Fan Speculation", "Game Design", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ri5ai2/whats_one_thing_that_has_become_a_trend_that/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Reddit Debates 'Pointless' Gaming Trends Rockstar Might Include

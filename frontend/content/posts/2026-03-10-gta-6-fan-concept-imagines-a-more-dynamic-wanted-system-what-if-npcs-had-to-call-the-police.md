@@ -4,6 +4,7 @@ date: "2026-03-10T12:49:25"
 description: "A popular fan discussion for GTA 6 proposes a revolutionary wanted system where NPCs actively call the police, adding new layers of strategy and realism to criminal acts in Vice City."
 tags: ["GTA 6", "Grand Theft Auto", "Wanted System", "NPC AI", "Fan Concept", "Gameplay Mechanics", "Rockstar Games", "Open World", "Crime Simulation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpw0vm/what_if_npcs_actually_had_to_call_the_police_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Concept Imagines a More Dynamic Wanted System: What If NPCs Had to Call the Police?

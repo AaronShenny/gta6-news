@@ -4,6 +4,7 @@ date: "2026-03-20T15:44:01"
 description: "GTA 6 fans are speculating on the inclusion of the Hard Rock Cafe in Vice City, with hopes for a detailed interior and dense Bayside and Downtown areas."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Hard Rock Cafe", "Game Landmarks", "Environment Details", "Fan Speculation", "Leaks", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ryzs09/hard_rock_cafe_featuring_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # Hard Rock Cafe Potentially Featured in GTA VI's Vice City

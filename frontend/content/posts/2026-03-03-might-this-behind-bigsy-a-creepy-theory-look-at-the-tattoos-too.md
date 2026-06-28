@@ -4,6 +4,7 @@ date: "2026-03-03T17:34:05"
 description: "A new theory suggests GTA 6 could integrate elements from Rockstar's Manhunt series, including Carcer City and Piggsy, alongside satirical sci-fi themes."
 tags: ["GTA 6", "Manhunt", "Rockstar Games", "Carcer City", "Piggsy", "Game Theory", "Crossover", "Satire", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjvo2t/might_this_behind_bigsy_a_creepy_theory_look_at/"
+classification: "RUMOR"
 ---
 
 # Might this behind Bigsy? A creepy theory; look at the tattoos too.

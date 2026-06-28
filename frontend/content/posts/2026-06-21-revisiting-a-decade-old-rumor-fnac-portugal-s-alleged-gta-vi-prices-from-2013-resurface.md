@@ -4,6 +4,7 @@ date: "2026-06-21T09:57:24"
 description: "An old Reddit post from 2013 claiming FNAC Portugal leaked GTA VI prices (90-200 euros) is examined, highlighting its age and unconfirmed nature years before the game's official announcement."
 tags: ["GTA VI", "GTA 6", "Leak", "Pricing Rumors", "FNAC Portugal", "Rockstar Games", "Gaming Speculation", "Historical Leak"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubm4lx/fnac_portugal_leaked_gta_vi_prices/"
+classification: "RUMOR"
 ---
 
 # Revisiting a Decade-Old Rumor: FNAC Portugal's Alleged GTA VI Prices from 2013 Resurface

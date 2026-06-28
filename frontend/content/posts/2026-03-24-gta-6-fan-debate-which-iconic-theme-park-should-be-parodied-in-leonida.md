@@ -4,6 +4,7 @@ date: "2026-03-24T20:50:00"
 description: "A recent fan discussion explores which real-world theme park Rockstar Games should parody for Grand Theft Auto VI's new map, Leonida, weighing options like Universal and Disney analogs."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Theme Park", "Leonida", "Vice City", "Fan Discussion", "Gaming News", "InterGlobal", "Fred's Pictures", "Universal Parody", "Disney Parody"]
 source: "https://www.reddit.com/r/GTA6/comments/1s2q0pu/if_you_were_to_choose_a_theme_park_to_appear_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Debate: Which Iconic Theme Park Should Be Parodied in Leonida?

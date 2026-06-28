@@ -4,6 +4,7 @@ date: "2026-05-13T12:35:06"
 description: "A Reddit post reveals significant confusion among casual players regarding the Grand Theft Auto VI release date, underscoring the urgent need for a new official trailer to set expectations straight."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Trailer", "Casual Gamers", "Gaming News", "Misinformation", "Hype", "Rockstar Games", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tbyc4m/i_have_a_genuine_example_of_why_a_new_trailer/"
+classification: "CONFIRMED"
 ---
 
 # Casual Gamers Misinformed on GTA 6 Release, Highlighting Need for New Trailer

@@ -4,6 +4,7 @@ date: "2026-05-02T01:26:18"
 description: "A gaming journalist argues that GTA 6 on the PS5 Pro will offer a noticeable visual upgrade over the base PS5, citing Rockstar's resources and early devkit access for optimization."
 tags: ["GTA 6", "PS5 Pro", "PlayStation 5", "Rockstar Games", "Visual Upgrade", "Ray Tracing", "PSSR", "Gaming News", "Console Gaming", "Game Optimization"]
 source: "https://www.reddit.com/r/GTA6/comments/1t1c169/i_think_ps5_pro_will_be_a_noticeable_visual/"
+classification: "UNKNOWN"
 ---
 
 # Journalist Predicts Significant Visual Leap for GTA 6 on PS5 Pro

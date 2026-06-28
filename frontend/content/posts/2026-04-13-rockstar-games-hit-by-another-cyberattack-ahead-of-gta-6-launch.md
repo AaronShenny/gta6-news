@@ -4,6 +4,7 @@ date: "2026-04-13T14:28:00"
 description: "ShinyHunters claims responsibility for a new hack targeting Rockstar Games via a third-party provider, though Rockstar asserts the breach was minor and no ransom will be paid, just months before GTA 6's anticipated release."
 tags: ["GTA 6", "Rockstar Games", "ShinyHunters", "Cyberattack", "Data Breach", "Ransomware", "Anodot", "Grand Theft Auto", "Gaming News", "Video Game Security", "Take-Two Interactive"]
 source: "https://www.gamespot.com/articles/ahead-of-gta-6-rockstar-hacked-by-ransomware-group-again/1100-6539360/?ftag=CAD-01-10abi2f"
+classification: "LEAK"
 ---
 
 # Rockstar Games Hit By Another Cyberattack Ahead of GTA 6 Launch

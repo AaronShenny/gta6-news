@@ -4,6 +4,7 @@ date: "2026-02-21T02:45:22"
 description: "An opinion piece raises concerns that GTA 6's unprecedented $1-2 billion development cost could make it a financial disaster for Rockstar, drawing parallels to Square's 'Final Fantasy: The Spirits Within.'"
 tags: ["GTA 6", "Rockstar Games", "Video Game Industry", "Development Costs", "Final Fantasy The Spirits Within", "Financial Risk", "Live Service Games", "Game Development", "Take-Two Interactive"]
 source: "https://www.reddit.com/r/GTA6/comments/1rafk0x/unpopular_opinion_gta_6_is_rockstars_final/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Billion-Dollar Gamble: Is Rockstar Repeating 'The Spirits Within's' Financial Folly?

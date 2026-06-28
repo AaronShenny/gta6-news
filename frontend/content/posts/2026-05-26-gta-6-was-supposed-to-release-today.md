@@ -4,6 +4,7 @@ date: "2026-05-26T12:48:13"
 description: "Grand Theft Auto 6 missed its previously anticipated May 26, 2026 release date and is now set for November 19, 2026, as Rockstar prioritizes quality over deadlines."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Release Date", "Delay", "Gaming News", "PlayStation 5", "Xbox Series X|S", "PC Gaming", "Strauss Zelnick"]
 source: "https://www.gamespot.com/articles/gta-6-was-supposed-to-release-today/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Was Supposed To Release Today

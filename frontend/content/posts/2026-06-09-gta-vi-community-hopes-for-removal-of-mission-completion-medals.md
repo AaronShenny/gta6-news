@@ -4,6 +4,7 @@ date: "2026-06-09T17:59:24"
 description: "A Reddit user expresses a strong desire for Grand Theft Auto VI to drop the mission completion medal system, citing frustration with restrictive requirements and perceived gameplay padding."
 tags: ["GTA 6", "Grand Theft Auto VI", "Mission Design", "Player Feedback", "Community Opinion", "Rockstar Games", "Gameplay Mechanics", "Completion Medals"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1cms5/one_thing_i_hope_doesnt_return_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA VI: Community Hopes for Removal of Mission Completion Medals

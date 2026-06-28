@@ -4,6 +4,7 @@ date: "2026-03-03T04:58:23"
 description: "A new theory suggests Rockstar will drop GTA 6 Trailer 3 and fresh screenshots between March and May, ahead of any major summer marketing push, to minimize leak risks."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Trailer 3", "Marketing Strategy", "Leaks", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjgcex/trailer_3_will_not_be_part_of_gta_6s_summer/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3 Anticipated Sooner Than Summer, Analyst Suggests

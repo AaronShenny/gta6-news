@@ -4,6 +4,7 @@ date: "2026-03-27T15:40:37"
 description: "A popular Reddit theory speculates whether GTA 6 will continue or break the series' tradition of introducing the final antagonist in early game cutscenes."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Antagonist Theory", "Gaming Speculation", "Narrative Design", "Reddit Discussion", "Video Game Spoilers"]
 source: "https://www.reddit.com/r/GTA6/comments/1s57okg/just_realized_in_most_of_the_past_gta_the_final/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Antagonist Theory: Will Rockstar Break a Long-Standing Narrative Pattern?

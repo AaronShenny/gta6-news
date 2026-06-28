@@ -4,6 +4,7 @@ date: "2026-02-14T01:42:33"
 description: "A member of a GTA 6 mapping project has made extraordinary claims, suggesting the highly anticipated game is entirely AI-driven. The gaming community is now debating the validity of this controversial 'evidence' and the plausibility of such advanced tech."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "AI", "Artificial Intelligence", "Gaming Rumors", "Game Development", "Mapping Project", "Reddit", "Community Debate", "Speculation", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r47mzg/this_guy_on_the_gta_6_mapping_project_thinks_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Mapping Project Insider Fuels Wild AI Rumors, Community Divided

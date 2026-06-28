@@ -4,6 +4,7 @@ date: "2026-03-21T15:58:36"
 description: "A Reddit user sparked a discussion about Grand Theft Auto 6, expressing a desire for longer and more dynamic 'Wasted' death scenes compared to GTA 5's perceived brevity."
 tags: ["GTA 6", "Grand Theft Auto", "Wasted", "Death Scenes", "Cutscenes", "Fan Wishlist", "Reddit", "Community Feedback", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzv1v7/extended_death_wasted_cut_scenes/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Hopes for Extended, More Chaotic 'Wasted' Cutscenes

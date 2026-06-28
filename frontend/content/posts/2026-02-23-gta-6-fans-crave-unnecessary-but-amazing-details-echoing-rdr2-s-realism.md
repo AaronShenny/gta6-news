@@ -4,6 +4,7 @@ date: "2026-02-23T18:13:13"
 description: "A Reddit discussion reveals GTA 6 fans' desire for hyper-realistic, 'unnecessary' details, drawing parallels to Red Dead Redemption 2's infamous environmental realism."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Red Dead Redemption 2", "RDR2", "Game Details", "Realism", "Immersion", "Fan Discussion", "Reddit", "Jason", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcp2g1/unnecessary_yet_amazing_details/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Crave 'Unnecessary But Amazing' Details, Echoing RDR2's Realism

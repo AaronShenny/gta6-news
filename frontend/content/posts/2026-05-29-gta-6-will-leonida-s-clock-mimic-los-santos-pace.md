@@ -4,6 +4,7 @@ date: "2026-05-29T11:05:10"
 description: "A Reddit discussion sparks debate on whether GTA 6 will maintain GTA 5's 40-50 minute in-game day cycle, or introduce a new pace for time in the highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto 6", "Day-Night Cycle", "Game Time", "Rockstar Games", "Community Discussion", "Reddit", "GTA 5"]
 source: "https://www.reddit.com/r/GTA6/comments/1tqyew4/let_time_pass/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Will Leonida's Clock Mimic Los Santos' Pace?

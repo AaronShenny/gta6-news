@@ -4,6 +4,7 @@ date: "2026-03-20T17:44:20"
 description: "Explore what fans hope to see in GTA 6, blending the best features from San Andreas, GTA IV, GTA V, Vice City, and Red Dead Redemption 2 into one ultimate experience."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Wishlist", "Fan Features", "Gaming News", "GTA San Andreas", "GTA IV", "GTA V", "Vice City", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1rz30y7/what_features_should_gta_6_have_compared_to_other/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Wishlist: Fans Envision a Hybrid of Rockstar's Greatest Hits

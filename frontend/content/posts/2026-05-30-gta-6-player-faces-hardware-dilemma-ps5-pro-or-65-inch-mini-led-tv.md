@@ -4,6 +4,7 @@ date: "2026-05-30T19:33:10"
 description: "A Reddit user seeks advice on whether to upgrade their PlayStation 5 to a rumored PS5 Pro or invest in a larger 65-inch Mini LED TV for an optimal Grand Theft Auto 6 gaming experience."
 tags: ["GTA 6", "PlayStation 5", "PS5 Pro", "Gaming TV", "Mini LED", "Hardware Upgrade", "Gaming Experience", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1ts96gh/tv_or_ps5/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Player Faces Hardware Dilemma: PS5 Pro or 65-inch Mini LED TV?

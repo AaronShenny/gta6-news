@@ -4,6 +4,7 @@ date: "2026-03-27T00:54:42"
 description: "A Reddit user has created and shared a fan-made video edit for the highly anticipated Grand Theft Auto VI, titled 'Follow Me', sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Content", "Community", "Video Edit", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4plpv/follow_me_my_gta_vi_edit/"
+classification: "CONFIRMED"
 ---
 
 # Community Spotlight: '/u/kakes_411' Shares 'Follow Me' GTA VI Edit

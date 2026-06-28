@@ -4,6 +4,7 @@ date: "2026-05-21T01:53:30"
 description: "A Reddit user speculates on the GTA 6 release date, suggesting that passing a critical day without a delay announcement significantly boosts the chances of a November launch."
 tags: ["GTA 6", "Grand Theft Auto", "Release Date", "Delay Speculation", "Rockstar Games", "Gaming News", "Reddit", "Fan Theory"]
 source: "https://www.reddit.com/r/GTA6/comments/1tj676r/tomorrow_is_literally_so_important_man/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Release Speculation: Why 'Tomorrow' is Crucial for Fans

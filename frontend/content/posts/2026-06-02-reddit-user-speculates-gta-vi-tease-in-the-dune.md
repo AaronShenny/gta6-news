@@ -4,6 +4,7 @@ date: "2026-06-02T21:30:50"
 description: "A Reddit user on r/GTA6 has posted about a potential Grand Theft Auto VI tease found within 'The Dune,' sparking discussion among fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rumor", "Tease", "Reddit", "The Dune", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv4uqu/they_teased_gta_vi_in_the_dune/"
+classification: "RUMOR"
 ---
 
 # Reddit User Speculates GTA VI Tease in 'The Dune'

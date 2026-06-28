@@ -4,6 +4,7 @@ date: "2026-06-01T05:09:25"
 description: "A Reddit post from the r/GTA6 community humorously acknowledges the lack of anticipated Grand Theft Auto 6 news during the month of May, despite earlier fan speculation."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Community Speculation", "Gaming News", "Reddit", "May Updates"]
 source: "https://www.reddit.com/r/GTA6/comments/1tti9r2/remember_how_everyone_said_that_may_would_be_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Reflects on May's Unfulfilled News Expectations

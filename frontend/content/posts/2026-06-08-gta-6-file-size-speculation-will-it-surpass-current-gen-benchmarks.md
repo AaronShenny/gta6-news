@@ -4,6 +4,7 @@ date: "2026-06-08T05:58:59"
 description: "A Reddit user speculates on GTA 6's potential file size, comparing it to Crimson Desert's 84GB on PS5 and questioning if it will set a new standard for large open-world games."
 tags: ["GTA 6", "Grand Theft Auto", "File Size", "Game Size", "Open World", "Gaming News", "Speculation", "Rockstar Games", "Crimson Desert", "PS5"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzzcgz/how_big_of_a_file_size_will_gta_6_have/"
+classification: "RUMOR"
 ---
 
 # GTA 6 File Size Speculation: Will It Surpass Current-Gen Benchmarks?

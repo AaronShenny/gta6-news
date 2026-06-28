@@ -4,6 +4,7 @@ date: "2026-06-24T14:18:54"
 description: "A Reddit post comparing eye detail in GTA 5 and the upcoming GTA 6 sparks fan excitement and speculation about the next-gen visual fidelity of Rockstar's highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA 5", "Graphics Comparison", "Eye Detail", "Gaming News", "Rockstar Games", "Next-Gen Graphics", "Fan Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1ueeu0e/gta_5_vs_gta_6_eye_detail_comparison/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Eye for Detail: Fan Comparison Ignites Discussion on Next-Gen Graphics

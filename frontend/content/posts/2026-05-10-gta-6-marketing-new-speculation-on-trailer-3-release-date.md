@@ -4,6 +4,7 @@ date: "2026-05-10T01:27:22"
 description: "A Reddit user speculates on the release date for Grand Theft Auto 6's third trailer, proposing May 17th tied to Norway's National Day and a past retail promotion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailer 3", "Release Date", "Speculation", "Rockstar Games", "Norway", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8t2cc/the_marketing_for_gta6_is_officialy_in_works/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing: New Speculation on Trailer 3 Release Date

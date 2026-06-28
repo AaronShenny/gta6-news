@@ -4,6 +4,7 @@ date: "2026-03-29T01:48:06"
 description: "Grand Theft Auto VI will feature modern white LED streetlights in Vice City, a subtle yet impactful visual upgrade from GTA V's older sodium lighting, reflecting current real-world trends."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "LED Lighting", "Sodium Lights", "Game Graphics", "Visual Fidelity", "Realism", "Game Details", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6if6u/the_change_from_sodium_lights_to_led_lights/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6's Subtle Visual Upgrade: Modern LED Lighting Illuminates Vice City

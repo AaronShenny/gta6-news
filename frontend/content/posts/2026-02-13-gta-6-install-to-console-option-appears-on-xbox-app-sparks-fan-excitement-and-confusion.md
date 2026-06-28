@@ -4,6 +4,7 @@ date: "2026-02-13T19:21:04"
 description: "A Reddit user mistakenly 'installed' GTA 6 via the Xbox app, leading to temporary excitement and questions about console functionality for unreleased titles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox", "Xbox App", "Gaming News", "Console Bug", "Release Date", "Fan Excitement", "Placeholder"]
 source: "https://www.reddit.com/r/GTA6/comments/1r3yetg/got_excited_there_why_does_the_console_have_these/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 'Install to Console' Option Appears on Xbox App, Sparks Fan Excitement and Confusion

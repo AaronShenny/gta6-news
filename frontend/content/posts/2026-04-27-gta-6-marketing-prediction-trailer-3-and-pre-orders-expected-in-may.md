@@ -4,6 +4,7 @@ date: "2026-04-27T22:34:41"
 description: "A Reddit user speculates that Grand Theft Auto VI's third trailer and pre-orders could arrive in May, ahead of Take-Two's stated 'launch marketing' in summer."
 tags: ["GTA 6", "Grand Theft Auto VI", "Marketing", "Prediction", "Trailer 3", "Pre-orders", "Take-Two", "Release Date Speculation", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1sxj2fb/my_gta_6_marketing_timeline_prediction/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing Prediction: Trailer 3 and Pre-orders Expected in May

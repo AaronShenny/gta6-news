@@ -4,6 +4,7 @@ date: "2026-03-29T21:55:19"
 description: "A Reddit post from user Tilak_187 has ignited discussion by speculating that the Grand Theft Auto 6 development budget could soar to an unprecedented $3 billion. This unofficial claim has sparked significant community reaction."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Video Game Budget", "Gaming News", "Speculation", "Reddit", "Game Development", "Take-Two Interactive"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7893x/the_budget_for_gta_6_looks_like_it_will_be_3/"
+classification: "RUMOR"
 ---
 
 # Reddit Speculation Suggests GTA 6 Budget Could Reach Staggering $3 Billion

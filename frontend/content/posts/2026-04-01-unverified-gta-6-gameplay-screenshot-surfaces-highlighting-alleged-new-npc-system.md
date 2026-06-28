@@ -4,6 +4,7 @@ date: "2026-04-01T10:25:34"
 description: "An anonymous insider claims to have leaked a screenshot from a Rockstar employee's screen share, purportedly showing GTA 6 gameplay and a revolutionary new NPC system. Authenticity remains unconfirmed."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gameplay Leak", "NPC System", "Gaming News", "Video Game Rumors", "Unverified", "Insider Information", "Gaming Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9gmnx/insider_shows_what_gta_6_gameplay_looks_like/"
+classification: "RUMOR"
 ---
 
 # Unverified GTA 6 Gameplay Screenshot Surfaces, Highlighting Alleged New NPC System

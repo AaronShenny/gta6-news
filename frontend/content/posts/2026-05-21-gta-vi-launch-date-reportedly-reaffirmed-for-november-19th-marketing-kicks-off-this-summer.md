@@ -4,6 +4,7 @@ date: "2026-05-21T20:35:49"
 description: "A Reddit user reports Take-Two CEO Strauss Zelnick has reconfirmed the November 19th launch date for Grand Theft Auto VI and that marketing will begin this summer."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Launch Date", "Marketing", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjx3q9/strauss_just_reaffirmed_november_19th_as_launch/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Launch Date Reportedly Reaffirmed for November 19th, Marketing Kicks Off This Summer

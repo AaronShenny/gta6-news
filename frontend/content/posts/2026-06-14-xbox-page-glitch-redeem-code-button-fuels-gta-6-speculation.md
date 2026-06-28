@@ -4,6 +4,7 @@ date: "2026-06-14T09:20:24"
 description: "A Reddit user reported seeing a 'redeem a code' option on an Xbox page seemingly related to GTA 6, sparking community speculation about early access or unannounced content."
 tags: ["GTA 6", "Grand Theft Auto VI", "Xbox", "Redeem Code", "Gaming News", "Leaks", "Rumors", "Speculation", "Rockstar Games", "Gaming Glitch", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5ggxw/xbox_randomly_put_redeem_a_code_on_gta_6_page/"
+classification: "RUMOR"
 ---
 
 # Xbox Page Glitch: 'Redeem Code' Button Fuels GTA 6 Speculation

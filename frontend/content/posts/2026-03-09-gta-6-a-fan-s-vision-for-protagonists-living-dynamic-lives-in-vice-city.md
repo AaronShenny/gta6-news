@@ -4,6 +4,7 @@ date: "2026-03-09T09:33:22"
 description: "A GTA 6 fan proposes an innovative concept: protagonists Jason and Lucia always active in the game world, engaging in their own lives even when not controlled by the player."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jason", "Lucia", "Protagonists", "Open World", "Game Mechanics", "Fan Concept", "Reddit", "Vice City", "Immersion", "AI", "Dynamic World"]
 source: "https://www.reddit.com/r/GTA6/comments/1rovn50/imagine_if_jason_lucia_were_always_on_the_map_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6: A Fan's Vision for Protagonists Living Dynamic Lives in Vice City

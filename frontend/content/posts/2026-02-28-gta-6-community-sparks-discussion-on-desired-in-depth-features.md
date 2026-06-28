@@ -4,6 +4,7 @@ date: "2026-02-28T03:10:04"
 description: "A Reddit post on r/GTA6 invites the community to share their wish list for in-depth features they hope to see in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Community Discussion", "Fan Wishlist", "Game Features", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgrhvx/indepths_features_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Sparks Discussion on Desired In-Depth Features

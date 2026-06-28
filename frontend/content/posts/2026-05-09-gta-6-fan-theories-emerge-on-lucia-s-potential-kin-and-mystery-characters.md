@@ -4,6 +4,7 @@ date: "2026-05-09T13:52:21"
 description: "Dive into the latest GTA 6 character speculation as fans debate the identities of two additional figures, including a potential cousin for protagonist Lucia and an unknown female character."
 tags: ["GTA 6", "Grand Theft Auto VI", "Character Speculation", "Lucia", "Vice City", "Fan Theories", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t85lyf/who_do_you_think_the_other_two_characters_are_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Theories Emerge on Lucia's Potential Kin and Mystery Characters

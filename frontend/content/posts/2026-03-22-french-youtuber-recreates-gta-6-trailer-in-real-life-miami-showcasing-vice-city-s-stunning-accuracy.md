@@ -4,6 +4,7 @@ date: "2026-03-22T23:05:03"
 description: "A dedicated French YouTuber has brought the GTA 6 trailer to life by meticulously recreating its iconic scenes in real-world Miami, highlighting Rockstar's incredible attention to detail."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Vice City", "Miami", "Fan Project", "YouTuber", "Real-Life Recreation", "Gaming News", "Trailer Breakdown"]
 source: "https://www.reddit.com/r/GTA6/comments/1s108nn/a_french_youtuber_went_to_miami_and_recreated_the/"
+classification: "UNKNOWN"
 ---
 
 # French YouTuber Recreates GTA 6 Trailer in Real-Life Miami, Showcasing Vice City's Stunning Accuracy

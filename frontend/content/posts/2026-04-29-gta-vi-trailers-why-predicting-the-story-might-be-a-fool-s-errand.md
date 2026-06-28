@@ -4,6 +4,7 @@ date: "2026-04-29T11:26:47"
 description: "A deep dive into Rockstar's trailer history suggests GTA VI's promotional material may intentionally mislead fans to protect its story, drawing parallels to Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Trailers", "Story Predictions", "RDR2", "Gaming News", "Spoilers"]
 source: "https://www.reddit.com/r/GTA6/comments/1syw07e/using_trailers_to_predict_the_story_for_gta_vi/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Trailers: Why Predicting the Story Might Be a Fool's Errand

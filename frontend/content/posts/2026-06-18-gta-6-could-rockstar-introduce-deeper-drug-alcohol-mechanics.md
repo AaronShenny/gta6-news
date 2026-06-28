@@ -4,6 +4,7 @@ date: "2026-06-18T03:43:25"
 description: "A Reddit discussion explores the potential for more in-depth drug and alcohol effects in Grand Theft Auto 6, leveraging next-gen technology and Florida's party culture."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gameplay Mechanics", "Drug Mechanics", "Alcohol Effects", "Next-Gen Gaming", "Fan Speculation", "Florida Setting"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8vl5v/whats_the_chance_rockstar_might_establish_a_more/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Rockstar Introduce Deeper Drug & Alcohol Mechanics?

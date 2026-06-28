@@ -4,6 +4,7 @@ date: "2026-03-29T00:23:10"
 description: "A former Xbox Series X owner and current PC gamer debates investing in a PS5 Pro for GTA 6's rumored optimal performance or sticking with Xbox for controller familiarity and an existing game library."
 tags: ["GTA 6", "PS5 Pro", "Xbox Series X", "Console Gaming", "PC Gaming", "Controller Preference", "Gaming Dilemma", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6gm31/is_it_worth_buying_a_ps5_pro_digital_for_gta_6_or/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Console Conundrum: PC Gamer Weighs PS5 Pro vs. Xbox Series X for Rockstar's Epic

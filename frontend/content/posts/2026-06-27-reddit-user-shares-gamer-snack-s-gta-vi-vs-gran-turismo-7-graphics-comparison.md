@@ -4,6 +4,7 @@ date: "2026-06-27T09:14:03"
 description: "A Reddit user on r/GTA6 has shared an external graphics comparison video by 'Gamer Snack' pitting Grand Theft Auto VI against Gran Turismo 7."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gran Turismo 7", "Graphics Comparison", "Gamer Snack", "Reddit", "Gaming News", "Visuals"]
 source: "https://www.reddit.com/r/GTA6/comments/1ugxz2f/gta_vi_vs_gran_turismo_7_graphics_comparison/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Shares Gamer Snack's GTA VI vs. Gran Turismo 7 Graphics Comparison

@@ -4,6 +4,7 @@ date: "2026-04-07T16:55:37"
 description: "A Reddit user sparks discussion by wishing for extensive drift car customization options in Grand Theft Auto 6, highlighting community desire for enhanced vehicle mechanics."
 tags: ["GTA 6", "Grand Theft Auto 6", "Drift Cars", "Vehicle Customization", "Community Wishlist", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1sf1pmx/gta_6_drift_cars/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Expresses Hope for Drift Car Customization

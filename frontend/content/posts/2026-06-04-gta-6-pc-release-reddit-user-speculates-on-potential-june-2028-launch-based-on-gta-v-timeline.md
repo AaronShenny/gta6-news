@@ -4,6 +4,7 @@ date: "2026-06-04T23:05:11"
 description: "A Reddit user theorizes a potential GTA 6 PC release around June 2028, drawing parallels to Grand Theft Auto V's staggered launch schedule across platforms."
 tags: ["GTA 6", "Grand Theft Auto VI", "PC Release Date", "Speculation", "Rockstar Games", "Gaming News", "Theory", "GTA V", "Release Timeline", "FOMO"]
 source: "https://www.reddit.com/r/GTA6/comments/1tx3krf/theory_gta_6_potential_pc_release_speculation/"
+classification: "RUMOR"
 ---
 
 # GTA 6 PC Release: Reddit User Speculates on Potential June 2028 Launch Based on GTA V Timeline

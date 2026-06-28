@@ -4,6 +4,7 @@ date: "2026-03-02T18:15:35"
 description: "A vocal segment of the GTA VI community is demanding a dedicated ragdoll button and 'carkour' mechanics, expressing strong sentiment for their inclusion in the upcoming game."
 tags: ["GTA 6", "Rockstar Games", "Ragdoll Physics", "Carkour", "Player Demands", "Community Feedback", "Gaming Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1rj0i1h/rockstar_there_better_be_a_ragdoll_button_in_gta/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Community Calls for Ragdoll Button and 'Carkour' Features

@@ -4,6 +4,7 @@ date: "2026-03-12T18:29:42"
 description: "A Reddit user sparks debate in the GTA 6 community by expressing a desire to avoid future trailers, preferring to discover the game's content firsthand upon release."
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailers", "Spoilers", "Gaming Community", "Hype", "Rockstar Games", "Player Choice"]
 source: "https://www.reddit.com/r/GTA6/comments/1rryw65/am_i_the_only_one_who_doesnt_want_gta_6_trailer_3/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Some Fans Are Ready to Go Blind, Ditching Future Trailers

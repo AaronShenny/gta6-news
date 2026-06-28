@@ -4,6 +4,7 @@ date: "2026-06-18T13:29:01"
 description: "A Reddit post on r/GTA6 by user /u/coltvfx suggests a 'new look' for Leonida in Grand Theft Auto 6, claiming information from an official website."
 tags: ["GTA 6", "Leonida", "Grand Theft Auto", "Rockstar Games", "Rumor", "Leak", "Gaming News", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u96bb4/a_new_look_to_leonida_in_gta_6_from_official/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Sparks Buzz Over 'New Look' for GTA 6's Leonida, Citing Official Sources

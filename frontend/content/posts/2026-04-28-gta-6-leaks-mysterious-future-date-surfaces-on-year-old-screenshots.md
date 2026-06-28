@@ -4,6 +4,7 @@ date: "2026-04-28T00:27:41"
 description: "A Reddit post highlights a perplexing discrepancy in GTA 6 leaked content, claiming a zip file of screenshots has a last modified date of April 28, 2025, despite the post's title suggesting they are a year old."
 tags: ["GTA 6", "Grand Theft Auto VI", "leaks", "screenshots", "Reddit", "file metadata", "gaming news", "controversy", "speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sxlr4c/i_guess_the_gta_vi_screenshots_are_a_year_old_now/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Leaks: Mysterious Future Date Surfaces on 'Year-Old' Screenshots

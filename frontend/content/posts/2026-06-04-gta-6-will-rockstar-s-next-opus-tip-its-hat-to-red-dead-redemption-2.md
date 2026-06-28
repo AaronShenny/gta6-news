@@ -4,6 +4,7 @@ date: "2026-06-04T00:50:18"
 description: "The GTA community is buzzing with speculation about potential Red Dead Redemption 2 references and Easter eggs in the upcoming Grand Theft Auto 6, given RDR2's immense popularity."
 tags: ["GTA 6", "Red Dead Redemption 2", "RDR2", "Rockstar Games", "Easter Eggs", "Gaming News", "Fan Speculation", "Community Discussion", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tw8bmv/rdr2_references_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Rockstar's Next Opus Tip Its Hat to Red Dead Redemption 2?

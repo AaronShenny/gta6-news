@@ -4,6 +4,7 @@ date: "2026-03-15T23:46:25"
 description: "A Reddit user speculates on a dystopian future for GTA 6 in 2060, where its online mode is a global economic powerhouse, overshadowing single-player content and leaving players desperate for updates."
 tags: ["GTA 6", "Grand Theft Auto", "Online Gaming", "Single Player", "Satire", "Gaming Industry", "Take-Two Interactive", "Reddit", "Future of Gaming", "Player Concerns"]
 source: "https://www.reddit.com/r/GTA6/comments/1rutrz4/the_year_2060/"
+classification: "RUMOR"
 ---
 
 # GTA 6 in 2060: A Satirical Future Where Single-Player Content is a Distant Memory

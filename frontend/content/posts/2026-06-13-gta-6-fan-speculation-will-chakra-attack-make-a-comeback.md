@@ -4,6 +4,7 @@ date: "2026-06-13T19:35:06"
 description: "Dedicated GTA fans are already speculating about recurring in-game content for Grand Theft Auto 6, with one user wondering if the satirical talk show 'Chakra Attack' will return."
 tags: ["GTA 6", "Grand Theft Auto 6", "Chakra Attack", "Rockstar Games", "Fan Speculation", "In-game content", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4zzta/i_wonder_if_chakra_attack_will_come_back_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Speculation: Will 'Chakra Attack' Make a Comeback?

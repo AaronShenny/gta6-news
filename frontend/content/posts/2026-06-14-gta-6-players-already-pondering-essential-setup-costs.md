@@ -4,6 +4,7 @@ date: "2026-06-14T21:03:05"
 description: "A Reddit user sparks a discussion on the r/GTA6 subreddit, inquiring about the minimum financial investment needed for a functional, no-frills gaming setup to play Grand Theft Auto 6 easily."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gaming PC", "PC Setup", "Budget Gaming", "Gaming Hardware", "Community Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5wol2/how_much_money_do_i_need_for_gta_6_that_is_enough/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6: Players Already Pondering Essential Setup Costs

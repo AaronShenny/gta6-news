@@ -4,6 +4,7 @@ date: "2026-04-02T02:33:18"
 description: "A recent Reddit post on r/GTA6 highlights a user's confusion regarding the community's strong negative reactions to Grand Theft Auto 6's AI, sparking discussion and questions about the underlying reasons."
 tags: ["GTA 6", "Grand Theft Auto 6", "AI", "Artificial Intelligence", "Gaming Community", "Reddit", "Player Feedback", "Game Development", "Controversy"]
 source: "https://www.reddit.com/r/GTA6/comments/1sa565m/ive_been_out_of_the_loop_for_a_while_having_a/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Debates AI: Reddit User Seeks Answers on 'Visceral Hate'

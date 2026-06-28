@@ -4,6 +4,7 @@ date: "2026-06-04T18:17:52"
 description: "The GTA 6 community speculates on how the game's in-depth social media system will function, questioning player interaction and the dynamic nature of in-game content."
 tags: ["GTA 6", "Grand Theft Auto VI", "Social Media System", "In-Game Phones", "Game Features", "Community Discussion", "Player Interaction", "Rockstar Games", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1twvvrz/how_do_you_think_gta_vis_social_media_system_will/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Social Media System: Community Debates Potential Implementation

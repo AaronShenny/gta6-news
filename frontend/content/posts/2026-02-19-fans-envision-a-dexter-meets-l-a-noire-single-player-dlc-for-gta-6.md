@@ -4,6 +4,7 @@ date: "2026-02-19T04:45:34"
 description: "A popular fan concept for a GTA 6 single-player DLC proposes a thrilling dual role: a Vice City detective who is also a serial killer, blending L.A. Noire-style investigations with Dexter-esque moral ambiguity."
 tags: ["GTA 6", "Grand Theft Auto VI", "DLC", "Single-Player DLC", "Fan Concept", "Vice City", "Detective Gameplay", "Serial Killer", "L.A. Noire", "Dexter", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8pxst/the_perfect_gta6_single_player_dlc/"
+classification: "RUMOR"
 ---
 
 # Fans Envision a 'Dexter Meets L.A. Noire' Single-Player DLC for GTA 6

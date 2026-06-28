@@ -4,6 +4,7 @@ date: "2026-03-23T17:06:12"
 description: "The UK government has officially confirmed that Rockstar Games, the developer of the highly anticipated GTA 6, illegally underpaid staff at one of its studios, raising concerns about labor practices."
 tags: ["Rockstar Games", "GTA 6", "Grand Theft Auto 6", "Labor Practices", "Underpayment", "UK Government", "Gaming Industry", "Game Development", "Minimum Wage"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1ms8h/rockstar_games_illegally_underpaid_staff_at_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # UK Government Confirms Rockstar Games Illegally Underpaid Staff at GTA 6 Studio

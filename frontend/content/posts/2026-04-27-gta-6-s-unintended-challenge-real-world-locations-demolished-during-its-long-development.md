@@ -4,6 +4,7 @@ date: "2026-04-27T20:10:36"
 description: "Discover how GTA 6's extensive development cycle means some real-world buildings scouted for the game between 2015-2018 have already been demolished, presenting unique challenges for Rockstar."
 tags: ["GTA 6", "Rockstar Games", "Grand Theft Auto", "Game Development", "Open World", "Real-World Locations", "Florida", "Development Challenges"]
 source: "https://www.reddit.com/r/GTA6/comments/1sxf6ka/gta_6_is_taking_so_long_to_release_that_several/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Unintended Challenge: Real-World Locations Demolished During Its Long Development

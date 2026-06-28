@@ -4,6 +4,7 @@ date: "2026-04-05T22:55:23"
 description: "A dedicated GTA fan shares their down-to-earth yet passionate expectations for GTA 6, particularly emphasizing a desire for revolutionary car customization, diverse racing modes, and a thriving online racing community from day one."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Racing", "Car Customization", "Drift Racing", "GTA Online", "Player Expectations", "Gaming Community", "Matchmaking"]
 source: "https://www.reddit.com/r/GTA6/comments/1sdhpwl/my_expectations_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: A Fan's Hopes for Next-Level Racing and Car Customization

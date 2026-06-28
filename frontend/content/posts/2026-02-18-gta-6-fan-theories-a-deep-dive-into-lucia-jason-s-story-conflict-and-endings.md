@@ -4,6 +4,7 @@ date: "2026-02-18T17:52:53"
 description: "Explore a compelling fan theory for GTA 6, detailing Lucia's prison opening, Jason's military background, their contrasting dynamic, a corrupt cop conspiracy, and speculative multiple endings."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Theory", "Lucia", "Jason", "Story Predictions", "Character Dynamics", "Multiple Endings", "Leaks Analysis", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8a1d6/theory_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theories: A Deep Dive into Lucia & Jason's Story, Conflict, and Endings

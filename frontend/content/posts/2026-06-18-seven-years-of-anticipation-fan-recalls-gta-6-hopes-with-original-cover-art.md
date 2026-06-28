@@ -4,6 +4,7 @@ date: "2026-06-18T14:35:22"
 description: "A dedicated Grand Theft Auto fan reflects on seven years of waiting for GTA 6, sharing their fan-made cover art from 2017 and expressing astonishment at the prolonged development."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Gaming Anticipation", "Rockstar Games", "Vice City", "Game Development", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u97zoy/7_years_ago_holy_shit_i_made_a_gta_vi_cover_art/"
+classification: "RUMOR"
 ---
 
 # Seven Years of Anticipation: Fan Recalls GTA 6 Hopes with Original Cover Art

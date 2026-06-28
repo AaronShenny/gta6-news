@@ -4,6 +4,7 @@ date: "2026-03-06T16:30:08"
 description: "A gamer weighs their console options for GTA 6, debating the unannounced Xbox 'Project Helix' against the PS5 Pro for optimal performance."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox", "PlayStation 5 Pro", "PS5 Pro", "Project Helix", "Console Gaming", "Next-Gen Consoles", "Gaming Performance", "Release Date Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmioci/new_xbox_console_announced/"
+classification: "RUMOR"
 ---
 
 # New Xbox Console Announced

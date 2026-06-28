@@ -4,6 +4,7 @@ date: "2026-03-04T16:28:04"
 description: "A dedicated GTA 6 fan posits a new theory that Lucia, not Jason or Brian, is the informant, citing evidence from trailers and Rockstar's website regarding her ankle monitor."
 tags: ["GTA 6", "Grand Theft Auto 6", "Lucia", "Fan Theory", "Rockstar Games", "Trailer Analysis", "Informant", "Jason", "Raul Bautista"]
 source: "https://www.reddit.com/r/GTA6/comments/1rkpzk9/what_if_lucia_is_the_rat/"
+classification: "RUMOR"
 ---
 
 # New GTA 6 Fan Theory Suggests Lucia May Be an Undercover Informant

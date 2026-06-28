@@ -4,6 +4,7 @@ date: "2026-06-03T18:07:25"
 description: "A deep dive into leaked GTA 6 version numbers by a dedicated fan suggests that preliminary development for the highly anticipated title may have commenced as early as late 2016, aligning with early location scouting efforts."
 tags: ["GTA 6", "Grand Theft Auto 6", "Development Timeline", "Leaks", "Rockstar Games", "Project Americas", "Version Numbers", "Gaming News", "Fan Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvxiqp/plotting_the_gta_6_version_numbers_development/"
+classification: "RUMOR"
 ---
 
 # Fan Analysis Suggests GTA 6 Development Could Date Back to 2016

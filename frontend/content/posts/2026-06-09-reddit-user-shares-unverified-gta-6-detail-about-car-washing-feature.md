@@ -4,6 +4,7 @@ date: "2026-06-09T18:36:01"
 description: "A Reddit user has posted an unconfirmed 'detail' about GTA 6, claiming players will be able to wash cars with 'sexy girls.' Explore this speculative rumor and its source."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rumor", "Speculation", "Reddit", "Car Wash", "Unconfirmed", "Leak"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1dosi/gta_6_detail/"
+classification: "RUMOR"
 ---
 
 # Reddit User Shares Unverified GTA 6 'Detail' About Car Washing Feature

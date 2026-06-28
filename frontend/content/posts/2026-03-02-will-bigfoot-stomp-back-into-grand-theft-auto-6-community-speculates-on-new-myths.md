@@ -4,6 +4,7 @@ date: "2026-03-02T00:56:50"
 description: "The gaming community is buzzing with speculation about the return of the iconic Bigfoot in GTA 6, following its mysterious presence in San Andreas and direct appearance in GTA V. Will Rockstar continue the legend or introduce fresh mysteries?"
 tags: ["GTA 6", "Grand Theft Auto VI", "Bigfoot", "Gaming Myths", "Easter Eggs", "Rockstar Games", "Community Speculation", "GTA San Andreas", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1rieph3/do_you_think_gta_vi_will_have_a_bigfoot_too/"
+classification: "RUMOR"
 ---
 
 # Will Bigfoot Stomp Back into Grand Theft Auto 6? Community Speculates on New Myths

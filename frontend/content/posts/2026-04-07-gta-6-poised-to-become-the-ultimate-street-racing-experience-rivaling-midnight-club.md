@@ -4,6 +4,7 @@ date: "2026-04-07T11:21:16"
 description: "Explore how GTA 6, with its potential for deep customization, illegal street racing, and crew battles, could integrate the best of Midnight Club, especially with Rockstar's FiveM acquisition."
 tags: ["GTA 6", "Grand Theft Auto 6", "Street Racing", "Midnight Club", "Rockstar Games", "FiveM", "Car Customization", "Gaming News", "Open World Racing", "Game Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1set44o/street_racing_fans_gta_6_might_be_your_new/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Poised to Become the Ultimate Street Racing Experience, Rivaling Midnight Club

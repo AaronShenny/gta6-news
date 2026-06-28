@@ -4,6 +4,7 @@ date: "2026-03-01T02:17:15"
 description: "A Reddit discussion speculates on Grand Theft Auto 6's potential all-time peak concurrent player count, comparing it to Steam's biggest hits like PUBG and Palworld."
 tags: ["GTA 6", "Grand Theft Auto 6", "Peak Players", "Concurrent Players", "Gaming Records", "Steam Charts", "Player Count Prediction", "Rockstar Games", "Gaming Industry Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhl5iy/what_do_you_think_gta_6s_alltime_peak_player/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Can It Shatter Concurrent Player Records?

@@ -4,6 +4,7 @@ date: "2026-02-27T17:47:25"
 description: "Reddit user /u/OmarYo5 has shared a vibrant Vice City drawing, created with budget art supplies, sparking excitement for GTA 6 and promising future works."
 tags: ["GTA 6", "Vice City", "Fan Art", "Community", "Reddit", "Gaming Art", "OmarYo5", "Drawing", "Colored Pencils"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgdl4d/my_colored_pencils_drawing_vice_city_babyyyyy/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Art: Reddit User /u/OmarYo5 Unveils Impressive Vice City Drawing

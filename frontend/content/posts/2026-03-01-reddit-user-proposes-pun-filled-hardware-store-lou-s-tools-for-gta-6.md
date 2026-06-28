@@ -4,6 +4,7 @@ date: "2026-03-01T16:08:53"
 description: "A Reddit user has shared a humorous suggestion for Grand Theft Auto 6: a hardware store named 'Lou's Tools,' expressing a strong desire for its inclusion."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Ideas", "Reddit", "Game Suggestions", "Humor"]
 source: "https://www.reddit.com/r/GTA6/comments/1ri13ud/idea_submission/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Proposes Pun-Filled Hardware Store 'Lou's Tools' for GTA 6

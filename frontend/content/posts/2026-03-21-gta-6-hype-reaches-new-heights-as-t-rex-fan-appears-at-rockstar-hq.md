@@ -4,6 +4,7 @@ date: "2026-03-21T04:14:19"
 description: "A dedicated GTA 6 fan, known for previous stunts, escalated their hype campaign by appearing in a T-Rex suit at Rockstar Games' New York HQ, posting the antics on TikTok."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Fan Stunt", "T-Rex", "TikTok", "Gaming News", "Hype", "NYC", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzhysr/crazy_gta_6_fan_at_rockstar_hq/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Reaches New Heights as T-Rex Fan Appears at Rockstar HQ

@@ -4,6 +4,7 @@ date: "2026-05-01T09:49:13"
 description: "The GTA 6 community is abuzz with speculation regarding the third trailer, debating whether Rockstar will maintain its established style or unveil the game's official cover, drawing parallels to RDR2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer 3", "Game Cover Reveal", "Red Dead Redemption 2", "Gaming Speculation", "Marketing Strategy", "Fan Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0otum/for_gta_vi_trailer_3_do_you_think_rockstar_will/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3: Will Rockstar Reveal the Final Cover Art?

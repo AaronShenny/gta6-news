@@ -4,6 +4,7 @@ date: "2026-02-26T15:20:11"
 description: "A first-time RDR2 player highlights Rockstar's unparalleled world-building, sparking renewed excitement and speculation for the dynamic possibilities in the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Red Dead Redemption 2", "Rockstar Games", "Gaming Hype", "Open World Games", "NPC Interactions", "Game Design", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfcx63/playing_rdr2_for_the_first_time_is_reminding_me/"
+classification: "RUMOR"
 ---
 
 # Red Dead Redemption 2's Enduring Brilliance Fuels GTA 6 Hype Among Fans

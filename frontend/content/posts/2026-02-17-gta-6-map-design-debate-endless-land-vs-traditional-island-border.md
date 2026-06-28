@@ -4,6 +4,7 @@ date: "2026-02-17T11:50:40"
 description: "A Reddit discussion sparks debate over GTA 6's northern map border, with players weighing endless procedural terrain against the traditional island design and its potential for unique underwater content."
 tags: ["GTA 6", "Grand Theft Auto 6", "Map Design", "Open World", "Rockstar Games", "Player Speculation", "Game Development", "Underwater Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1r73xlb/so_people_want_the_north_border_of_gta_6s_map_to/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map Design Debate: Endless Land vs. Traditional Island Border

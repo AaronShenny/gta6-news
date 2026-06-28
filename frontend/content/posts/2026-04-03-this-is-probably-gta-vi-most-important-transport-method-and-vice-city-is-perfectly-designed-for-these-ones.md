@@ -4,6 +4,7 @@ date: "2026-04-03T05:08:15"
 description: "A Reddit user shares a personal experience with a seaplane, speculating on its potential as a crucial transportation method in GTA 6's Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Seaplanes", "Transportation", "Fan Speculation", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sb4g0j/this_is_probably_gta_vi_most_important_transport/"
+classification: "RUMOR"
 ---
 
 # This is Probably GTA VI most important transport method, and vice city is perfectly designed for these ones

@@ -4,6 +4,7 @@ date: "2026-06-11T01:50:06"
 description: "A Reddit user shared a post titled 'the first frame of GTA 6 !! Trailer 3!', generating discussion among fans despite a lack of concrete details."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Speculation", "Fan Theory", "Gaming News", "Rockstar Games", "Trailer Rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2ll94/the_first_frame_of_gta_6_trailer_3/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Claims 'First Frame' of GTA 6 Trailer 3, Ignites Fan Speculation

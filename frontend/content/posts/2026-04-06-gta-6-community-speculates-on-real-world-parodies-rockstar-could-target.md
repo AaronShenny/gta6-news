@@ -4,6 +4,7 @@ date: "2026-04-06T20:48:31"
 description: "A Reddit thread on r/GTA6 sparks discussion among fans, asking what real-life figures or trends Rockstar Games might satirize in the highly anticipated Grand Theft Auto VI."
 tags: ["GTA 6", "Rockstar Games", "Parody", "Satire", "Community Speculation", "Reddit", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1seb43q/potential_parodies_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Speculates on Real-World Parodies Rockstar Could Target

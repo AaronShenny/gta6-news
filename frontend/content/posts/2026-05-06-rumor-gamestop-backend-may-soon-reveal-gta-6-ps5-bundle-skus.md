@@ -4,6 +4,7 @@ date: "2026-05-06T02:10:03"
 description: "A new rumor circulating on X, attributed to 'Detective Seeds,' suggests that SKU details for Grand Theft Auto 6 PS5 bundles could soon appear in GameStop's backend systems, hinting at upcoming announcements."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PlayStation 5", "GameStop", "Bundles", "SKU", "Leaks", "Rumors", "Detective Seeds", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4znhg/gta_6_bundles_for_the_ps5_should_have_their_sku/"
+classification: "RUMOR"
 ---
 
 # Rumor: GameStop Backend May Soon Reveal GTA 6 PS5 Bundle SKUs

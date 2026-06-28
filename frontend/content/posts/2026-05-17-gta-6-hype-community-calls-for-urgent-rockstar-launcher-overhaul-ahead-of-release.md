@@ -4,6 +4,7 @@ date: "2026-05-17T12:58:50"
 description: "PC gamers are voicing strong frustrations with the current state of the Rockstar Games Launcher, urging fixes for persistent login issues and an outdated UI before the highly anticipated launch of Grand Theft Auto VI."
 tags: ["GTA 6", "Rockstar Games Launcher", "PC Gaming", "User Experience", "Launcher Issues", "Grand Theft Auto VI", "Community Feedback"]
 source: "https://www.reddit.com/r/GTA6/comments/1tfoupr/rockstar_should_really_update_their_launcher/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype: Community Calls for Urgent Rockstar Launcher Overhaul Ahead of Release

@@ -4,6 +4,7 @@ date: "2026-04-03T16:31:20"
 description: "A Reddit discussion highlights player concerns about potential GTA 6 features that, despite sounding good, could diminish the game's appeal, from over-realistic mechanics to a sprawling but empty map."
 tags: ["GTA 6", "Grand Theft Auto VI", "Player Expectations", "Game Design", "Disappointment", "Reddit Discussion", "Open World", "Realism", "Story Mode", "Online Mode", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbif0g/whats_something_youd_be_lowkey_disappointed_about/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: What Features Could Secretly Disappoint Players?

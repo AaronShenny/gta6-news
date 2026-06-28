@@ -4,6 +4,7 @@ date: "2026-02-21T21:12:19"
 description: "The GTA 6 community is buzzing with speculation about the game's highly anticipated soundtrack. Fans are sharing their top picks for artists they hope to hear."
 tags: ["GTA 6", "Grand Theft Auto VI", "Soundtrack", "Music", "Gaming", "Reddit", "Fan Speculation", "Rufus Du Sol", "EDM"]
 source: "https://www.reddit.com/r/GTA6/comments/1rb2o5c/what_artists_are_you_hoping_will_be_in_the_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Soundtrack: Fans Speculate on Dream Artists for In-Game Radio

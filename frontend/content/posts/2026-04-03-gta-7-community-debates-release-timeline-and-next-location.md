@@ -4,6 +4,7 @@ date: "2026-04-03T21:20:16"
 description: "A Reddit user sparks early discussion on GTA 7's potential release date, asking if Rockstar could accelerate development and where the next Grand Theft Auto might be set."
 tags: ["GTA 7", "Grand Theft Auto", "Rockstar Games", "Release Date", "Location Speculation", "Gaming News", "Community Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbq79e/realistically_when_would_gta_vii_be_released/"
+classification: "RUMOR"
 ---
 
 # GTA 7: Community Debates Release Timeline and Next Location

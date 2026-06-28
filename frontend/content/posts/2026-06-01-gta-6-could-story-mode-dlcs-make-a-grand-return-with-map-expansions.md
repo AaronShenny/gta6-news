@@ -4,6 +4,7 @@ date: "2026-06-01T23:09:19"
 description: "Explore a journalist's prediction that GTA 6 could bring back story mode DLCs, potentially expanding the map to include a new state like Gloriana, and addressing past criticisms of GTA V and RDR2."
 tags: ["GTA 6", "Grand Theft Auto 6", "Story Mode DLC", "Rockstar Games", "Map Expansion", "Gloriana", "Vice City", "Gaming Prediction", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tu93qg/prediction_gta_6_will_see_the_return_of_story/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Story Mode DLCs Make a Grand Return with Map Expansions?

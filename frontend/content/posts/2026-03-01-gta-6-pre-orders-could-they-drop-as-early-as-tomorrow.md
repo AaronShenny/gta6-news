@@ -4,6 +4,7 @@ date: "2026-03-01T20:49:38"
 description: "Speculation mounts for GTA 6 pre-orders opening imminently, driven by PlayStation Store IDs and historical release patterns for Rockstar titles, potentially as soon as an upcoming Monday."
 tags: ["GTA 6", "Grand Theft Auto VI", "Pre-orders", "PlayStation Store", "Rockstar Games", "Gaming News", "Speculation", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1ri8nw1/with_gta_6_ids_added_to_the_playstation_store_is/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Orders: Could They Drop as Early as Tomorrow?

@@ -4,6 +4,7 @@ date: "2026-05-17T13:28:34"
 description: "A Reddit discussion explores the potential depth and impact of a body transformation system in Grand Theft Auto VI, drawing parallels to Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Body Transformation", "Gameplay Features", "Speculation", "Red Dead Redemption 2", "Open World", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tfpks7/how_far_do_you_think_gta_vis_body_transformation/"
+classification: "RUMOR"
 ---
 
 # Speculating on GTA VI's Potential Body Transformation System

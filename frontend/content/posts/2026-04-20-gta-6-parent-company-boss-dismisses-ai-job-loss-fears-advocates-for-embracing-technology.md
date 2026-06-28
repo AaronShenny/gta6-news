@@ -4,6 +4,7 @@ date: "2026-04-20T14:32:00"
 description: "Take-Two CEO Strauss Zelnick, whose company oversees GTA 6 developer Rockstar Games, argues against the 'AI doomer narrative,' highlighting AI's potential to boost creativity and efficiency in game development while dismissing fears of mass unemployment."
 tags: ["GTA 6", "Take-Two", "Strauss Zelnick", "AI in Gaming", "Artificial Intelligence", "Game Development", "Job Displacement", "Rockstar Games", "Tech Ethics", "Elon Musk"]
 source: "https://www.gamespot.com/articles/gta-6-company-boss-says-ai-can-be-used-for-evil-but-woe-is-me-risk-is-overblown/1100-6539487/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Parent Company Boss Dismisses AI Job Loss Fears, Advocates for Embracing Technology

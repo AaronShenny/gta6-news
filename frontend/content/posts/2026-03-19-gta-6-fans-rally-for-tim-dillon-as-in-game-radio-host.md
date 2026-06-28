@@ -4,6 +4,7 @@ date: "2026-03-19T22:02:20"
 description: "Community discussion ignites on Reddit, with fans pushing for comedian Tim Dillon to voice a radio host in the highly anticipated Grand Theft Auto 6, sparking debate on Rockstar's engagement with fan suggestions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Tim Dillon", "Rockstar Games", "Fan Suggestions", "Gaming Community", "Radio Host", "Video Game News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rydw5y/tim_dillon_radio_host/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Rally for Tim Dillon as In-Game Radio Host

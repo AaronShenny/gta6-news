@@ -4,6 +4,7 @@ date: "2026-05-02T21:11:16"
 description: "A recent discussion highlights the desire for Grand Theft Auto 6 to offer more meaningful and engaging activities beyond the main story, addressing the post-game boredom often found in Rockstar titles."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Post-Game Content", "Open World", "Free Roam", "Player Engagement", "Gaming Hopes", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1t21xot/my_main_hope_for_gta_6_is_that_it_will_have_more/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Call for More Purposeful Post-Game Content

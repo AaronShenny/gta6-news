@@ -4,6 +4,7 @@ date: "2026-05-25T06:26:03"
 description: "The gaming community is buzzing with speculation about whether Grand Theft Auto 6 will include humorous in-game references to popular GTA 5 and GTA Online memes, following a tradition seen in previous titles."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming News", "Fan Speculation", "Memes", "GTA 5", "GTA Online", "Easter Eggs", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tn0moi/imagine_if_gta_6_reference_some_gta_5online_meme/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Hope for In-Game References to GTA 5 and Online Memes

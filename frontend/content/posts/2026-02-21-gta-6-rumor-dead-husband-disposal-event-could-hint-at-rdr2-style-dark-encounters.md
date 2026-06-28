@@ -4,6 +4,7 @@ date: "2026-02-21T20:18:53"
 description: "A Reddit post speculates on a unique GTA 6 world event involving protagonist Lucia, where players might assist a woman in disposing of her husband's body, hinting at a darker, RDR2-esque narrative."
 tags: ["GTA 6", "Grand Theft Auto 6", "Lucia", "World Event", "Rumor", "Speculation", "Red Dead Redemption 2", "Creepy Characters", "Side Mission", "Body Disposal", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rb1dei/dead_husband_disposal/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Rumor: 'Dead Husband Disposal' Event Could Hint at RDR2-Style Dark Encounters

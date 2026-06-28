@@ -4,6 +4,7 @@ date: "2026-03-22T20:24:22"
 description: "A Reddit user speculates on potential GTA 6 news in May, citing key anniversaries, an investor call, and Rockstar's typical update schedule."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Release Date", "Trailer", "Speculation", "May"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0w8sd/this_is_why_im_possibly_expecting_news_in_may_for/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Builds: Why May Could Be a Key Month for New Information

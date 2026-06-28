@@ -4,6 +4,7 @@ date: "2026-05-22T11:50:33"
 description: "A Reddit post titled 'GTA VI now mirrors RDR2 more than ever' fuels fan speculation about how Grand Theft Auto VI could be drawing significant inspiration from Red Dead Redemption 2's acclaimed design and realism."
 tags: ["GTA 6", "Grand Theft Auto VI", "RDR2", "Red Dead Redemption 2", "Rockstar Games", "Game Development", "Speculation", "Open World", "Gaming News", "Fan Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1tkgnff/gta_vi_now_mirrors_rdr2_more_than_ever/"
+classification: "RUMOR"
 ---
 
 # GTA VI: Fan Speculation Points to Strong RDR2 Influence

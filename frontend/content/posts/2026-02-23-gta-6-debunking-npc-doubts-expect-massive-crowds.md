@@ -4,6 +4,7 @@ date: "2026-02-23T03:23:39"
 description: "A gaming journalist explores why GTA 6 is likely to feature the large crowd counts seen in trailers, citing Rockstar's history, modern hardware capabilities, and vast development resources."
 tags: ["GTA 6", "Grand Theft Auto 6", "NPCs", "Crowd Density", "Rockstar Games", "Game Performance", "Game Development", "Gaming News", "Trailer Accuracy", "Modern Hardware"]
 source: "https://www.reddit.com/r/GTA6/comments/1rc6g8u/yes_there_will_likely_be_this_many_npcs_in_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Debunking NPC Doubts – Expect Massive Crowds

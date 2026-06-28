@@ -4,6 +4,7 @@ date: "2026-06-23T14:22:28"
 description: "A look back at GTA V's impressive technical achievements on the PlayStation 3 highlights the immense pressure on Rockstar Games to meet player expectations for GTA VI, given the vast leap in current-gen console hardware."
 tags: ["GTA VI", "GTA V", "Rockstar Games", "PlayStation 3", "PlayStation 5", "Game Development", "Hardware Limitations", "Player Expectations", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1udijfs/as_we_wait_for_the_release_of_gta_vi_lets_not/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Expectations Sky-High as Developers Grapple with Legacy of GTA V's PS3 Roots

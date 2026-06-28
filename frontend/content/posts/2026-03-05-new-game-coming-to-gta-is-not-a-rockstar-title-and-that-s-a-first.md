@@ -4,6 +4,7 @@ date: "2026-03-05T16:19:00"
 description: "GTA+ is shaking up its offerings by adding NBA 2K26, a non-Rockstar title, for the first time. Discover what this could mean for the subscription service's future as GTA 6 approaches."
 tags: ["GTA+", "Grand Theft Auto 6", "NBA 2K26", "Rockstar Games", "2K Games", "Subscription Service", "Gaming News", "PS5", "Xbox Series X|S", "GTA Online"]
 source: "https://www.gamespot.com/articles/new-game-coming-to-gta-is-not-a-rockstar-title-and-thats-a-first/1100-6538595/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # New Game Coming To GTA+ Is Not A Rockstar Title, And That's A First

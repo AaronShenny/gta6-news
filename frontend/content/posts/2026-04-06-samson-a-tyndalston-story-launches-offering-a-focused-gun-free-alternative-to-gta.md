@@ -4,6 +4,7 @@ date: "2026-04-06T17:37:00"
 description: "From Just Cause creator Christofer Sundberg's Liquid Swords, 'Samson: A Tyndalston Story' launches on PC this week, promising a concise, action-packed experience with a debt system and weaponized cars, priced at $25."
 tags: ["Samson: A Tyndalston Story", "Liquid Swords", "Christofer Sundberg", "GTA 6 alternative", "open world", "action game", "PC gaming", "indie game", "Just Cause creator", "debt system", "weaponized cars", "new game launch"]
 source: "https://www.gamespot.com/articles/this-new-game-might-scratch-that-gta-6-itch-just-dont-expect-a-gta-sized-experience-or-price-tag/1100-6539236/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # Samson: A Tyndalston Story Launches, Offering a Focused, Gun-Free Alternative to GTA

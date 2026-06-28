@@ -4,6 +4,7 @@ date: "2026-03-01T08:21:21"
 description: "After 12 years, GTA 6 faces immense pressure to deliver on player demands for realism, a massive map, flawless online, and advanced AI. Will Rockstar meet the hype or are fans setting themselves up for disappointment?"
 tags: ["GTA 6", "Rockstar Games", "Hype", "Expectations", "Gaming Industry", "Open World", "Online Multiplayer", "AI", "Realism", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhry5n/do_you_think_gta_6_can_actually_live_up_to_12/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Can Rockstar Satisfy a Decade of Sky-High Expectations?

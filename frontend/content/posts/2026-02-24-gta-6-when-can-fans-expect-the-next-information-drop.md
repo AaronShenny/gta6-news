@@ -4,6 +4,7 @@ date: "2026-02-24T06:03:43"
 description: "The GTA 6 community is buzzing with anticipation, questioning the timeline for new trailers, gameplay, or official updates from Rockstar Games."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Trailer", "Gameplay", "Updates", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rd8a8h/when_are_we_supposed_to_get_more_gta_6_info/"
+classification: "RUMOR"
 ---
 
 # GTA 6: When Can Fans Expect the Next Information Drop?

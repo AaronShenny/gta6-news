@@ -4,6 +4,7 @@ date: "2026-05-30T19:56:55"
 description: "Rockstar Games has made its first official public move regarding Grand Theft Auto VI since its November delay, reorganizing the game's Discord channel into a dedicated category."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Discord", "Game Development", "Gaming News", "Official Update"]
 source: "https://www.reddit.com/r/GTA6/comments/1ts9s1v/r_have_done_something_official_and_public/"
+classification: "RUMOR"
 ---
 
 # GTA VI Receives First Official Public Update Since Delay: A Discord Channel Reorganization

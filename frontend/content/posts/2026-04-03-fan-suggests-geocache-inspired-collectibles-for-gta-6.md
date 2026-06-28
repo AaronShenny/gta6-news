@@ -4,6 +4,7 @@ date: "2026-04-03T22:29:57"
 description: "A Reddit user proposes a GeoCache parody app for GTA 6 collectibles, aiming to encourage player exploration and add depth to the open-world experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "Collectibles", "GeoCache", "Fan Concept", "Rockstar Games", "Open World", "Exploration", "Game Mechanics", "Community Ideas"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbrxiy/geocache_idea_for_the_game/"
+classification: "RUMOR"
 ---
 
 # Fan Suggests GeoCache-Inspired Collectibles for GTA 6

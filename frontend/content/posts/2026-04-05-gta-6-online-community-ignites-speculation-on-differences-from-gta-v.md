@@ -4,6 +4,7 @@ date: "2026-04-05T06:44:00"
 description: "A Reddit post sparks widespread discussion among Grand Theft Auto fans, speculating on how GTA 6 Online will evolve and differ from its highly successful predecessor, GTA V Online."
 tags: ["GTA 6", "GTA Online", "Grand Theft Auto", "Rockstar Games", "Community Discussion", "Gaming News", "Speculation", "Online Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1scwmds/how_much_different_will_gta_6_online_be_to_gta_5/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Community Ignites Speculation on Differences from GTA V

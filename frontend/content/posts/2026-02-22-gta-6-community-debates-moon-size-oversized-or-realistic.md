@@ -4,6 +4,7 @@ date: "2026-02-22T13:23:36"
 description: "A Reddit post sparks discussion among GTA 6 fans regarding whether the moon in the upcoming game should retain GTA V's oversized look or adopt a more realistic scale."
 tags: ["GTA 6", "Grand Theft Auto VI", "Moon Size", "GTA V", "Game Aesthetics", "Community Debate", "Reddit Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rblrc1/do_yall_want_the_moon_in_gta_6_to_be_oversized/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Debates Moon Size: Oversized or Realistic?

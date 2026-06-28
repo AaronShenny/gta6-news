@@ -4,6 +4,7 @@ date: "2026-03-27T19:10:00"
 description: "Sony's PS5 sees its second price hike, raising concerns for consumers and the gaming industry. Experts weigh in on 'RAMageddon,' potential impacts on GTA 6 sales, and if other consoles will follow suit."
 tags: ["GTA 6", "PS5", "Price Hike", "Gaming Industry", "Sony", "PlayStation 5", "Xbox Series S", "Nintendo Switch 2", "Console Sales", "Economic Impact", "Component Shortage", "RAMageddon", "Hardware Costs", "Gaming Trends", "Rockstar Games"]
 source: "https://www.gamespot.com/articles/the-ps5-price-hike-was-inevitable-but-what-comes-next/1100-6539077/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # PS5 Price Hike: GTA 6's Sales Potential Faces Headwinds Amid Rising Console Costs

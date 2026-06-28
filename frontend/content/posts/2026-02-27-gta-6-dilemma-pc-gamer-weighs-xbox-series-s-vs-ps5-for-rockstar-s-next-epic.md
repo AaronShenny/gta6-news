@@ -4,6 +4,7 @@ date: "2026-02-27T09:05:13"
 description: "A dedicated PC gamer faces a console conundrum for GTA 6, debating whether a budget-friendly Xbox Series S or a more powerful PS5 is the right choice for early access."
 tags: ["GTA 6", "Xbox Series S", "PS5", "PC Gaming", "Console Gaming", "Rockstar Games", "Grand Theft Auto", "Gaming Hardware", "Next-Gen Consoles", "Gaming Dilemma"]
 source: "https://www.reddit.com/r/GTA6/comments/1rg1r3a/should_i_buy_an_xbox_series_s_just_to_play_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Dilemma: PC Gamer Weighs Xbox Series S vs. PS5 for Rockstar's Next Epic

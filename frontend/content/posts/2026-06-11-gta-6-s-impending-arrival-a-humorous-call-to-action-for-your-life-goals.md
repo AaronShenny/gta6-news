@@ -4,6 +4,7 @@ date: "2026-06-11T21:05:52"
 description: "A Reddit post playfully urges gamers to tackle personal goals like learning a language or getting in shape before the highly anticipated Grand Theft Auto 6 consumes all their free time."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Culture", "Life Goals", "Humor", "Reddit", "Anticipation", "Productivity"]
 source: "https://www.reddit.com/r/GTA6/comments/1u3bh0e/theres_something_youve_always_wanted_to_do_do_it/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Impending Arrival: A Humorous Call to Action for Your Life Goals

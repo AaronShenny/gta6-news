@@ -4,6 +4,7 @@ date: "2026-03-17T06:09:10"
 description: "GTA VI is set to deliver a more grounded and narrative-driven progression experience, mirroring Red Dead Redemption 2's chapter-based, story-integrated map exploration, moving away from GTA V's over-the-top antics."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "RDR2", "Red Dead Redemption 2", "GTA V", "Game Progression", "Narrative Structure", "Open World", "Jason and Lucia", "Leonida Keys", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvylwp/gta_vi_progression_will_feel_closer_to_rdr_2_then/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Progression: A Grittier, RDR2-Inspired Journey Awaits

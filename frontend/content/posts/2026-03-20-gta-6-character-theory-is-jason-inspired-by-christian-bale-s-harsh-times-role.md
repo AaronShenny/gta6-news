@@ -4,6 +4,7 @@ date: "2026-03-20T16:37:24"
 description: "A popular fan theory suggests GTA 6's protagonist Jason shares striking parallels with Christian Bale's character Jim Davis from 'Harsh Times,' including military background, criminal ties, and a Latina ex-girlfriend, potentially hinting at Jason's backstory."
 tags: ["GTA 6", "Grand Theft Auto 6", "Jason", "Character Theory", "Harsh Times", "Christian Bale", "Jim Davis", "Lucia", "Rockstar Games", "Fan Theory", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rz1808/theory_that_jason_is_loosely_based_on_christian/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Character Theory: Is Jason Inspired by Christian Bale's 'Harsh Times' Role?

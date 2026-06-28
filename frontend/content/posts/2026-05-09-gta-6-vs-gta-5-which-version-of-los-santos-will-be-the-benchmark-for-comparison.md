@@ -4,6 +4,7 @@ date: "2026-05-09T21:41:35"
 description: "Gamers debate the definitive version of GTA 5 to use when comparing it to the upcoming Grand Theft Auto 6, sparking discussions on graphical fidelity and generational leaps."
 tags: ["GTA 6", "GTA 5", "Grand Theft Auto", "Comparison", "Graphics", "Next-Gen", "Gaming Debate", "Rockstar Games", "PlayStation", "Xbox", "PC"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8nyip/people_who_are_going_to_do_gta_6_vs_gta_5/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 vs. GTA 5: Which Version of Los Santos Will Be the Benchmark for Comparison?

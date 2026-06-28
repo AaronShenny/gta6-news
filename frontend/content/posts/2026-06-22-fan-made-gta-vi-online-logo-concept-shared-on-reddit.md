@@ -4,6 +4,7 @@ date: "2026-06-22T08:05:57"
 description: "A Reddit user has submitted a concept logo for GTA VI Online, offering a glimpse into fan creativity for the upcoming title. Explore the community's vision."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA Online", "Fan Concept", "Logo Design", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucegnm/gta_vi_online_logo_concept/"
+classification: "RUMOR"
 ---
 
 # Fan-Made GTA VI Online Logo Concept Shared on Reddit

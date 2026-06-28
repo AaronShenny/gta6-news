@@ -4,6 +4,7 @@ date: "2026-06-15T20:24:44"
 description: "A Reddit discussion explores whether GTA 6's already impressive graphics can be further enhanced by modders in the future, drawing parallels with GTA V's modding scene."
 tags: ["GTA 6", "Grand Theft Auto 6", "Modding", "Graphics", "Visuals", "Lighting", "Rockstar Games", "PC Gaming", "Community Enhancements", "Natural Vision Enhanced"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6s908/could_modders_possibly_make_gta_6s_graphics_even/"
+classification: "UNKNOWN"
 ---
 
 # The Modding Debate: Will GTA 6 Graphics Be Enhanced by Fans?

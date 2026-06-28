@@ -4,6 +4,7 @@ date: "2026-06-16T19:10:40"
 description: "A discussion on Reddit's r/GTA6 subreddit explores the idea of customizable loading screens for Grand Theft Auto VI, suggesting options like player character displays and photo mode screenshots."
 tags: ["GTA 6", "Grand Theft Auto VI", "Loading Screens", "Customization", "Player Features", "Fan Ideas", "Reddit Discussion", "Gaming News", "Photo Mode"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7n0y1/do_you_think_an_option_to_customize_your_loading/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for Personalized Loading Screens

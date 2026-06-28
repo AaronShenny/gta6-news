@@ -4,6 +4,7 @@ date: "2026-04-04T11:51:11"
 description: "A Reddit user speculates that Grand Theft Auto VI will adopt a 'safer' approach to humor, moving away from the 'raw' and controversial jokes, racism, and slurs found in previous titles like The Lost and Damned, citing modern societal sensitivities."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Industry", "Dark Humor", "Game Development", "Social Commentary", "The Lost and Damned", "Controversy"]
 source: "https://www.reddit.com/r/GTA6/comments/1sc78vs/gta_vi_will_play_it_much_safer_i_think/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Tone Down Its Signature Dark Humor? A Reddit User Weighs In

@@ -4,6 +4,7 @@ date: "2026-03-23T09:58:12"
 description: "GTA 6's upcoming launch is poised to be the first real-time Grand Theft Auto release for gamers under 20-22, marking a significant generational moment in gaming culture."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Generations", "Game Launch", "Gaming Culture", "Player Experience", "Anticipation", "Reddit Insights"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1clg3/the_release_of_gta_6_will_be_the_first_gta_launch/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: A First-Time Launch Experience for a New Generation of Gamers

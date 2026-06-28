@@ -4,6 +4,7 @@ date: "2026-02-20T01:07:59"
 description: "A new fan theory suggests GTA 6 protagonists Lucia and Jason meet for the first time in prison, re-evaluating trailer footage and official descriptions to support an initial stranger-to-lovers dynamic."
 tags: ["GTA 6", "Grand Theft Auto VI", "Lucia", "Jason", "Fan Theory", "Game Speculation", "Trailer Analysis", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9he5g/theory_lucia_and_jason_do_not_know_each_other/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Theory: Lucia and Jason May Not Know Each Other at the Start of the Game

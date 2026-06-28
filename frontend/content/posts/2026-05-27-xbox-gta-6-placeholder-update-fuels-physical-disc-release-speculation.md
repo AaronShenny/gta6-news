@@ -4,6 +4,7 @@ date: "2026-05-27T10:40:45"
 description: "An update to the GTA 6 Xbox placeholder message now explicitly references a game disc, providing further indication of a physical release for the highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Xbox", "Physical Release", "Disc Version", "Gaming News", "Rockstar Games", "Placeholder Update"]
 source: "https://www.reddit.com/r/GTA6/comments/1tp1rx7/xbox_disc_update/"
+classification: "RUMOR"
 ---
 
 # Xbox GTA 6 Placeholder Update Fuels Physical Disc Release Speculation

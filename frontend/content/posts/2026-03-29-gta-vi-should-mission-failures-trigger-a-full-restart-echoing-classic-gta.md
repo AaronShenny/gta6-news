@@ -4,6 +4,7 @@ date: "2026-03-29T18:49:46"
 description: "A community debate ignites over whether Grand Theft Auto VI should revert to the challenging, full mission restart mechanics of older GTA titles or embrace modern checkpoint systems upon player death or failure."
 tags: ["GTA 6", "Grand Theft Auto VI", "Mission Design", "Game Difficulty", "Player Experience", "Rockstar Games", "Gaming Debate", "Open World Games", "Game Mechanics", "Nostalgia"]
 source: "https://www.reddit.com/r/GTA6/comments/1s73fl6/should_gta_vi_make_you_restart_a_mission_all_over/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI: Should Mission Failures Trigger a Full Restart, Echoing Classic GTA?

@@ -4,6 +4,7 @@ date: "2026-05-14T19:02:16"
 description: "A Reddit post suggests Best Buy employees convinced an intern to leak Grand Theft Auto 6 pre-order details, sparking speculation among fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "leak", "pre-orders", "Best Buy", "gaming news", "rumors", "Rockstar Games", "intern"]
 source: "https://www.reddit.com/r/GTA6/comments/1td7u1s/best_buy_employees_persuade_an_intern_to_leak_gta/"
+classification: "RUMOR"
 ---
 
 # Rumor Alert: Best Buy Employees Allegedly Pressured Intern for GTA 6 Pre-Order Leaks

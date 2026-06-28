@@ -4,6 +4,7 @@ date: "2026-03-21T23:53:52"
 description: "A dedicated GTA 6 fan on Reddit points out the apparent absence of valve stem caps on vehicle tires in game screenshots, sparking discussion on overlooked details and customization potential."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Game Details", "Customization", "Vehicle Design", "Fan Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1s06n89/do_the_cars_in_gta_6_have_valve_stem_caps_on/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Observation Highlights Missing Tire Valve Stem Caps in Screenshots

@@ -4,6 +4,7 @@ date: "2026-05-13T13:39:33"
 description: "A provocative fan theory suggests GTA 6 is more than just a game, proposing it's a 'recursive memory containment system' designed to break a 1986 time loop, replete with occult numerology and real-world conspiracies."
 tags: ["GTA 6", "Grand Theft Auto VI", "Conspiracy Theory", "Rockstar Games", "Simulation Theory", "Gaming Journalism", "Vice City", "Occult Numerology", "Challenger Disaster", "Predictive Programming", "Fan Theory"]
 source: "https://www.reddit.com/r/GTA6/comments/1tbzzck/gta_vi_is_not_a_game_it_is_a_recursive_memory/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Is Rockstar Hiding a Deeper, 'Recursive' Narrative Within Its Next Blockbuster?

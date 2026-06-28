@@ -4,6 +4,7 @@ date: "2026-05-13T10:05:07"
 description: "Explore the challenges and strategies of GTA 6 YouTubers as they create content amidst limited official information and intense community speculation."
 tags: ["GTA 6", "Grand Theft Auto 6", "YouTube", "Content Creation", "Gaming News", "Speculation", "Rumors", "Hype", "Gaming Industry", "Pre-Release"]
 source: "https://www.reddit.com/r/GTA6/comments/1tbv6ly/pov_gta_6_youtubers_right_now/"
+classification: "RUMOR"
 ---
 
 # Navigating the Hype Cycle: A Look at GTA 6 YouTubers' Current Content Strategies

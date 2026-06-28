@@ -4,6 +4,7 @@ date: "2026-06-19T01:21:45"
 description: "A Reddit user shares their take on the GTA 6 cover art, incorporating the iconic black borders seen in previous Grand Theft Auto titles, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fan Art", "Cover Art", "Reddit", "Gaming Community", "Rockstar Games", "Concept Art"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9oayu/gta_6_cover_art_but_with_black_borders/"
+classification: "RUMOR"
 ---
 
 # Fan-Made GTA 6 Cover Art Embraces Classic Aesthetic with Black Borders

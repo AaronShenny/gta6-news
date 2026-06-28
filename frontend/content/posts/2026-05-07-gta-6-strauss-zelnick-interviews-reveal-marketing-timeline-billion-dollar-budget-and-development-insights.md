@@ -4,6 +4,7 @@ date: "2026-05-07T00:41:50"
 description: "Take-Two CEO Strauss Zelnick's recent interviews shed light on GTA 6's development, confirming marketing plans for summer, a budget exceeding $1 billion, and an imminent news announcement."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Gaming News", "Game Development", "Game Budget", "Marketing", "Release Date Speculation", "Crunch Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5v8l7/gta_6_news_recap_from_this_year_strauss_interviews/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Strauss Zelnick Interviews Reveal Marketing Timeline, Billion-Dollar Budget, and Development Insights

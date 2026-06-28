@@ -4,6 +4,7 @@ date: "2026-04-08T04:03:04"
 description: "A Reddit user speculates on the number of endings in GTA 6, observing a pattern of increasing choices in previous Rockstar titles like GTA 4, GTA 5, and RDR2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Endings", "Speculation", "Fan Theory", "Gaming News", "GTA 4", "GTA 5", "RDR2", "Narrative Choices"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfid2a/how_many_endings_do_you_think_gta_6_will_have/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Endings: Fan Theory Suggests Up to Five Potential Conclusions Based on Rockstar's Past Trends

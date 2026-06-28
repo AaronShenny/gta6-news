@@ -4,6 +4,7 @@ date: "2026-05-24T18:51:47"
 description: "A dedicated Grand Theft Auto fan showcases an impressive custom-made GTA 6 logo, meticulously crafted with Perler beads, generating buzz on Reddit."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Art", "Pixel Art", "Perler Beads", "Reddit", "Gaming Community", "Crafts"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmkr7h/gta_6_logo_pixel_art_beaded/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fan Creates Stunning Perler Bead Pixel Art Logo

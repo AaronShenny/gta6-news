@@ -4,6 +4,7 @@ date: "2026-03-02T04:00:25"
 description: "A Reddit user sparks discussion about whether a PlayStation 5 console will be necessary to digitally pre-order Grand Theft Auto 6, drawing parallels to GTA V's pre-order availability."
 tags: ["GTA 6", "Grand Theft Auto 6", "Pre-order", "PS5", "PlayStation 5", "Digital Pre-order", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1riimi3/do_i_need_to_own_a_ps5_to_buy_the_preorder/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Order Quandary: Will a PS5 Be Required for Digital Purchases?

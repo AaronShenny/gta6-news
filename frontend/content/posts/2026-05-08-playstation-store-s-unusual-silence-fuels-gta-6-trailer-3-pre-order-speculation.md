@@ -4,6 +4,7 @@ date: "2026-05-08T16:36:04"
 description: "An unprecedented absence of deals on the PlayStation Store has sparked theories that Sony is making way for a major GTA 6 Trailer 3 and pre-order announcement, aligning with Rockstar's typical reveal schedule and Take-Two's earnings call."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "PlayStation Store", "Gaming Speculation", "Trailer 3", "Pre-orders", "Take-Two Interactive"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7d5rn/does_anyone_else_find_this_kind_of_weird/"
+classification: "RUMOR"
 ---
 
 # PlayStation Store's Unusual Silence Fuels GTA 6 Trailer 3 & Pre-Order Speculation

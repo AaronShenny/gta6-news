@@ -4,6 +4,7 @@ date: "2026-03-10T00:05:23"
 description: "Controversial GTA 6 leaker Arion Kurtaj is rumored to have smuggled a phone into jail, sharing photos via Snapchat and sparking concerns about prison security."
 tags: ["GTA 6", "Grand Theft Auto 6", "Arion Kurtaj", "Leaker", "Gaming News", "Prison Security", "Snapchat", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rphexm/gta_6_leaker_arion_kurtaj_has_smuggled_a_phone/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Leaker Arion Kurtaj Reportedly Smuggles Phone into Jail, Posts on Snapchat

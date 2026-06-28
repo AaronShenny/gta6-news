@@ -4,6 +4,7 @@ date: "2026-03-27T01:07:58"
 description: "A Reddit user shares hopes for more realistic and impactful fire hydrant effects in Grand Theft Auto VI, citing disappointment with previous titles."
 tags: ["GTA 6", "Grand Theft Auto VI", "fire hydrant", "explosions", "environmental effects", "player expectations", "game physics", "realism", "gaming news", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4pwlk/i_hope_gta_vis_fire_hydrant_explosions_look_like/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Express Desire for Enhanced Fire Hydrant Explosions

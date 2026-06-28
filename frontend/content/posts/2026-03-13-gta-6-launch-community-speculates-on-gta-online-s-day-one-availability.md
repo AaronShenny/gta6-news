@@ -4,6 +4,7 @@ date: "2026-03-13T18:04:53"
 description: "A Reddit post sparks discussion among fans regarding the potential for GTA Online not to be available at Grand Theft Auto 6's initial launch."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA Online", "Rockstar Games", "Launch Date", "Gaming News", "Speculation", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsusy1/gta_online/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Launch: Community Speculates on GTA Online's Day-One Availability

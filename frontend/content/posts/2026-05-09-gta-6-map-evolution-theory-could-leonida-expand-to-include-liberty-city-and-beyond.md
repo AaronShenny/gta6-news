@@ -4,6 +4,7 @@ date: "2026-05-09T01:00:46"
 description: "A Reddit theory suggests GTA 6's map will launch as a partial Leonida, then expand over time with new cities like Liberty City and potentially San Andreas via future updates."
 tags: ["GTA 6", "Grand Theft Auto 6", "Map Theory", "Leonida", "Rockstar Games", "Game Updates", "Liberty City", "San Andreas", "GTA Online", "Reddit Theory"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7qau7/my_theory_on_the_evolving_map_idea/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map Evolution Theory: Could Leonida Expand to Include Liberty City and Beyond?

@@ -4,6 +4,7 @@ date: "2026-03-31T01:17:10"
 description: "A Reddit post is circulating, claiming to offer a PlayStation 5 console with Grand Theft Auto 6 'pre-installed,' sparking immediate skepticism given the game's unreleased status."
 tags: ["GTA 6", "Grand Theft Auto VI", "PS5", "PlayStation 5", "Scam Alert", "Gaming Hoax", "Rockstar Games", "Release Date", "Misinformation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s89eqg/yoo_this_guy_is_selling_a_ps5_w_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # Viral Reddit Post Alleges PS5 Sale with Unreleased GTA 6: Buyer Beware

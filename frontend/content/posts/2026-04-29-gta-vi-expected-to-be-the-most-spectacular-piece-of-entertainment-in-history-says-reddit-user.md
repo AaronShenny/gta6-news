@@ -4,6 +4,7 @@ date: "2026-04-29T15:18:02"
 description: "A Reddit user, echoing a bold statement from Take-Two CEO Strauss Zelnick, anticipates GTA VI will set new benchmarks in scale, art, and technology, potentially becoming the most spectacular entertainment experience ever."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Gaming Industry", "Video Games", "Entertainment", "Game Expectations", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1sz1twz/gta_vi_expected_to_be_the_most_spectacular_piece/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Expected to Be the Most Spectacular Piece of Entertainment in History, Says Reddit User

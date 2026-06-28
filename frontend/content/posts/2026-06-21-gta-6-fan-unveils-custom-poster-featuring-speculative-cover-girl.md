@@ -4,6 +4,7 @@ date: "2026-06-21T16:27:34"
 description: "A Reddit user has designed and shared a fan-made poster imagining the 'GTA 6 Cover Girl,' sparking community engagement on the r/GTA6 subreddit."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Gaming Community", "Reddit", "Poster Design", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubucig/made_this_poster_featuring_the_gta_6_cover_girl/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Unveils Custom Poster Featuring Speculative 'Cover Girl'

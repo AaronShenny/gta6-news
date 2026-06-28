@@ -4,6 +4,7 @@ date: "2026-04-03T22:45:48"
 description: "Explore the vibrant community discussion on Reddit's r/GTA6, where fans are actively speculating about Grand Theft Auto 6's release, features, and future."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Community Discussion", "Gaming Speculation", "Reddit", "Anticipation", "Video Games News", "Fan Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbsb0h/discussion_will_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: Reddit Discussion Ignites Fan Speculation

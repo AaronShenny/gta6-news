@@ -4,6 +4,7 @@ date: "2026-04-03T21:46:59"
 description: "A GTA VI fan proposes implementing dynamic NPC crimes, drawing parallels to Watch Dogs, to create a more vibrant and less player-centric open world in the highly anticipated title."
 tags: ["GTA VI", "Grand Theft Auto 6", "NPC AI", "Dynamic Events", "Open World Games", "Gaming Features", "Fan Discussion", "Rockstar Games", "Watch Dogs Comparison"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbqvmc/i_hope_they_implement_npc_crimes_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA VI Community Hopes for Dynamic NPC Crimes to Elevate Open-World Immersion

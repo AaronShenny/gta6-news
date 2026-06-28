@@ -4,6 +4,7 @@ date: "2026-03-22T22:54:18"
 description: "GTA 6 enthusiasts are buzzing with speculation about the depth of aviation gameplay, particularly the potential for immersive first-person controls and interactive cockpits in commercial jets."
 tags: ["GTA 6", "Grand Theft Auto 6", "Aviation", "Flying", "Commercial Jets", "First-Person", "Controls", "Cockpit", "Realism", "Speculation", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0zz8g/how_do_you_think_aviation_will_be_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Aviation Speculation Takes Flight: Will First-Person Commercial Jet Controls Feature Interactive Buttons?

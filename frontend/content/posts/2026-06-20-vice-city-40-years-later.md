@@ -4,6 +4,7 @@ date: "2026-06-20T15:58:43"
 description: "A Reddit post titled 'Vice City 40 years later...' sparks fan speculation regarding the potential timeline or setting of Grand Theft Auto 6, focusing on the iconic city."
 tags: ["GTA 6", "Vice City", "Speculation", "Reddit", "Fan Discussion", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ub04nn/vice_city_40_years_later/"
+classification: "RUMOR"
 ---
 
 # Vice City 40 years later...

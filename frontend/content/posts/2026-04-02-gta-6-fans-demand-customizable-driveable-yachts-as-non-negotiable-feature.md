@@ -4,6 +4,7 @@ date: "2026-04-02T23:09:14"
 description: "A passionate GTA 6 fan on Reddit emphatically states that customizable and driveable yachts are a must-have, non-negotiable feature for the upcoming game, a desire held since childhood."
 tags: ["GTA 6", "Grand Theft Auto", "Yachts", "Vehicle Customization", "Fan Demand", "Reddit", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1sawton/gta_6_needs_to_have_customizable_driveable_yachts/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Demand Customizable, Driveable Yachts as 'Non-Negotiable' Feature

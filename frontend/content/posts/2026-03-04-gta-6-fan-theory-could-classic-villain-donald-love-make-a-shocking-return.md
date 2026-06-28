@@ -4,6 +4,7 @@ date: "2026-03-04T21:44:14"
 description: "A Reddit fan theory explores the intriguing possibility of Donald Love, a character from the 3D Grand Theft Auto universe, reappearing in GTA 6, citing existing HD universe canon and past character crossovers."
 tags: ["GTA 6", "Grand Theft Auto VI", "Donald Love", "Fan Theory", "Rockstar Games", "GTA Lore", "HD Universe", "3D Universe", "Character Return", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rkyl0y/okay_hear_me_out_loves_reappearance/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory: Could Classic Villain Donald Love Make a Shocking Return?

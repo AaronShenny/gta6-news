@@ -4,6 +4,7 @@ date: "2026-06-22T14:28:06"
 description: "New insights into Grand Theft Auto 6 suggest a robust street racing system featuring dynamic police pursuits, car impoundments, and player-driven rivalries, elevating open-world engagement and vehicle customization."
 tags: ["GTA 6", "Grand Theft Auto VI", "Street Racing", "Vehicle Customization", "Police Chases", "Open World", "Gaming News", "Rockstar Games", "Leaks", "Rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucm3nd/proper_street_racing_scene_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Rumors Detail GTA 6's Deeply Immersive Street Racing Scene

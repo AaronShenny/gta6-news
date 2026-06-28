@@ -4,6 +4,7 @@ date: "2026-06-14T10:34:47"
 description: "A Reddit user from the r/GTA6 community expresses worry that the immense anticipation for Grand Theft Auto 6 could divert attention from other high-quality AAA games launching this year."
 tags: ["GTA 6", "AAA games", "gaming industry", "game releases", "market impact", "community sentiment", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5hpqj/gta_6_single_handedly_screwed_every_aaa_game/"
+classification: "UNKNOWN"
 ---
 
 # Community Voices Concern: Will GTA 6 Overshadow Other AAA Game Releases This Year?

@@ -4,6 +4,7 @@ date: "2026-05-05T05:17:43"
 description: "A community discussion speculates on the signature default outfits for GTA 6 protagonists Jason and Lucia, drawing parallels to memorable looks from past GTA legends like Tommy Vercetti and CJ."
 tags: ["GTA 6", "Grand Theft Auto", "Jason", "Lucia", "Character Design", "Signature Look", "Protagonists", "Gaming Community", "Game Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t461as/what_will_be_jason_and_lucias_signature_look/"
+classification: "RUMOR"
 ---
 
 # GTA 6: What Will Be Jason and Lucia's Iconic Signature Looks?

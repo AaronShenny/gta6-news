@@ -4,6 +4,7 @@ date: "2026-03-20T14:39:54"
 description: "Fans on Reddit are speculating whether Grand Theft Auto VI will follow GTA V's tradition of releasing an official printed strategy guide."
 tags: ["GTA 6", "Grand Theft Auto VI", "Official Guide", "Printed Guide", "Strategy Guide", "Fan Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1ryy24q/gta_vi_official_guide_coming/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Receive an Official Printed Guide Like Its Predecessor?

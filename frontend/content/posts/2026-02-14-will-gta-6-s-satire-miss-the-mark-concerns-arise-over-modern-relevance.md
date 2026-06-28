@@ -4,6 +4,7 @@ date: "2026-02-14T04:18:17"
 description: "A Reddit user raises concerns that GTA 6's long development cycle could result in its satire feeling outdated, questioning its ability to accurately parody the absurdities of the 2020s."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Video Game Satire", "Game Development", "Modern Relevance", "Cultural Commentary", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4awkd/will_gta_vi_feel_old/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6's Satire Miss the Mark? Concerns Arise Over Modern Relevance

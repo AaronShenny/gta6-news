@@ -4,6 +4,7 @@ date: "2026-03-13T23:16:04"
 description: "A Reddit user has suggested adding characters of shorter stature as playable options or an underground fight club to GTA 6 Online, sparking community discussion."
 tags: ["GTA 6", "GTA Online", "Community Suggestion", "Reddit", "Rockstar Games", "Character Customization", "Gaming News", "Unique Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1rt32dm/gta_6_online_needs_little_people/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Online: Reddit User Proposes Unique Character Options and 'Underground Fight Club'

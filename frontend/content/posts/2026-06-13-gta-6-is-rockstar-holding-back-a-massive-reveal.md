@@ -4,6 +4,7 @@ date: "2026-06-13T14:38:46"
 description: "A popular theory suggests GTA 6's current reveals don't justify its 10-year development and multi-billion dollar budget, hinting at an unseen region or groundbreaking gameplay."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Development", "Fan Theories", "Gaming Hype", "Game Budget", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4snf1/theyre_definitely_hiding_something_big_from_us_100/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Is Rockstar Holding Back a Massive Reveal?

@@ -4,6 +4,7 @@ date: "2026-02-19T18:01:44"
 description: "A Reddit post's title suggests the countdown to GTA 6 is entering its final, single-digit months, expressing community excitement despite a lack of specific details in the 'article' content."
 tags: ["GTA 6", "Grand Theft Auto 6", "Release Date", "Anticipation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r96ddh/we_have_officially_entered_the_singledigit/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Anticipation: The Single-Digit Countdown Begins (Enthusiastically)

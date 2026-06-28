@@ -4,6 +4,7 @@ date: "2026-02-16T22:25:29"
 description: "A Reddit user proposes crucial UI improvements for GTA 6 mission replays, suggesting on-screen timers and accuracy percentages to simplify gold medal achievements, citing frustrations from GTA V and RDR2."
 tags: ["GTA 6", "Rockstar Games", "Mission Replays", "Gold Medals", "UI Improvement", "Quality of Life", "Player Feedback", "Gaming Suggestions", "GTA V", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6o19w/gta_6_needs_to_have_timers_for_mission_replays_if/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Community Suggests In-Game Timers and Accuracy Displays for Gold Medal Mission Replays

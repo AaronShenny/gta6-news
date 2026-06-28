@@ -4,6 +4,7 @@ date: "2026-06-18T19:30:15"
 description: "A viral Reddit post on r/GTA6 sparks intense discussion about a speculative November 19th release, pre-order decisions, and the long-term appeal of GTA 6's Story and Online modes in the state of Leonida."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Leonida", "Pre-order", "Online Mode", "Story Mode", "Fan Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9fxo8/from_november_19th_this_will_be_our_new_second/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Hype Explodes: Fans Debate Pre-Orders and Anticipate Leonida Adventures

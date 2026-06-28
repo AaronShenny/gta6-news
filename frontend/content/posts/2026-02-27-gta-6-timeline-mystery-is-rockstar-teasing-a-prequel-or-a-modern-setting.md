@@ -4,6 +4,7 @@ date: "2026-02-27T06:11:26"
 description: "A Reddit user has sparked debate by uncovering conflicting timeline clues in GTA 6 trailers, suggesting the game could be a Vice City prequel despite modern social media elements."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Vice City", "Timeline Theory", "Trailer Analysis", "Rockstar Games", "Phil Cassidy", "Gaming News", "Easter Eggs"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfyucb/gta_6_before_vice_city/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Timeline Mystery: Is Rockstar Teasing a Prequel or a Modern Setting?

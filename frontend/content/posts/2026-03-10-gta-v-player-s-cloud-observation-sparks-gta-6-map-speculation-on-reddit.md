@@ -4,6 +4,7 @@ date: "2026-03-10T23:01:28"
 description: "A Grand Theft Auto V player's friend believes they've spotted a potential GTA 6 map hidden within the game's cloud formations, fueling fan theories on Reddit."
 tags: ["GTA 6", "GTA V", "Fan Theory", "Gaming Speculation", "Reddit", "Rockstar Games", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqck1d/its_a_sign_for_the_gta_6_map/"
+classification: "RUMOR"
 ---
 
 # GTA V Player's Cloud Observation Sparks GTA 6 Map Speculation on Reddit

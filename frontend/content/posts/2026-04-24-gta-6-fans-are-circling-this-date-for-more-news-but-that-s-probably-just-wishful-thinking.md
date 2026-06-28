@@ -4,6 +4,7 @@ date: "2026-04-24T15:45:00"
 description: "GTA 6 fans are eyeing Take-Two's May 21 earnings call for new details, but history suggests major reveals are unlikely. Learn why industry observers remain skeptical despite past precedents for high-level updates."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Take-Two Interactive", "Earnings Call", "Game News", "Release Date", "PS5", "Xbox Series X|S", "PC Gaming", "Industry News"]
 source: "https://www.gamespot.com/articles/gta-6-fans-are-circling-this-date-for-more-news-but-thats-probably-just-wishful-thinking/1100-6539606/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fans Are Circling This Date For More News, But That's Probably Just Wishful Thinking

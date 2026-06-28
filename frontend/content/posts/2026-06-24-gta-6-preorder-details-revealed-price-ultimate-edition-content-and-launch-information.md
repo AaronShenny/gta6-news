@@ -4,6 +4,7 @@ date: "2026-06-24T11:59:24"
 description: "Rockstar Games has unveiled GTA 6 pricing, including the $79.99 Standard and $99.99 Ultimate Editions, alongside extensive preorder bonuses and confirmation of no traditional physical copies."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Preorder", "Ultimate Edition", "Price", "Launch Date", "Bonuses", "Vice City", "Gaming News"]
 source: "https://www.gamespot.com/articles/heres-how-much-youll-pay-for-gta-6-and-whats-included-in-the-ultimate-edition/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Preorder Details Revealed: Price, Ultimate Edition Content, and Launch Information

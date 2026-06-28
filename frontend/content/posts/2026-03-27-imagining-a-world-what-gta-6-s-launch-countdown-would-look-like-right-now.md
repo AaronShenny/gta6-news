@@ -4,6 +4,7 @@ date: "2026-03-27T12:43:11"
 description: "A Reddit post sparks discussion on a hypothetical GTA 6 launch, detailing the marketing blitz fans would be experiencing if the game were two months away."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Release Date", "Hypothetical", "Launch Countdown", "Marketing Campaign", "Fan Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s530en/if_gta_6_hadnt_been_delayed_we_would_now_be_just/"
+classification: "RUMOR"
 ---
 
 # Imagining a World: What GTA 6's Launch Countdown Would Look Like Right Now

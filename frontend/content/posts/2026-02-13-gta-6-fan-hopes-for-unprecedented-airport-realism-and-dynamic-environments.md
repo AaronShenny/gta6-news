@@ -4,6 +4,7 @@ date: "2026-02-13T21:24:09"
 description: "A GTA fan expresses high hopes for GTA 6's airport, envisioning a highly detailed and dynamic hub with full interiors, security, and realistic passenger flows, building on RDR2's environmental depth."
 tags: ["GTA 6", "Grand Theft Auto 6", "Airport", "Realism", "Open World", "NPCs", "Environmental Detail", "RDR2", "Fan Expectations", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r41m3v/think_theyll_have_a_better_airport_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Hopes for Unprecedented Airport Realism and Dynamic Environments

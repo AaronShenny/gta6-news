@@ -4,6 +4,7 @@ date: "2026-05-12T16:44:27"
 description: "Game Informer's Brian Shea responded to a GTA 6 fan's claim of 'baiting' regarding a cover reveal, clarifying that a 'four-word cover story' tease was accurate for a four-word game title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Informer", "Brian Shea", "Gaming News", "Cover Reveal", "Fan Reaction", "Gaming Journalism"]
 source: "https://www.reddit.com/r/GTA6/comments/1tb775t/gameinformers_executive_editor_brian_shea/"
+classification: "UNKNOWN"
 ---
 
 # Game Informer's Executive Editor Brian Shea Addresses GTA 6 Fan 'Baiting' Accusations Over Cover Tease

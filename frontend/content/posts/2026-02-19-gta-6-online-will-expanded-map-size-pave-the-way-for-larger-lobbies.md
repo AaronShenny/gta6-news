@@ -4,6 +4,7 @@ date: "2026-02-19T16:28:14"
 description: "A Reddit discussion from /r/GTA6 speculates whether Grand Theft Auto 6's anticipated larger map will lead to a significant increase in online lobby player counts beyond GTA 5's 30-player limit."
 tags: ["GTA 6", "Grand Theft Auto 6", "Online Lobby Size", "Multiplayer", "Rockstar Games", "GTA Online", "Map Size", "Gaming News", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r93rid/online_lobby_size/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Will Expanded Map Size Pave the Way for Larger Lobbies?

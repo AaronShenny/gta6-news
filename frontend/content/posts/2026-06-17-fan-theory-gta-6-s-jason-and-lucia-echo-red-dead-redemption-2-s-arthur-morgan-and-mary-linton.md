@@ -4,6 +4,7 @@ date: "2026-06-17T00:01:29"
 description: "A popular fan theory suggests that the dynamic between GTA 6 protagonists Jason and Lucia mirrors the tragic love story of Arthur Morgan and Mary Linton from Red Dead Redemption 2, potentially influencing the game's two-player mechanics and narrative."
 tags: ["GTA 6", "Grand Theft Auto 6", "Jason and Lucia", "Red Dead Redemption 2", "RDR2", "Arthur Morgan", "Mary Linton", "Fan Theory", "Rockstar Games", "Game Development", "Narrative", "Character Dynamics"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7uhbh/theory_jason_and_lucia_are_the_kindred_spirits_of/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: GTA 6's Jason and Lucia Echo Red Dead Redemption 2's Arthur Morgan and Mary Linton

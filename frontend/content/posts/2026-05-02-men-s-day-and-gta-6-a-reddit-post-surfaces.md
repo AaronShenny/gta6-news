@@ -4,6 +4,7 @@ date: "2026-05-02T11:37:20"
 description: "A Reddit post titled 'Men’s Day and GTA 6' by u/AdAwkward6460 was identified, though the provided article content offers no further details or discussion on the potential connection."
 tags: ["GTA 6", "Grand Theft Auto", "Reddit", "Gaming News", "Men's Day", "Community Discussion", "Unconfirmed"]
 source: "https://www.reddit.com/r/GTA6/comments/1t1nhs4/mens_day_and_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # Men’s Day and GTA 6: A Reddit Post Surfaces

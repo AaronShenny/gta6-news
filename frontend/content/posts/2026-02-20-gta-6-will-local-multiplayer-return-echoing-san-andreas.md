@@ -4,6 +4,7 @@ date: "2026-02-20T05:34:15"
 description: "A Reddit discussion highlights fan hopes for Grand Theft Auto 6 to feature local multiplayer, reminiscent of the classic San Andreas experience."
 tags: ["GTA 6", "Grand Theft Auto 6", "Local Multiplayer", "San Andreas", "Co-op Gaming", "Fan Speculation", "Reddit Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9myet/do_you_think_gta_6_will_have_multiplayer_like_san/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Local Multiplayer Return, Echoing San Andreas?

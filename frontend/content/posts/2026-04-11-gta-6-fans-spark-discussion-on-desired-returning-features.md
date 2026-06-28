@@ -4,6 +4,7 @@ date: "2026-04-11T17:54:16"
 description: "A Reddit post titled 'I'm I the only one who wants to see them come back in GTA 6?' hints at community-wide anticipation for specific returning elements in the upcoming Grand Theft Auto title."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Community Discussion", "Fan Theories", "Returning Features", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sipxgd/im_i_the_only_one_who_wants_to_see_them_come_back/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Spark Discussion on Desired Returning Features

@@ -4,6 +4,7 @@ date: "2026-06-04T19:27:36"
 description: "A dedicated GTA fan has crafted an unofficial trailer edit for Grand Theft Auto VI, blending existing footage with the classic track 'Skeletons' by Stevie Wonder."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Edit", "Trailer", "Stevie Wonder", "Skeletons", "Gaming Community", "Reddit", "Fan Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1twxvpo/skeletons_by_stevie_wonder_gta_6_trailer_edit/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fan Creates Unique Trailer Mashup Featuring Stevie Wonder's 'Skeletons'

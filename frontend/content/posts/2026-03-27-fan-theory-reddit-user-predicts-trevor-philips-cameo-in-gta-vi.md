@@ -4,6 +4,7 @@ date: "2026-03-27T05:30:43"
 description: "A Reddit user speculates on Trevor Philips' potential return for a cameo in Grand Theft Auto VI, citing actor Steven Ogg's perceived low engagement with the franchise."
 tags: ["GTA 6", "Trevor Philips", "Grand Theft Auto VI", "Fan Theory", "Cameo", "Reddit", "Steven Ogg", "GTA Online"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4vew2/trevor_will_be_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: Reddit User Predicts Trevor Philips Cameo in GTA VI

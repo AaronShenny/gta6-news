@@ -4,6 +4,7 @@ date: "2026-05-28T22:01:26"
 description: "Take-Two CEO Strauss Zelnick expresses strong confidence in GTA 6's upcoming review scores, attributing Rockstar's consistent critical acclaim to their commitment to quality, despite a changing media landscape."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Game Reviews", "Release Date", "Gaming Industry", "PS5", "Xbox Series X|S", "Video Games"]
 source: "https://www.gamespot.com/articles/gta-6-boss-says-high-review-scores-reflect-rockstars-commitment-to-quality/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Boss Says High Review Scores Reflect Rockstar’s “Commitment To Quality”

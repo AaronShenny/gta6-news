@@ -4,6 +4,7 @@ date: "2026-06-23T08:05:09"
 description: "A dedicated Grand Theft Auto fan has reportedly crafted a stunning 1:1 scale recreation of Vice City, envisioned for Grand Theft Auto VI, sparking immense community interest."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Fan Project", "Community Creation", "Rockstar Games", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1udaxuz/my_11_recreation_of_vice_city_from_grand_theft/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Unveils Ambitious 1:1 Vice City Recreation, Offering a Potential Glimpse into Rockstar's Next Epic

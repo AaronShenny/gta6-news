@@ -4,6 +4,7 @@ date: "2026-06-02T02:13:51"
 description: "A Reddit post on r/GTA6 humorously anticipates the subreddit's prominent role in future discussions and news coverage regarding the community's reaction to Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "r/GTA6", "Gaming Community", "Fan Reaction", "Community Engagement", "Video Games", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tuddgn/in_the_future_this_sub_will_be_featured_heavily/"
+classification: "RUMOR"
 ---
 
 # r/GTA6 Community Predicts Its Future Role in Documenting Fan Reactions to Grand Theft Auto VI

@@ -4,6 +4,7 @@ date: "2026-04-02T02:20:51"
 description: "A Reddit post reignites discussion about an alleged Grand Theft Auto 6 leak claiming over 700 interiors, with 70% being enterable. Is there truth to the rumors?"
 tags: ["GTA 6", "Grand Theft Auto 6", "Leaks", "Rumors", "Interiors", "Gameplay", "Open World", "Rockstar Games", "Community Discussion", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sa4w3a/was_watching_an_older_gta_6_video_what_do_you/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Debates Massive 700+ Enterable Interior Leaks

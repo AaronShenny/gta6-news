@@ -4,6 +4,7 @@ date: "2026-06-02T12:00:56"
 description: "Sony's PlayStation State of Play livestream on June 2 promises over an hour of updates, including Marvel's Wolverine and highly anticipated potential reveals like Persona 6, a God of War spin-off, and the much-speculated GTA 6."
 tags: ["PlayStation", "State of Play", "GTA 6", "Grand Theft Auto 6", "Gaming News", "Game Reveals", "Marvel's Wolverine", "Persona 6", "Sony", "Rockstar Games", "Gaming Event", "June 2026"]
 source: "https://www.gamespot.com/articles/playstation-state-of-play-june-2026-start-time-how-to-watch-and-what-to-expect/"
+classification: "RUMOR"
 ---
 
 # State of Play June 2026: Sony Prepares for an Hour of Reveals, Could GTA 6 Be the Grand Finale?

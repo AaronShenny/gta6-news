@@ -4,6 +4,7 @@ date: "2026-03-10T19:37:42"
 description: "A Reddit user speculates on the potential for highly realistic damage physics in Grand Theft Auto VI, particularly concerning NPCs."
 tags: ["GTA 6", "Grand Theft Auto VI", "NPC Damage", "Realism", "Player Expectations", "Community Speculation", "Game Physics"]
 source: "https://www.reddit.com/r/GTA6/comments/1rq6zu5/what_differences_are_you_expecting_between_gta_5/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Enhanced NPC Damage Realism

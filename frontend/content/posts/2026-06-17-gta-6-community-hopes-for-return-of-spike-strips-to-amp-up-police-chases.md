@@ -4,6 +4,7 @@ date: "2026-06-17T06:08:59"
 description: "Explore a GTA 6 fan's Reddit plea for the reintroduction of spike strips, aiming to bring deeper complexity and challenge to police pursuits, reminiscent of classic GTA titles."
 tags: ["GTA 6", "Grand Theft Auto VI", "Spike Strips", "Police Pursuits", "Fan Request", "Community Wishlist", "Reddit", "Vice City", "Vice City Stories", "Gameplay Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1u81zlx/please_i_want_spike_strip_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Return of Spike Strips to Amp Up Police Chases

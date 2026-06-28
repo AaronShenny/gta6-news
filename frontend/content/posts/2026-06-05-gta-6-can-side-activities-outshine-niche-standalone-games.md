@@ -4,6 +4,7 @@ date: "2026-06-05T16:52:22"
 description: "A Reddit discussion speculates if Grand Theft Auto 6's detailed side content could surpass dedicated niche games, drawing comparisons to Red Dead Redemption 2's immersive activities."
 tags: ["GTA 6", "Grand Theft Auto 6", "Side Activities", "Niche Games", "Red Dead Redemption 2", "Gaming Speculation", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1txqjt2/which_specific_niche_genre_do_you_think_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Can Side Activities Outshine Niche Standalone Games?

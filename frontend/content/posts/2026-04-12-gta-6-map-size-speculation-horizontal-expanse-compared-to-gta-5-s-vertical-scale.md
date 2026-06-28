@@ -4,6 +4,7 @@ date: "2026-04-12T16:08:12"
 description: "Early online speculation suggests GTA 6's map could offer a horizontal traversal distance comparable to GTA 5's vertical scale, drawing comparisons between key in-game locations."
 tags: ["GTA 6", "Grand Theft Auto 6", "map size", "Vice City", "Rockstar Games", "speculation", "gaming news", "Reddit leak"]
 source: "https://www.reddit.com/r/GTA6/comments/1sjilmx/gta_6s_map_is_roughly_as_wide_as_gta_5s_is_tall/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map Size Speculation: Horizontal Expanse Compared to GTA 5's Vertical Scale

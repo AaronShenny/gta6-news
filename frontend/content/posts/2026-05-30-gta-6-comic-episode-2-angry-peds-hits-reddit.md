@@ -4,6 +4,7 @@ date: "2026-05-30T11:57:41"
 description: "User /u/posisquid shares 'GTA 6 Comic Episode 2 - Angry Peds' on r/GTA6, continuing a fan-made series exploring the world of Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Comic", "Fan Art", "Reddit", "Gaming News", "Angry Peds", "Community Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1trxz6l/gta_6_comic_episode_2_angry_peds/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Comic Episode 2 - Angry Peds Hits Reddit

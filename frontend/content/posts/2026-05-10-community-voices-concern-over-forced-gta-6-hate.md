@@ -4,6 +4,7 @@ date: "2026-05-10T10:42:30"
 description: "A recent Reddit post on r/GTA6 highlights user frustration with what they perceive as a wave of 'forced hate' directed at the upcoming Grand Theft Auto title, specifically criticizing a segment of the indie game community."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Community", "Reddit", "Fan Opinion", "Online Discourse", "Indie Games", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1t93itc/whats_going_on_with_this_forced_gta_6_hate/"
+classification: "UNKNOWN"
 ---
 
 # Community Voices Concern Over 'Forced GTA 6 Hate'

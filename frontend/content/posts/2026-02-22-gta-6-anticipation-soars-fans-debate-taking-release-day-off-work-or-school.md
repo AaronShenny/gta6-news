@@ -4,6 +4,7 @@ date: "2026-02-22T22:43:57"
 description: "A viral Reddit thread on r/GTA6 reveals fans are already discussing plans to take time off work or school for Grand Theft Auto VI's release day, showcasing immense anticipation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Release Date", "Fan Anticipation", "Reddit", "Gaming Culture", "Work-Life Balance", "School", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rc0508/are_you_taking_the_release_day_of_gta_6_off_from/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Anticipation Soars: Fans Debate Taking Release Day Off Work or School

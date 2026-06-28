@@ -4,6 +4,7 @@ date: "2026-05-03T17:05:33"
 description: "A Reddit user predicts GTA 6 will be the biggest entertainment release in history, emphasizing its unprecedented cultural impact and Rockstar's track record for exceeding expectations."
 tags: ["GTA 6", "Rockstar Games", "Gaming Hype", "Anticipation", "Pop Culture", "Video Game Launch", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1t2r3i2/explosion_imminent/"
+classification: "CONFIRMED"
 ---
 
 # Explosion Imminent: GTA 6 Hype Reaches Fever Pitch

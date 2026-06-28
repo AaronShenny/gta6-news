@@ -4,6 +4,7 @@ date: "2026-04-02T06:55:40"
 description: "A gaming journalist speculates that GTA 6 might struggle to run optimally on PS5 and Xbox Series S, citing the game's ambitious scope and comparison to other demanding titles."
 tags: ["GTA 6", "Grand Theft Auto VI", "Performance", "Console Gaming", "PS5", "Xbox Series S", "PS5 Pro", "Xbox Series X", "Hardware", "Gaming Industry", "Open World", "Rockstar Games", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1saa4rk/it_will_be_unplayable/"
+classification: "RUMOR"
 ---
 
 # Concerns Emerge Over GTA 6 Performance on Current-Gen Consoles

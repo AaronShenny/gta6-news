@@ -4,6 +4,7 @@ date: "2026-03-31T12:57:01"
 description: "The long wait for Grand Theft Auto VI just got a significant milestone: fans are now officially in the fiscal year of its anticipated release, sparking immense excitement."
 tags: ["GTA VI", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Game Release", "Fiscal Year", "Gaming News", "Anticipation", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8mnu6/as_of_tomorrow_were_officially_in_the_fiscal_year/"
+classification: "RUMOR"
 ---
 
 # GTA VI's Release Fiscal Year Is Officially Here, Heightening Anticipation

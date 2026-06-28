@@ -4,6 +4,7 @@ date: "2026-06-26T05:12:08"
 description: "A Reddit user analyzes the perceived similarities between GTA 6's Jason and RDR2's Arthur, as well as Lucia and Mary, attributing shared traits to common masculine and feminine features."
 tags: ["GTA 6", "Red Dead Redemption 2", "Character Design", "Jason", "Arthur Morgan", "Lucia", "Mary Linton", "Gaming Discussion", "Character Resemblance"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufxf58/jason_arthur_look_alike_and_it_makes_sense/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 & RDR2 Character Resemblances: A Logical Perspective

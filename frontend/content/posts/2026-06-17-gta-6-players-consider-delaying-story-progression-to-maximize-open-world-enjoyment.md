@@ -4,6 +4,7 @@ date: "2026-06-17T20:01:06"
 description: "A Reddit user shares their plan to delay GTA 6's main story for days, opting to explore the open world first to avoid the 'hollow' feeling post-completion and savor the game."
 tags: ["GTA 6", "Grand Theft Auto", "Open World", "Gaming Habits", "Player Experience", "Story Mode", "Exploration", "Side Quests", "Reddit", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8kx4q/anyone_else_planning_to_take_gta_6_slow/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Players Consider Delaying Story Progression to Maximize Open-World Enjoyment

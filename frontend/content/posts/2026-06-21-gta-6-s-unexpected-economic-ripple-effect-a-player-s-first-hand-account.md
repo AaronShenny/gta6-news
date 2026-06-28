@@ -4,6 +4,7 @@ date: "2026-06-21T05:28:19"
 description: "A dedicated gamer observes surprising market shifts, from console prices to game sales and workplace vacation trends, all seemingly influenced by the anticipation for Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Industry", "Economic Impact", "Console Market", "Game Prices", "Xbox Series X", "PlayStation 5", "Employment Trends", "Consumer Behavior"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubhn5s/gta_6_is_litteraly_changing_economy_somehow/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Unexpected Economic Ripple Effect: A Player's First-Hand Account

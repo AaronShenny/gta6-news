@@ -4,6 +4,7 @@ date: "2026-06-07T17:51:16"
 description: "A Reddit user's unique 'methane detection' experiment near Rockstar North offices claims to reveal heightened employee activity, sparking community speculation for an imminent GTA 6 information drop."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Speculation", "Release Date", "Rumors", "Gaming News", "Community", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tziw7x/ive_been_measuring_methane_fart_levels_by/"
+classification: "RUMOR"
 ---
 
 # Unconventional 'Methane Analysis' Fuels Fresh GTA 6 Speculation at Rockstar HQ

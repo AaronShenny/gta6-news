@@ -4,6 +4,7 @@ date: "2026-06-12T13:43:21"
 description: "A Reddit post suggests the actor behind Pearson in Red Dead Redemption 2 will appear in GTA VI, sparking early speculation among fans about potential casting."
 tags: ["GTA VI", "Grand Theft Auto VI", "Red Dead Redemption 2", "RDR2", "Casting Rumor", "Gaming News", "Rockstar Games", "Video Game Actors"]
 source: "https://www.reddit.com/r/GTA6/comments/1u3vnzh/red_dead_2_actor_for_pearson_will_be_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # Red Dead Redemption 2 Actor Reportedly Cast in Grand Theft Auto VI

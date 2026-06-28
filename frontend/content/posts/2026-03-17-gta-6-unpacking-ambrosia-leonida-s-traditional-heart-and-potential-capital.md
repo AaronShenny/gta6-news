@@ -4,6 +4,7 @@ date: "2026-03-17T23:15:48"
 description: "A deep dive into fan theories surrounding Ambrosia in GTA 6, suggesting it will be Leonida's middle-class, politically charged agricultural hub, offering unique gameplay distinct from Vice City."
 tags: ["GTA 6", "Ambrosia", "Leonida", "Vice City", "Rockstar Games", "Fan Theory", "Gameplay", "Open World", "Florida", "Agricultural", "Political", "Mission Types", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1rwmx57/my_theory_on_ambrosia/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Unpacking Ambrosia – Leonida's Traditional Heart and Potential Capital

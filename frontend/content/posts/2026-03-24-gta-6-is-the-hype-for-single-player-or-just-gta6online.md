@@ -4,6 +4,7 @@ date: "2026-03-24T04:22:23"
 description: "A Reddit user sparks a debate on whether fans are truly anticipating GTA 6's single-player campaign or if it's merely a lead-up to the next iteration of Grand Theft Auto Online."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA6Online", "Single Player", "Online Multiplayer", "Gaming Community", "Reddit Discussion", "Player Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s23y5n/are_people_actually_looking_forward_to_gta_6_or/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Is the Hype for Single-Player or Just GTA6Online?

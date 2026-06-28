@@ -4,6 +4,7 @@ date: "2026-02-25T16:36:27"
 description: "A Reddit thread explores the possibility of Grand Theft Auto 6 coming to the Nintendo Switch 2, with fans comparing its rumored hardware to the Xbox Series S."
 tags: ["GTA 6", "Grand Theft Auto", "Nintendo Switch 2", "Xbox Series S", "Gaming", "Port", "Hardware", "Speculation", "Reddit Discussion", "Next-Gen Console"]
 source: "https://www.reddit.com/r/GTA6/comments/1rei6sw/do_you_think_a_port_for_the_switch_2_will_happen/"
+classification: "RUMOR"
 ---
 
 # GTA 6 on Nintendo Switch 2? Community Speculates on Potential Port

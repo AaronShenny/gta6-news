@@ -4,6 +4,7 @@ date: "2026-03-25T03:12:01"
 description: "The GTA 6 community is abuzz with speculation surrounding rumored protagonists Jason and Lucia, following a Reddit post that even drew a surprising comparison to Marvel."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jason", "Lucia", "Protagonists", "Fan Speculation", "Reddit", "Gaming News", "Marvel", "Rockstar Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s2ze01/jason_and_lucia/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Buzz: Jason and Lucia Discussion Ignites with Unexpected Marvel Comparison

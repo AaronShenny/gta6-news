@@ -4,6 +4,7 @@ date: "2026-06-20T14:06:34"
 description: "A Reddit post titled 'Vice city vibe' has sparked discussions within the r/GTA6 community, hinting at strong fan desire for the next Grand Theft Auto installment to capture the iconic atmosphere of Vice City."
 tags: ["GTA 6", "Vice City", "Reddit", "Community Speculation", "Fan Theories", "Game Setting", "Atmosphere", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1uaxhxd/vice_city_vibe/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: The 'Vice City Vibe' Discussion

@@ -4,6 +4,7 @@ date: "2026-06-02T06:34:53"
 description: "A Reddit user speculates on whether Rockstar Games will incorporate community criticism regarding mission design into Grand Theft Auto 6, pondering if a specific video has influenced the developers."
 tags: ["GTA 6", "Rockstar Games", "Mission Design", "Fan Feedback", "Community Criticism", "Red Dead Redemption 2", "Game Development", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tuiohn/do_you_think_r_has_seen_this_video/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Rockstar Heed Fan Feedback on Mission Design?

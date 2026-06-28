@@ -4,6 +4,7 @@ date: "2026-04-05T22:22:41"
 description: "A dedicated Grand Theft Auto fan shares their plan to revisit the Definitive Trilogy and GTA 4, building anticipation for the upcoming GTA 6 release."
 tags: ["GTA 6", "Grand Theft Auto", "Definitive Trilogy", "GTA 4", "Fan Anticipation", "Gaming Replay", "Reddit Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1sdgynu/decided_to_replay_the_definitive_trilogy_before/"
+classification: "UNKNOWN"
 ---
 
 # GTA Fan Embarks on Definitive Trilogy Marathon Ahead of GTA 6 Launch

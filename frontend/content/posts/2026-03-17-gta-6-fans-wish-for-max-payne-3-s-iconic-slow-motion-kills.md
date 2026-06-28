@@ -4,6 +4,7 @@ date: "2026-03-17T02:32:35"
 description: "A recent Reddit post highlights a fan's desire for Grand Theft Auto 6 to incorporate slow-motion kill mechanics, reminiscent of those found in Max Payne 3."
 tags: ["GTA 6", "Grand Theft Auto VI", "Max Payne 3", "Slow Motion Kills", "Fan Request", "Gameplay Features", "Rockstar Games", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvuet1/i_hope_gta_6_has_those_slowmotion_kills_like_max/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Wish for Max Payne 3's Iconic Slow-Motion Kills

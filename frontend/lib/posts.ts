@@ -1,5 +1,8 @@
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
+import { remark } from 'remark';
+import html from 'remark-html';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
@@ -10,191 +13,8 @@ export interface PostData {
     description: string;
     tags: string[];
     source?: string;
+    classification?: string;
     contentHtml: string;
-}
-
-interface ParsedPost {
-    data: {
-        date: string;
-        title: string;
-        description: string;
-        tags: string[];
-        source?: string;
-    };
-    content: string;
-}
-
-function escapeHtml(value: string): string {
-    return value
-        .replaceAll('&', '&amp;')
-        .replaceAll('<', '&lt;')
-        .replaceAll('>', '&gt;')
-        .replaceAll('"', '&quot;')
-        .replaceAll("'", '&#39;');
-}
-
-function parseInlineMarkdown(text: string): string {
-    let html = escapeHtml(text);
-
-    html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-    html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
-    html = html.replace(/\[(.+?)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
-
-    return html;
-}
-
-function parseFrontMatter(fileContents: string): ParsedPost {
-    if (!fileContents.startsWith('---\n')) {
-        return {
-            data: { date: '', title: '', description: '', tags: [] },
-            content: fileContents,
-        };
-    }
-
-    const endIndex = fileContents.indexOf('\n---\n', 4);
-    if (endIndex === -1) {
-        return {
-            data: { date: '', title: '', description: '', tags: [] },
-            content: fileContents,
-        };
-    }
-
-    const frontMatter = fileContents.slice(4, endIndex);
-    const content = fileContents.slice(endIndex + 5);
-
-    const metadata: Record<string, string | string[]> = {};
-    let currentListKey: string | null = null;
-
-    for (const rawLine of frontMatter.split('\n')) {
-        const line = rawLine.trimEnd();
-        if (!line.trim()) {
-            continue;
-        }
-
-        if (line.startsWith('- ') && currentListKey) {
-            const listValue = line.slice(2).trim().replace(/^['"]|['"]$/g, '');
-            const existing = metadata[currentListKey];
-            if (Array.isArray(existing)) {
-                existing.push(listValue);
-            } else {
-                metadata[currentListKey] = [listValue];
-            }
-            continue;
-        }
-
-        const colonIndex = line.indexOf(':');
-        if (colonIndex === -1) {
-            continue;
-        }
-
-        const key = line.slice(0, colonIndex).trim();
-        const value = line.slice(colonIndex + 1).trim();
-
-        if (!value) {
-            metadata[key] = [];
-            currentListKey = key;
-            continue;
-        }
-
-        currentListKey = null;
-
-        if (value.startsWith('[') && value.endsWith(']')) {
-            metadata[key] = value
-                .slice(1, -1)
-                .split(',')
-                .map((entry) => entry.trim().replace(/^['"]|['"]$/g, ''))
-                .filter(Boolean);
-        } else {
-            metadata[key] = value.replace(/^['"]|['"]$/g, '');
-        }
-    }
-
-    return {
-        data: {
-            date: String(metadata.date ?? ''),
-            title: String(metadata.title ?? ''),
-            description: String(metadata.description ?? ''),
-            tags: Array.isArray(metadata.tags) ? metadata.tags : [],
-            source: metadata.source ? String(metadata.source) : undefined,
-        },
-        content,
-    };
-}
-
-function markdownToHtml(markdown: string): string {
-    const lines = markdown.split('\n');
-    const htmlParts: string[] = [];
-    let inList = false;
-
-    for (const line of lines) {
-        const trimmed = line.trim();
-
-        if (!trimmed) {
-            if (inList) {
-                htmlParts.push('</ul>');
-                inList = false;
-            }
-            continue;
-        }
-
-        if (trimmed.startsWith('### ')) {
-            if (inList) {
-                htmlParts.push('</ul>');
-                inList = false;
-            }
-            htmlParts.push(`<h3>${parseInlineMarkdown(trimmed.slice(4))}</h3>`);
-            continue;
-        }
-
-        if (trimmed.startsWith('## ')) {
-            if (inList) {
-                htmlParts.push('</ul>');
-                inList = false;
-            }
-            htmlParts.push(`<h2>${parseInlineMarkdown(trimmed.slice(3))}</h2>`);
-            continue;
-        }
-
-        if (trimmed.startsWith('# ')) {
-            if (inList) {
-                htmlParts.push('</ul>');
-                inList = false;
-            }
-            htmlParts.push(`<h1>${parseInlineMarkdown(trimmed.slice(2))}</h1>`);
-            continue;
-        }
-
-        if (trimmed === 'Key Takeaways' || trimmed === 'FAQ') {
-            if (inList) {
-                htmlParts.push('</ul>');
-                inList = false;
-            }
-            htmlParts.push(`<h2>${trimmed}</h2>`);
-            continue;
-        }
-
-        if (trimmed.startsWith('- ')) {
-            if (!inList) {
-                htmlParts.push('<ul>');
-                inList = true;
-            }
-            htmlParts.push(`<li>${parseInlineMarkdown(trimmed.slice(2))}</li>`);
-            continue;
-        }
-
-        if (inList) {
-            htmlParts.push('</ul>');
-            inList = false;
-        }
-
-        htmlParts.push(`<p>${parseInlineMarkdown(trimmed)}</p>`);
-    }
-
-    if (inList) {
-        htmlParts.push('</ul>');
-    }
-
-    return htmlParts.join('\n');
 }
 
 export function getSortedPostsData() {
@@ -210,11 +30,17 @@ export function getSortedPostsData() {
             const slug = fileName.replace(/\.md$/, '');
             const fullPath = path.join(postsDirectory, fileName);
             const fileContents = fs.readFileSync(fullPath, 'utf8');
-            const parsed = parseFrontMatter(fileContents);
+
+            const matterResult = matter(fileContents);
 
             return {
                 slug,
-                ...parsed.data,
+                title: matterResult.data.title || '',
+                date: matterResult.data.date || '',
+                description: matterResult.data.description || '',
+                tags: matterResult.data.tags || [],
+                source: matterResult.data.source || '',
+                classification: matterResult.data.classification || 'UNKNOWN',
             };
         });
 
@@ -243,16 +69,28 @@ export async function getPostData(slug: string): Promise<PostData> {
             date: '',
             description: '',
             tags: [],
+            classification: 'UNKNOWN',
             contentHtml: '',
         };
     }
 
     const fileContents = fs.readFileSync(fullPath, 'utf8');
-    const parsed = parseFrontMatter(fileContents);
+    const matterResult = matter(fileContents);
+
+    const processedContent = await remark()
+        .use(html)
+        .process(matterResult.content);
+    
+    const contentHtml = processedContent.toString();
 
     return {
         slug,
-        contentHtml: markdownToHtml(parsed.content),
-        ...parsed.data,
+        contentHtml,
+        title: matterResult.data.title || '',
+        date: matterResult.data.date || '',
+        description: matterResult.data.description || '',
+        tags: matterResult.data.tags || [],
+        source: matterResult.data.source || '',
+        classification: matterResult.data.classification || 'UNKNOWN',
     };
 }

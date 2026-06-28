@@ -4,6 +4,7 @@ date: "2026-02-27T20:01:00"
 description: "An analysis of how Rockstar's highly anticipated GTA 6 release in late 2026 is expected to impact the gaming landscape, specifically its anticipated clash with Call of Duty 2026 and historical sales trends."
 tags: ["GTA 6", "Call of Duty 2026", "Gaming Industry", "Release Dates", "Sales Projections", "Rockstar Games", "Market Impact", "Hype"]
 source: "https://www.gamespot.com/articles/call-of-duty-2026-release-date-trailer-story-modern-warfare-4/1100-6538487/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Imminent Release Poised to Dominate 2026 Gaming Market, Outshining Call of Duty

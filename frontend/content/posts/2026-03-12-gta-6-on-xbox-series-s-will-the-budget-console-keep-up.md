@@ -4,6 +4,7 @@ date: "2026-03-12T05:46:18"
 description: "A Reddit user raises concerns about Grand Theft Auto 6's visual fidelity and performance on the Xbox Series S, fearing a repeat of Cyberpunk 2077's last-gen issues."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox Series S", "Console Performance", "Gaming Concerns", "Next-Gen Gaming", "Cyberpunk 2077", "Rockstar Games", "Gaming Hardware", "PS5", "Xbox Series X"]
 source: "https://www.reddit.com/r/GTA6/comments/1rriiqm/how_bad_will_the_gta_6_look_on_xbox_series_s/"
+classification: "RUMOR"
 ---
 
 # GTA 6 on Xbox Series S: Will the Budget Console Keep Up?

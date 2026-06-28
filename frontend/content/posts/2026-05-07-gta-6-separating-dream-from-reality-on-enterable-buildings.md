@@ -4,6 +4,7 @@ date: "2026-05-07T15:08:31"
 description: "A discussion from the GTA 6 community explores the realistic possibilities for enterable buildings in the upcoming game, comparing it to RDR2 and GTA V, and managing player expectations."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Enterable Buildings", "Open World Design", "Game Realism", "Player Expectations", "RDR2", "GTA V", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6dbq5/realistic_thoughts_on_enterable_buildings_in_gta/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Separating Dream from Reality on Enterable Buildings

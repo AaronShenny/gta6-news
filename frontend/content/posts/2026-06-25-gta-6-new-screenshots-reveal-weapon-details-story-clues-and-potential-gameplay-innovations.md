@@ -4,6 +4,7 @@ date: "2026-06-25T00:01:37"
 description: "Rockstar has unveiled new GTA 6 screenshots alongside pricing and preorder details, offering a closer look at unique weapons, character dynamics, and a potential new stolen goods mechanic for a deeper criminal experience."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Release Date", "Gameplay Details", "Lucia Caminos", "Jason Duval", "Preorder", "Ultimate Edition", "Easter Eggs", "Stolen Goods", "Leonida", "Gaming News"]
 source: "https://www.gamespot.com/articles/breaking-down-our-new-look-at-gta-6/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6: New Screenshots Reveal Weapon Details, Story Clues, and Potential Gameplay Innovations

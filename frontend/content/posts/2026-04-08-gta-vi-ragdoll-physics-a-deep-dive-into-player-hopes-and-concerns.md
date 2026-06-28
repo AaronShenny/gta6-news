@@ -4,6 +4,7 @@ date: "2026-04-08T10:29:15"
 description: "A gaming journalist's take on player anxieties regarding Grand Theft Auto VI's ragdoll physics, comparing it to GTA IV, GTA V, and RDR2, and outlining desires for next-gen Euphoria engine implementation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Ragdoll Physics", "Euphoria Engine", "Rockstar Games", "Game Development", "Player Feedback", "Gaming Community", "GTA IV", "GTA V", "RDR2", "Next-Gen Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfozc3/anyone_else_worried_about_the_ragdoll_physics_in/"
+classification: "RUMOR"
 ---
 
 # GTA VI Ragdoll Physics: A Deep Dive into Player Hopes and Concerns

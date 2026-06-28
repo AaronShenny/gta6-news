@@ -4,6 +4,7 @@ date: "2026-06-04T16:22:36"
 description: "A Reddit post claims GTA 6 is the sole November release, but a professional journalist investigates the validity of this unsubstantiated user speculation."
 tags: ["GTA 6", "Grand Theft Auto 6", "Release Date", "Rumors", "Speculation", "Reddit", "Gaming News", "Rockstar Games", "Fact Check"]
 source: "https://www.reddit.com/r/GTA6/comments/1twsjzg/gta_6_is_currently_the_only_game_that_will_be/"
+classification: "RUMOR"
 ---
 
 # Unpacking the Reddit Rumor: Is GTA 6 Really the 'Only Game' Releasing This November?

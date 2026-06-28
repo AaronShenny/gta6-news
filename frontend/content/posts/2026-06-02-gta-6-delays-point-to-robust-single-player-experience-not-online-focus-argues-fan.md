@@ -4,6 +4,7 @@ date: "2026-06-02T19:26:18"
 description: "A Reddit user suggests GTA 6's development delays indicate a strong focus on its single-player story mode, potentially surpassing RDR2, rather than prioritizing GTA Online."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Single-Player", "GTA Online", "Development Delays", "RDR2", "Story Mode", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv1e83/the_delays_show_that_the_games_singleplayer/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Delays Point to Robust Single-Player Experience, Not Online Focus, Argues Fan

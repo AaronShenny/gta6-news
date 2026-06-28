@@ -4,6 +4,7 @@ date: "2026-03-17T15:07:00"
 description: "Take-Two CEO Strauss Zelnick states that in-game ads in full-priced games like GTA 6 would be 'unfair,' despite industry suggestions for new revenue streams."
 tags: ["GTA 6", "Take-Two", "Strauss Zelnick", "In-Game Ads", "Monetization", "Gaming Industry", "Video Game Pricing", "Publisher Strategy", "NBA 2K", "EA Sports UFC 4"]
 source: "https://www.gamespot.com/articles/in-game-ads-for-full-price-games-would-seem-unfair-gta-6-parent-company-boss-says/1100-6538831/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Parent Company Boss: In-Game Ads in Full-Priced Games Are 'Unfair'

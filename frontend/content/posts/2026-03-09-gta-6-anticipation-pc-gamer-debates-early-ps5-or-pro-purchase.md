@@ -4,6 +4,7 @@ date: "2026-03-09T23:05:21"
 description: "A dedicated PC gamer grapples with the decision to buy a PS5 or PS5 Pro ahead of GTA 6's release, weighing early adoption against future console advancements. Read their dilemma."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PS5 Pro", "PlayStation 5", "PC Gaming", "Console Gaming", "Gaming Hardware", "Next-Gen Console", "Gaming Dilemma", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpfxdi/as_a_pc_gamer_should_i_get_base_ps5_or_ps5_pro_now/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Anticipation: PC Gamer Debates Early PS5 (or Pro) Purchase

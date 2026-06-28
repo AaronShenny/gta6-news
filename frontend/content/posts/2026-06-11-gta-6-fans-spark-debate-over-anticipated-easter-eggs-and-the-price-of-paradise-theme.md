@@ -4,6 +4,7 @@ date: "2026-06-11T17:25:16"
 description: "A Reddit post on r/GTA6 has ignited community discussion, inviting fans to speculate on potential Easter eggs and references in the upcoming Grand Theft Auto VI, themed around 'The Price of Paradise'."
 tags: ["GTA 6", "Grand Theft Auto VI", "Easter Eggs", "References", "Community Discussion", "Reddit", "Gaming News", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u35h3u/gta_vi_the_price_of_paradise_whats_your_favourite/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Spark Debate Over Anticipated Easter Eggs and 'The Price of Paradise' Theme

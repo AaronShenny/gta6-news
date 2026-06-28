@@ -4,6 +4,7 @@ date: "2026-06-24T05:47:15"
 description: "A Reddit post highlights the community's anticipation and lack of official information regarding GTA 6 pre-order launch times from Rockstar Games."
 tags: ["GTA 6", "Grand Theft Auto VI", "Pre-orders", "Rockstar Games", "Launch Time", "Gaming News", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ue4xhd/what_time_do_gta_6_preorders_go_live_tomorrow_has/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Order Queries: Community Seeks Official Launch Times Amidst Unconfirmed Details

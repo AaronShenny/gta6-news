@@ -4,6 +4,7 @@ date: "2026-02-25T00:01:24"
 description: "A Reddit user speculates on the inevitable comparisons between Grand Theft Auto 5 and the upcoming Grand Theft Auto 6, questioning if any content creators will favor the predecessor."
 tags: ["GTA 6", "GTA 5", "Game Comparison", "Gaming Community", "Fan Debate", "Anticipation", "Rockstar Games", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rdxcd8/will_someone_actually_make_a_video_saying_gta_5/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Anticipation Sparks Debate: Will Fans Claim GTA 5 is Superior?

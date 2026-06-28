@@ -4,6 +4,7 @@ date: "2026-03-10T22:48:13"
 description: "A sharp-eyed fan has discovered a subtle connection to Grand Theft Auto V in a GTA 6 screenshot, hinting at character continuity through a familiar celebrity's merchandise."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA V", "Grand Theft Auto V", "Yung Ancestor", "Easter Egg", "Continuity", "Rockstar Games", "Gaming News", "Fan Discovery", "NPC Detail"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqc7rj/just_realized_this_in_gta_6_screenshot/"
+classification: "UNKNOWN"
 ---
 
 # Eagle-Eyed Fan Spots GTA 5 Celebrity Easter Egg in GTA 6 Screenshot

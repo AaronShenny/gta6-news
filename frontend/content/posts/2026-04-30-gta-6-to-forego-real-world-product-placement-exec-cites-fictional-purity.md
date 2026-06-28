@@ -4,6 +4,7 @@ date: "2026-04-30T14:33:00"
 description: "Take-Two CEO Strauss Zelnick confirms GTA 6 will not feature real-world product placement or brand integration, opting instead for satirical parodies. Learn about his 'fear' of the game's release and its November 19 launch on PS5 and Xbox Series X|S."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Product Placement", "Brand Integration", "Gaming News", "Release Date", "PS5", "Xbox Series X|S", "Video Games", "Satire"]
 source: "https://www.gamespot.com/articles/gta-6-wont-have-product-placement-exec-says/1100-6539719/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 to Forego Real-World Product Placement, Exec Cites Fictional Purity

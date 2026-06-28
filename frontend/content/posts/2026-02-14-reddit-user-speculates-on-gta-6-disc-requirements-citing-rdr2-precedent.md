@@ -4,6 +4,7 @@ date: "2026-02-14T18:00:31"
 description: "A Reddit user on r/GTA6 sparks discussion by speculating Grand Theft Auto VI might require two physical discs, similar to Red Dead Redemption 2, and questions its potential file size."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "RDR2", "Red Dead Redemption 2", "Disc requirements", "File size", "Gaming speculation", "Reddit", "Physical release"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4ravf/gta_vi_disc/"
+classification: "RUMOR"
 ---
 
 # Reddit User Speculates on GTA 6 Disc Requirements, Citing RDR2 Precedent

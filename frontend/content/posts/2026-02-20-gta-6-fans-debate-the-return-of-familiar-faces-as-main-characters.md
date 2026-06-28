@@ -4,6 +4,7 @@ date: "2026-02-20T07:25:00"
 description: "The GTA 6 community is actively discussing the possibility of a main character from GTA IV or V returning for a significant role, drawing parallels to Ken Rosenberg's past appearances."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Fan Discussion", "Protagonists", "Main Characters", "GTA IV", "GTA V", "Ken Rosenberg", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9ov6h/would_you_like_to_see_a_main_character_from_a/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Debate the Return of Familiar Faces as Main Characters

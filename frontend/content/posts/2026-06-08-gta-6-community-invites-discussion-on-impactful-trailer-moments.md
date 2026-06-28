@@ -4,6 +4,7 @@ date: "2026-06-08T19:36:50"
 description: "A Reddit thread on r/GTA6 challenges fans to pinpoint specific trailer moments that significantly altered their expectations for Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailer Analysis", "Community Discussion", "Reddit", "Fan Expectations", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0icpx/which_gta_6_trailer_moment_changed_your/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Invites Discussion on Impactful Trailer Moments

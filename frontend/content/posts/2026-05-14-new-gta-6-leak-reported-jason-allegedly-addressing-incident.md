@@ -4,6 +4,7 @@ date: "2026-05-14T10:39:55"
 description: "A Reddit post title suggests a fresh GTA 6 leak has surfaced, with an individual named 'Jason' reportedly working to fix the issue. Details remain unconfirmed."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Leak", "Gaming News", "Rumors", "Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tcub37/jason_spotted_trying_to_fix_yet_another_gta_6_leak/"
+classification: "RUMOR"
 ---
 
 # New GTA 6 Leak Reported, 'Jason' Allegedly Addressing Incident

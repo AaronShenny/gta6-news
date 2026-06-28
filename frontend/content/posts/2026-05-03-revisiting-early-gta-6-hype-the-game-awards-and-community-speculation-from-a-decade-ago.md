@@ -4,6 +4,7 @@ date: "2026-05-03T03:52:46"
 description: "A look back at a 2013 Reddit discussion questioning if The Game Awards had insider knowledge about GTA 6 or if it was pure community hype, long before official announcements."
 tags: ["GTA 6", "Grand Theft Auto VI", "The Game Awards", "Speculation", "Gaming Hype", "Reddit", "Gaming History", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t2aqas/the_game_awards_counting_down_gta_vi_meaningful/"
+classification: "RUMOR"
 ---
 
 # Revisiting Early GTA 6 Hype: The Game Awards and Community Speculation from a Decade Ago

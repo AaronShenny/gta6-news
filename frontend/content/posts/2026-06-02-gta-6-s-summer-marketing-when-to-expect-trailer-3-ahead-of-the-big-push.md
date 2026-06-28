@@ -4,6 +4,7 @@ date: "2026-06-02T11:36:12"
 description: "Take-Two CEO Strauss Zelnick confirmed major GTA 6 marketing starts in summer, but the third trailer could drop imminently, preceding the full campaign to preserve surprise."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Marketing", "Trailer 3", "Release Date", "Gaming News", "Summer Marketing", "Strauss Zelnick"]
 source: "https://www.reddit.com/r/GTA6/comments/1tuo9b8/summer_marketing_trailer_3/"
+classification: "LEAK"
 ---
 
 # GTA 6's Summer Marketing: When to Expect Trailer 3 Ahead of the Big Push

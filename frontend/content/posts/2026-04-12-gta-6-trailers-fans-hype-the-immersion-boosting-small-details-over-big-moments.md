@@ -4,6 +4,7 @@ date: "2026-04-12T17:10:27"
 description: "A deep dive into fan reactions to the GTA 6 trailers reveals that subtle background details, enhanced NPC behavior, and a more 'alive' world are generating immense excitement for the upcoming game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailers", "Fan Hype", "Immersion", "Vice City", "Leonida", "NPC Behavior", "Game Details", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1sjk9sb/from_the_two_gta_vi_trailers_which_detail_hypes/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Trailers: Fans Hype the Immersion-Boosting Small Details Over Big Moments

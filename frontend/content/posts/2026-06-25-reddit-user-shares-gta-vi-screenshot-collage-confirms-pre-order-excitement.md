@@ -4,6 +4,7 @@ date: "2026-06-25T19:58:45"
 description: "A dedicated GTA VI fan on Reddit compiled a collage of the latest screenshots and shared their enthusiastic pre-order confirmation, highlighting community anticipation for the upcoming game."
 tags: ["GTA VI", "Grand Theft Auto 6", "Rockstar Games", "Gaming Community", "Fan Content", "Screenshots", "Pre-order", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufkryb/a_collage_using_the_latest_gta_vi_screenshots_oc/"
+classification: "CONFIRMED"
 ---
 
 # Reddit User Shares GTA VI Screenshot Collage, Confirms Pre-Order Excitement

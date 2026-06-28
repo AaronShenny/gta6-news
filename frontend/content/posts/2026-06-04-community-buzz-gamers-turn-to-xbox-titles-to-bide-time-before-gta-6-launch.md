@@ -4,6 +4,7 @@ date: "2026-06-04T16:23:03"
 description: "Explore how the gaming community is passing the time with titles like Wolverine and Gears of War as they eagerly await the highly anticipated release of Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Xbox", "Gears of War", "Wolverine", "Gaming Community", "Anticipation", "Reddit Discussion", "E-Day"]
 source: "https://www.reddit.com/r/GTA6/comments/1twskgw/xbox_showcase_this_sunday_anyone_else_waiting_for/"
+classification: "UNKNOWN"
 ---
 
 # Community Buzz: Gamers Turn to Xbox Titles to Bide Time Before GTA 6 Launch

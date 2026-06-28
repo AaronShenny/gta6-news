@@ -4,6 +4,7 @@ date: "2026-03-30T04:19:23"
 description: "Gaming enthusiasts are already debating which areas of the upcoming GTA 6 map will become the most popular, drawing comparisons to iconic locations from past titles."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA 6 Map", "Game Locations", "Open World", "Gaming Community", "Fan Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7gkwq/what_do_you_think_the_most_popular_part_of_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map: Fans Speculate on the Next Big Hotspot

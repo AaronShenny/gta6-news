@@ -4,6 +4,7 @@ date: "2026-04-05T13:59:13"
 description: "Dedicated Grand Theft Auto 6 fans are engaging in community discussion, pondering what song would perfectly cap off the game's story, drawing inspiration from GTA V's memorable ending track."
 tags: ["GTA 6", "Grand Theft Auto VI", "Outro Song", "Music", "Community Discussion", "Reddit", "Fan Speculation", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1sd4cdt/what_would_you_want_gta_6s_outro_song_to_be/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Speculate on Ideal Outro Song

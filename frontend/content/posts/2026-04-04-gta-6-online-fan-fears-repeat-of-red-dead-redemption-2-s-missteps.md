@@ -4,6 +4,7 @@ date: "2026-04-04T00:38:57"
 description: "A dedicated GTA fan voices concerns that GTA 6 Online might follow the disappointing path of RDR2 Online rather than the successful model of GTA 5 Online, hoping for a return to form."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Red Dead Redemption 2 Online", "Fan Concerns", "Online Multiplayer", "Gaming Industry", "Player Feedback"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbuwh5/messing_up_online/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Fan Fears Repeat of Red Dead Redemption 2's Missteps

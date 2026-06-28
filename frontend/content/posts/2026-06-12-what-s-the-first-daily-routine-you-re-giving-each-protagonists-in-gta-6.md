@@ -4,6 +4,7 @@ date: "2026-06-12T19:45:00"
 description: "A popular Reddit thread invites Grand Theft Auto 6 fans to imagine and share the first daily routines they'd establish for the game's protagonists, Lucia and Jason."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Community Discussion", "Protagonists", "Daily Routine", "Role-playing", "Fan Engagement", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u45jrz/whats_the_first_daily_routine_youre_giving_each/"
+classification: "RUMOR"
 ---
 
 # What’s the first daily routine you’re giving each protagonists in GTA 6?

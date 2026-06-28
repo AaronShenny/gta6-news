@@ -4,6 +4,7 @@ date: "2026-03-21T07:51:19"
 description: "A student journalist deeply analyzes the narrative brilliance of GTA IV and Red Dead Redemption 2, exploring themes of the American Dream and resistance to change, to theorize about the potential depth of GTA VI's story."
 tags: ["GTA 6", "Rockstar Games", "Narrative", "Storytelling", "GTA IV", "Red Dead Redemption 2", "American Dream", "Social Commentary", "Game Analysis", "Themes", "Gaming Journalism"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzlo3d/gta_vi_might_just_be_one_of_rockstars_most/"
+classification: "RUMOR"
 ---
 
 # Unpacking Rockstar's Narrative Masterclass: What GTA IV and RDR2 Tell Us About the Future of GTA VI

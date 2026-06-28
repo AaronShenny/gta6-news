@@ -4,6 +4,7 @@ date: "2026-03-24T19:55:39"
 description: "Community discussion speculates on GTA 6's potential tone, weighing a more realistic approach seen in trailers against the series' traditional satire and the narrative implications for the upcoming game."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Tone", "Satire", "Realism", "Game Design", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s2oixx/what_kind_of_tone_will_gta_6_have/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Tonal Tug-of-War: Balancing Realism, Satire, and Story Depth

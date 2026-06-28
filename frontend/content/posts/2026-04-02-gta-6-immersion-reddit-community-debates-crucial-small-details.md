@@ -4,6 +4,7 @@ date: "2026-04-02T16:15:18"
 description: "A Reddit discussion highlights the importance of subtle, often overlooked details in Grand Theft Auto 6 that could profoundly enhance player immersion, beyond graphics or map size."
 tags: ["GTA 6", "Grand Theft Auto 6", "Immersion", "Gameplay Details", "NPC Behavior", "Police AI", "Social Media Integration", "Weather Effects", "Reddit Discussion", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1saltul/whats_one_small_detail_in_gta_6_that_would/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Immersion: Reddit Community Debates Crucial Small Details

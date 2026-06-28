@@ -4,6 +4,7 @@ date: "2026-02-19T08:03:15"
 description: "A Reddit post from the r/GTA6 community captures the intense emotional anticipation for Grand Theft Auto 6, teasing a significant 'November 19' date."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Anticipation", "Gaming Community", "Reddit", "Game Hype", "November 19"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8tf9p/gta_6_is_an_emotion/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Fan Excitement Peaks, Highlighting a Mysterious November Date

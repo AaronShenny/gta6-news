@@ -4,6 +4,7 @@ date: "2026-03-23T07:04:06"
 description: "A Reddit post on r/GTA6 sparks community discussion about a desired, yet unspecified, feature for Grand Theft Auto VI, inviting fan speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Community Discussion", "Reddit", "Fan Features", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s19urr/want_a_feature_like_this_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA VI Community Ponders Hypothetical New Feature

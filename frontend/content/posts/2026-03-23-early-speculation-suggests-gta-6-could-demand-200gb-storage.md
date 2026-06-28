@@ -4,6 +4,7 @@ date: "2026-03-23T18:11:18"
 description: "A Reddit user has speculated that Grand Theft Auto 6 might require around 200GB of storage space. Explore the early, unofficial discussions surrounding the game's potential file size."
 tags: ["GTA 6", "Grand Theft Auto 6", "File Size", "Storage", "Speculation", "Rumors", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1ooam/how_much_storage_space_will_gta_6_need/"
+classification: "RUMOR"
 ---
 
 # Early Speculation Suggests GTA 6 Could Demand 200GB Storage

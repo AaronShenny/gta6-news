@@ -4,6 +4,7 @@ date: "2026-05-06T14:44:34"
 description: "A Reddit post highlights observations suggesting the official Rockstar Games website's GTA 6 section will soon feature images and an increased flow of new details, exciting fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Website Update", "Gaming News", "Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5f0fh/about_the_gta_6_section_of_the_site/"
+classification: "RUMOR"
 ---
 
 # Rockstar's GTA 6 Section Hints at Imminent Visuals and Information Boost

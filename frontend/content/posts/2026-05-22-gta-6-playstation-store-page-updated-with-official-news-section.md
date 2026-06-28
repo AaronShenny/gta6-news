@@ -4,6 +4,7 @@ date: "2026-05-22T11:22:14"
 description: "Reports from a Reddit user indicate the Grand Theft Auto 6 PlayStation Store page now features a dedicated 'Official News' section, sparking speculation among fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "PlayStation Store", "Update", "Official News", "Rockstar Games", "Gaming News", "Rumor", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tkg1lt/someone_has_confirmed_that_the_gta_6_playstation/"
+classification: "RUMOR"
 ---
 
 # GTA 6 PlayStation Store Page Updated with 'Official News' Section

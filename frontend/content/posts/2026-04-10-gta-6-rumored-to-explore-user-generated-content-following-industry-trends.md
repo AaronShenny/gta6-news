@@ -4,6 +4,7 @@ date: "2026-04-10T17:45:00"
 description: "A recent job posting at Rockstar Games has fueled speculation that GTA 6 could incorporate user-generated content, aligning with strategies from successful titles like Fortnite and Roblox."
 tags: ["GTA 6", "Rockstar Games", "User-Generated Content", "UGC", "Gaming Trends", "Speculation", "Live-Service Games"]
 source: "https://www.gamespot.com/articles/pubg-dev-on-highguard-and-concord-struggles-its-really-hard-to-succeed-every-time/1100-6539343/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Rumored to Explore User-Generated Content Following Industry Trends

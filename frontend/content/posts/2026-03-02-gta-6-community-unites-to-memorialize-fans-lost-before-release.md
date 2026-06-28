@@ -4,6 +4,7 @@ date: "2026-03-02T17:54:40"
 description: "A Reddit user on r/GTA6 initiates a poignant memorial for friends and family who passed away before the highly anticipated Grand Theft Auto 6 could be released, inviting others to share memories."
 tags: ["GTA 6", "Grand Theft Auto 6", "Community", "Memorial", "Reddit", "Gaming News", "Fan Tribute", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rizwcw/for_those_who_didnt_make_it/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Unites to Memorialize Fans Lost Before Release

@@ -4,6 +4,7 @@ date: "2026-06-28T05:21:30"
 description: "A report cited on Reddit, originally from Inside Gaming, indicates that Rockstar Games may have no plans to release physical disc versions of Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Digital Only", "Physical Discs", "Gaming News", "Inside Gaming", "Industry Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhoidy/inside_gaming_reports_there_are_no_plans_to_ever/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6: Inside Gaming Report Suggests Potential Digital-Only Release, No Physical Discs Planned

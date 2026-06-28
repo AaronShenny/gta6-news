@@ -4,6 +4,7 @@ date: "2026-05-10T15:40:55"
 description: "Fans are buzzing about a small but impactful detail from the GTA 6 trailer: characters driving with an arm out the window. Is it a toggle, a random event, or context-sensitive?"
 tags: ["GTA 6", "Grand Theft Auto 6", "Driving Mechanics", "Character Animation", "Game Immersion", "Open World", "Game Details", "Fan Speculation", "Rockstar Games", "Trailer Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9abbg/i_genuinely_wanna_know_how_this_driving_style/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Subtle Driving Animations Spark Fan Speculation on Immersion

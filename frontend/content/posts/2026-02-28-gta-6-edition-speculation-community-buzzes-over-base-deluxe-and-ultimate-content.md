@@ -4,6 +4,7 @@ date: "2026-02-28T02:00:38"
 description: "Gamers are buzzing with speculation about potential GTA 6 editions. Dive into community predictions for Base, Deluxe, and Ultimate versions of Rockstar's highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Editions", "Collector's Edition", "Deluxe Edition", "Ultimate Edition", "Speculation", "Rockstar Games", "Gaming Community", "Fan Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgpzvn/a_discussion_about_the_gta_vi_versions_base/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Edition Speculation: Community Buzzes Over Base, Deluxe, and Ultimate Content

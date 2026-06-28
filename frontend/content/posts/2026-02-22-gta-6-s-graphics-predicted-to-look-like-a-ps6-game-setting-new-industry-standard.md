@@ -4,6 +4,7 @@ date: "2026-02-22T20:47:24"
 description: "A Reddit user speculates on GTA 6's revolutionary graphics, suggesting it will surpass current-gen expectations, much like RDR2 did for its time."
 tags: ["GTA 6", "Rockstar Games", "Graphics", "PS6", "Red Dead Redemption 2", "Gaming Industry", "Open World", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1rbx5uq/rdr_2_looked_like_a_ps5_game_gta_6_will_look_like/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Graphics Predicted to 'Look Like a PS6 Game,' Setting New Industry Standard

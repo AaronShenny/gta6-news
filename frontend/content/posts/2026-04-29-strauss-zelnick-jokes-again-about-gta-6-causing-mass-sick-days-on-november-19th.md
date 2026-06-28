@@ -4,6 +4,7 @@ date: "2026-04-29T01:06:59"
 description: "Take-Two CEO Strauss Zelnick humorously predicts widespread 'sick days' on November 19th, suggesting GTA 6's launch will significantly impact daily life and potentially cause an employee shortage."
 tags: ["GTA 6", "Grand Theft Auto 6", "Strauss Zelnick", "Take-Two Interactive", "Rockstar Games", "Game Launch", "Gaming Industry", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1syk1ye/strauss_zelnick_again_joked_that_a_lot_of_people/"
+classification: "UNKNOWN"
 ---
 
 # Strauss Zelnick Jokes Again About GTA 6 Causing Mass Sick Days on November 19th

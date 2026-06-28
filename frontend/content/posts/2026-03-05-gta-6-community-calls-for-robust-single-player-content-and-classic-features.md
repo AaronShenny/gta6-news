@@ -4,6 +4,7 @@ date: "2026-03-05T08:45:13"
 description: "A dedicated GTA 6 fan expresses strong hopes for a rich single-player experience, demanding lengthy story, diverse activities, and New Game+ amidst Rockstar's focus on online."
 tags: ["GTA 6", "Grand Theft Auto 6", "Single-player", "Rockstar Games", "Gaming Community", "Player Feedback", "New Game Plus", "Side Missions", "Classic Activities", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1rlchyn/i_hope_we_get_enough_singleplayer_content_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Calls for Robust Single-Player Content and Classic Features

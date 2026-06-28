@@ -4,6 +4,7 @@ date: "2026-05-06T19:37:49"
 description: "Observations from the GTA 6 community note an increase in interviews by Take-Two's CEO regarding Grand Theft Auto VI, fueling speculation about upcoming news."
 tags: ["GTA 6", "Grand Theft Auto VI", "Take-Two Interactive", "CEO", "Interviews", "Rockstar Games", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5nfig/taketwo_ceo_has_been_doing_a_lot_of_gta_vi/"
+classification: "RUMOR"
 ---
 
 # Take-Two CEO's Recent GTA VI Interviews Spark Speculation Among Fans

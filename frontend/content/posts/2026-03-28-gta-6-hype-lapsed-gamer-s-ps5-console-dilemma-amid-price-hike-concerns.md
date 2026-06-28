@@ -4,6 +4,7 @@ date: "2026-03-28T13:56:16"
 description: "A returning PlayStation gamer, drawn back by GTA 6, faces a tough choice between the PS5 Standard and PS5 Pro, particularly regarding disc drive functionality and a looming price hike deadline."
 tags: ["GTA 6", "PS5", "PS5 Pro", "Console Choice", "Gaming Hardware", "Price Hike", "Physical vs Digital"]
 source: "https://www.reddit.com/r/GTA6/comments/1s610v7/which_ps5_console_is_the_better_option_for_the/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype: Lapsed Gamer's PS5 Console Dilemma Amid Price Hike Concerns

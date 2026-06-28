@@ -4,6 +4,7 @@ date: "2026-06-15T16:58:19"
 description: "A Reddit user on r/GTA6 highlights the curious lack of pre-order availability for Grand Theft Auto VI on Xbox and PlayStation, contrasting it with Fable (2027)'s early options."
 tags: ["GTA 6", "Grand Theft Auto VI", "Pre-orders", "Xbox", "PlayStation", "Release Date", "Fable", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6md7v/pre_order_dates_xboxplaystation/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Pre-Orders: Fans Question Absence on Consoles Compared to Fable

@@ -4,6 +4,7 @@ date: "2026-06-13T11:21:56"
 description: "A Reddit user has shared a unique vision for GTA 6, suggesting a detailed cooking mechanic complete with grocery shopping, meal preparation, and character reactions."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fan Ideas", "Cooking Mechanic", "Gameplay Suggestion", "Reddit Community", "Open World Games", "Community Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4odo4/i_want_to_see_cooking_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Proposes Unexpected Cooking Mechanic for Vice City

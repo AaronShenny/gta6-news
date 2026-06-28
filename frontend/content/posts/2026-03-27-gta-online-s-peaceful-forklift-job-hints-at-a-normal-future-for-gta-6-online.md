@@ -4,6 +4,7 @@ date: "2026-03-27T10:32:57"
 description: "A recent GTA Online job suggests a potential shift towards more simulation-style, 'normal' gameplay and legal jobs in GTA 6 Online, possibly influenced by FiveM developers."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Game Development", "FiveM", "GTA RP", "Simulation Games", "Online Multiplayer", "Future of Gaming", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s50drd/is_gta_online_introducing_what_we_might_see_in/"
+classification: "RUMOR"
 ---
 
 # GTA Online's Peaceful Forklift Job Hints at a 'Normal' Future for GTA 6 Online

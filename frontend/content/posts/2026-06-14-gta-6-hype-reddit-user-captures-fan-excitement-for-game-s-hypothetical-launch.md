@@ -4,6 +4,7 @@ date: "2026-06-14T20:13:54"
 description: "A Reddit post on the r/GTA6 subreddit perfectly encapsulates the immense fan anticipation for Grand Theft Auto 6, imagining the thrilling first moments of gameplay upon its hypothetical release."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Anticipation", "Gaming Community", "Reddit", "Hype", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5vg4z/its_midnight_november_19th_and_you_finally_finish/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Reddit User Captures Fan Excitement for Game's Hypothetical Launch

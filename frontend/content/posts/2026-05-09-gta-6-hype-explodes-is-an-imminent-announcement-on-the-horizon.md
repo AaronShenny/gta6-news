@@ -4,6 +4,7 @@ date: "2026-05-09T00:27:44"
 description: "The Grand Theft Auto community is buzzing with speculation as cryptic hints from GameInformer, PlayStation Store updates, and Sony's PS5 upgrade emails align, suggesting a major GTA VI reveal could be imminent."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Rumors", "Rockstar Games", "PS5", "PlayStation Store", "GameInformer", "Speculation", "Announcement"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7pkxg/gameinformer_12th_mysterious_game_emphasis_on/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Explodes: Is an Imminent Announcement on the Horizon?

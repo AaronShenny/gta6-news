@@ -4,6 +4,7 @@ date: "2026-03-02T21:05:43"
 description: "Dive deep into Rockstar Games' RAGE 9 engine, the technological powerhouse behind GTA 6, driving unprecedented realism, dynamic interactions, and stunning visuals through advanced simulations and parallel processing."
 tags: ["GTA 6", "Rockstar Games", "RAGE Engine", "RAGE 9", "Game Development", "Game Engine Technology", "Physics Simulation", "Ray Tracing", "Open World Games", "Gaming Hardware Optimization"]
 source: "https://www.reddit.com/r/GTA6/comments/1rj584w/better_understanding_the_role_rs_game_engine/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's RAGE 9 Engine: Unpacking Rockstar's Next-Gen Technological Leap

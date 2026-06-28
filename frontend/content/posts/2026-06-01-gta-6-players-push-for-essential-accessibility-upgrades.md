@@ -4,6 +4,7 @@ date: "2026-06-01T08:31:55"
 description: "A Reddit discussion highlights key accessibility features fans hope to see in Grand Theft Auto 6, including customizable subtitles, waypoint colors, and an improved money UI."
 tags: ["GTA 6", "Grand Theft Auto 6", "Accessibility", "Gaming Accessibility", "Player Feedback", "Community Wishlist", "Rockstar Games", "Subtitles", "UI", "GPS Voice"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttlypb/we_need_more_accessibility_options/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Players Push for Essential Accessibility Upgrades

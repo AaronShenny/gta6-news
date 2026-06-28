@@ -4,6 +4,7 @@ date: "2026-03-04T19:55:43"
 description: "A Reddit user on r/GTA6 expresses soaring expectations for the upcoming Grand Theft Auto title, demanding access to every building and unparalleled environmental interaction."
 tags: ["GTA 6", "Grand Theft Auto", "Player Expectations", "Open World", "Interactivity", "Fan Demands", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rkvp2k/with_how_long_gta_6_dropping_i_better_to_be_able/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Demands Unprecedented Interactivity Amidst Long Wait

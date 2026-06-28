@@ -4,6 +4,7 @@ date: "2026-03-01T12:04:05"
 description: "Gamers are debating whether GTA 6 will perform better on Xbox Series X or PS5, considering Rockstar's history of pushing console hardware to its limits."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox Series X", "PS5", "PlayStation 5", "Console Performance", "Rockstar Games", "Gaming Hardware", "Next-Gen Gaming", "Game Performance", "Visuals", "Frame Rate"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhvnce/do_you_think_gta_6_will_run_better_on_xbox_series/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Performance Debate: Xbox Series X vs. PS5

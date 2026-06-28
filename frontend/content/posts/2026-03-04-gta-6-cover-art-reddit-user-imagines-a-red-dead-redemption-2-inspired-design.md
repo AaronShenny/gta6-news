@@ -4,6 +4,7 @@ date: "2026-03-04T16:12:29"
 description: "A dedicated GTA fan on Reddit speculates on a fresh direction for GTA 6's cover art, suggesting a move away from fragmented images towards a Red Dead Redemption 2-style featuring the main characters."
 tags: ["GTA 6", "Grand Theft Auto", "Cover Art", "Reddit", "Speculation", "Red Dead Redemption 2", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rkpkgf/gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cover Art: Reddit User Imagines a Red Dead Redemption 2-Inspired Design

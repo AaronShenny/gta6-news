@@ -4,6 +4,7 @@ date: "2026-06-17T00:52:02"
 description: "A Reddit post sparks discussion on how players will interact with transportation in Grand Theft Auto 6, from explorers to destroyers."
 tags: ["GTA 6", "Grand Theft Auto 6", "Transportation", "Player Styles", "Community Discussion", "Reddit", "Gaming Culture", "Leonida"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7vm3i/what_kind_of_transportation_player_are_you_gotta/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Debates Player Transportation Styles

@@ -4,6 +4,7 @@ date: "2026-06-22T03:06:03"
 description: "A deep dive into theories and leaks indicating Grand Theft Auto 6 will feature gameplay beyond Leonida, potentially including South America (Colombia) and Jamaica, drawing parallels to past Rockstar titles and current merchandise clues."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Off-Island Locations", "South America", "Colombia", "Jamaica", "Vice City", "Project Americas", "Map Leak", "Insider Gaming", "80s Theme", "Drug Trafficking", "Game Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1uc933f/i_am_very_confidant_that_there_will_be_off_island/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Strong Evidence Suggests Off-Island Locations in South America and Jamaica

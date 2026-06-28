@@ -4,6 +4,7 @@ date: "2026-06-01T09:10:56"
 description: "Gaming journalists speculate on the return of 'Righteous Slaughter 8' in Grand Theft Auto 6, building on Rockstar's tradition of immersive in-game blockbusters and meta-commentary."
 tags: ["GTA 6", "Grand Theft Auto VI", "Righteous Slaughter 8", "Rockstar Games", "In-game Media", "Gaming Speculation", "Vice City", "Easter Egg", "Meta Humor"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttmn4r/righteous_slaughter_8_possibly_appearing_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Speculation: Could 'Righteous Slaughter 8' Feature in GTA 6?

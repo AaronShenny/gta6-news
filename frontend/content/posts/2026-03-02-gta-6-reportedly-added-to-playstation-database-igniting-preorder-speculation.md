@@ -4,6 +4,7 @@ date: "2026-03-02T14:39:00"
 description: "GTA 6 title IDs spotted in the PlayStation database, hinting at imminent preorders. Learn why two IDs were found and what it means for Rockstar's highly anticipated release."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "PlayStation", "Preorders", "Gaming News", "Video Games", "Take-Two Interactive", "Game Development"]
 source: "https://www.gamespot.com/articles/gta-6-reportedly-added-to-playstation-database-igniting-preorder-speculation/1100-6538494/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Reportedly Added To PlayStation Database, Igniting Preorder Speculation

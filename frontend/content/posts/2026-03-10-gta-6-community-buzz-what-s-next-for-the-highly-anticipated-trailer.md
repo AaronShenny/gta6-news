@@ -4,6 +4,7 @@ date: "2026-03-10T04:45:21"
 description: "Amidst growing anticipation, the GTA 6 community is actively speculating on the nature of the next official trailer, with options ranging from a third cinematic reveal to a deep-dive gameplay showcase, especially with Take-Two's marketing timeline approaching."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Trailer", "Gameplay Trailer", "Speculation", "Marketing", "Strauss Zelnick", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpnmx9/next_trailer/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: What's Next for the Highly Anticipated Trailer?

@@ -4,6 +4,7 @@ date: "2026-03-21T18:48:05"
 description: "A Reddit user shares their strong preference for GTA Vice City's iconic cover art, expressing a desire for GTA VI's artwork to feature a similarly vibrant and 'popping colors' aesthetic."
 tags: ["GTA 6", "Grand Theft Auto VI", "Cover Art", "Vice City", "Rockstar Games", "Fan Opinion", "Gaming News", "Artwork Style"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzzd4h/which_one_is_your_favorite_gta_cover_art_and_what/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cover Art: Community Hopes for a Vibrant Vice City-Inspired Look

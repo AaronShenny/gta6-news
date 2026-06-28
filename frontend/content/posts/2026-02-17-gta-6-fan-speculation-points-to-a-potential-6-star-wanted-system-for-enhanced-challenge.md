@@ -4,6 +4,7 @@ date: "2026-02-17T08:13:16"
 description: "A Reddit user on r/GTA6 suggests a 6-star wanted system for Grand Theft Auto 6 to increase difficulty and open up new mission opportunities, citing GTA 5's 5-star system as 'not that hard'."
 tags: ["GTA 6", "Grand Theft Auto 6", "Wanted System", "6-Star", "Gameplay Challenge", "Online Missions", "Fan Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1r70cy8/6_stars_wanted_system_vehicles/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculation Points to a Potential 6-Star Wanted System for Enhanced Challenge

@@ -4,6 +4,7 @@ date: "2026-05-13T14:25:23"
 description: "A viral Reddit post has opened a discussion on whether Grand Theft Auto VI's physical editions should require mandatory internet activation, sparking concerns among the community about game ownership and DRM."
 tags: ["GTA 6", "Grand Theft Auto VI", "Physical Games", "Internet Activation", "DRM", "Digital Rights Management", "Gaming Debate", "Reddit", "Offline Play", "Game Ownership", "Industry Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1tc18he/should_gta_vi_physical_be_locked_behind_internet/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: The Debate Over Mandatory Internet Activation for Physical Copies

@@ -4,6 +4,7 @@ date: "2026-04-28T23:23:11"
 description: "A Reddit post raises the question of whether players will be able to buy and own private homes in Grand Theft Auto 6, fueling fan discussion amidst a lack of official details."
 tags: ["GTA 6", "Grand Theft Auto 6", "Property Ownership", "Housing", "Domiciles", "Speculation", "Community Discussion", "Rockstar Games", "Game Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1syhpuk/will_private_domiciles_be_available_to_buy_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Private Property Ownership

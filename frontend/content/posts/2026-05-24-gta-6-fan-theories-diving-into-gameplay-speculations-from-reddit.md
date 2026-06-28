@@ -4,6 +4,7 @@ date: "2026-05-24T16:32:00"
 description: "A popular Reddit thread on r/GTA6 has become a 'time capsule' for fans to share and track their boldest gameplay predictions for Grand Theft Auto VI, from dynamic heists to character-specific chapters."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gameplay", "Speculation", "Fan Theories", "Vice City", "Robberies", "Apartments", "Dynamic Hangouts", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmgylr/gameplay_features_and_speculations/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theories: Diving Into Gameplay Speculations from Reddit

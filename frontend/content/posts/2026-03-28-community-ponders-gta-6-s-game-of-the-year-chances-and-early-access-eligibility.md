@@ -4,6 +4,7 @@ date: "2026-03-28T07:24:17"
 description: "A Reddit user speculates on GTA 6's potential Game of the Year win, debating early access titles' eligibility and dismissing other contenders like 'RE Requiem'."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game of the Year", "GOTY", "Early Access", "Gaming Community", "Resident Evil", "RE Requiem", "Gaming Opinion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s5ttvk/only_if_it_participates_tho/"
+classification: "UNKNOWN"
 ---
 
 # Community Ponders GTA 6's Game of the Year Chances and Early Access Eligibility

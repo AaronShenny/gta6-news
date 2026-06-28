@@ -4,6 +4,7 @@ date: "2026-05-06T00:25:59"
 description: "A Reddit user sparks discussion by arguing GTA 6 should be priced at $60, not $70 or $80, to force the gaming industry to justify the cost of other 'AAAA' titles and curb price inflation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Pricing", "Industry Standards", "Rockstar Games", "Take-Two Interactive", "$60 Games", "$70 Games", "$80 Games", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4xco4/i_hope_they_do_a_complete_180_and_release_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pricing Debate: A Call for a $60 Price Tag to Challenge Industry Norms

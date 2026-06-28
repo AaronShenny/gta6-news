@@ -4,6 +4,7 @@ date: "2026-05-26T10:17:21"
 description: "A Reddit user on the r/GTA6 subreddit has highlighted potential issues with the second search result when Googling "GTA 6," expressing frustration with the company."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Google Search", "Reddit", "Gaming News", "User Experience", "Information Quality"]
 source: "https://www.reddit.com/r/GTA6/comments/1to2o5g/2nd_link_you_get_when_you_google_gta_6_what_is/"
+classification: "CONFIRMED"
 ---
 
 # Reddit User Flags Concerns Over GTA 6 Google Search Results

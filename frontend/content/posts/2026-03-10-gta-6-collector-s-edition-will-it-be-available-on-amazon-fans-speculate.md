@@ -4,6 +4,7 @@ date: "2026-03-10T02:51:54"
 description: "As anticipation for Grand Theft Auto 6 grows, fans are already wondering where to purchase the highly-coveted Collector's Edition, with Amazon being a popular point of discussion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Collector's Edition", "Special Edition", "Amazon", "Gaming News", "Fan Discussion", "Retailers", "Pre-orders"]
 source: "https://www.reddit.com/r/GTA6/comments/1rplabt/could_the_gta_6_collectors_edition_be_sold_on/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Collector's Edition: Will It Be Available on Amazon? Fans Speculate

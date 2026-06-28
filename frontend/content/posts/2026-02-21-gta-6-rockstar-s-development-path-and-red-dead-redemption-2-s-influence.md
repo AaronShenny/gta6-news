@@ -4,6 +4,7 @@ date: "2026-02-21T11:40:25"
 description: "A Reddit post addresses the long wait for GTA 6, clarifying Rockstar's focus on RDR2 until 2018 and suggesting GTA 6 will adopt a Red Dead Redemption 2-like approach in a modern setting."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Red Dead Redemption 2", "RDR2", "Game Development", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1rap32k/for_those_who_waited_13_years/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Rockstar's Development Path and Red Dead Redemption 2's Influence

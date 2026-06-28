@@ -4,6 +4,7 @@ date: "2026-02-14T20:09:00"
 description: "A fascinating GTA 6 theory suggests the game will secretly track player behavior, dynamically shaping the world, NPC reactions, and even the final mission based on your in-game choices."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fan Theory", "Player Choice", "Dynamic World", "Psychological Profile", "Open World", "Gaming News", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4ujln/my_gta_6_theory/"
+classification: "RUMOR"
 ---
 
 # Bold GTA 6 Fan Theory Proposes Hidden Player Psychology System

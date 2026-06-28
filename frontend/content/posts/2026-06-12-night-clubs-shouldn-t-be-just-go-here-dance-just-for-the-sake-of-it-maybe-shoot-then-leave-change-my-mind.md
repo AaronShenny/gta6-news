@@ -4,6 +4,7 @@ date: "2026-06-12T17:09:39"
 description: "A GTA fan argues for more immersive and story-driven nightclub experiences in Grand Theft Auto 6, drawing comparisons to past titles and suggesting new mechanics for Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Nightclubs", "Gameplay Mechanics", "Story Elements", "Vice City", "Rockstar Games", "Fan Discussion", "Dating System", "Player Immersion", "Game Design", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1u41cp0/night_clubs_shouldnt_be_just_go_here_dance_just/"
+classification: "UNKNOWN"
 ---
 
 # Night Clubs shouldn't be just "go here, dance just for the sake of it, maybe shoot, then leave". Change my mind

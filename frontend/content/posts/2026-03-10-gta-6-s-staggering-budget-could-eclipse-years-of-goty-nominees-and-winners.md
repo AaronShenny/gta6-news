@@ -4,6 +4,7 @@ date: "2026-03-10T23:17:08"
 description: "New estimates suggest GTA 6's budget could be so massive it rivals the combined costs of multiple Game of the Year nominees and winners from past years, sparking industry discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Development", "Gaming Budget", "Game of the Year", "Industry Analysis", "Video Game News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqcyvh/gta_6_vs_game_of_the_year_nominees_and_winners/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Staggering Budget Could Eclipse Years of GOTY Nominees and Winners

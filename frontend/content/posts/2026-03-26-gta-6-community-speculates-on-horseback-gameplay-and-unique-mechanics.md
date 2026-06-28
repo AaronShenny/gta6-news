@@ -4,6 +4,7 @@ date: "2026-03-26T16:51:49"
 description: "A Reddit discussion sparks interest in the potential for horses in GTA 6, proposing unique gameplay mechanics like off-radar movement and combat challenges."
 tags: ["GTA 6", "Grand Theft Auto 6", "Horses", "Gameplay Mechanics", "Fan Speculation", "Reddit", "Rockstar Games", "Community Ideas"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4cyi7/do_you_think_horses_will_be_in_gta_6_i_think_it/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Horseback Gameplay and Unique Mechanics

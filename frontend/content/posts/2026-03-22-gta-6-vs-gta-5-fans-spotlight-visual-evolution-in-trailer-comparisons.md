@@ -4,6 +4,7 @@ date: "2026-03-22T19:48:35"
 description: "A Reddit user has compiled a visual comparison of Grand Theft Auto 6 and Grand Theft Auto 5 trailer screenshots, offering an early look at the graphical advancements."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA 5", "Grand Theft Auto V", "Trailer Comparison", "Visuals", "Graphics", "Reddit", "Fan Content", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0vbt1/here_are_some_screenshots_comparing_the_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 vs. GTA 5: Fans Spotlight Visual Evolution in Trailer Comparisons

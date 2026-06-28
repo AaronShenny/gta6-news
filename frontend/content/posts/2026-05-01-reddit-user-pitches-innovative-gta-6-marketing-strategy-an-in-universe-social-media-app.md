@@ -4,6 +4,7 @@ date: "2026-05-01T07:41:41"
 description: "A creative fan suggestion for Rockstar Games' GTA 6 marketing involves a Lifeinvader-style social media companion app, releasing in-universe content to build hype and immersion."
 tags: ["GTA 6", "Rockstar Games", "Marketing Strategy", "Companion App", "Lifeinvader", "Social Media", "Game Promotion", "Fan Idea", "Grand Theft Auto VI"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0mmeu/marketing_idea/"
+classification: "RUMOR"
 ---
 
 # Reddit User Pitches Innovative GTA 6 Marketing Strategy: An In-Universe Social Media App

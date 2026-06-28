@@ -4,6 +4,7 @@ date: "2026-06-15T16:51:57"
 description: "A Reddit user argues that the problem with futuristic vehicles in GTA Online stems from their powerful weaponry, not their design, suggesting a more tasteful integration in GTA 6 without weapon systems."
 tags: ["GTA 6", "GTA Online", "Futuristic Vehicles", "Oppressor Mk2", "Vehicle Weaponry", "Game Design", "Community Opinion", "Hot Take"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6m6io/hot_take_futuristic_vehicles_in_online_were_never/"
+classification: "UNKNOWN"
 ---
 
 # GTA Community Hot Take: Weaponry, Not Futuristic Design, Is the Real Issue with Online Vehicles

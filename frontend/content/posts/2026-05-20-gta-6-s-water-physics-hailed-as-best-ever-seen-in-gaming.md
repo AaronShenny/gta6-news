@@ -4,6 +4,7 @@ date: "2026-05-20T11:16:18"
 description: "Early details suggest Grand Theft Auto 6 will feature unprecedented water physics and rendering, showcasing photorealistic light caustics, dynamic reflections, and realistic object interaction."
 tags: ["GTA 6", "Grand Theft Auto VI", "Water Physics", "Game Graphics", "Realism", "Rockstar Games", "Open World", "Gaming News", "Next-Gen Graphics"]
 source: "https://www.reddit.com/r/GTA6/comments/1tiijzi/gta_vi_water_details/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Water Physics Hailed as 'Best Ever Seen' in Gaming

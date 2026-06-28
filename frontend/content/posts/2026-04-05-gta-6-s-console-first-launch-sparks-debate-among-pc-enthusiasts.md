@@ -4,6 +4,7 @@ date: "2026-04-05T01:15:01"
 description: "As GTA 6 gears up for a console-only release, PC gamers, including one with a powerful rig, face the dilemma of investing in aging console hardware and question the expected performance on Xbox Series X at 1440p."
 tags: ["GTA 6", "Grand Theft Auto VI", "PC Gaming", "Console Exclusivity", "Xbox Series X", "PlayStation 5", "Gaming Performance", "Rockstar Games", "Release Strategy", "Gaming Hardware"]
 source: "https://www.reddit.com/r/GTA6/comments/1scqc5s/console_v_pc/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Console-First Launch Sparks Debate Among PC Enthusiasts

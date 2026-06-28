@@ -4,6 +4,7 @@ date: "2026-03-05T11:13:16"
 description: "A recent Reddit thread on the GTA 6 subreddit explores player sentiment regarding character customization, specifically asking if fans want less 'serious' and more diverse clothing choices in the upcoming game."
 tags: ["GTA 6", "Grand Theft Auto 6", "Clothing Customization", "Player Expression", "Community Discussion", "Reddit", "Character Customization", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rlexz7/would_you_like_less_serious_clothing_in_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Community Debates Desire for More 'Playful' Clothing Options

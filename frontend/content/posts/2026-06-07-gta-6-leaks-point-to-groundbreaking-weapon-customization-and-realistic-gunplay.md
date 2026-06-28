@@ -4,6 +4,7 @@ date: "2026-06-07T06:43:37"
 description: "Dive into the leaked details suggesting GTA 6 will feature an unprecedented depth of weapon customization, realistic gun mechanics, and unique regional behaviors."
 tags: ["GTA 6", "Grand Theft Auto 6", "Weapon Customization", "Gunplay", "Leaks", "Rockstar Games", "Leonida", "Florida", "Game Mechanics", "Realism", "Pistols", "Ammo", "Holsters", "User Generated Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1tz4q41/weapon_customization_and_gunplay/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Leaks Point to Groundbreaking Weapon Customization and Realistic Gunplay

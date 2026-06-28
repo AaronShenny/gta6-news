@@ -4,6 +4,7 @@ date: "2026-06-24T12:18:46"
 description: "A recent discovery by a Reddit user on the PlayStation app suggests Grand Theft Auto VI will feature 'PS5 Pro Enhanced' capabilities, indicating optimized performance for Sony's upcoming console."
 tags: ["GTA 6", "Grand Theft Auto VI", "PS5 Pro", "PlayStation App", "Gaming News", "Rockstar Games", "Console Gaming", "Game Optimization", "Rumor", "Leak"]
 source: "https://www.reddit.com/r/GTA6/comments/1uebx2v/ps5_pro_enhanced_now_appears_in_playstation_app/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Listing on PlayStation App Hints at PS5 Pro Enhancements

@@ -4,6 +4,7 @@ date: "2026-06-01T22:04:08"
 description: "A seasoned Grand Theft Auto fan shares their shocking discovery of Red Dead Redemption 2's immersive world, sparking renewed excitement and high expectations for GTA 6's potential features."
 tags: ["GTA 6", "Red Dead Redemption 2", "RDR2", "Rockstar Games", "Gaming Hype", "Open World Games", "GTA Franchise", "Player Experience", "Game Features", "FiveM"]
 source: "https://www.reddit.com/r/GTA6/comments/1tu7ei4/what_we_are_in_for/"
+classification: "UNKNOWN"
 ---
 
 # Veteran GTA Player's Red Dead 2 Revelation Fuels Massive GTA 6 Hype

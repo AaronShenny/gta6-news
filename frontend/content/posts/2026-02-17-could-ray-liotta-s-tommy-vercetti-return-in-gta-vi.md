@@ -4,6 +4,7 @@ date: "2026-02-17T01:42:38"
 description: "A Reddit post speculates whether the late Ray Liotta might have recorded lines for Tommy Vercetti in GTA VI before his passing, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Ray Liotta", "Tommy Vercetti", "Voice Actor", "Speculation", "Fan Theory", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6sr39/is_it_possible_that_ray_liotta_recorded_some/"
+classification: "RUMOR"
 ---
 
 # Could Ray Liotta's Tommy Vercetti Return in GTA VI?

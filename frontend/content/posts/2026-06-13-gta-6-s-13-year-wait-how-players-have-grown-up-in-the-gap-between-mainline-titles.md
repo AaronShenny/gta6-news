@@ -4,6 +4,7 @@ date: "2026-06-13T00:13:55"
 description: "With over 13 years between Grand Theft Auto 5 and the upcoming Grand Theft Auto 6, players reflect on the significant life changes and personal growth experienced during this unprecedented development cycle."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Industry", "Game Development", "Player Experience", "Gaming Culture", "GTA 5", "Video Game Release Dates"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4c3at/by_the_time_gta_6_drops_itll_have_been_over_13/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's 13-Year Wait: How Players Have Grown Up in the Gap Between Mainline Titles

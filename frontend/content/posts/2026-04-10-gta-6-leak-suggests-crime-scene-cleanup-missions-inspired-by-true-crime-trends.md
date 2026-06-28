@@ -4,6 +4,7 @@ date: "2026-04-10T11:01:16"
 description: "A recent Reddit post speculates on a unique GTA 6 mission type: crime scene cleanup, drawing inspiration from popular true crime content and hinting at an upgraded law system."
 tags: ["GTA 6", "Grand Theft Auto 6", "Mission Leak", "Crime Scene", "True Crime", "Game Speculation", "Reddit", "Law System", "Gameplay Rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1shjanz/gta_6_mission/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Leak Suggests Crime Scene Cleanup Missions Inspired by True Crime Trends

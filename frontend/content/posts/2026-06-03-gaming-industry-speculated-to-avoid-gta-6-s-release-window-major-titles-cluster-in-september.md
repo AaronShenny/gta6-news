@@ -4,6 +4,7 @@ date: "2026-06-03T00:17:54"
 description: "A Reddit post highlights the trend of major game releases clustering in September and early October, suggesting developers are strategically avoiding a direct clash with the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Industry", "Game Releases", "Competition", "September Games", "October Games", "Market Trends", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv92ai/post_state_of_playits_funny_af_seeing_all_these/"
+classification: "RUMOR"
 ---
 
 # Gaming Industry Speculated to Avoid GTA 6's Release Window, Major Titles Cluster in September

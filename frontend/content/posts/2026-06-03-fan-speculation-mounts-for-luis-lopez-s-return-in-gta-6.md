@@ -4,6 +4,7 @@ date: "2026-06-03T02:51:20"
 description: "Rumors are swirling about Luis Lopez making a comeback in GTA 6, fueled by his actor's increased community engagement and intriguing social media interactions with other cast members."
 tags: ["GTA 6", "Grand Theft Auto VI", "Luis Lopez", "Character Speculation", "Rockstar Games", "Fan Theories", "Vice City", "Gaming News", "Leaks", "Social Media Clues"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvcl3t/luis_lopez_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Fan Speculation Mounts for Luis Lopez's Return in GTA 6

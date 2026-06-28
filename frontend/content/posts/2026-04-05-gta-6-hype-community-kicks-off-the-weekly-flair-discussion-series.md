@@ -4,6 +4,7 @@ date: "2026-04-05T11:48:16"
 description: "A new fan-led discussion series, 'The Weekly Flair,' has launched on Reddit, aiming to keep the GTA 6 hype alive with weekly community-driven topics and discussions leading up to the game's release."
 tags: ["GTA 6", "Grand Theft Auto VI", "Community Discussion", "Fan Theories", "Reddit", "Gaming News", "Hype", "Game Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sd1l3d/the_weekly_flair_1/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Community Kicks Off 'The Weekly Flair' Discussion Series

@@ -4,6 +4,7 @@ date: "2026-06-02T13:28:47"
 description: "A Reddit discussion highlights the community's desire for subtle, realistic details in GTA 6, focusing on environmental immersion and NPC reactions rather than just grand scale."
 tags: ["GTA 6", "Grand Theft Auto 6", "Open World", "Game Immersion", "NPC Behavior", "Environmental Details", "Gaming Community", "Reddit Discussion", "Rockstar Games", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1tur00v/what_small_detail_do_you_hope_gta_6_gets_right/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for Immersive Small Details Over Big Features

@@ -4,6 +4,7 @@ date: "2026-03-03T05:08:38"
 description: "A frustrated PS5 player expresses strong desire for dedicated role-playing servers in GTA 6, mirroring the popular PC experience, sparking debate among console gamers."
 tags: ["GTA 6", "Grand Theft Auto", "Role-Playing", "RP", "PS5", "PlayStation 5", "Console Gaming", "Rockstar Games", "Online Gaming", "Player Demand", "Community Feedback"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjgk04/role_play_for_ps5_think_it_will_be_available/"
+classification: "RUMOR"
 ---
 
 # GTA 6: PS5 Players Desperate for Dedicated Role-Playing Experience

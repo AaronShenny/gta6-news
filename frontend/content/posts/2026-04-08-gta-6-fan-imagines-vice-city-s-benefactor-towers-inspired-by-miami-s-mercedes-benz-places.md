@@ -4,6 +4,7 @@ date: "2026-04-08T20:06:17"
 description: "A Grand Theft Auto VI fan has crafted a concept for 'Benefactor Towers' in Vice City, drawing inspiration from the real-world Mercedes-Benz Places Miami, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Fan Concept", "Architecture", "Benefactor Towers", "Mercedes-Benz Places Miami", "Community", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sg3xbi/fun_fanmade_concept_i_made_for_benefactor_towers/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Imagines Vice City's Benefactor Towers Inspired by Miami's Mercedes-Benz Places

@@ -4,6 +4,7 @@ date: "2026-05-05T14:37:59"
 description: "A community-driven 'heat map' of GTA 6's confirmed areas indicates that only a small fraction of the game's world, outside of Vice City, has been unveiled, sparking excitement for future discoveries."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA 6 Map", "Vice City", "Rockstar Games", "Gaming News", "Map Speculation", "Community Insights", "Game Reveals"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4hdjm/heat_map_of_actually_known_information/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map: Community 'Heat Map' Suggests Only 10-20% Revealed So Far

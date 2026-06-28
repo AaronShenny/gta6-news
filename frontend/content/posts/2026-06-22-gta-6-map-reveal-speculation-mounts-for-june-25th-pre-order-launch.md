@@ -4,6 +4,7 @@ date: "2026-06-22T03:28:03"
 description: "A Reddit post suggests a potential partial map reveal for GTA 6 on June 25th, coinciding with pre-order announcements and special editions, drawing parallels to GTA V's collector's bundles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Map Reveal", "Vice City", "Special Edition", "Collector's Edition", "Pre-orders", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1uc9j86/we_might_see_a_reveal_of_some_of_the_map_on_june/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map Reveal Speculation Mounts for June 25th Pre-Order Launch

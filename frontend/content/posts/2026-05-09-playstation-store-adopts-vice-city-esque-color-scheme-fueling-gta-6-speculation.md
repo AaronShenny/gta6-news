@@ -4,6 +4,7 @@ date: "2026-05-09T08:34:25"
 description: "The PlayStation Store menu has reportedly updated with a vibrant color palette reminiscent of Vice City, sparking further speculation among fans about Grand Theft Auto 6's rumored setting."
 tags: ["GTA 6", "Grand Theft Auto 6", "Vice City", "PlayStation Store", "PS Store", "Speculation", "Easter Egg", "Gaming News", "Rockstar Games", "Sony"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7z72w/ps_store_menu_now_has_vice_city_colors_as_well/"
+classification: "RUMOR"
 ---
 
 # PlayStation Store Adopts Vice City-Esque Color Scheme, Fueling GTA 6 Speculation

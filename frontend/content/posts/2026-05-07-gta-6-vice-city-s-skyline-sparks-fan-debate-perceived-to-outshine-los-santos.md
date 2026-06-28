@@ -4,6 +4,7 @@ date: "2026-05-07T01:34:42"
 description: "A popular Reddit post ignites discussion, with many fans suggesting GTA 6's Vice City skyline dramatically surpasses GTA V's Los Santos in visual grandeur."
 tags: ["GTA 6", "Vice City", "Los Santos", "Skyline", "Reddit", "Fan Discussion", "Visuals", "Graphics", "Comparison", "Open World", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5wf5v/crazy_how_pathetic_the_vice_city_skyline_makes/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Vice City's Skyline Sparks Fan Debate, Perceived to Outshine Los Santos

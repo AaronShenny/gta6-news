@@ -4,6 +4,7 @@ date: "2026-06-15T03:23:20"
 description: "A Reddit user sparks discussion about the possibility of integrating personal music playlists into GTA 6 Online, asking if driving to your own soundtrack could become a feature."
 tags: ["GTA 6", "GTA 6 Online", "Custom Music", "Player Features", "Gaming Experience", "Personalization", "Rockstar Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u651x4/question_about_gta_6_online/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Online: Could Custom Music Playlists Be a Reality?

@@ -4,6 +4,7 @@ date: "2026-02-23T17:02:55"
 description: "A popular fan theory suggests GTA 6 should introduce a system where lost or stolen weapons and cars are gone for good, adding depth to the economy and player choices. Learn more about this potential game-changer."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fan Theory", "Item Ownership", "Game Economy", "Weapons", "Cars", "Leaks", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcn27v/all_owned_weaponscars_should_be_treated_as/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory: Permanent Loss for Weapons and Cars Could Revolutionize Gameplay

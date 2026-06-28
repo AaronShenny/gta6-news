@@ -4,6 +4,7 @@ date: "2026-02-22T10:28:51"
 description: "A Reddit user on r/GTA6 has shared their personal 'GTA 6 theme setup'. Details of the setup are available via the original Reddit post, inviting community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Theme Setup", "Customization", "Gaming Community", "Fan Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1rbiiq1/my_gta_6_theme_setup/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Shares 'My GTA 6 Theme Setup'

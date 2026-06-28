@@ -4,6 +4,7 @@ date: "2026-06-25T18:59:43"
 description: "Microsoft's Xbox Series S, once the budget-friendly option, will cost $500 starting August 1, matching the Series X's launch price from 2020. This 67% increase, driven by AI chip shortages, highlights a growing crisis for gamers hoping to play upcoming titles like GTA 6."
 tags: ["Xbox Series S", "Xbox Series X", "Console Price", "Price Increase", "Gaming Affordability", "Microsoft", "AI Chip Shortage", "GTA 6", "Hardware", "Gaming News"]
 source: "https://www.gamespot.com/articles/xbox-series-s-the-cheap-option-now-costs-as-much-as-series-x-did-six-years-ago/"
+classification: "UNKNOWN"
 ---
 
 # Xbox Series S Price Jumps to Series X Launch Cost, Fueling Gaming Affordability Concerns

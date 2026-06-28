@@ -4,6 +4,7 @@ date: "2026-05-14T16:41:08"
 description: "A popular Reddit post argues that the 'hopium' and speculative theories surrounding GTA 6 are not just harmless fun, but a vital part of the game's unique pre-release build-up."
 tags: ["GTA 6", "Grand Theft Auto 6", "Speculation", "Hype", "Anticipation", "Gaming Community", "Reddit", "Opinion", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1td3pw7/hot_take_hopium_and_speculation_posts_are_fun/"
+classification: "RUMOR"
 ---
 
 # Opinion: Why GTA 6 Speculation and 'Hopium' Posts Are Essential Fun

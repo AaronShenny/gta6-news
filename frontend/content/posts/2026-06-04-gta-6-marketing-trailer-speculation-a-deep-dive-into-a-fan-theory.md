@@ -4,6 +4,7 @@ date: "2026-06-04T10:09:04"
 description: "A popular fan theory suggests GTA 6 marketing will kick off in late June with a new trailer, following a major GTA Online update. Get the full breakdown of the speculative timeline."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "GTA Online", "Trailer", "Marketing", "Fan Theory", "Release Date Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1twjagc/most_likely_trailer_and_marketing_start/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing & Trailer Speculation: A Deep Dive into a Fan Theory

@@ -4,6 +4,7 @@ date: "2026-03-26T15:45:46"
 description: "A gaming journalist argues that GTA 6 should prioritize free-aim combat, advocating for mission design built around skillful gunplay rather than auto-aim, citing Uncharted and MGSV as benchmarks."
 tags: ["GTA 6", "Grand Theft Auto 6", "Free-Aim", "Combat Mechanics", "Rockstar Games", "Gaming Opinion", "Gameplay Design", "Uncharted", "Metal Gear Solid V"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4b55d/should_gta_6_have_freeaim_as_default/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Should Free-Aim Be the Default for Deeper Combat?

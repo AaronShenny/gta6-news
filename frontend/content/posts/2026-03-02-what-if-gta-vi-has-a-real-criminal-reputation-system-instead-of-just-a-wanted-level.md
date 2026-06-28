@@ -4,6 +4,7 @@ date: "2026-03-02T22:02:13"
 description: "A Reddit discussion speculates on GTA VI implementing a persistent, layered criminal reputation system that impacts NPC interactions and police response, moving beyond the static wanted level."
 tags: ["GTA 6", "Grand Theft Auto VI", "Wanted Level", "Reputation System", "Criminal Reputation", "Rockstar Games", "Gameplay Mechanics", "NPC Interaction", "World Reactivity", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1rj6q6u/what_if_gta_vi_has_a_real_criminal_reputation/"
+classification: "RUMOR"
 ---
 
 # What If GTA VI Has a Real Criminal Reputation System Instead of Just a Wanted Level?

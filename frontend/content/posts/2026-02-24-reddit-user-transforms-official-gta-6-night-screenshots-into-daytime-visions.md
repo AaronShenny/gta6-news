@@ -4,6 +4,7 @@ date: "2026-02-24T23:55:49"
 description: "A Reddit user has sparked discussion by sharing fan-made transformations of official Grand Theft Auto VI night screenshots, reimagining them with daytime lighting."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Content", "Reddit", "Screenshots", "Day/Night Cycle", "Community Discussion", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rdx79z/gta_6_night_to_day/"
+classification: "CONFIRMED"
 ---
 
 # Reddit User Transforms Official GTA 6 Night Screenshots into Daytime Visions

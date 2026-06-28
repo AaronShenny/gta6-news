@@ -4,6 +4,7 @@ date: "2026-02-15T13:53:58"
 description: "A Reddit user suggests GTA 6 grenades should default to fragmentation, offering players diverse tactical options like high explosive, stun, and smoke, similar to RDR2's ammo selection."
 tags: ["GTA 6", "Grand Theft Auto 6", "Grenade Mechanics", "Gameplay Features", "Player Choice", "Tactical Gameplay", "Fragmentation Grenades", "Rockstar Games", "RDR2 Comparison"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5f6hl/should_gta_6_make_grenade_function_as/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Grenade Overhaul: A Call for Fragmentation and Tactical Variety

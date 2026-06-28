@@ -4,6 +4,7 @@ date: "2026-05-23T00:00:45"
 description: "Addressing rumors about GTA 6 character model quality in Trailer 2, this article explains how lighting, not varying model builds, impacts perceived detail, drawing parallels to RDR2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Character Models", "Lighting", "Game Graphics", "Trailer Analysis", "Lucia", "RDR2"]
 source: "https://www.reddit.com/r/GTA6/comments/1tl0ayv/model_quality_and_the_importance_of_lighting/"
+classification: "RUMOR"
 ---
 
 # Model quality and the importance of lighting

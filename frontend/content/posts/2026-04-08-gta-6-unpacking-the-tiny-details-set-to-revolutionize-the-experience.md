@@ -4,6 +4,7 @@ date: "2026-04-08T01:30:09"
 description: "A deep dive into community speculation on how subtle new features in GTA 6, like denser crowds and dynamic NPCs, could profoundly reshape gameplay compared to GTA V."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Features", "Trailer Analysis", "NPC AI", "Open World", "Gaming Community", "Comparison", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1sff3jh/which_tiny_detail_in_the_trailers_or_screenshots/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Unpacking the 'Tiny Details' Set to Revolutionize the Experience

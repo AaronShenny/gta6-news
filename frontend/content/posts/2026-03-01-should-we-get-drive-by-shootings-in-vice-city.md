@@ -4,6 +4,7 @@ date: "2026-03-01T03:11:39"
 description: "A Reddit discussion from the r/GTA6 community explores whether the classic drive-by shooting mechanic should return in the highly anticipated Grand Theft Auto VI, set in Vice City."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Gameplay Mechanics", "Drive-by Shootings", "Fan Discussion", "Reddit", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhma07/should_we_get_drive_by_shootings_in_vice_city/"
+classification: "RUMOR"
 ---
 
 # Should We Get Drive-By Shootings in Vice City?

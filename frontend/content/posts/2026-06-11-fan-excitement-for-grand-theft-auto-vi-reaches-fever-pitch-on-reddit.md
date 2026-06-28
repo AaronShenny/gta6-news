@@ -4,6 +4,7 @@ date: "2026-06-11T00:57:50"
 description: "A Reddit user's simple post, 'I am so ready for GTA 6 now!!!', encapsulates the widespread and intense anticipation among the gaming community for Rockstar Games' upcoming title, Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Fan Anticipation", "Gaming Community", "Reddit", "Excitement"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2kgnb/i_am_so_ready_for_gta_6_now/"
+classification: "UNKNOWN"
 ---
 
 # Fan Excitement for Grand Theft Auto VI Reaches Fever Pitch on Reddit

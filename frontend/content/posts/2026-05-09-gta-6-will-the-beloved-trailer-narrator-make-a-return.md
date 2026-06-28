@@ -4,6 +4,7 @@ date: "2026-05-09T21:11:02"
 description: "Fans are debating whether the familiar voice behind GTA V and Red Dead Redemption 2's memorable gameplay trailers, reportedly Christina, will narrate the upcoming GTA 6 trailers."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer Narrator", "Gaming News", "Fan Speculation", "GTA V", "Red Dead Redemption 2", "Christina"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8n737/do_you_think_rockstar_has_hired_the_same_narrator/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will the Beloved Trailer Narrator Make a Return?

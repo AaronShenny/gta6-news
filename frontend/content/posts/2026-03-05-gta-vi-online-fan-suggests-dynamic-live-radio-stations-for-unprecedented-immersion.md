@@ -4,6 +4,7 @@ date: "2026-03-05T02:01:55"
 description: "A Reddit user proposes an innovative concept for GTA VI Online: live radio stations featuring real-time reactions to in-game events and player-created music, aiming to significantly boost immersion."
 tags: ["GTA 6", "GTA VI Online", "Fan Suggestion", "Live Radio", "Immersive Gameplay", "Player-Created Content", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rl4syb/what_if_gta_vi_online_had_live_radio_stations/"
+classification: "RUMOR"
 ---
 
 # GTA VI Online: Fan Suggests Dynamic Live Radio Stations for Unprecedented Immersion

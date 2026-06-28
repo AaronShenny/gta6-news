@@ -4,6 +4,7 @@ date: "2026-02-16T12:37:10"
 description: "A gaming journalist explores a Reddit user's intriguing theory about Gloriana, a newly mentioned bordering state in GTA 6, suggesting it will be an unseen but impactful part of the game's narrative."
 tags: ["GTA 6", "Gloriana", "Grand Theft Auto", "Rockstar Games", "Game Theories", "Open World", "Gaming News", "Speculation", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r68iei/gloriana_in_this_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Gloriana: Unpacking the Mystery of the Bordering State

@@ -4,6 +4,7 @@ date: "2026-04-03T06:45:08"
 description: "A Reddit user proposes enhancing GTA VI's immersion by integrating and improving Red Dead Online's emote system and detailed smoking animations, including the ability to smoke weed with visible effects."
 tags: ["GTA 6", "Grand Theft Auto VI", "Red Dead Online", "RDO", "Game Features", "Player Suggestions", "Emotes", "Smoking Mechanics", "Immersion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1sb657n/red_dead_online_feature_we_need_in_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # Player Suggests Red Dead Online Emote and Smoking Mechanics for GTA VI

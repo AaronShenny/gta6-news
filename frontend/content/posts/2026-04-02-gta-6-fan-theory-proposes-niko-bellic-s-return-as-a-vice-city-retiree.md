@@ -4,6 +4,7 @@ date: "2026-04-02T01:31:01"
 description: "A Reddit user speculates on a potential return for GTA IV's Niko Bellic in Grand Theft Auto 6, envisioning him as an elderly mission-giver in Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Niko Bellic", "Vice City", "Fan Theory", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1sa3rx1/return_of_nick_bellic/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory Proposes Niko Bellic's Return as a Vice City Retiree

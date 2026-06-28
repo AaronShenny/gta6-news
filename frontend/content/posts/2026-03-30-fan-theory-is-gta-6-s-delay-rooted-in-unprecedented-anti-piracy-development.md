@@ -4,6 +4,7 @@ date: "2026-03-30T08:07:49"
 description: "A Reddit user speculates that the extensive delay for Grand Theft Auto 6 is not just about bug fixes, but the development of groundbreaking anti-piracy technology, potentially stronger than Denuvo."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Delay", "Anti-Piracy", "Piracy", "Denuvo", "Hayervisor", "Fan Theory", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7kgd4/i_believe_that_the_main_reason_gta_6_is_delayed/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: Is GTA 6's Delay Rooted in Unprecedented Anti-Piracy Development?

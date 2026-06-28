@@ -4,6 +4,7 @@ date: "2026-05-14T23:44:08"
 description: "As GTA 6 pre-orders loom, fans express significant worry over scalpers and bots instantly wiping out limited Collector's Editions, urging Rockstar and retailers for protective measures."
 tags: ["GTA 6", "Grand Theft Auto 6", "Collector's Edition", "Scalping", "Pre-orders", "Gaming News", "Rockstar Games", "Physical Edition", "Limited Edition"]
 source: "https://www.reddit.com/r/GTA6/comments/1tdfa96/anyone_else_worried_gta_6_collectors_editions_are/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Collector's Edition Scalping Fears Emerge Ahead of Pre-Orders

@@ -4,6 +4,7 @@ date: "2026-03-06T16:30:35"
 description: "A Reddit user shares their son's humorous school dialogue project, 'The GTA 6 Hype,' offering a relatable glimpse into the immense excitement surrounding Rockstar's upcoming title among young gamers."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Hype", "Fan Excitement", "School Project", "Gaming Culture", "Reddit", "Rockstar Games", "Video Game Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmious/found_out_my_son_did_a_dialog_about_gta6_for/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Hits the Classroom: A 13-Year-Old's School Dialogue Captures Fan Anticipation

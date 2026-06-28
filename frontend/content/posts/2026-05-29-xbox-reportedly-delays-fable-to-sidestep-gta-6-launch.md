@@ -4,6 +4,7 @@ date: "2026-05-29T17:10:26"
 description: "A Reddit post on r/GTA6 suggests Xbox's Fable reboot is being delayed, potentially to avoid direct competition with the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Fable", "Xbox", "Game Delay", "Gaming Industry", "Competition", "Rockstar Games", "Microsoft", "Rumor"]
 source: "https://www.reddit.com/r/GTA6/comments/1tr8ksq/xbox_delays_fable_to_avoid_gta_6/"
+classification: "RUMOR"
 ---
 
 # Xbox Reportedly Delays Fable to Sidestep GTA 6 Launch

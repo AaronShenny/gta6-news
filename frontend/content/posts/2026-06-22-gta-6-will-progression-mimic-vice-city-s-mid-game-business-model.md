@@ -4,6 +4,7 @@ date: "2026-06-22T04:56:29"
 description: "A Reddit discussion explores whether Grand Theft Auto 6 will adopt GTA: Vice City's unique mid-game progression, which required players to independently find and complete businesses to unlock the final mission."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Rockstar Games", "mission structure", "game progression", "open world", "game design", "speculation", "community discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucb7j3/gta_vc_at_one_point_in_the_middle_of_the_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Progression Mimic Vice City's Mid-Game Business Model?

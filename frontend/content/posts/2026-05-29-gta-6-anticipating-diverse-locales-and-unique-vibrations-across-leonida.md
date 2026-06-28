@@ -4,6 +4,7 @@ date: "2026-05-29T13:03:48"
 description: "A gaming journalist explores the community's excitement for GTA 6's state-sized map, Leonida, drawing parallels to the beloved varied environments of GTA San Andreas and hoping for distinct city vibes."
 tags: ["GTA 6", "Grand Theft Auto VI", "Leonida", "Vice City", "Map Design", "Open World", "Game Environment", "GTA San Andreas", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tr18q0/vibe_of_every_location_in_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Anticipating Diverse Locales and Unique Vibrations Across Leonida

@@ -4,6 +4,7 @@ date: "2026-04-12T03:18:36"
 description: "Speculation is swirling on social media that former WWE star CM Punk might be a voice actor in Grand Theft Auto 6, fueled by a Reddit post citing alleged interviews and on-set injury reports."
 tags: ["GTA 6", "CM Punk", "Grand Theft Auto 6", "Rockstar Games", "Voice Actor", "Gaming Rumors", "Wrestling", "Video Game News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sj363h/cm_punk_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Rumor Alert: Is Wrestling Icon CM Punk Lending His Voice to GTA 6?

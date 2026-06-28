@@ -4,6 +4,7 @@ date: "2026-02-20T09:44:33"
 description: "A Reddit user speculates that Xbox and PlayStation digital stores could crash on Grand Theft Auto 6's release day due to unprecedented player demand."
 tags: ["GTA 6", "Grand Theft Auto 6", "Launch Day", "Digital Stores", "Xbox Store", "PlayStation Store", "Server Issues", "Gaming Industry", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9r3xh/something_you_all_might_want_to_account_for/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Launch: Will Digital Storefronts Withstand the Day-One Rush?

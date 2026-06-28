@@ -4,6 +4,7 @@ date: "2026-04-01T08:12:12"
 description: "A Reddit user, planning to buy a console solely for Grand Theft Auto 6, asks for help deciding between PS5 base and Pro, and the best display technology (4K, OLED, Hz) before an impending price change."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PS5 Pro", "Gaming Setup", "Console Choice", "Display Technology", "4K Gaming", "OLED", "Gaming Monitor", "Reddit Discussion", "Gaming Hardware"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9ec9r/need_help_with_setup_for_gta_6_ps5_base_or_ps5_pro/"
+classification: "UNKNOWN"
 ---
 
 # Future GTA 6 Player Seeks Community Advice on Optimal PS5 and Display Setup

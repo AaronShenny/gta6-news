@@ -4,6 +4,7 @@ date: "2026-05-08T19:32:15"
 description: "A Reddit user speculates that Sony removed PlayStation Store deals until December 13th to manage server load for an anticipated GTA 6 pre-order launch on December 12th."
 tags: ["GTA 6", "Grand Theft Auto VI", "PlayStation Store", "Sony", "Server Load", "Pre-orders", "Fan Theory", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7i5m3/my_theory_sony_removed_all_the_deals_till_13th_to/"
+classification: "RUMOR"
 ---
 
 # Fan Theory Suggests Sony Cleared PS Store Deals to Prepare for GTA 6 Pre-Order Rush

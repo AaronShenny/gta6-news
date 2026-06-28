@@ -4,6 +4,7 @@ date: "2026-06-12T19:24:43"
 description: "Fan artist /u/subhaanart is close to finishing their stunning oil painting, 'GTA VI: The Price of Paradise,' offering a unique artistic take on the highly anticipated game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Oil Painting", "Gaming Art", "Reddit", "/u/subhaanart", "The Price of Paradise", "Artistic Interpretation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4517w/my_oil_painting_titled_gta_vi_the_price_of/"
+classification: "UNKNOWN"
 ---
 
 # Artist /u/subhaanart Nears Completion on Ambitious GTA VI Oil Painting 'The Price of Paradise'

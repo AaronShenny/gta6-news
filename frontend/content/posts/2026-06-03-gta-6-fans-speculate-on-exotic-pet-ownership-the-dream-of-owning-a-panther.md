@@ -4,6 +4,7 @@ date: "2026-06-03T03:03:42"
 description: "A Reddit post sparks fan discussion and speculation regarding the potential for owning exotic animals, specifically a panther, and its high in-game cost in Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Speculation", "Panther", "Exotic Pets", "In-game Economy", "Reddit", "Wishlist"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvcvh4/it_be_pretty_cool_to_own_a_panther_in_gta_6_let/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Speculate on Exotic Pet Ownership: The Dream of Owning a Panther

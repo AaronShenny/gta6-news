@@ -4,6 +4,7 @@ date: "2026-05-11T15:27:52"
 description: "With only 191 days left until GTA 6's launch, fans anticipate a rapid acceleration of official news, potentially seeing new reveals almost monthly."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Release Date", "Game News", "Updates", "Marketing", "Gameplay Reveal", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ta6nru/we_might_get_official_gta_vi_news_every_month/"
+classification: "CONFIRMED"
 ---
 
 # We might get official GTA VI news every month until launch

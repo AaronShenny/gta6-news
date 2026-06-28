@@ -4,6 +4,7 @@ date: "2026-03-21T09:42:36"
 description: "A recent Reddit post sparks discussion on GTA 6 difficulty, proposing granular customization for death penalties, overall challenge, and more."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Difficulty Settings", "Customization", "Gaming Community", "Player Feedback", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzndhb/hot_take/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Difficulty: Fans Demand Deeper Customization Options

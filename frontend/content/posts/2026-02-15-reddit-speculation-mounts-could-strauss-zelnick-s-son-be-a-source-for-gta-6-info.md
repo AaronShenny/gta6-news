@@ -4,6 +4,7 @@ date: "2026-02-15T22:44:26"
 description: "A Reddit post suggests Lucas Zelnick, son of Take-Two CEO Strauss Zelnick, might hold unconfirmed GTA 6 release date details, sparking community interest and calls for direct inquiry."
 tags: ["GTA 6", "Grand Theft Auto VI", "Strauss Zelnick", "Lucas Zelnick", "Take-Two Interactive", "Rockstar Games", "Rumors", "Leaks", "Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5shh6/lucas_zelnick/"
+classification: "RUMOR"
 ---
 
 # Reddit Speculation Mounts: Could Strauss Zelnick's Son Be a Source for GTA 6 Info?

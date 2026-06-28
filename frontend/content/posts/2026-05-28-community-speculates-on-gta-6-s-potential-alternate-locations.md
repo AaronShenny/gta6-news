@@ -4,6 +4,7 @@ date: "2026-05-28T19:41:30"
 description: "Following the tradition of GTA 5's North Yankton and RDR2's Guarma, fans are discussing what unique, temporary alternate locations Grand Theft Auto VI could feature beyond its main map."
 tags: ["GTA 6", "Grand Theft Auto VI", "Alternate Locations", "North Yankton", "Guarma", "Fan Speculation", "Community Discussion", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tqe2lz/gta_5_had_north_yankton_rdr2_had_guarma_what/"
+classification: "RUMOR"
 ---
 
 # Community Speculates on GTA 6's Potential Alternate Locations

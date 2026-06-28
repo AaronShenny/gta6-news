@@ -4,6 +4,7 @@ date: "2026-05-05T14:49:00"
 description: "IO Interactive CEO Hakan Abrak shares insights on how the GTA 6 delay impacts 007 First Light, assures fans about the Switch 2 version, and confirms the health of their fantasy RPG, Project Fantasy, amid Xbox changes."
 tags: ["IO Interactive", "GTA 6", "007 First Light", "Project Fantasy", "Nintendo Switch 2", "Xbox", "Hitman", "Game Development", "Gaming News"]
 source: "https://www.gamespot.com/articles/hitman-dev-talks-gta-6-delay-first-light-for-switch-2-and-whats-up-with-its-fantasy-game/1100-6539782/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # IO Interactive CEO Discusses GTA 6 Delay, 007 First Light's Switch 2 Status, and Mysterious Fantasy RPG

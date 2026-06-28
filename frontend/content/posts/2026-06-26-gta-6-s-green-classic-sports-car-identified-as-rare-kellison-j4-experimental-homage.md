@@ -4,6 +4,7 @@ date: "2026-06-26T22:02:21"
 description: "Uncover the real-world inspiration behind the distinctive green classic sports car spotted in new GTA 6 screenshots: the ultra-rare 1959 Kellison J4 Coupe 'Experimental'."
 tags: ["GTA 6", "Grand Theft Auto 6", "Kellison J4", "Classic Car", "Declasse", "Vehicle", "Easter Egg", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ugkhg6/this_green_car_is_based_on_the_kellison_j4/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Green Classic Sports Car Identified as Rare Kellison J4 Experimental Homage

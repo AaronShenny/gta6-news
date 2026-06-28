@@ -4,6 +4,7 @@ date: "2026-03-08T02:29:19"
 description: "A Reddit user on r/GTA6 sparked discussion by asking if 'gangster clothing' will be available in Grand Theft Auto 6 Online."
 tags: ["GTA 6", "GTA Online", "Customization", "Clothing", "Fashion", "Community Discussion", "Reddit", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnsrj5/do_you_think_that_gta_6_online_will_have_gangster/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Community Speculates on 'Gangster Clothing' Options

@@ -4,6 +4,7 @@ date: "2026-05-11T01:15:02"
 description: "A dedicated Grand Theft Auto fan, u/michael211996, has created a Vice City-themed living room, showcasing immense excitement for GTA 6's anticipated release later this year."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Fan Hype", "Gaming Community", "Reddit", "Anticipation", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9op6h/living_room_ambience/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype: Fan Transforms Living Room into Vice City-Themed Oasis

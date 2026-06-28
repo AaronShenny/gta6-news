@@ -4,6 +4,7 @@ date: "2026-06-15T00:08:21"
 description: "A Reddit user sparks a key discussion among fans, questioning whether Grand Theft Auto VI will replicate the beloved 'feel' and gameplay experience of its predecessor, GTA V."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA 5", "Grand Theft Auto V", "Rockstar Games", "Gaming News", "Fan Discussion", "Reddit", "Game Feel", "Player Expectations"]
 source: "https://www.reddit.com/r/GTA6/comments/1u60zhi/i_wonder_if_gta_6_is_gonna_have_the_same_feel_as/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Rockstar Recapture the 'Feel' of Grand Theft Auto V?

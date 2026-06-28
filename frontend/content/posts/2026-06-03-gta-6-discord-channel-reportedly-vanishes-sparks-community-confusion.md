@@ -4,6 +4,7 @@ date: "2026-06-03T16:07:38"
 description: "A Reddit user has reported the sudden disappearance of a dedicated Grand Theft Auto 6 channel on Discord, leaving fans wondering about its whereabouts."
 tags: ["GTA 6", "Discord", "Gaming Community", "Grand Theft Auto", "News", "Channel Disappearance"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvtyhe/where_did_the_gta_6_channel_go_discord/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Discord Channel Reportedly Vanishes, Sparks Community Confusion

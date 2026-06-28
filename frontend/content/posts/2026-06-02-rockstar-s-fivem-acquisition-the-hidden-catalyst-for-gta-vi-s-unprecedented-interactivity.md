@@ -4,6 +4,7 @@ date: "2026-06-02T06:37:14"
 description: "Explore how Rockstar Games' surprising acquisition of FiveM could revolutionize player interaction and role-playing features in the highly anticipated Grand Theft Auto VI, drawing lessons from GTA V's thriving RP community."
 tags: ["GTA VI", "Grand Theft Auto 6", "FiveM", "Rockstar Games", "Roleplay", "RP Servers", "Gaming News", "Game Development", "Player Interactivity", "Open World", "Customization"]
 source: "https://www.reddit.com/r/GTA6/comments/1tuiq22/fivem_acquisition_is_more_important_than_we/"
+classification: "CONFIRMED"
 ---
 
 # Rockstar's FiveM Acquisition: The Hidden Catalyst for GTA VI's Unprecedented Interactivity?

@@ -4,6 +4,7 @@ date: "2026-05-08T08:52:09"
 description: "A poignant Reddit post on the GTA 6 subreddit shares a fan's emotional tribute to his late cousin, highlighting their shared love for Grand Theft Auto and the anticipation for the upcoming title."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Community", "Tribute", "Fan Story", "Reddit", "Emotional Story", "Player Experience"]
 source: "https://www.reddit.com/r/GTA6/comments/1t727uw/this_post_for_my_cousin/"
+classification: "UNKNOWN"
 ---
 
 # A Community Gathers: GTA 6 Fan Shares Heartfelt Tribute to Lost Cousin

@@ -4,6 +4,7 @@ date: "2026-06-07T06:34:03"
 description: "A Grand Theft Auto 6 enthusiast takes to Microsoft Flight Simulator 2024 on PS5 Slim, humorously 'pretending' to fly in the upcoming game's Vice City-inspired setting."
 tags: ["GTA 6", "Grand Theft Auto VI", "Microsoft Flight Simulator 2024", "MSFS", "Gaming Community", "Fan Content", "PS5 Slim", "Vice City", "Miami", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tz4jt8/im_gonna_pretend_this_is_flying_in_gta_6_until/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Anticipation Leads Fan to Simulate Vice City Flights in Microsoft Flight Simulator 2024

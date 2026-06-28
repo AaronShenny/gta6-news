@@ -4,6 +4,7 @@ date: "2026-04-12T00:55:33"
 description: "A Reddit user sparks discussion on GTA 6's potential map boundaries, questioning northern mountain designs and the return of island-style maps, drawing comparisons to GTA V's water mechanics."
 tags: ["GTA 6", "Grand Theft Auto VI", "Map Boundaries", "Game Design", "Open World", "Community Discussion", "Rockstar Games", "Speculation", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1sj07f5/what_will_the_map_boundaries_look_like/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map Boundaries: Community Speculates on Design and Limitations

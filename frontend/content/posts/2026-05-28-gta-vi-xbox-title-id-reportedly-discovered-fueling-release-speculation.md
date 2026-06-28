@@ -4,6 +4,7 @@ date: "2026-05-28T04:31:12"
 description: "A Reddit user claims to have uncovered the Xbox Series S/X Title ID for Grand Theft Auto VI, providing specific product and package details, alongside previously known PlayStation IDs."
 tags: ["GTA VI", "Grand Theft Auto 6", "Xbox Series X", "Xbox Series S", "Title ID", "Leak", "Rockstar Games", "Gaming News", "Xbox API", "PlayStation IDs", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tpt2d2/i_found_the_gta_vi_title_id_on_xbox/"
+classification: "RUMOR"
 ---
 
 # GTA VI Xbox Title ID Reportedly Discovered, Fueling Release Speculation

@@ -4,6 +4,7 @@ date: "2026-03-29T13:26:59"
 description: "A dedicated Rockstar fan expresses extreme anticipation for GTA 6, predicting it will be their primary game for years, much like their continued engagement with RDR2."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Anticipation", "Fan Opinion", "RDR2", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6v2mc/be_honest_how_many_hours_of_your_life_is_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: A Rockstar Fan's Unwavering Dedication

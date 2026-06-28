@@ -4,6 +4,7 @@ date: "2026-05-04T17:47:02"
 description: "A Reddit user expresses strong dissatisfaction with GTA V's sniper rifle scopes, advocating for realistic, clean mil-dot designs in GTA VI."
 tags: ["GTA 6", "GTA V", "Sniper Scopes", "Gaming Wishlist", "Rockstar Games", "User Feedback", "Weapon Mechanics", "Game Improvement"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3p1f3/what_i_wont_miss_in_gta_v_and_what_i_hope_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA V's Sniper Scopes Slammed by Players, Hopes High for GTA VI Overhaul

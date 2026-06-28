@@ -4,6 +4,7 @@ date: "2026-03-24T14:36:44"
 description: "A dedicated Grand Theft Auto fan expresses their long-held desire for a trunk weapon mechanic in GTA 6, drawing inspiration from GTA Vice City's 'Rub Out' mission and advocating for a return to classic weapon loss mechanics."
 tags: ["GTA 6", "Grand Theft Auto", "Trunk Mechanic", "Weapon System", "GTA Vice City", "Rub Out Mission", "Gaming Nostalgia", "Player Expression", "Rockstar Games", "Fan Wishlist"]
 source: "https://www.reddit.com/r/GTA6/comments/1s2fk67/ive_been_waiting_for_a_trunk_mechanic_since_the/"
+classification: "RUMOR"
 ---
 
 # From Vice City to GTA 6: The Trunk Mechanic Fans Have Been Waiting For

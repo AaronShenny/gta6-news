@@ -4,6 +4,7 @@ date: "2026-04-04T04:49:21"
 description: "A recent Reddit discussion highlights GTA 6's unprecedented graphical ambition, noting even minor elements like iguanas are receiving next-gen detail beyond Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Graphics", "Detail", "Ambition", "RDR2", "Red Dead Redemption 2", "Next-Gen", "Gaming News", "Fan Reaction"]
 source: "https://www.reddit.com/r/GTA6/comments/1sc01jt/for_a_minor_element_like_iguana_they_couldve_used/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Staggering Ambition Revealed Through Minor Details, Fans React

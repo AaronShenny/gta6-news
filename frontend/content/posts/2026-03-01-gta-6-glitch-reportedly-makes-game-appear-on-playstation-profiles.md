@@ -4,6 +4,7 @@ date: "2026-03-01T22:47:50"
 description: "A new glitch is reportedly allowing Grand Theft Auto 6 to appear as a recently played game on PlayStation profiles, mirroring a similar phenomenon on Xbox."
 tags: ["GTA 6", "Grand Theft Auto 6", "PlayStation", "Xbox", "Gaming Glitch", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ribojh/a_glitch_has_emerged_that_makes_gta_6_appear_on/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Glitch Reportedly Makes Game Appear on PlayStation Profiles

@@ -4,6 +4,7 @@ date: "2026-05-04T17:21:17"
 description: "A Reddit user speculates that Grand Theft Auto 6's map and content could mark the biggest evolution for the series since the iconic GTA: San Andreas."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA San Andreas", "Map Size", "Open World", "Game Evolution", "Rockstar Games", "Gaming Speculation", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3oaex/gta_6s_map_could_be_the_biggest_evolution_since/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map: Could it Be the Next San Andreas-Level Evolution?

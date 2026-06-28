@@ -4,6 +4,7 @@ date: "2026-03-11T06:06:26"
 description: "Fans are speculating whether Grand Theft Auto 6, set decades after the 80s, will feature references to the original GTA Vice City and if its iconic protagonist, Tommy Vercetti, could still be alive."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Tommy Vercetti", "Speculation", "Rockstar Games", "Gaming News", "Easter Eggs", "Timeline"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqlubs/were_a_long_way_from_the_80s/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Tommy Vercetti Still Be Alive for Vice City's Return?

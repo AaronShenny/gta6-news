@@ -4,6 +4,7 @@ date: "2026-05-09T00:19:42"
 description: "A Reddit user compiles a compelling case for GTA 6's third trailer releasing on May 12th, citing Take-Two interviews, Rockstar social posts, PlayStation ads, and Game Informer hints. Explore the fan theory."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "Release Date", "Rumors", "Speculation", "Rockstar Games", "Take-Two Interactive", "PlayStation", "Game Informer", "Fan Theory", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7pel2/tuesday_may_12th/"
+classification: "RUMOR"
 ---
 
 # Is GTA 6 Trailer 3 Dropping on May 12th? A Deep Dive into Fan Speculation

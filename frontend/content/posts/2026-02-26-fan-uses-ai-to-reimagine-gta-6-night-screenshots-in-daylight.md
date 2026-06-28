@@ -4,6 +4,7 @@ date: "2026-02-26T11:33:13"
 description: "A Reddit user has utilized AI to convert existing GTA 6 night screenshots into daytime visuals, offering a new perspective on Vice City's upcoming landscapes."
 tags: ["GTA 6", "Grand Theft Auto 6", "AI", "Fan Art", "Screenshots", "Night to Day", "Visualization", "Reddit", "Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rf7t9l/gta_6_screenshots_converted_from_night_to_day/"
+classification: "RUMOR"
 ---
 
 # Fan Uses AI to Reimagine GTA 6 Night Screenshots in Daylight

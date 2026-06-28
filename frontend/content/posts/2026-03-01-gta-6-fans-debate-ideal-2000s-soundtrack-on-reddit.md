@@ -4,6 +4,7 @@ date: "2026-03-01T16:47:40"
 description: "A popular Reddit thread reveals community desires for 2000s-era music to be featured in the highly anticipated Grand Theft Auto 6 soundtrack."
 tags: ["GTA 6", "Grand Theft Auto", "Soundtrack", "2000s Music", "Fan Speculation", "Community Discussion", "Reddit", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ri24hf/which_2000s_songs_would_you_like_to_see_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Debate Ideal 2000s Soundtrack on Reddit

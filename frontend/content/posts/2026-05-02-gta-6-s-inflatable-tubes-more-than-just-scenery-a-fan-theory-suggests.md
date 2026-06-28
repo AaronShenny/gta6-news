@@ -4,6 +4,7 @@ date: "2026-05-02T14:39:41"
 description: "A Reddit post highlights the surprising prevalence of inflatable tubes in GTA 6 trailers, sparking humorous speculation about their potential gameplay significance and 'Day 1' plans."
 tags: ["GTA 6", "Rockstar Games", "Inflatable Tubes", "Gameplay Speculation", "Fan Theories", "Reddit", "Humor", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1t1rp7e/inflatable_tubes_are_everywhere_rockstar_doesnt/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Inflatable Tubes: More Than Just Scenery, A Fan Theory Suggests

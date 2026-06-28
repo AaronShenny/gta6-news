@@ -4,6 +4,7 @@ date: "2026-02-14T00:45:38"
 description: "A Reddit user speculates that Grand Theft Auto VI could open with Lucia attempting a desperate bank robbery in Liberty City, leading to her arrest and transfer to Vice City, mirroring past Rockstar prologues."
 tags: ["GTA6", "GrandTheftAutoVI", "FanTheory", "Lucia", "LibertyCity", "ViceCity", "Prologue", "RockstarGames", "GamingNews"]
 source: "https://www.reddit.com/r/GTA6/comments/1r46elq/i_have_a_theory/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory Suggests Tragic Liberty City Prologue for Lucia

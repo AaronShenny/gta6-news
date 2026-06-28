@@ -4,6 +4,7 @@ date: "2026-06-06T07:01:28"
 description: "A Reddit post sparks discussion on the age-old gamer dilemma: pre-ordering GTA 6 immediately or patiently awaiting critical reviews before making a purchase."
 tags: ["GTA 6", "Grand Theft Auto VI", "Pre-order", "Game Reviews", "Metacritic", "Gaming Community", "Rockstar Games", "Player Habits"]
 source: "https://www.reddit.com/r/GTA6/comments/1tya5a9/are_you_preordering_gta_6_or_waiting_for_reviews/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Pre-Order Dilemma: Fans Debate Early Access vs. Waiting for Reviews

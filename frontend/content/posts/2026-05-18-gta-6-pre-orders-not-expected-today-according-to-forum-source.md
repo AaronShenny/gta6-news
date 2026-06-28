@@ -4,6 +4,7 @@ date: "2026-05-18T11:09:32"
 description: "Reports from a 'reliable GTA Forums Member' suggest that Grand Theft Auto 6 pre-orders will not be available today, as shared on Reddit."
 tags: ["GTA 6", "Grand Theft Auto", "Pre-orders", "Gaming News", "Rockstar Games", "Rumor", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tgjbyh/it_seems_like_gta_6_pre_orders_wont_be_going_live/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Orders Not Expected Today, According to Forum Source

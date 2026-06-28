@@ -4,6 +4,7 @@ date: "2026-06-04T04:29:04"
 description: "Dedicated GTA fans are analyzing historical release patterns from GTA V and Red Dead Redemption titles to speculate on the Grand Theft Auto 6 cover art reveal date."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Cover Art", "Reveal Date", "Speculation", "Gaming News", "Fan Theory"]
 source: "https://www.reddit.com/r/GTA6/comments/1twd3ow/gta_6_cover_reveal_estimation_date/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cover Reveal: Fan Speculation Pinpoints Potential Dates Based on Rockstar's Past Trends

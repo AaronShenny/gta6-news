@@ -4,6 +4,7 @@ date: "2026-04-04T17:46:50"
 description: "A dedicated gamer pre-emptively upgrades to a PS5 Pro, citing GTA 6 enhancement FOMO and an impending price increase as key motivators for the hardware investment."
 tags: ["GTA 6", "Grand Theft Auto", "PS5 Pro", "PlayStation 5 Pro", "Gaming Hardware", "Console Upgrade", "Rockstar Games", "FOMO", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1scfp1f/gta_6_made_me_do_it/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Ignites PS5 Pro Upgrades Amidst Price Hike Fears

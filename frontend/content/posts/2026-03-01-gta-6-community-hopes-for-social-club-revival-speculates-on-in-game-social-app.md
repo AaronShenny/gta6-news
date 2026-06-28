@@ -4,6 +4,7 @@ date: "2026-03-01T15:22:39"
 description: "A Reddit user expresses strong nostalgia for the Rockstar Social Club and speculates that GTA VI will feature its own in-game social media application."
 tags: ["GTA 6", "Rockstar Social Club", "Grand Theft Auto VI", "Fan Speculation", "In-Game Social Media", "Rockstar Games", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhzx0i/still_missing_rockstar_games_socialclub/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Social Club Revival, Speculates on In-Game Social App

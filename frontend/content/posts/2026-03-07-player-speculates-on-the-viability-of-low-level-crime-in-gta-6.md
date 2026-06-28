@@ -4,6 +4,7 @@ date: "2026-03-07T16:00:45"
 description: "A Reddit user explores why low-level crime, despite being a core concept, may not fit the progression of GTA 6's story mode, citing the rapid accumulation of wealth."
 tags: ["GTA 6", "Grand Theft Auto", "Gameplay Mechanics", "Game Design", "Open World Crime", "Player Feedback", "Reddit Discussion", "Story Progression"]
 source: "https://www.reddit.com/r/GTA6/comments/1rndjli/low_level_crime_doesnt_really_work_in_a_gta_game/"
+classification: "RUMOR"
 ---
 
 # Player Speculates on the Viability of Low-Level Crime in GTA 6

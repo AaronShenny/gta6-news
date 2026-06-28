@@ -4,6 +4,7 @@ date: "2026-05-07T17:55:01"
 description: "Discover how talented builder Sway4u is meticulously recreating Grand Theft Auto's iconic Vice City in Minecraft, offering a downloadable 1:1 scale map for fans."
 tags: ["Minecraft", "GTA", "Grand Theft Auto", "Vice City", "Sway4u", "Fan Project", "Community Map", "Gaming News", "GTA 6", "Modding"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6i41i/vice_city_is_being_recreated_in_minecraft_by_a/"
+classification: "UNKNOWN"
 ---
 
 # Minecraft Builder Sway4u Recreates GTA's Vice City in Stunning 1:1 Scale

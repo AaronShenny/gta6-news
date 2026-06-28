@@ -4,6 +4,7 @@ date: "2026-03-21T01:44:25"
 description: "A Reddit user from the r/GTA6 community shares an 'unpopular opinion,' advocating for the inclusion of difficulty settings in Grand Theft Auto 6 to boost enjoyment and game longevity."
 tags: ["GTA 6", "Grand Theft Auto", "Difficulty Settings", "Gaming Opinion", "Player Experience", "Game Longevity", "Reddit Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzexd0/unpopular_opinion_gta_6_should_have_a_difficulty/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Fan Pitches Difficulty Settings for Enhanced Enjoyment and Extended Playtime

@@ -4,6 +4,7 @@ date: "2026-05-14T03:30:58"
 description: "Explore the long-standing rumor surrounding an alleged Best Buy email regarding GTA 6 pre-orders, originally shared on Reddit by YouTuber FrogboyX1Gaming years ago."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Best Buy", "Pre-orders", "Rumor", "Leak", "Gaming News", "Speculation", "FrogboyX1Gaming", "Reddit", "Historical Rumor"]
 source: "https://www.reddit.com/r/GTA6/comments/1tcm7vc/youtube_channel_frogboyx1gaming_showing_his/"
+classification: "RUMOR"
 ---
 
 # Decade-Old GTA 6 Pre-Order Rumor Resurfaces from Alleged Best Buy Email

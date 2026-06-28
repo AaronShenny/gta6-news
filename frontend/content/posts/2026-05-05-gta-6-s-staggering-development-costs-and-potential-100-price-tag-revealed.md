@@ -4,6 +4,7 @@ date: "2026-05-05T21:19:00"
 description: "Take-Two CEO Strauss Zelnick discusses the 'expensive' production of GTA 6, with analysts estimating a budget up to $1.5 billion. The article also explores predictions of a $70-$100+ consumer price point for the highly anticipated title, launching November 19."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Game Development Cost", "Game Price", "AAA Games", "Video Game Industry", "PS5", "Xbox Series X|S", "Gaming News"]
 source: "https://www.gamespot.com/articles/how-much-did-gta-6-cost-to-make-heres-what-take-twos-ceo-had-to-say/1100-6539797/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # GTA 6's Staggering Development Costs and Potential $100+ Price Tag Revealed

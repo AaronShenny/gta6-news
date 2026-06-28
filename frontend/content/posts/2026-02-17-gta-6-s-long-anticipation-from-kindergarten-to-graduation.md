@@ -4,6 +4,7 @@ date: "2026-02-17T08:46:07"
 description: "A popular Reddit post humorously highlights the extensive wait for Grand Theft Auto 6, noting that children who began kindergarten when GTA 5 launched will be graduating high school by GTA 6's release."
 tags: ["GTA 6", "GTA 5", "Rockstar Games", "Release Date", "Gaming Industry", "Anticipation", "Time Gap", "Grand Theft Auto", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1r70v1o/all_the_kids_who_were_in_kindergarten_when_gta_5/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Long Anticipation: From Kindergarten to Graduation

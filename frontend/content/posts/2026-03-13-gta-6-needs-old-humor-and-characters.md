@@ -4,6 +4,7 @@ date: "2026-03-13T12:58:38"
 description: "A dedicated Grand Theft Auto fan expresses strong opinions on GTA 6's humor and character design, advocating for a return to classic style over recent GTA Online trends."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Community", "Humor", "Characters", "GTA Online", "Fan Opinion", "Wishlist"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsmmxv/gta_6_needs_old_humor_and_characters/"
+classification: "RUMOR"
 ---
 
 # GTA 6 needs old humor and characters

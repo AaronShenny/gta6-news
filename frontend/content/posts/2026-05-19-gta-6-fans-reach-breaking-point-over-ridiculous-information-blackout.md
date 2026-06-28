@@ -4,6 +4,7 @@ date: "2026-05-19T15:31:28"
 description: "The Grand Theft Auto 6 community is expressing extreme frustration over Rockstar Games' prolonged silence, with fans calling the lack of updates 'ridiculous' and speculating about potential delays."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming News", "Fan Frustration", "Game Development", "Game Delay", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1thqgtq/the_fact_gta_6_fans_need_to_tune_in_for_a/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Reach Breaking Point Over 'Ridiculous' Information Blackout

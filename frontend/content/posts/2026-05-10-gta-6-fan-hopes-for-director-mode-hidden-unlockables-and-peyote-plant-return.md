@@ -4,6 +4,7 @@ date: "2026-05-10T20:44:43"
 description: "A dedicated GTA fan shares their wishlist for GTA 6, emphasizing the return of fan-favorite features like GTA 5's Director Mode, hidden unlockables, and the iconic peyote plants."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Director Mode", "Peyote Plants", "Hidden Unlockables", "Fan Wishlist", "Gaming Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9ieuu/playing_as_the_beast_in_gta_5_director_mode_i/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Hopes for Director Mode, Hidden Unlockables, and Peyote Plant Return

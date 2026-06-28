@@ -4,6 +4,7 @@ date: "2026-03-17T12:20:57"
 description: "A Reddit post highlights concerns over NPC accuracy and player damage in GTA 5 and RDR2, proposing a shift to lower NPC accuracy and higher damage for more tense GTA 6 gunfights."
 tags: ["GTA 6", "Grand Theft Auto", "Gunplay Mechanics", "NPC AI", "Combat System", "Game Design", "Player Feedback", "Rockstar Games", "GTA 5", "RDR2", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rw4yws/gun_fights_npcs_ai_accuracy_and_damage_dealt_is/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Community Calls for a Ground-Up Rework of NPC Gunplay and Damage

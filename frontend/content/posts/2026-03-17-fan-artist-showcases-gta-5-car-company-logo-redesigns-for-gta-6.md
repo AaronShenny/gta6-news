@@ -4,6 +4,7 @@ date: "2026-03-17T23:48:37"
 description: "A Grand Theft Auto fan has shared their creative redesigns of fictional car company logos from GTA 5, imagining their potential look for the upcoming GTA 6."
 tags: ["GTA 6", "GTA 5", "car logos", "fan art", "redesigns", "community content", "speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rwns3g/some_gta_5_car_company_logo_redesigns_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # Fan Artist Showcases GTA 5 Car Company Logo Redesigns for GTA 6

@@ -4,6 +4,7 @@ date: "2026-06-04T03:46:08"
 description: "An enthusiastic Reddit user speculates that Grand Theft Auto VI is poised to be the most technically advanced game in history, citing Rockstar's resources and the franchise's track record."
 tags: ["GTA VI", "Grand Theft Auto 6", "Rockstar Games", "Game Development", "Technical Achievement", "Gaming Industry", "Red Dead Redemption 2", "Fan Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1twc7nc/gta_vi_may_be_the_most_technically_wellmade_game/"
+classification: "RUMOR"
 ---
 
 # Reddit User Predicts GTA VI Will Be an Unprecedented Technical Masterpiece

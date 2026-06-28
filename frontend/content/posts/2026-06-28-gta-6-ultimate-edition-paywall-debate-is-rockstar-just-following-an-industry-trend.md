@@ -4,6 +4,7 @@ date: "2026-06-28T02:26:35"
 description: "A deep dive into the Reddit discussion surrounding GTA 6's ultimate edition content, comparing it to GTA V and other major titles, and questioning the industry's long-standing practices."
 tags: ["GTA 6", "Grand Theft Auto 6", "Ultimate Edition", "Pre-order Bonuses", "Gaming Industry Trends", "Rockstar Games", "DLC", "Paywall", "Physical Edition", "Gaming Controversy"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhl336/content_has_been_locked_behind_ultimate_editions/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Ultimate Edition 'Paywall' Debate: Is Rockstar Just Following an Industry Trend?

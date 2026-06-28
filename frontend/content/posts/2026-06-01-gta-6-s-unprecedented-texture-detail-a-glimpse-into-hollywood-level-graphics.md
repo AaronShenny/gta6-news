@@ -4,6 +4,7 @@ date: "2026-06-01T06:25:25"
 description: "A Reddit post highlights the incredible graphical fidelity of GTA 6, revealing 'fully textured' skin on characters like Lucia and movie-quality environmental details, setting a new bar for video game visuals."
 tags: ["GTA 6", "Graphics", "Textures", "Character Models", "Lucia", "Visual Fidelity", "Rockstar Games", "Hollywood CGI"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttjpkd/gta_6_skin_detail_more_texture_than_you_think/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Unprecedented Texture Detail: A Glimpse into Hollywood-Level Graphics

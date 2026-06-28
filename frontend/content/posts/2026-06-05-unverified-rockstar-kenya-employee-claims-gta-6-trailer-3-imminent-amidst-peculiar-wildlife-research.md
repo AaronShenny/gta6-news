@@ -4,6 +4,7 @@ date: "2026-06-05T19:11:29"
 description: "A Reddit user claiming to be a Rockstar Kenya wildlife tech employee suggests GTA 6 Trailer 3 is due within a week, detailing bizarre work conditions and internal rumors."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Trailer Leak", "Game Development", "Rumor", "Unverified", "Wildlife Research", "Kenya", "Reddit Leak", "Employee Insights"]
 source: "https://www.reddit.com/r/GTA6/comments/1txuf7c/im_a_low_level_employee_at_rockstar_kenya_the/"
+classification: "RUMOR"
 ---
 
 # Unverified Rockstar Kenya Employee Claims GTA 6 Trailer 3 Imminent Amidst Peculiar Wildlife Research

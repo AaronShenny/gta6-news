@@ -4,6 +4,7 @@ date: "2026-05-20T10:33:42"
 description: "A Reddit post titled 'Let's hope GTA 6 won't have this system' sparks discussion among fans, highlighting concerns about potential gameplay mechanics without specifying details."
 tags: ["GTA 6", "Grand Theft Auto 6", "Community Discussion", "Reddit", "Speculation", "Game Features", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tihomk/lets_hope_gta_6_wont_have_this_system/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Speculates on Undesired Game System

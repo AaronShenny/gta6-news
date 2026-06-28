@@ -4,6 +4,7 @@ date: "2026-04-09T17:22:11"
 description: "A new community-led map overlay experiment indicates that GTA 6's Vice City could encompass the entirety of GTA San Andreas' cities, GTA 4's map, and even RDR2's Saint Denis, with room to spare."
 tags: ["GTA 6", "Vice City", "Map Size", "Rockstar Games", "Open World", "Grand Theft Auto", "GTA San Andreas", "GTA 4", "Red Dead Redemption 2", "Saint Denis", "Gaming News", "Community Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgw2u2/you_can_fit_the_three_cities_from_gta_sa_the/"
+classification: "UNKNOWN"
 ---
 
 # Community Analysis Suggests GTA 6's Vice City Map Is Colossally Larger Than Previous Rockstar Worlds

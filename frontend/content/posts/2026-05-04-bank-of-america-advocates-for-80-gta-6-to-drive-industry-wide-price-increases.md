@@ -4,6 +4,7 @@ date: "2026-05-04T13:58:00"
 description: "A Bank of America investor note suggests Take-Two should price GTA 6 at $80, aiming to establish a new industry standard amidst rising development costs and expert opinions supporting higher game prices."
 tags: ["GTA 6", "Grand Theft Auto 6", "Game Pricing", "$80 Games", "Take-Two Interactive", "Bank of America", "Video Game Industry", "AAA Games", "Development Costs", "Strauss Zelnick", "Inflation", "Consumer Spending"]
 source: "https://www.gamespot.com/articles/gta-6-should-be-80-and-other-companies-should-raise-prices-too-bank-of-america-says/1100-6539759/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # Bank of America Advocates for $80 GTA 6 to Drive Industry-Wide Price Increases

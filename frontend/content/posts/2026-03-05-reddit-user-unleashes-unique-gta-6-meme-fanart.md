@@ -4,6 +4,7 @@ date: "2026-03-05T20:13:43"
 description: "A dedicated fan on Reddit's r/GTA6 subreddit, /u/Anonymistartist, has shared a unique piece of fanart blending the highly anticipated game with popular meme culture."
 tags: ["GTA 6", "Fanart", "Meme", "Reddit", "Gaming Community", "User Content", "r/GTA6", "Anonymistartist"]
 source: "https://www.reddit.com/r/GTA6/comments/1rlsbm5/gta_6_meme_fanart/"
+classification: "RUMOR"
 ---
 
 # Reddit User Unleashes Unique GTA 6 Meme Fanart

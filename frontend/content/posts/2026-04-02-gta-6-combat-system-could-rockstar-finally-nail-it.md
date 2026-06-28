@@ -4,6 +4,7 @@ date: "2026-04-02T18:06:19"
 description: "Speculation arises that Grand Theft Auto VI could finally deliver a beloved combat system, addressing a long-standing criticism of the series."
 tags: ["GTA 6", "Grand Theft Auto VI", "Combat System", "Rockstar Games", "Gaming News", "Speculation", "Sleeping Dogs", "Hand-to-Hand Combat"]
 source: "https://www.reddit.com/r/GTA6/comments/1saoxf4/combat_system_in_gtavi/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Combat System: Could Rockstar Finally Nail It?

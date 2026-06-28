@@ -4,6 +4,7 @@ date: "2026-03-31T08:36:47"
 description: "Take-Two's mid-May earnings call is set to be a pivotal moment for GTA 6, potentially bringing Trailer 3, pre-order details, or a release date update for the highly anticipated November 19 launch."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Earnings Call", "Release Date", "Gaming News", "Trailer 3", "Pre-orders", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8hqp4/taketwos_may_earnings_call_is_approaching_a_key/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Anticipation Builds: Take-Two's May Earnings Call Poised for Major Announcements

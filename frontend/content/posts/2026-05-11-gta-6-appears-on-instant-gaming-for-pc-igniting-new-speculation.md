@@ -4,6 +4,7 @@ date: "2026-05-11T17:40:03"
 description: "A sudden listing for Grand Theft Auto 6 on Instant Gaming for PC has sparked new rumors and speculation among fans, despite potential placeholder status."
 tags: ["GTA 6", "Grand Theft Auto VI", "Instant Gaming", "PC Gaming", "Rumors", "Leaks", "Rockstar Games", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1taaifo/all_of_a_sudden_gta_6_appeared_on_instant_gaming/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Appears on Instant Gaming for PC, Igniting New Speculation

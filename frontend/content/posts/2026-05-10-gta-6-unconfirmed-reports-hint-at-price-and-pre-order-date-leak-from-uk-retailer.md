@@ -4,6 +4,7 @@ date: "2026-05-10T02:33:50"
 description: "A GTA 6 commentator claims to have received information about press packs from a UK retailer, allegedly confirming the game's price and pre-order date. This remains an unverified rumor."
 tags: ["GTA 6", "Grand Theft Auto 6", "leak", "rumor", "price", "pre-order", "gaming news", "Rockstar Games", "UK retailer"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8ug6h/gta_6_commentator_has_been_told_that_press_packs/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Unconfirmed Reports Hint at Price and Pre-Order Date Leak from UK Retailer

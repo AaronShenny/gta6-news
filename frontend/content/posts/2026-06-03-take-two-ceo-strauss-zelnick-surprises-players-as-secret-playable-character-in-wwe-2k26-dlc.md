@@ -4,6 +4,7 @@ date: "2026-06-03T19:08:07"
 description: "Take-Two Interactive CEO Strauss Zelnick has been secretly added as a playable character in the latest WWE 2K26 DLC, complete with unique entrance music and commentary. Find out more about this unexpected addition!"
 tags: ["WWE 2K26", "Take-Two Interactive", "Strauss Zelnick", "DLC", "Gaming News", "Easter Egg", "Video Games", "WWE", "2K Sports"]
 source: "https://www.gamespot.com/articles/now-you-can-beat-gta-6-answers-out-of-the-take-two-boss-in-wwe-2k26/"
+classification: "CONFIRMED"
 ---
 
 # Take-Two CEO Strauss Zelnick Surprises Players as Secret Playable Character in WWE 2K26 DLC

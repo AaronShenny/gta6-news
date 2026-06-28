@@ -4,6 +4,7 @@ date: "2026-06-26T15:32:14"
 description: "A Reddit analysis speculates on GTA 6's global price, adjusting for purchasing power parity and local taxes to predict fair regional costs. Discover potential pricing variations."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Industry", "Pricing Strategy", "Purchasing Power Parity", "PPP", "Global Economy", "Video Game Pricing", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1uga42f/gta_vi_price_by_country_pppadjusted_tax_included/"
+classification: "RUMOR"
 ---
 
 # GTA VI Global Pricing: A Deep Dive into PPP-Adjusted Costs

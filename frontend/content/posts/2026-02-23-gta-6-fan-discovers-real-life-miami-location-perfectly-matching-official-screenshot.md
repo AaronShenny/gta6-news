@@ -4,6 +4,7 @@ date: "2026-02-23T13:48:23"
 description: "A Reddit user has captured a real-life photo from Miami that precisely aligns with an official Grand Theft Auto VI screenshot, showcasing Rockstar's incredible attention to detail in recreating Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Vice City", "Miami", "Realism", "Fan Discovery", "Screenshots", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1rchwa0/gta_vi_real_life_miami_art_center/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fan Discovers Real-Life Miami Location Perfectly Matching Official Screenshot

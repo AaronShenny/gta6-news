@@ -4,6 +4,7 @@ date: "2026-02-16T18:29:55"
 description: "A viral Reddit post on r/GTA6 highlights the immense anticipation for Grand Theft Auto VI, with fans discussing whether they'd take off work or school to play on its rumored Thursday launch."
 tags: ["GTA VI", "Grand Theft Auto 6", "Launch Day", "Reddit", "Gaming Anticipation", "Fan Culture", "Rockstar Games", "Gaming History"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6hn6q/since_gta_vi_is_scheduled_to_drop_on_a_thursday/"
+classification: "RUMOR"
 ---
 
 # GTA VI: Fans Debate Skipping Work/School for Launch Day

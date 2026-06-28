@@ -4,6 +4,7 @@ date: "2026-06-01T16:37:43"
 description: "A Reddit post from the r/GTA6 subreddit perfectly encapsulates the months-long fervent anticipation and discussion surrounding Grand Theft Auto VI among its dedicated fanbase."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Community", "Video Game Anticipation", "Reddit", "Hype", "Speculation", "Fanbase"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttxrw8/this_sub_the_past_few_months_waiting_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Anticipation: A Look at the Community's Long Wait on Reddit

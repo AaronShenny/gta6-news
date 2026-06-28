@@ -4,6 +4,7 @@ date: "2026-03-23T17:15:00"
 description: "A GTA VI fan proposes the addition of purely cosmetic fighting styles like Boxing, Karate, or Jiu-Jitsu for player characters, inspired by Lucia's trailer moves, to add visual flair to melee combat."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fighting Styles", "Cosmetic Features", "Melee Combat", "Lucia", "Community Suggestion", "Rockstar Games", "Game Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1n1qh/fighting_styles_in_gta_vi_would_be_really_cool/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Community Speculates on Cosmetic Fighting Styles to Enhance Melee Combat

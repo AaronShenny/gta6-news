@@ -4,6 +4,7 @@ date: "2026-02-25T20:16:34"
 description: "A Reddit post speculates on GTA 6's unprecedented scale and detail, suggesting it will surpass Red Dead Redemption 2's acclaimed world-building with enhanced graphics, interiors, and dynamic weather in Vice City."
 tags: ["GTA 6", "Rockstar Games", "Vice City", "Open World", "Game Scale", "Red Dead Redemption 2", "Graphics", "World Detail", "Gaming Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1reoj53/the_scale_of_this_game_is_genuinely_insane/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Scale Hailed as 'Genuinely Insane,' Dwarfing Even RDR2's Immersive World

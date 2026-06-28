@@ -4,6 +4,7 @@ date: "2026-03-14T21:41:03"
 description: "A Reddit post from the r/GTA6 community speculates on the potential appearance of the character Gloriana in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Gloriana", "Speculation", "Reddit", "Community Discussion", "Character Appearance"]
 source: "https://www.reddit.com/r/GTA6/comments/1rtvsf2/do_you_think_gloriana_will_appear_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Do you think Gloriana will appear in GTA 6?

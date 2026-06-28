@@ -4,6 +4,7 @@ date: "2026-06-18T20:14:59"
 description: "The GTA 6 community is actively discussing whether a prominent female figure associated with the game will be a playable character or a promotional icon, drawing comparisons to past GTA titles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Female Character", "Protagonist", "Cover Girl", "Rockstar Games", "Gaming Community", "Speculation", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9h3yx/do_you_think_this_girl_will_be_an_actual/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Debates Female Character's Role: Protagonist or 'Cover Girl'?

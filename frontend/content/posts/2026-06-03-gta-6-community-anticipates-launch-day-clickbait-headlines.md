@@ -4,6 +4,7 @@ date: "2026-06-03T17:22:38"
 description: "Gamers on Reddit are humorously predicting the sensationalist YouTube and article headlines that will inevitably flood the internet on Grand Theft Auto VI's launch day."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Community", "Clickbait", "Launch Day", "Reddit", "Gaming Journalism", "Fan Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvw75q/post_your_launch_day_youtubearticle_clickbait/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Anticipates Launch Day Clickbait Headlines

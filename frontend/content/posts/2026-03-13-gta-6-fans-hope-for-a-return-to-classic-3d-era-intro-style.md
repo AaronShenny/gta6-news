@@ -4,6 +4,7 @@ date: "2026-03-13T17:06:51"
 description: "A Reddit user expresses a strong desire for Grand Theft Auto VI to reintroduce the nostalgic 3D era intro style, complete with segmented clips, credits, and iconic music."
 tags: ["GTA 6", "Grand Theft Auto VI", "Intro", "Nostalgia", "Gaming", "Rockstar Games", "Fan Wishlist", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rst56p/i_kinda_wish_gta_vi_has_the_3d_era_style_intro/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for a Return to Classic 3D Era Intro Style

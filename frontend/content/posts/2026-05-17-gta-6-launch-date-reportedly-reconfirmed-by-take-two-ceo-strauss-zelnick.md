@@ -4,6 +4,7 @@ date: "2026-05-17T15:46:54"
 description: "Take-Two Interactive CEO Strauss Zelnick has reportedly reconfirmed that Grand Theft Auto VI is slated for a November 19th launch, according to a new interview."
 tags: ["GTA 6", "Grand Theft Auto VI", "Take-Two Interactive", "Rockstar Games", "Strauss Zelnick", "Release Date", "Launch Date", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tft65s/taketwo_ceo_strauss_zelnick_has_reconfirmed_that/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Launch Date Reportedly Reconfirmed by Take-Two CEO Strauss Zelnick

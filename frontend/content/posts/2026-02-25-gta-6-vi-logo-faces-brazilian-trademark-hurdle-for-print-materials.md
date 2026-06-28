@@ -4,6 +4,7 @@ date: "2026-02-25T23:45:42"
 description: "Brazil's government rejected the GTA 6 'VI' logo for printed materials due to potential confusion, but the game's digital release remains unaffected. Take-Two has appealed."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Brazil", "Trademark", "Intellectual Property", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1reu3oz/gta_6_brazilian_government_places_barriers_to/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 'VI' Logo Faces Brazilian Trademark Hurdle for Print Materials

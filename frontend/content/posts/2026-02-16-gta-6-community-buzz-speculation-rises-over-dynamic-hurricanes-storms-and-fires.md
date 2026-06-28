@@ -4,6 +4,7 @@ date: "2026-02-16T14:54:31"
 description: "The GTA 6 community is buzzing with speculation about advanced environmental features like hurricanes, storms, and fires, driven by recent discussions on Reddit."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Speculation", "Weather", "Hurricanes", "Storms", "Fires", "Environmental Disasters", "Community Discussion", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6bpaw/hurricanes_storms_fires_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: Speculation Rises Over Dynamic Hurricanes, Storms, and Fires

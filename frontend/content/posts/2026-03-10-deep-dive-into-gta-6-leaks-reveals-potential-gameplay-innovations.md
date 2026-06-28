@@ -4,6 +4,7 @@ date: "2026-03-10T07:06:52"
 description: "A meticulous fan analysis of GTA 6 leaks and trailers uncovers speculative details on advanced water physics, persistent NPCs, vehicle maintenance, and a revamped witness system."
 tags: ["GTA 6", "Grand Theft Auto VI", "leaks", "trailers", "gameplay features", "water physics", "NPCs", "vehicle maintenance", "dynamic weather", "witness system", "destructibility", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpq2zg/here_are_some_details_ive_picked_up/"
+classification: "LEAK"
 ---
 
 # Deep Dive into GTA 6 Leaks Reveals Potential Gameplay Innovations

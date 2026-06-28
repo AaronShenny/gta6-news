@@ -4,6 +4,7 @@ date: "2026-06-11T19:32:38"
 description: "A Reddit thread on r/GTA6 sparks a vibrant discussion among fans and Florida locals, speculating on the iconic and hidden Miami/Florida locations essential for an authentic Grand Theft Auto VI experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Florida Locations", "Miami", "Gaming News", "Fan Discussion", "Rockstar Games", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u38zt6/what_are_the_most_iconic_miamiflorida_locations/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans and Locals Brainstorm Iconic Florida Locations for Vice City's Return

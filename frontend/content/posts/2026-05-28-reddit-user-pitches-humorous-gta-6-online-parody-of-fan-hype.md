@@ -4,6 +4,7 @@ date: "2026-05-28T13:29:15"
 description: "A Reddit user suggests Rockstar Games could reference the intense anticipation and 'frenzied' speculation of the GTA 6 community within GTA 6 Online, potentially through in-game NPCs or a fictional social media platform."
 tags: ["GTA 6", "GTA 6 Online", "Rockstar Games", "Reddit", "Gaming Community", "Fan Theories", "Easter Eggs", "Parody", "Video Games", "Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1tq3okz/wouldnt_it_be_funny_if_rockstar_games_referenced/"
+classification: "RUMOR"
 ---
 
 # Reddit User Pitches Humorous GTA 6 Online Parody of Fan Hype

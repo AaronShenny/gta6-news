@@ -4,6 +4,7 @@ date: "2026-02-14T22:03:06"
 description: "Fan speculation deepens on Port Gellhorn, one of GTA 6's new counties in Leonida. Will it be Lucia and Jason's dangerous starting point?"
 tags: ["GTA 6", "Grand Theft Auto 6", "Port Gellhorn", "Leonida", "Vice City", "GTA 6 Map", "GTA 6 Speculation", "Lucia and Jason", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4xa1j/port_gellhorn/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Unpacking the Mysteries of Port Gellhorn in Leonida State

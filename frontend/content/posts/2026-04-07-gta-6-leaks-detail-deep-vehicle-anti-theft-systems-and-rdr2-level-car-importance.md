@@ -4,6 +4,7 @@ date: "2026-04-07T00:52:09"
 description: "Dive into the latest GTA 6 leaks suggesting a complete overhaul of vehicle theft, making cars crucial for gameplay with advanced anti-theft measures, maintenance, and a distinction between stolen and owned vehicles, echoing Red Dead Redemption 2's immersion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Leaks", "Vehicle Theft", "Anti-Theft Systems", "Rockstar Games", "RDR2", "Immersion", "Carjacking", "Vehicle Maintenance", "Open World", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1seh6v4/new_vehicle_antitheft_systems_in_gta_6/"
+classification: "LEAK"
 ---
 
 # GTA 6 Leaks Detail Deep Vehicle Anti-Theft Systems and RDR2-Level Car Importance

@@ -4,6 +4,7 @@ date: "2026-03-18T07:25:12"
 description: "A recent recruitment drive by Rockstar India for game testers on April 18th has prompted speculation among fans regarding the development timeline and potential delays for Grand Theft Auto VI, with only seven months remaining before its anticipated launch."
 tags: ["GTA 6", "Rockstar Games", "Rockstar India", "Game Testing", "Game Development", "Release Date", "Delay Rumors", "Recruitment"]
 source: "https://www.reddit.com/r/GTA6/comments/1rwx6h2/rockstar_indias_hr_is_hiring_game_testers_is_it/"
+classification: "RUMOR"
 ---
 
 # Rockstar India's Game Tester Recruitment Sparks GTA 6 Release Timeline Concerns

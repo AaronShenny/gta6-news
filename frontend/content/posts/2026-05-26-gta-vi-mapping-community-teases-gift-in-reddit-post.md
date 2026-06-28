@@ -4,6 +4,7 @@ date: "2026-05-26T13:39:19"
 description: "A Reddit post titled 'A gift from the GTA VI mapping community' has surfaced, hinting at a new project or reveal from dedicated fans of Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Mapping Community", "Reddit", "Fan Project", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1to79yr/a_gift_from_the_gta_vi_mapping_community/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Mapping Community Teases 'Gift' in Reddit Post

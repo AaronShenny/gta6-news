@@ -4,6 +4,7 @@ date: "2026-02-27T14:18:43"
 description: "Grand Theft Auto 6 has reportedly lost its #1 trending position on PlayStation's platform to the highly anticipated Resident Evil 9, according to a recent Reddit post."
 tags: ["GTA 6", "Grand Theft Auto 6", "Resident Evil 9", "RE9", "PlayStation", "Trending Games", "Gaming News", "Rockstar Games", "Capcom"]
 source: "https://www.reddit.com/r/GTA6/comments/1rg7wtf/gta_6_has_been_dethroned_from_the_1_spot_on/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Dethroned from PlayStation Trending by Resident Evil 9

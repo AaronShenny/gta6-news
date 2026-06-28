@@ -4,6 +4,7 @@ date: "2026-06-25T14:33:46"
 description: "A Reddit post titled 'Rockstar confirms that GTA 6 discs will be available several months after launch' has sparked discussion, but the content provides no official confirmation, leading to speculation."
 tags: ["GTA 6", "Rockstar Games", "Physical Discs", "Release Date", "Rumor", "Speculation", "Reddit", "Gaming News", "Information Accuracy"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufbrox/rockstar_confirms_that_gta_6_discs_will_be/"
+classification: "RUMOR"
 ---
 
 # Unpacking the 'GTA 6 Discs Delayed' Reddit Claim: Is Rockstar Holding Back?

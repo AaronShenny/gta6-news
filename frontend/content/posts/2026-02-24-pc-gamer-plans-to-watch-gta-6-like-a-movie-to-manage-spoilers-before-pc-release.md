@@ -4,6 +4,7 @@ date: "2026-02-24T13:43:06"
 description: "A PC gamer shares a unique strategy to combat inevitable GTA 6 spoilers, planning to watch a full playthrough online on day one of console release before the PC version launches."
 tags: ["GTA 6", "Grand Theft Auto 6", "PC Gaming", "Spoilers", "Gaming Strategy", "Rockstar Games", "Delayed Release", "Gaming Culture", "YouTube Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1rdgku1/as_a_pc_gamer_ill_watch_gta_6_like_a_movie_on_the/"
+classification: "UNKNOWN"
 ---
 
 # PC Gamer Plans to Watch GTA 6 'Like a Movie' to Manage Spoilers Before PC Release

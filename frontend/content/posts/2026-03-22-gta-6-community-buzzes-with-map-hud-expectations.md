@@ -4,6 +4,7 @@ date: "2026-03-22T12:02:37"
 description: "The GTA 6 subreddit is alive with speculation as fans debate their ideal map HUD designs for the highly anticipated title. What features are players hoping for?"
 tags: ["GTA 6", "Grand Theft Auto VI", "HUD", "Map Design", "User Interface", "UI", "Rockstar Games", "Community Discussion", "Fan Expectations", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0juxa/what_type_of_map_hud_youre_expecting_in_the_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzzes with Map HUD Expectations

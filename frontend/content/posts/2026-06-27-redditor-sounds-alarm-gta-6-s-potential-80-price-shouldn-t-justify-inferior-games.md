@@ -4,6 +4,7 @@ date: "2026-06-27T23:08:19"
 description: "A Reddit user expresses concern that GTA 6's anticipated $80 price tag could lead other developers to overprice 'half-baked' games, calling for industry accountability on quality and value."
 tags: ["GTA 6", "Game Pricing", "Video Game Industry", "Consumer Concerns", "Gaming Quality", "Reddit", "$80 Games", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhgtin/dear_gaming_companies_gta_6_costing_80_dosent/"
+classification: "UNKNOWN"
 ---
 
 # Redditor Sounds Alarm: GTA 6's Potential $80 Price Shouldn't Justify Inferior Games

@@ -4,6 +4,7 @@ date: "2026-02-16T00:39:26"
 description: "A Reddit user on r/GTA6 suggests Sg Lewis's 'Holding On' as a perfect fit for the game's vibrant, neon-lit nightlife, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto", "Soundtrack", "Music", "Sg Lewis", "Holding On", "Reddit", "Fan Suggestion", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5v45c/can_we_make_a_silly_petition_to_get_this_song_in/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Pitches Synth-Funk Track 'Holding On' for GTA 6 Soundtrack

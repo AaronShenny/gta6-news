@@ -4,6 +4,7 @@ date: "2026-03-16T12:44:50"
 description: "A Reddit user sparks discussion by imagining a catastrophic scenario: the complete deletion of all GTA 6 game files. Would the gaming community erupt?"
 tags: ["GTA 6", "Grand Theft Auto", "Gaming News", "Hypothetical", "Reddit", "Gaming Community", "Rockstar Games", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1rv8f28/hypothetically_if_all_the_gta_6_files_were_some/"
+classification: "UNKNOWN"
 ---
 
 # The Unthinkable Scenario: Reddit User Ponders GTA 6's Hypothetical Deletion

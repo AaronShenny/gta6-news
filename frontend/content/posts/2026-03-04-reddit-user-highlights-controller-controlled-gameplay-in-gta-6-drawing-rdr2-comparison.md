@@ -4,6 +4,7 @@ date: "2026-03-04T04:46:29"
 description: "A viral Reddit post draws attention to a specific scene in the GTA 6 trailer, speculating on its 'controller-controlled gameplay' and contrasting it with Red Dead Redemption 2's approach to player input."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gameplay Mechanics", "Controller Gameplay", "Red Dead Redemption 2", "Gaming News", "Fan Discussion", "Reddit Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1rkc7wn/cette_scène_la_cest_exactement_du_gameplay/"
+classification: "CONFIRMED"
 ---
 
 # Reddit User Highlights 'Controller-Controlled Gameplay' in GTA 6, Drawing RDR2 Comparison

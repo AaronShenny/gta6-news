@@ -4,6 +4,7 @@ date: "2026-05-01T18:45:33"
 description: "A dedicated fan claims to have cracked Rockstar's hidden marketing code, predicting GTA VI's third trailer release date and time by dissecting recurring numerical patterns."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer 3", "Release Date Prediction", "Fan Theory", "Marketing Pattern", "Gaming News", "Rumor"]
 source: "https://www.reddit.com/r/GTA6/comments/1t1261k/im_calling_it_now_gta_vi_trailer_3_drops_june/"
+classification: "RUMOR"
 ---
 
 # GTA VI Trailer 3: Fan Theory Predicts June 12, 2026 Drop at 9:47 AM EST Based on Hidden '47' Pattern

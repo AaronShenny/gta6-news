@@ -4,6 +4,7 @@ date: "2026-03-12T14:13:00"
 description: "Rockstar Games has launched the Community Series Showcase in GTA Online, offering players an instant $1 million GTA$ and weekly bonuses, alongside triple rewards and St. Patrick's Day content."
 tags: ["GTA Online", "Rockstar Games", "Community Series Showcase", "GTA$", "In-game Rewards", "Event", "St. Patrick's Day", "GTA+", "User-Generated Content", "Gaming News", "Grand Theft Auto"]
 source: "https://www.gamespot.com/articles/how-to-get-1-million-gta-cash-very-easily-right-now/1100-6538745/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # GTA Online Players Can Easily Earn Over $1 Million with New Community Series Event

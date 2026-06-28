@@ -4,6 +4,7 @@ date: "2026-04-12T01:12:46"
 description: "A Reddit user expresses strong hopes for GTA 6's radio stations to emulate the beloved classics like K-Rose and K-DST from GTA: San Andreas, citing recent song rumors."
 tags: ["GTA 6", "Grand Theft Auto VI", "Radio Stations", "K-Rose", "K-DST", "GTA San Andreas", "Gaming Community", "Fan Hopes", "Music", "Rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1sj0khj/i_really_hope_gta_6_has_radios_like_krose_and_kdst/"
+classification: "RUMOR"
 ---
 
 # GTA Fans Clamor for Classic Radio Vibe in Grand Theft Auto VI

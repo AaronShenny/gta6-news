@@ -4,6 +4,7 @@ date: "2026-02-15T22:39:32"
 description: "A GTA 6 fan speculates on potential story roles for the Vice City Manatees football team, suggesting mission ideas and lore integration, hinting at broader sports team significance in the game."
 tags: ["GTA 6", "Grand Theft Auto 6", "Vice City Manatees", "Football", "Story Missions", "Game Lore", "Fan Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5sd9p/i_really_hope_gta_6s_football_team_plays_some/"
+classification: "RUMOR"
 ---
 
 # I really hope GTA 6’s football team plays some type of role in the story

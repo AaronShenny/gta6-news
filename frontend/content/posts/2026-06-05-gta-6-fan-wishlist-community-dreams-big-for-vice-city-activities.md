@@ -4,6 +4,7 @@ date: "2026-06-05T12:38:08"
 description: "A dedicated gaming journalist explores a fan's extensive wishlist for Grand Theft Auto VI, detailing desired activities from classic services to new, immersive experiences."
 tags: ["GTA 6", "Grand Theft Auto VI", "Wishlist", "Activities", "Open World", "Fan Ideas", "Gaming News", "Rockstar Games", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1txjrj3/gta_vi_activity_wishlist/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Wishlist: Community Dreams Big for Vice City Activities

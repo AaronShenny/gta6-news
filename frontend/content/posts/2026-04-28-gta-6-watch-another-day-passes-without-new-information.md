@@ -4,6 +4,7 @@ date: "2026-04-28T14:01:54"
 description: "The latest check-in from the dedicated GTA 6 community confirms that no new official or unofficial details about the highly anticipated title emerged today."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Game Development", "Updates", "Anticipation", "Community News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sy2bte/no_gta_6_news_today/"
+classification: "LEAK"
 ---
 
 # GTA 6 Watch: Another Day Passes Without New Information

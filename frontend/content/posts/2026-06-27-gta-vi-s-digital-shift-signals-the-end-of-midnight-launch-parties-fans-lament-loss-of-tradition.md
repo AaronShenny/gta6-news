@@ -4,6 +4,7 @@ date: "2026-06-27T13:08:45"
 description: "The shift towards digital-only physical copies for GTA VI means no traditional midnight launch events, leaving many fans, including first-timers, disappointed by the loss of communal celebration."
 tags: ["GTA 6", "Grand Theft Auto VI", "Midnight Launch", "Physical Copies", "Digital Games", "Gaming Culture", "Fan Experience", "Rockstar Games", "Pre-order", "Gaming Industry Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1uh2d7r/its_a_shame_how_stores_wont_be_hosting_midnight/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI's Digital Shift Signals the End of Midnight Launch Parties, Fans Lament Loss of Tradition

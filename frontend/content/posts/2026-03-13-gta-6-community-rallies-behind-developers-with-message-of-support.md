@@ -4,6 +4,7 @@ date: "2026-03-13T10:45:59"
 description: "The GTA 6 community expresses overwhelming support and encouragement for Rockstar Games developers amidst the game's anticipated release, acknowledging their hard work."
 tags: ["GTA 6", "Rockstar Games", "Community Support", "Game Development", "Fan Message", "Encouragement", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsjz58/for_any_gta_6_dev_out_there_you_got_this_and_we/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Rallies Behind Developers with Message of Support

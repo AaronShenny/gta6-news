@@ -4,6 +4,7 @@ date: "2026-06-19T16:59:34"
 description: "A popular Reddit post suggests that the decade-long hype for GTA 6 is leading to unrealistic fan expectations and unfair criticism based on minor graphical details and hardware limitations."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Development", "Hype", "Expectations", "Gaming Criticism", "PS5", "Xbox Series X", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ua7f8t/here_we_go_the_gta_6_hate_started/"
+classification: "UNKNOWN"
 ---
 
 # Unrealistic Expectations Fueling Premature GTA 6 Criticism, Argues Reddit User

@@ -4,6 +4,7 @@ date: "2026-04-09T03:45:47"
 description: "A Reddit user sparks debate on whether GTA 6's single-player mode will receive substantial post-launch content, or if GTA Online will continue to dominate updates."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Single-Player", "GTA Online", "Game Development", "Player Feedback", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgeq83/do_you_think_gta_6_singleplayer_will_actually_get/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Single-Player: Will Rockstar Finally Commit to Long-Term Support?

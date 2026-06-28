@@ -4,6 +4,7 @@ date: "2026-06-06T00:07:32"
 description: "A viral Reddit post on r/GTA6 explores the hypothetical, fear-inducing scenario of Grand Theft Auto 6 failing to meet expectations, sparking humorous fan reactions."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Expectations", "Fan Reactions", "Reddit Discussion", "Game Development Pressure", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ty1vtx/plot_twist_what_if_gta_6_comes_out_and_it_is/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Unthinkable – What if Rockstar's Next Installment Falls Flat?

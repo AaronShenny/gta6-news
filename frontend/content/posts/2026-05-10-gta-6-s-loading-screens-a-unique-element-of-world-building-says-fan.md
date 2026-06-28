@@ -4,6 +4,7 @@ date: "2026-05-10T08:31:47"
 description: "A Reddit user shares their unexpected excitement for the transition and loading screens in GTA 6, highlighting their role in adding flavor to the game's world and characters."
 tags: ["GTA 6", "Grand Theft Auto", "Loading Screens", "Transition Screens", "World Building", "Fan Excitement", "Gaming Community", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t919fa/i_am_really_excited_for_the_transition_and/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Loading Screens: A Unique Element of World-Building, Says Fan

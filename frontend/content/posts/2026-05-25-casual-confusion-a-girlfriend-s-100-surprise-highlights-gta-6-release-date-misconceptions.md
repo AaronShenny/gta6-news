@@ -4,6 +4,7 @@ date: "2026-05-25T04:58:38"
 description: "A heartwarming yet humorous Reddit story reveals how casual fans are misinformed about Grand Theft Auto 6's release date, mistaking trailer dates for the actual launch."
 tags: ["GTA 6", "Grand Theft Auto 6", "Release Date", "Gaming Culture", "Misinformation", "Rockstar Games", "Gaming News", "Casual Gamers"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmywiz/my_girl_surprised_me_with_100_today_and_thought/"
+classification: "RUMOR"
 ---
 
 # Casual Confusion: A Girlfriend's $100 Surprise Highlights GTA 6 Release Date Misconceptions

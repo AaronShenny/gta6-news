@@ -4,6 +4,7 @@ date: "2026-02-17T20:41:38"
 description: "A Reddit user speculates on the potential return and expanded role of the Haitian gang in GTA 6, highlighting their cultural significance to Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Haitian Gang", "Vice City", "Speculation", "Gang Factions", "Storyline", "Protagonists", "Trailer Analysis", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r7i3f9/is_haitian_gang_returning_andor_playing_a_bigger/"
+classification: "RUMOR"
 ---
 
 # Is Haitian Gang returning and/or playing a bigger role?

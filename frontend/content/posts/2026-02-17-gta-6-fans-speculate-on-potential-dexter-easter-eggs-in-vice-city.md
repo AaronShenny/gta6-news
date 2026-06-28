@@ -4,6 +4,7 @@ date: "2026-02-17T10:40:41"
 description: "Dedicated GTA 6 enthusiasts are buzzing with speculation regarding possible 'Dexter' references and easter eggs in the highly anticipated game, given its Vice City setting's strong ties to Miami."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Rockstar Games", "Easter Eggs", "Dexter", "Fan Theories", "Speculation", "Gaming News", "Miami"]
 source: "https://www.reddit.com/r/GTA6/comments/1r72p64/do_you_think_well_have_a_dexter_reference_in_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Speculate on Potential 'Dexter' Easter Eggs in Vice City

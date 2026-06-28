@@ -4,6 +4,7 @@ date: "2026-03-11T15:42:23"
 description: "The GTA 6 community is abuzz with speculation regarding the extent of environmental destruction Rockstar Games will implement in the highly anticipated title, sparking debate on potential realism and interactivity."
 tags: ["GTA 6", "Rockstar Games", "Environmental Destruction", "Game Features", "Community Speculation", "Open World", "Gaming News", "Realism"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqx9ep/how_far_do_you_think_rockstar_will_push/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Speculate on Environmental Destruction Capabilities

@@ -4,6 +4,7 @@ date: "2026-03-20T14:49:49"
 description: "A Reddit user shares detailed predictions for the GTA 6 plot, envisioning Lucia's post-prison life, Jason's criminal ascent, and a dramatic escape from Vice City."
 tags: ["GTA 6", "Grand Theft Auto 6", "Plot Predictions", "Fan Theory", "Lucia", "Jason", "Vice City", "Gameplay Elements", "Story Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ryybes/my_gta_6_plot_predictions/"
+classification: "RUMOR"
 ---
 
 # Fan Speculates on GTA 6 Plot: Lucia's Release, Jason's Rise, and a Wanted Escape

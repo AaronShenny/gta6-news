@@ -4,6 +4,7 @@ date: "2026-06-02T00:21:28"
 description: "A Reddit post humorously questions the possibility of Grand Theft Auto 6 launching on the PlayStation Portable by 2026, sparking lighthearted community discussion."
 tags: ["GTA 6", "PSP", "Reddit", "Speculation", "Humor", "Gaming Community", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tuau11/gta_6_on_psp_in_2026/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Ignites Humorous Speculation: GTA 6 on PSP by 2026?

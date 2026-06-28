@@ -4,6 +4,7 @@ date: "2026-06-21T04:45:18"
 description: "A Reddit user moving houses discovered an old, forgotten GTA-related item, sparking hopes for a similar feature in the upcoming GTA 6."
 tags: ["GTA 6", "Reddit", "Fan Speculation", "Gaming News", "Rockstar Games", "Grand Theft Auto", "Nostalgia", "User Discovery"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubgvmx/found_this_as_i_was_moving/"
+classification: "RUMOR"
 ---
 
 # Reddit User Unearths Mystery GTA Relic, Hopes for GTA 6 Inclusion

@@ -4,6 +4,7 @@ date: "2026-05-01T18:14:51"
 description: "A dedicated fan claims to have meticulously charted planetary positions for every Rockstar trailer since 2007, culminating in a highly specific astrological prediction for GTA 6's third trailer."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Trailer 3", "Release Date Prediction", "Astrology", "Gaming News", "Fan Theory", "May 2026", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t11bjp/i_spent_three_months_charting_the_planetary/"
+classification: "RUMOR"
 ---
 
 # Astrological Deep Dive Pinpoints Potential GTA 6 Trailer 3 Drop Date to May 14, 2026

@@ -4,6 +4,7 @@ date: "2026-03-22T18:00:28"
 description: "The GTA 6 community is already buzzing with predictions for the first major, legendary bug players will discover in Rockstar's highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming Glitches", "Community Predictions", "Leonida", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0shhj/lets_hear_your_predictions_for_the_very_first_gta/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Speculates on First Iconic Glitch

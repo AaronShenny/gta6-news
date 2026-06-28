@@ -4,6 +4,7 @@ date: "2026-06-16T14:39:25"
 description: "Community speculation suggests GTA 6's PC release might lag behind consoles, forcing PC gamers to choose between waiting or buying a console for early access."
 tags: ["GTA 6", "Grand Theft Auto", "PC Gaming", "Console Gaming", "Xbox Series X", "PS5", "Release Date", "Gaming News", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7ffa4/to_pc_gamers/"
+classification: "RUMOR"
 ---
 
 # GTA 6 PC Release Speculation Fuels Console Dilemma for Eager Gamers

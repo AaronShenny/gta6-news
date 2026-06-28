@@ -4,6 +4,7 @@ date: "2026-05-06T04:35:09"
 description: "A Reddit user sparks discussion on the potential reappearance of GTA V's enigmatic time traveler, Francis Sinclair, in GTA 6, citing his ties to the Epsilon Program."
 tags: ["GTA 6", "Grand Theft Auto VI", "Francis Sinclair", "Epsilon Program", "Time Travel", "Fan Theories", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t52p4h/francis_sinclair/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory: Could Time Traveler Francis Sinclair Return?

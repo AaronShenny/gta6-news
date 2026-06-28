@@ -4,6 +4,7 @@ date: "2026-04-29T14:58:29"
 description: "Dive into the Reddit community's detailed analysis comparing the visual fidelity of bullet impact effects in Grand Theft Auto 6 trailers against those found in Grand Theft Auto 5."
 tags: ["GTA 6", "GTA 5", "Bullet Impacts", "Visual Fidelity", "Game Graphics", "Community Discussion", "Rockstar Games", "Next-Gen", "Immersion", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sz19nt/bullet_impact_effects_gta_6_vs_gta_5/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6's Bullet Impact Effects Under the Microscope: A Community Comparison with GTA 5

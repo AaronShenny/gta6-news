@@ -4,6 +4,7 @@ date: "2026-05-01T19:53:11"
 description: "The GTA VI community is abuzz with speculation over what song should feature in the third trailer. Rockstar has a history of turning lesser-known tracks into global hits that perfectly capture the game's Vice City essence."
 tags: ["GTA VI", "Grand Theft Auto 6", "Rockstar Games", "Trailer Music", "Vice City", "Gaming Community", "Fan Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t140lp/what_song_would_you_want_to_hear_in_gta_vis_third/"
+classification: "RUMOR"
 ---
 
 # GTA VI Fans Debate Ideal Soundtrack for Third Trailer, Following Rockstar's Hit-Making Tradition

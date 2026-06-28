@@ -4,6 +4,7 @@ date: "2026-03-01T13:41:28"
 description: "A dedicated GTA 6 fan proposes an innovative prologue concept, suggesting alternating perspectives for Lucia and Jason to introduce core game mechanics."
 tags: ["GTA 6", "Grand Theft Auto 6", "Prologue", "Game Design", "Fan Concept", "Lucia", "Jason", "Rockstar Games", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhxkfm/what_does_the_ideal_gta_6_prologue_look_like_for/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Envisions Unique Dual-Perspective Prologue

@@ -4,6 +4,7 @@ date: "2026-03-21T17:46:57"
 description: "A Reddit thread on r/GTA6 sparks discussion among fans, speculating on what Rockstar Games' development teams are currently focusing on, from PS5 Pro optimization to online content and debugging."
 tags: ["GTA 6", "Rockstar Games", "Game Development", "PS5 Pro", "Optimization", "GTA Online", "Debugging", "Community Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzxtay/whats_your_pick_for_what_the_devs_are_focusing_on/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Dev Watch: Community Speculates on Rockstar's Current Priorities

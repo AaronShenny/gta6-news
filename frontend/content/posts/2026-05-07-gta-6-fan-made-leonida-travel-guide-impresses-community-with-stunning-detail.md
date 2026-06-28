@@ -4,6 +4,7 @@ date: "2026-05-07T18:38:37"
 description: "Explore the 'Bienvenido a Leonida,' a highly detailed, fan-created travel guide map for GTA 6 that was so accurate, it was initially mistaken for AI by mapping experts."
 tags: ["GTA 6", "Grand Theft Auto VI", "Leonida", "Fan Map", "Community Project", "Gaming News", "Rockstar Games", "Mapping", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6jczm/bienvenido_a_leonida_travel_guide_for_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fan-Made Leonida Travel Guide Impresses Community with Stunning Detail

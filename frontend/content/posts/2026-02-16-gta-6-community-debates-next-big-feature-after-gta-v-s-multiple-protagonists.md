@@ -4,6 +4,7 @@ date: "2026-02-16T23:25:34"
 description: "The gaming community is buzzing with speculation about what groundbreaking new feature Rockstar Games will introduce in Grand Theft Auto 6, drawing comparisons to GTA V's innovative multi-character system."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "New Features", "Speculation", "Gaming Community", "GTA V", "Next-Gen Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6pklk/what_do_you_guys_think_what_will_be_the_next_big/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Debates Next Big Feature After GTA V's Multiple Protagonists

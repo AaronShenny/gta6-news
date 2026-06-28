@@ -4,6 +4,7 @@ date: "2026-05-20T20:09:57"
 description: "A Reddit post showcases early visual comparisons of Grand Theft Auto 6 against Red Dead Redemption 2, Cyberpunk 2077, and GTA 5, highlighting its 'amazing' level of detail."
 tags: ["GTA 6", "Grand Theft Auto 6", "Graphics", "Visual Fidelity", "Comparison", "Red Dead Redemption 2", "Cyberpunk 2077", "GTA 5", "Gaming News", "Detail"]
 source: "https://www.reddit.com/r/GTA6/comments/1tixe0o/gta_6_detail_comparison/"
+classification: "UNKNOWN"
 ---
 
 # Early Comparisons Hint at Grand Theft Auto 6's Jaw-Dropping Detail

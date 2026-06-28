@@ -4,6 +4,7 @@ date: "2026-05-21T00:02:34"
 description: "A Reddit user expresses extreme frustration with the r/GTA6 subreddit, citing a deluge of unsubstantiated rumors and theories, calling for moderators to lock the sub until official news emerges."
 tags: ["GTA 6", "Grand Theft Auto", "Reddit", "Gaming Community", "Speculation", "Fan Theories", "Community Management"]
 source: "https://www.reddit.com/r/GTA6/comments/1tj3mzb/mods_should_lock_this_sub_until_actual_news_comes/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Subreddit User Demands Lock Amid 'Speculation Overload'

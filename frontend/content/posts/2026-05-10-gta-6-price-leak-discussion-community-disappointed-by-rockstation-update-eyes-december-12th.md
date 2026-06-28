@@ -4,6 +4,7 @@ date: "2026-05-10T09:49:55"
 description: "A Reddit post discussing a recent 'Rockstation' update on a rumored GTA 6 price leak revealed community disappointment, with fans now looking to December 12th for potential news."
 tags: ["GTA 6", "Grand Theft Auto VI", "Price Leak", "Rumors", "Rockstation", "Gaming News", "Community Reaction", "December 12th"]
 source: "https://www.reddit.com/r/GTA6/comments/1t92l9c/rockstation_update_on_gta_vi_price_leak/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Price Leak Discussion: Community Disappointed by 'Rockstation' Update, Eyes December 12th

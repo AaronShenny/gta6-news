@@ -4,6 +4,7 @@ date: "2026-05-27T21:34:01"
 description: "A Reddit thread has sparked discussion among GTA 6 fans, asking how they would improve the crew system for the upcoming Grand Theft Auto 6 Online experience."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Online", "Crew System", "Multiplayer", "Community Discussion", "Player Feedback", "Game Improvement", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tpjehl/how_would_you_guys_improve_the_crew_system_in_gta/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Online: Community Discusses Crew System Improvements

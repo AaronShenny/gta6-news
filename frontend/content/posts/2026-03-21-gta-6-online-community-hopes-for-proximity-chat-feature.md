@@ -4,6 +4,7 @@ date: "2026-03-21T08:47:24"
 description: "A Reddit user on r/GTA6 expresses strong enthusiasm for proximity chat in Grand Theft Auto 6 Online, calling it one of the 'best things' for the game."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Online", "Proximity Chat", "Community Wishlist", "Player Interaction", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzmj9u/will_there_be_proximity_chat_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Community Hopes for Proximity Chat Feature

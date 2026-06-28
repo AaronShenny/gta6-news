@@ -4,6 +4,7 @@ date: "2026-06-10T17:02:08"
 description: "A Reddit user expresses their primary anticipation for Grand Theft Auto VI's music, citing GTA V's acclaimed soundtrack as a precedent for high expectations."
 tags: ["GTA 6", "Grand Theft Auto VI", "Soundtrack", "Music", "Fan Excitement", "Reddit", "Gaming Community", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2841c/after_all_the_important_things_to_be_excited_for/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Soundtrack Sparks Early Fan Excitement on Reddit

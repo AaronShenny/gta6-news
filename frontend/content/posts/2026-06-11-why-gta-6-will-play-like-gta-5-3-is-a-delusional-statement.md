@@ -4,6 +4,7 @@ date: "2026-06-11T15:54:49"
 description: "A gaming journalist argues that GTA 6 will be a monumental leap forward, not just a minor upgrade, citing RDR2's quality, increased development resources, and next-gen technology."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Development", "Open World Games", "Red Dead Redemption 2", "Next-Gen Gaming", "Gaming Industry Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1u32ziv/gta_6_will_play_like_gta_53_is_a_delusional/"
+classification: "UNKNOWN"
 ---
 
 # Why 'GTA 6 will play like GTA 5.3' is a Delusional Statement

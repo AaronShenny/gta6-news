@@ -4,6 +4,7 @@ date: "2026-05-14T17:51:00"
 description: "Take-Two Interactive's stock soared over 6% on rumors of GTA 6 preorders starting May 18, signaling strong investor confidence in the game's November 19 console launch."
 tags: ["GTA 6", "Grand Theft Auto 6", "Take-Two Interactive", "Rockstar Games", "Stock Market", "Preorders", "Video Game Industry", "PS5", "Xbox Series X|S", "Game Launch", "Market News", "AI in Gaming", "Best Buy Leak"]
 source: "https://www.gamespot.com/articles/gta-6-owners-stock-price-surges-after-news-that-preorders-may-start-soon/1100-6539957/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Preorder Buzz Drives Take-Two Stock to Significant Gains

@@ -4,6 +4,7 @@ date: "2026-05-28T07:08:58"
 description: "A dedicated GTA fan sparks debate on the possibility of the iconic Deluxo car, a series veteran since Vice City, returning to Leonida in Grand Theft Auto 6, despite community apprehension towards futuristic vehicles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Deluxo", "Rockstar Games", "Fan Speculation", "Vehicles", "Leonida", "Vice City", "Futuristic Cars"]
 source: "https://www.reddit.com/r/GTA6/comments/1tpw1ww/the_ogs_return_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculation Ignites Over Potential Deluxo Return

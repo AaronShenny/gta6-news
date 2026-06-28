@@ -4,6 +4,7 @@ date: "2026-04-07T16:30:47"
 description: "A dedicated fan shares their excitement for GTA 6's protagonists, particularly Jason, and sets high expectations for character depth and storytelling, referencing Red Dead Redemption 2's acclaimed narrative."
 tags: ["GTA 6", "Grand Theft Auto 6", "Lucia", "Jason", "Protagonists", "Characters", "RDR2", "Red Dead Redemption 2", "Character Development", "Gaming Hype", "Fan Expectations", "Rockstar Games", "PlayStation 5"]
 source: "https://www.reddit.com/r/GTA6/comments/1sf10jo/which_character_are_you_more_excited_about/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Fan Expresses High Hopes for Protagonist Depth, Drawing Parallels to RDR2

@@ -4,6 +4,7 @@ date: "2026-02-23T20:58:22"
 description: "While the article title promises a look at the core leadership behind Grand Theft Auto 6, the provided content offers no specific details on these key individuals or their roles."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Development", "Leadership", "Gaming News", "Speculation", "Industry Rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1rctri2/the_two_men_leading_gta_6/"
+classification: "RUMOR"
 ---
 
 # Unpacking 'The Two Men Leading GTA 6': A Title Without Content

@@ -4,6 +4,7 @@ date: "2026-06-04T14:53:41"
 description: "Explore the intense speculation surrounding Grand Theft Auto VI's potential Game of the Year win, examining Rockstar's legacy, community expectations, and the competitive landscape."
 tags: ["Grand Theft Auto VI", "GTA 6", "GOTY", "Game of the Year", "Rockstar Games", "Video Games", "Gaming Industry", "Speculation", "Anticipation", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1twq0ct/do_you_think_grand_theft_auto_vi_will_win_goty/"
+classification: "RUMOR"
 ---
 
 # The Inevitable Game of the Year Debate: Can Grand Theft Auto VI Secure the Crown?

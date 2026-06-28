@@ -4,6 +4,7 @@ date: "2026-04-06T20:42:15"
 description: "A dedicated GTA fan expresses a strong preference for GTA 4's loading screen aesthetic and story expansions, hoping GTA 6 will move away from GTA 5's longer, 'mundane' style."
 tags: ["GTA 6", "Loading Screens", "GTA 4", "GTA 5", "Fan Opinion", "Wishlist", "Rockstar Games", "Story Expansions"]
 source: "https://www.reddit.com/r/GTA6/comments/1seaxvw/loading_screen_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Loading Screens: A Fan's Call for a Return to GTA 4's Style and Expansions

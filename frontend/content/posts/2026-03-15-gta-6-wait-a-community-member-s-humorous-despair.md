@@ -4,6 +4,7 @@ date: "2026-03-15T09:58:54"
 description: "A Reddit user humorously expresses their exhaustion and acceptance of the long wait for Grand Theft Auto VI, sparking relatable sentiment within the gaming community."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Gaming Community", "Anticipation", "Fan Frustration", "Release Date", "Humor"]
 source: "https://www.reddit.com/r/GTA6/comments/1rua67m/im_probs_going_to_die_before_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Wait: A Community Member's Humorous Despair

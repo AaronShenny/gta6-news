@@ -4,6 +4,7 @@ date: "2026-05-23T06:14:16"
 description: "A Reddit post title suggests GTA VI might launch on International Men's Day, but the 'article' provides no content or details to support the claim."
 tags: ["GTA VI", "Grand Theft Auto 6", "Launch Date", "Speculation", "Reddit", "International Men's Day", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tl893l/gta_vi_launching_on_international_mens_day/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Speculates GTA VI Launch on International Men's Day

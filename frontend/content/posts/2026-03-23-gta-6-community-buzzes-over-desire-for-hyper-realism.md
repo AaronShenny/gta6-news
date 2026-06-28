@@ -4,6 +4,7 @@ date: "2026-03-23T19:18:51"
 description: "A Reddit post highlights a segment of the GTA 6 fanbase pushing for unprecedented realism in Rockstar's anticipated title, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Realism", "Fan Expectations", "Gaming Community", "Rockstar Games", "Open World", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1ql7c/some_peoplei_want_gta_6_to_be_super_realistic/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Buzzes Over Desire for Hyper-Realism

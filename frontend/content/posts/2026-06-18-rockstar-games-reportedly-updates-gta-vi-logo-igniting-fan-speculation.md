@@ -4,6 +4,7 @@ date: "2026-06-18T16:00:01"
 description: "A Reddit user on r/GTA6 claims Rockstar Games has updated the Grand Theft Auto VI logo, sparking widespread discussion and anticipation among fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Logo Update", "Gaming News", "Fan Speculation", "Reddit", "Video Game Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9a86u/rockstar_updated_the_gta_vi_logo/"
+classification: "RUMOR"
 ---
 
 # Rockstar Games Reportedly Updates GTA VI Logo, Igniting Fan Speculation

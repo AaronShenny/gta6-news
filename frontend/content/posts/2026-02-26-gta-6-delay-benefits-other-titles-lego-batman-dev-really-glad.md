@@ -4,6 +4,7 @@ date: "2026-02-26T18:36:00"
 description: "The delay of Grand Theft Auto 6 to November 2026 has provided much-needed breathing room for other major game releases, including TT Games' upcoming Lego Batman: Legacy of the Dark Knight."
 tags: ["GTA 6", "Grand Theft Auto 6", "Lego Batman Legacy of the Dark Knight", "TT Games", "Rockstar Games", "Game Delays", "Release Dates", "Gaming Industry", "PS5", "Xbox Series X|S", "Jonathan Smith"]
 source: "https://www.gamespot.com/articles/gta-6-delay-made-lego-batman-dev-feel-really-glad/1100-6538455/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Delay Benefits Other Titles, Lego Batman Dev "Really Glad"

@@ -4,6 +4,7 @@ date: "2026-06-19T11:11:15"
 description: "A popular fan theory, fueled by the latest GTA 6 cover art, suggests that players might encounter NPCs with pet alligators, echoing GTA V's companion mechanic."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Leonida", "Florida", "Alligator", "Pet Alligator", "Fan Theory", "Cover Art", "NPC", "Companion Mechanic", "GTA V", "Chop"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9z3z9/calling_it_now_someone_is_definitely_having_a_pet/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Speculation: Could Pet Alligators Be the Next NPC Companions in Leonida?

@@ -4,6 +4,7 @@ date: "2026-06-04T02:23:34"
 description: "A Reddit user sparks discussion by questioning the possibility of streaming GTA VI on PC via Xbox Cloud Gaming, leveraging an Xbox Store purchase and Game Pass Ultimate."
 tags: ["GTA 6", "Xbox Cloud Gaming", "Game Pass Ultimate", "PC Gaming", "Cloud Streaming", "Xbox Series S", "Gaming Industry", "Reddit Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1twafk9/gta_vi_xbox_cloud_streaming/"
+classification: "CONFIRMED"
 ---
 
 # PC Gamer Explores Xbox Cloud Streaming for GTA VI Access

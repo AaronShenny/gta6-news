@@ -4,6 +4,7 @@ date: "2026-05-28T16:00:07"
 description: "A Reddit user has ignited discussion by pointing out striking visual similarities between a scene from '22 Jump Street' and the highly anticipated GTA 6 Trailer 1, specifically noting 'Vice City themed' lighting."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "22 Jump Street", "Fan Theory", "Trailer 1", "Reddit", "Gaming News", "Easter Egg"]
 source: "https://www.reddit.com/r/GTA6/comments/1tq7t7a/i_was_watching_22_jump_street_and_i_noticed_this/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory: '22 Jump Street' Scene Sparks Vice City Connections to Trailer 1

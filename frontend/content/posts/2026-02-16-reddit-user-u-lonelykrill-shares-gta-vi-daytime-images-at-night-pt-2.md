@@ -4,6 +4,7 @@ date: "2026-02-16T08:05:56"
 description: "A Reddit post by /u/LonelyKrill titled 'GTA VI Daytime Images at Night (Pt 2)' has been highlighted, indicating new community content or analysis related to Grand Theft Auto VI's visuals."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Gaming News", "Community Content", "Daytime Images", "Visuals"]
 source: "https://www.reddit.com/r/GTA6/comments/1r63u04/gta_vi_daytime_images_at_night_pt_2/"
+classification: "CONFIRMED"
 ---
 
 # Reddit User /u/LonelyKrill Shares 'GTA VI Daytime Images at Night (Pt 2)'

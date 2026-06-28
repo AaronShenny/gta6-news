@@ -4,6 +4,7 @@ date: "2026-03-14T15:29:00"
 description: "Richie Branson's FanArcade is transforming fan engagement by creating authentic, browser-based games for brands and celebrities, drawing lessons from Fortnite and Harmonix, and exploring social impact gaming."
 tags: ["FanArcade", "Richie Branson", "Zoo Fighter", "Gaming", "Pop Culture", "Browser Games", "Game Development", "Fan Engagement", "Animal Welfare", "Fortnite", "Harmonix", "Mental Health Gaming", "Kendrick Lamar", "Not Like Us"]
 source: "https://www.gamespot.com/articles/todays-games-can-feel-soulless-but-can-punch-the-monkey-change-that/1100-6538667/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # FanArcade Aims to Redefine Gaming Engagement with Culture-Driven, Browser-Based Experiences

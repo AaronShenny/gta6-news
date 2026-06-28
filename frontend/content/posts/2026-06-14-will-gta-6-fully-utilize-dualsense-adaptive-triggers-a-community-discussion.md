@@ -4,6 +4,7 @@ date: "2026-06-14T09:33:29"
 description: "A community discussion ponders whether Grand Theft Auto 6 will finally deliver robust support for the PlayStation DualSense's adaptive triggers, a feature often underutilized in non-exclusive titles."
 tags: ["GTA 6", "Grand Theft Auto 6", "DualSense", "Adaptive Triggers", "PlayStation 5", "PS5", "Controller Features", "Gaming Discussion", "Community Feedback", "Haptic Feedback", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5goh1/will_the_adaptive_triggers_of_controllers_be/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Fully Utilize DualSense Adaptive Triggers? A Community Discussion

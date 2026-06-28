@@ -4,6 +4,7 @@ date: "2026-03-24T04:19:40"
 description: "A Reddit user sparks debate comparing the detailed worlds of Hogwarts Legacy, GTA V, and RDR2, questioning if GTA 6 will set a new benchmark for environmental density."
 tags: ["GTA 6", "Grand Theft Auto VI", "Hogwarts Legacy", "Open World", "Game Density", "Rockstar Games", "Gaming Discussion", "Environmental Detail", "RDR2", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1s23wav/how_dense_will_the_gta_6_be/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's World Density: Can it Outshine Hogwarts Legacy?

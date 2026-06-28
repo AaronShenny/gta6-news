@@ -4,6 +4,7 @@ date: "2026-03-07T09:23:44"
 description: "A Reddit post on r/GTA6 sparks community discussion and speculation regarding the potential size of Vice City in GTA 6 compared to GTA 4's Liberty City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Liberty City", "Map Size", "Gaming Speculation", "Reddit Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rn5nqt/map_comparisons/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map Size Speculation: Vice City vs. Liberty City

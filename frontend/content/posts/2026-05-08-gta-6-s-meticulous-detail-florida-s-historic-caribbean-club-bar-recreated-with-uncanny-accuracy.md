@@ -4,6 +4,7 @@ date: "2026-05-08T04:47:42"
 description: "A Reddit user highlights GTA 6's incredible attention to detail, showcasing a pixel-perfect recreation of Florida's historic Caribbean Club Bar within the upcoming game."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Caribbean Club Bar", "Florida", "Game Detail", "Realism", "Location Recreation", "Easter Egg"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6xtf3/caribbean_club_bar_comparison_irl_gta_6_its/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Meticulous Detail: Florida's Historic Caribbean Club Bar Recreated with Uncanny Accuracy

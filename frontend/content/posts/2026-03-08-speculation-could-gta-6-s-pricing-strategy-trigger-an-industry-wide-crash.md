@@ -4,6 +4,7 @@ date: "2026-03-08T00:20:42"
 description: "A Reddit user speculates that GTA 6's potential high pricing could set a dangerous precedent for other AAA games, leading to a market crash and widespread studio closures."
 tags: ["GTA 6", "Video Game Industry", "AAA Games", "Game Pricing", "Market Crash", "Industry Predictions", "Economic Impact", "Gaming Economy", "Studio Closures", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnq043/gta_vi_going_insane/"
+classification: "RUMOR"
 ---
 
 # Speculation: Could GTA 6's Pricing Strategy Trigger an Industry-Wide Crash?

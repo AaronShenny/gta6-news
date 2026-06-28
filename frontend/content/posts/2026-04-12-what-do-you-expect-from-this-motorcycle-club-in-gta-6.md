@@ -4,6 +4,7 @@ date: "2026-04-12T15:06:41"
 description: "A Reddit discussion prompts GTA 6 fans to share their expectations and hopes for potential in-game motorcycle clubs, sparking community speculation."
 tags: ["GTA 6", "Motorcycle Club", "Community Discussion", "Player Expectations", "Reddit", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sjgznp/what_do_you_expect_from_this_motorcycle_club_in/"
+classification: "RUMOR"
 ---
 
 # What do you expect from this motorcycle club in GTA 6?

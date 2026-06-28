@@ -4,6 +4,7 @@ date: "2026-03-24T00:13:40"
 description: "A dedicated fan speculates on GTA VI's origins, proposing a detailed timeline from conceptualization in 2016 to a potential 2026 release, based on Rockstar's historical development patterns and a unique 'plus three years' theory."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Development Timeline", "Fan Theory", "Release Date Speculation", "Vice City", "Project Americas", "Gaming News", "Leaks"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1ygfe/i_think_this_is_when_gta_vi_started_being_made/"
+classification: "RUMOR"
 ---
 
 # Decoding Grand Theft Auto VI's Development Timeline: A Fan's Speculative Journey

@@ -4,6 +4,7 @@ date: "2026-06-22T01:49:36"
 description: "A Reddit post debunks claims that the GTA 6 cover art is AI-generated due to a character's 'six fingers,' drawing parallels to a similar detail in GTA 4's 2008 cover."
 tags: ["GTA 6", "Grand Theft Auto VI", "Cover Art", "AI Debate", "Rockstar Games", "GTA 4", "Art Design", "Gaming News", "Debunked"]
 source: "https://www.reddit.com/r/GTA6/comments/1uc7h3e/putting_this_debate_to_rest/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cover Art: The Six-Finger Debate Debunked – Is it an AI Glitch or a Rockstar Tradition?

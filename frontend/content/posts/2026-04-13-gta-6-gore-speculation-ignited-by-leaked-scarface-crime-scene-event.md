@@ -4,6 +4,7 @@ date: "2026-04-13T00:40:28"
 description: "A Reddit discussion speculates on GTA 6's potential gore level, referencing a leaked 'Scarface crime scene' world event and its implications for chainsaw mechanics and graphical fidelity compared to RDR2."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gore", "Leaks", "Scarface Crime Scene", "Chainsaw", "RDR2 Gore", "GTA Vice City", "World Events", "Speculation", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sjvqov/gta_6_gore/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Gore Speculation Ignited by Leaked 'Scarface Crime Scene' Event

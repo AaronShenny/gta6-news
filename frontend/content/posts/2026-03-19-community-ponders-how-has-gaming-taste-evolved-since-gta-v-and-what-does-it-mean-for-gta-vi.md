@@ -4,6 +4,7 @@ date: "2026-03-19T18:31:52"
 description: "A Reddit discussion prompts players to consider how their evolving gaming tastes since Grand Theft Auto V's release might impact their anticipation and appreciation for the upcoming Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA V", "Gaming Tastes", "Player Preferences", "Community Discussion", "Rockstar Games", "Gaming Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1ry8jhk/has_your_taste_in_games_changed_since_gta_v/"
+classification: "UNKNOWN"
 ---
 
 # Community Ponders: How Has Gaming Taste Evolved Since GTA V, And What Does It Mean For GTA VI?

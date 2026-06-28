@@ -4,6 +4,7 @@ date: "2026-02-26T18:11:10"
 description: "Drawing parallels to Guarma in RDR2 and North Yankton in GTA V, fans are debating if Rockstar will include single-player locations outside of Leonida in Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Leonida", "Map", "Open World", "Guarma", "North Yankton", "RDR2", "GTA V", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfho2o/guarma_in_rdr_2_north_yankton_in_gta_v_i_wonder/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Expand Beyond Leonida? Fans Speculate on Off-Map Locations

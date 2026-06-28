@@ -4,6 +4,7 @@ date: "2026-05-08T13:00:10"
 description: "The popular Reddit series 'Frame Friday,' known for its deep dives into GTA 6 trailers and official content, marks its 100th installment, speculating on an imminent Trailer 3 and outlining plans to continue analysis post-game release."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer 3", "Community", "Frame Friday", "Reddit", "Game Analysis", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t778ki/frame_friday_100_thank_you_oh_and_lets_discuss/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Dedicated 'Frame Friday' Series Hits 100th Post, Teases Imminent Trailer 3 and Post-Launch Future

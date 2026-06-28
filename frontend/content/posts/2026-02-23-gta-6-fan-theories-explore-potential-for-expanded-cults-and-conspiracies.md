@@ -4,6 +4,7 @@ date: "2026-02-23T22:49:14"
 description: "Dive into fan speculation regarding the return and expansion of cults like the Epsilon Program, alongside new conspiracy theories, in the highly anticipated Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Cults", "Conspiracy Theories", "Epsilon Program", "Altruists", "Fan Theories", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcwp03/what_sort_of_cultsconspiracy_theories_do_you/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theories Explore Potential for Expanded Cults and Conspiracies

@@ -4,6 +4,7 @@ date: "2026-03-27T15:18:06"
 description: "A Reddit user speculates that Rockstar Games could use reverse psychology on April Fool's Day, releasing a genuine GTA 6 trailer and kicking off pre-marketing."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "April Fool's", "Fan Theory", "Gaming Speculation", "Marketing Strategy", "Trailer Release", "Pre-order"]
 source: "https://www.reddit.com/r/GTA6/comments/1s571xi/the_april_fools_theory/"
+classification: "RUMOR"
 ---
 
 # The April Fool's Theory: Could Rockstar Drop a REAL GTA 6 Trailer?

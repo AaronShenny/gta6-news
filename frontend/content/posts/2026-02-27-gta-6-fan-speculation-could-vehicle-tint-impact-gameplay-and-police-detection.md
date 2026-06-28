@@ -4,6 +4,7 @@ date: "2026-02-27T01:15:38"
 description: "A Reddit user speculates that vehicle tint in Grand Theft Auto 6 could be more than cosmetic, potentially affecting police and NPC detection during crimes."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vehicle Customization", "Gameplay Mechanics", "Fan Speculation", "Reddit", "Police Detection", "Wanted Level", "Crime"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfsp3d/vehicle_tint/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Speculation: Could Vehicle Tint Impact Gameplay and Police Detection?

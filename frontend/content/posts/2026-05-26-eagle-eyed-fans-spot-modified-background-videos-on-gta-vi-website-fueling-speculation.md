@@ -4,6 +4,7 @@ date: "2026-05-26T01:31:40"
 description: "Community sleuths on Reddit have noticed intriguing modifications to the background videos on the official Grand Theft Auto VI website, sparking discussion and theories among fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Website Update", "Fan Discovery", "Easter Egg", "Gaming News", "Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnsa8h/gta_vi_website_uses_modified_background_videos/"
+classification: "RUMOR"
 ---
 
 # Eagle-Eyed Fans Spot Modified Background Videos on GTA VI Website, Fueling Speculation

@@ -4,6 +4,7 @@ date: "2026-04-03T13:06:35"
 description: "A Reddit discussion explores the potential for a journal mechanic in GTA 6, inspired by Red Dead Redemption 2, and whether it would fit the modern game world."
 tags: ["GTA 6", "Red Dead Redemption 2", "Gameplay Mechanic", "Journal System", "Player Experience", "iFruit Phone", "Rockstar Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbd3tk/does_it_make_sense_for_the_protagonist_to_have_a/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Could a Journal Mechanic Like RDR2's Arthur's Make Sense?

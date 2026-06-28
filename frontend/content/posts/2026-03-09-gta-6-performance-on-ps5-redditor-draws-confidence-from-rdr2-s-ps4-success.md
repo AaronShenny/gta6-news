@@ -4,6 +4,7 @@ date: "2026-03-09T06:27:26"
 description: "A Reddit user reassesses GTA 6's potential performance on the PlayStation 5, citing Red Dead Redemption 2's impressive optimization on the PS4 as a positive indicator, while expressing lingering concerns for Xbox Series S."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PlayStation 5", "Xbox Series S", "Red Dead Redemption 2", "RDR2", "Rockstar Games", "Performance", "Optimization", "Gaming News", "Console Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1rosohy/i_used_to_think_gta_6_would_not_run_well_on_ps5/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Performance on PS5: Redditor Draws Confidence from RDR2's PS4 Success

@@ -4,6 +4,7 @@ date: "2026-04-06T23:12:27"
 description: "A dedicated GTA 6 community member has created 'WYRR-FM: The Wave of Vice City,' a fan-made Spotify radio station featuring late 60s to early 80s rock and yacht rock, inviting community contributions."
 tags: ["GTA 6", "GTA Vice City", "Fan Creation", "Radio Station", "Yacht Rock", "Classic Rock", "Spotify Playlist", "Community Project", "Music"]
 source: "https://www.reddit.com/r/GTA6/comments/1seeu5y/i_made_a_late_60s_early_80s_era_rock_and_yacht/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Crafts Nostalgic 'WYRR-FM' Radio Station Inspired by Vice City

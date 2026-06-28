@@ -4,6 +4,7 @@ date: "2026-03-17T06:52:15"
 description: "As Grand Theft Auto 6 approaches, speculation turns to potential sweepstakes. We revisit the incredible GTA V promotion where a grandmother unknowingly won a custom Dodge Viper 'Bravado Banshee'."
 tags: ["GTA 6", "Grand Theft Auto V", "Sweepstakes", "Bravado Banshee", "Dodge Viper", "West Coast Customs", "Gaming News", "Rockstar Games", "Promotions", "Gaming History"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvzbap/i_wonder_what_gta_6_sweepstake_will_be/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Sweepstakes Speculation Heats Up, Recalling GTA V's Legendary Bravado Banshee Win

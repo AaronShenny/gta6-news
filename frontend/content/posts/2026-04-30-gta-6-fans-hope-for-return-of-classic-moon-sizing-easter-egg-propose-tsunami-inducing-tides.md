@@ -4,6 +4,7 @@ date: "2026-04-30T15:47:54"
 description: "A Reddit user suggests bringing back the moon-enlarging easter egg for GTA 6, proposing it could influence ocean tides and cause tsunamis."
 tags: ["GTA 6", "Grand Theft Auto VI", "Easter Egg", "Moon Mechanic", "Fan Suggestion", "Rockstar Games", "Gaming News", "Tsunami", "Tides", "Classic GTA"]
 source: "https://www.reddit.com/r/GTA6/comments/1t005e7/gta_enlarging_the_moon/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for Return of Classic Moon-Sizing Easter Egg, Propose Tsunami-Inducing Tides

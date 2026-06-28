@@ -4,6 +4,7 @@ date: "2026-03-07T07:00:20"
 description: "A Reddit user expresses a strong desire for dynamic, louder in-car radio volume control in GTA 6, citing GTA 5's limitations and real-world Miami car audio culture."
 tags: ["GTA 6", "Grand Theft Auto", "Radio Volume", "In-Game Features", "Community Request", "Gaming Experience", "Miami", "Rockstar Games", "GTA Online", "Quality of Life"]
 source: "https://www.reddit.com/r/GTA6/comments/1rn3868/radio_volume/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Hopes for Enhanced In-Car Radio Volume and Dynamic Controls

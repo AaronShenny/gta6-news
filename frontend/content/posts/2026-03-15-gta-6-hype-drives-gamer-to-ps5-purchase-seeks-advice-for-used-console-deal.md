@@ -4,6 +4,7 @@ date: "2026-03-15T18:10:12"
 description: "A dedicated GTA 6 fan is considering purchasing a used PlayStation 5 exclusively for the game's launch, planning to sell it once the PC version is released. They're seeking community advice on inspecting a $250 Facebook Marketplace deal."
 tags: ["GTA 6", "PlayStation 5", "PS5", "Used Console", "Gaming Hardware", "Facebook Marketplace", "Gaming Advice", "Console Gaming", "PC Gaming", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1rul5vn/trying_to_get_ps5_for_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Drives Gamer to PS5 Purchase, Seeks Advice for Used Console Deal

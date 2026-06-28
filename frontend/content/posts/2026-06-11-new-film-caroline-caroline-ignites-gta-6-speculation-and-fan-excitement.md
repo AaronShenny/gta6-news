@@ -4,6 +4,7 @@ date: "2026-06-11T17:00:30"
 description: "A Reddit user shares how the film 'Caroline Caroline,' featuring a con artist couple in the South, rekindled their anticipation for Grand Theft Auto 6, drawing parallels to rumored game themes."
 tags: ["GTA 6", "Grand Theft Auto VI", "Caroline Caroline", "Movie", "Reddit", "Fan Excitement", "Rumors", "Speculation", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u34s5s/go_see_caroline_caroline/"
+classification: "RUMOR"
 ---
 
 # New Film 'Caroline Caroline' Ignites GTA 6 Speculation and Fan Excitement

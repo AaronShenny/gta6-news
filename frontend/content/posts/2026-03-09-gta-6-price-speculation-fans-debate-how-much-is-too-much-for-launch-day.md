@@ -4,6 +4,7 @@ date: "2026-03-09T11:19:30"
 description: "A Reddit thread sparks discussion on the hypothetical maximum price fans would pay for GTA 6 at launch, with one user suggesting a $300 limit."
 tags: ["GTA 6", "Grand Theft Auto 6", "game pricing", "consumer spending", "gaming community", "Reddit", "Rockstar Games", "launch price", "video game speculation", "fan debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1roxhqp/how_much_would_gta_have_to_cost_for_you_to_not/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Price Speculation: Fans Debate How Much is Too Much for Launch Day

@@ -4,6 +4,7 @@ date: "2026-04-05T17:18:53"
 description: "A recent Reddit post on the r/GTA6 subreddit sparks discussion, with one user suggesting Cyberpunk 2077 or Mafia as potential contenders against Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Competition", "Cyberpunk 2077", "Mafia Series", "Reddit Discussion", "Gaming Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1sd9b4k/what_game_can_compete_with_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Ponders: What Games Can Truly Compete with GTA 6?

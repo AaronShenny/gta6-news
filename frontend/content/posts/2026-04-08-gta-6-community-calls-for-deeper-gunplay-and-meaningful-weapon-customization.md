@@ -4,6 +4,7 @@ date: "2026-04-08T15:27:29"
 description: "A Reddit user outlines their hopes for Grand Theft Auto VI, advocating for a significant overhaul of gunplay and weapon customization to move beyond GTA V's perceived shallow systems."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gunplay", "Weapon Customization", "Rockstar Games", "Community Feedback", "Game Mechanics", "Progression System", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfw3xv/gunplay_and_weapon_customization/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Calls for Deeper Gunplay and Meaningful Weapon Customization

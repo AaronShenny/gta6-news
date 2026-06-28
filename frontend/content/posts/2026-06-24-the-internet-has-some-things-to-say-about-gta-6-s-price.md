@@ -4,6 +4,7 @@ date: "2026-06-24T15:38:26"
 description: "Rockstar Games has confirmed the Grand Theft Auto 6 standard edition price at $80 and the Ultimate Edition at $100, sparking significant online debate regarding rising game costs and the value of digital-only physical copies."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Game Price", "Gaming Industry", "Video Game News", "Preorders", "Ultimate Edition", "Digital Download"]
 source: "https://www.gamespot.com/articles/the-internet-has-some-things-to-say-about-gta-6s-price/"
+classification: "LEAK"
 ---
 
 # The Internet Has Some Things To Say About GTA 6’s Price

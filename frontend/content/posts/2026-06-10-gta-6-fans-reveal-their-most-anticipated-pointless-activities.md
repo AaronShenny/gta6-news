@@ -4,6 +4,7 @@ date: "2026-06-10T12:27:54"
 description: "Discover what seemingly mundane yet immersive activities the GTA 6 community is most excited to pursue in Rockstar's upcoming open-world title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Open World", "Community Discussion", "Fan Anticipation", "Sandbox Gaming", "Gaming Culture", "Immersion", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1u20s3f/whats_the_most_pointless_thing_youre_excited_to/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Reveal Their Most Anticipated 'Pointless' Activities

@@ -4,6 +4,7 @@ date: "2026-06-08T20:02:37"
 description: "Discover how the anticipated launch of Grand Theft Auto 6 is expected to dominate media coverage and influence other game developers to avoid releasing their titles, potentially impacting PC game sales despite an initial console-only launch."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Industry", "Game Development", "Media Coverage", "Game Sales", "PC Gaming", "Release Dates", "Competition"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0j2tm/when_companies_try_hard_to_not_compete_with/"
+classification: "CONFIRMED"
 ---
 
 # The 'GTA 6 Effect': Why Developers Are Steering Clear of Its Release Window

@@ -4,6 +4,7 @@ date: "2026-06-17T14:06:55"
 description: "Rockstar Games CEO Strauss Zelnick hints at unprecedented features for GTA VI, prompting fans to speculate on what groundbreaking innovations the highly anticipated title might deliver and why development is taking so long."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Strauss Zelnick", "Game Development", "Gaming News", "Fan Speculation", "Open World Games", "Next-Gen Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8b73o/what_do_you_think_strauss_means_when_he_says/"
+classification: "RUMOR"
 ---
 
 # Strauss Zelnick Teases 'Never Been Done Before' Features for GTA VI, Igniting Fan Speculation

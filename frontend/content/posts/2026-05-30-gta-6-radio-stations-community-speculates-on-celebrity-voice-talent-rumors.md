@@ -4,6 +4,7 @@ date: "2026-05-30T12:28:42"
 description: "A Reddit post has ignited discussion among GTA 6 fans, suggesting that celebrities have already recorded full radio stations for the upcoming title, prompting speculation on potential star-studded lineups."
 tags: ["GTA 6", "Grand Theft Auto 6", "Radio Stations", "Celebrity Voice Actors", "Gaming Rumors", "Community Discussion", "Rockstar Games", "Game Development", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1trymz8/there_are_some_celebs_out_there_that_have/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Radio Stations: Community Speculates on Celebrity Voice Talent Rumors

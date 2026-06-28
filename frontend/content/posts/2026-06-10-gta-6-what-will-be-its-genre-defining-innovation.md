@@ -4,6 +4,7 @@ date: "2026-06-10T02:39:11"
 description: "A look back at how Grand Theft Auto titles have consistently redefined gaming genres, and speculation on what groundbreaking feature GTA 6 will introduce."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Innovation", "Genre-Defining Features", "Open World", "Live Service Games", "Rockstar Games", "Gaming History", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1po5g/what_do_you_think_will_be_the_genredefining/"
+classification: "RUMOR"
 ---
 
 # GTA 6: What Will Be Its Genre-Defining Innovation?

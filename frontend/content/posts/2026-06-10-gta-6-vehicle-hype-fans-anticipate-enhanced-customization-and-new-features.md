@@ -4,6 +4,7 @@ date: "2026-06-10T11:09:57"
 description: "A dedicated GTA 6 fan expresses immense excitement for the game's vehicles, hoping for improved quality, sound, advanced customization like superchargers, and even an AI chauffeur service."
 tags: ["GTA 6", "Vehicles", "Customization", "PC Release", "Supercharger", "AI Chauffeur", "Fan Expectations", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1z3gx/cannot_wait_to_explore_drive_and_customize_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Vehicle Hype: Fans Anticipate Enhanced Customization and New Features

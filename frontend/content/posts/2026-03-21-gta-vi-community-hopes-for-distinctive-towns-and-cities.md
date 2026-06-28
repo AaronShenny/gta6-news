@@ -4,6 +4,7 @@ date: "2026-03-21T20:32:11"
 description: "A GTA VI community discussion explores the desire for unique towns and cities, drawing inspiration from San Andreas' diverse regions and real-world Florida influences."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Open World", "Game Design", "Community Discussion", "Vice City", "San Andreas", "Florida", "Game World"]
 source: "https://www.reddit.com/r/GTA6/comments/1s01ydr/what_do_you_think_will_make_the_towns_stand_out/"
+classification: "RUMOR"
 ---
 
 # GTA VI Community Hopes for Distinctive Towns and Cities

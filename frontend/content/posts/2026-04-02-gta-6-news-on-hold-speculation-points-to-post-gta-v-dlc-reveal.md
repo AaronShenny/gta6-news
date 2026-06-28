@@ -4,6 +4,7 @@ date: "2026-04-02T15:56:15"
 description: "A Reddit theory suggests Rockstar Games will delay major GTA 6 announcements, including pre-orders and console bundles, until after the upcoming GTA V DLC, unless in-game teasers emerge."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "GTA V", "DLC", "Gaming News", "Speculation", "Release Date", "Pre-orders", "PS5"]
 source: "https://www.reddit.com/r/GTA6/comments/1salb4z/no_gta_6_news_until_after_dlc/"
+classification: "RUMOR"
 ---
 
 # GTA 6 News on Hold? Speculation Points to Post-GTA V DLC Reveal

@@ -4,6 +4,7 @@ date: "2026-06-08T01:05:15"
 description: "A Reddit user speculates that Grand Theft Auto 6 might be the first in the series to ditch traditional loading screens, thanks to the power of modern SSDs."
 tags: ["GTA 6", "Grand Theft Auto", "Loading Screens", "SSDs", "Next-Gen Gaming", "Rockstar Games", "PlayStation 5", "Xbox Series X", "Open World Games", "Gaming Tech"]
 source: "https://www.reddit.com/r/GTA6/comments/1tztjcd/random_thought_gta_6_might_be_the_first_game_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Next-Gen SSDs Spell the End for Iconic Loading Screens?

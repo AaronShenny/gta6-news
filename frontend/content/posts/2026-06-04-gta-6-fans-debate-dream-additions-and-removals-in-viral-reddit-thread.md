@@ -4,6 +4,7 @@ date: "2026-06-04T02:06:58"
 description: "A popular Reddit post on r/GTA6 challenges the community to pick one feature to add and one to remove from the highly anticipated Grand Theft Auto 6, sparking lively discussion."
 tags: ["GTA 6", "Grand Theft Auto", "Community Feedback", "Reddit", "Game Design", "Fan Input", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1twa212/you_can_add_one_thing_to_gta_6_and_remove_one/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Debate Dream Additions and Removals in Viral Reddit Thread

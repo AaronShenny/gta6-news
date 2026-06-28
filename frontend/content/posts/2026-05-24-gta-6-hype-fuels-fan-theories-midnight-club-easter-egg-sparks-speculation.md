@@ -4,6 +4,7 @@ date: "2026-05-24T12:00:17"
 description: "A Grand Theft Auto VI fan playing Midnight Club: Los Angeles spots a 'Best Buy' sign, playfully igniting 'conspiracy mode' and showcasing the pervasive hype surrounding Rockstar's upcoming title."
 tags: ["GTA 6", "Rockstar Games", "Midnight Club Los Angeles", "Fan Theories", "Gaming Hype", "Easter Eggs", "Conspiracy", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1tma8ti/this_cant_be_a_coincidence/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Fuels Fan Theories: Midnight Club Easter Egg Sparks Speculation

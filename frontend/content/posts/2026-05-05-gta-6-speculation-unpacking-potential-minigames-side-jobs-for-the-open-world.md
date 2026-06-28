@@ -4,6 +4,7 @@ date: "2026-05-05T12:31:49"
 description: "A deep dive into community speculation regarding a vast array of minigames and legal/illegal side jobs that could feature in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Minigames", "Side Jobs", "Open World", "Speculation", "Community Discussion", "Gameplay Features", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4e2rn/possible_minigames_jobs_for_gta_6_open_world/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Speculation: Unpacking Potential Minigames & Side Jobs for the Open World

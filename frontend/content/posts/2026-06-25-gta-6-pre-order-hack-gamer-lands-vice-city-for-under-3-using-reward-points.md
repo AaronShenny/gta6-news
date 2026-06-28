@@ -4,6 +4,7 @@ date: "2026-06-25T13:30:50"
 description: "Discover how one savvy gamer pre-ordered Grand Theft Auto VI for just over $2 by leveraging Best Buy rewards and coupons after a PS5 Pro upgrade, sparking a hunt for similar deals."
 tags: ["GTA 6", "Grand Theft Auto VI", "Pre-order", "Gaming Deals", "Best Buy", "Reward Points", "PS5 Pro", "Gaming Savings", "Rockstar Games", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufa3ve/got_my_preorder_for_2/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Order Hack: Gamer Lands Vice City for Under $3 Using Reward Points

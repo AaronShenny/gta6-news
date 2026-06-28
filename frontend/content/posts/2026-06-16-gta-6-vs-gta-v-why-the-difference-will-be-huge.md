@@ -4,6 +4,7 @@ date: "2026-06-16T11:35:14"
 description: "A deep dive into the anticipated scale of GTA 6, comparing its rumored development resources and budget to GTA V, suggesting a monumental leap in the upcoming title."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA V", "Rockstar Games", "Game Development", "Vice City", "Game Budget", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7azek/the_difference_compared_to_gta_v_is_going_to_be/"
+classification: "RUMOR"
 ---
 
 # GTA 6 vs. GTA V: Why the Difference Will Be 'Huge'

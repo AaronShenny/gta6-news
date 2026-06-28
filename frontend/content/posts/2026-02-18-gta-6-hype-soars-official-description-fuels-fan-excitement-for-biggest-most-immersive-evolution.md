@@ -4,6 +4,7 @@ date: "2026-02-18T22:07:16"
 description: "A Reddit user expresses intense anticipation for GTA 6, highlighting the official description promising 'the biggest, most immersive evolution' of the series and speculating on a November launch."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Hype", "Official Description", "Gaming News", "Community Reaction", "November Release Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8gxwx/gta_6s_official_description_always_gets_me/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Soars: Official Description Fuels Fan Excitement for 'Biggest, Most Immersive Evolution'

@@ -4,6 +4,7 @@ date: "2026-06-09T21:06:21"
 description: "A popular Reddit thread on r/GTA6 invites players to share their most unconventional and 'out-of-pocket' intentions for Grand Theft Auto 6, sparking creative discussions."
 tags: ["GTA 6", "Grand Theft Auto", "Reddit", "Gaming Community", "Player Plans", "Out-of-Pocket", "Vice City", "Fan Discussion", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1hv6m/whats_the_most_outofpocket_thing_youre_planning/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Reveal Wildest 'Out-of-Pocket' Plans in Viral Reddit Thread

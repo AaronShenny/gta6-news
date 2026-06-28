@@ -4,6 +4,7 @@ date: "2026-02-19T19:55:08"
 description: "A Reddit discussion among UK players of Grand Theft Auto 6 speculates on the likelihood of age verification for GTA 6 Online, considering the impact of the Online Safety Act."
 tags: ["GTA 6", "Grand Theft Auto 6", "Age Verification", "UK Gaming", "Online Safety Act", "Rockstar Games", "Online Gaming", "Gaming Laws", "Player Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r99hx3/gta_6_uk_players/"
+classification: "RUMOR"
 ---
 
 # GTA 6: UK Players Debate Potential Online Age Verification Mandates

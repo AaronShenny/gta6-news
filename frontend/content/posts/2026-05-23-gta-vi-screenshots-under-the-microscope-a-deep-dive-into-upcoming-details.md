@@ -4,6 +4,7 @@ date: "2026-05-23T14:32:40"
 description: "As GTA 6's marketing phase approaches, a new analysis meticulously dissects leaked screenshots, revealing impressive graphical fidelity and subtle details from character attire to environmental realism."
 tags: ["GTA 6", "Grand Theft Auto VI", "Screenshots", "Graphics", "Details", "Vice City", "Rockstar Games", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tli3m6/gta_vi_zoomed_in/"
+classification: "LEAK"
 ---
 
 # GTA VI Screenshots Under the Microscope: A Deep Dive into Upcoming Details

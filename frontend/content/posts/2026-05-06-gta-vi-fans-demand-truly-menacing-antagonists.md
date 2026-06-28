@@ -4,6 +4,7 @@ date: "2026-05-06T12:03:33"
 description: "A Reddit user sparks discussion on the need for genuinely terrifying villains in GTA 6, inspired by characters like Lalo Salamanca and Anton Chigurh, to enhance player dread and protagonist vulnerability."
 tags: ["GTA 6", "Grand Theft Auto VI", "Antagonist", "Villain", "Character Design", "Opinion", "Reddit", "Gaming News", "Rockstar Games", "Lalo Salamanca", "Anton Chigurh"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5av1w/i_want_gta_vis_one_of_antagonists_to_be_a_menace/"
+classification: "RUMOR"
 ---
 
 # GTA VI Fans Demand Truly Menacing Antagonists

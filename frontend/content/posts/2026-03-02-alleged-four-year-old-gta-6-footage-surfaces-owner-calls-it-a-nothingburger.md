@@ -4,6 +4,7 @@ date: "2026-03-02T19:20:00"
 description: "An Instagram user has allegedly shared GTA 6 footage they claim was sent by a former Rockstar employee four years ago, depicting a bridge and offering a sense of scale for the highly anticipated game."
 tags: ["GTA 6", "Grand Theft Auto 6", "Leak", "Rockstar Games", "Vice City", "Gaming News", "PS5", "Xbox Series X|S", "Video Game Leak", "Release Date", "PlayStation Store"]
 source: "https://www.gamespot.com/articles/gta-6-leak-was-sitting-on-a-phone-for-four-years-and-only-just-released-now/1100-6538513/?ftag=CAD-01-10abi2f"
+classification: "LEAK"
 ---
 
 # Alleged Four-Year-Old GTA 6 Footage Surfaces, Owner Calls It A 'Nothingburger'

@@ -4,6 +4,7 @@ date: "2026-05-18T14:18:00"
 description: "Hopes for GTA 6 pre-orders starting May 18 have been dashed, as sources debunk claims from Best Buy affiliate emails, leaving fans still awaiting official news and a third trailer."
 tags: ["GTA 6", "Grand Theft Auto 6", "Pre-orders", "Rumors", "Rockstar Games", "Take-Two Interactive", "Gaming News", "False Alarm", "Trailer", "Release Date"]
 source: "https://www.gamespot.com/articles/those-gta-6-preorder-rumors-appear-to-be-another-false-alarm/1100-6540008/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Order Rumors Debunked: Another False Alarm for Eager Fans

@@ -4,6 +4,7 @@ date: "2026-03-08T15:44:26"
 description: "A gaming journalist explores a fan theory suggesting GTA 6 will feature a groundbreaking number of unique NPCs with individual backstories and memories, drawing parallels to Bully and Red Dead Redemption 2."
 tags: ["GTA 6", "Rockstar Games", "NPCs", "Open World", "Game Development", "Fan Theory", "Speculation", "Bully", "Red Dead Redemption 2", "Mini-games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ro826m/whats_the_most_ambitious_thing_you_think_rockstar/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Ambition: Could Unique, Memorable NPCs Create Rockstar's Most Lived-In World Yet?

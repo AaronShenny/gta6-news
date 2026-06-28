@@ -4,6 +4,7 @@ date: "2026-05-27T15:31:08"
 description: "While a recent article primarily details Call of Duty: Modern Warfare 4 leaks and its release strategy, it highlights Rockstar's GTA 6 as a major November competitor, expected to significantly impact CoD sales."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Call of Duty", "Modern Warfare 4", "Gaming Competition", "Sales Impact", "November Release"]
 source: "https://www.gamespot.com/articles/new-call-of-duty-cover-leak-looks-like-it-was-taken-through-a-shower-door/"
+classification: "LEAK"
 ---
 
 # GTA 6 Set to Challenge Call of Duty: Modern Warfare 4 in November, Drawing Sales Comparisons

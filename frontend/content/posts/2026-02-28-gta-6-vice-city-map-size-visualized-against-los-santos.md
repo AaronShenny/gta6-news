@@ -4,6 +4,7 @@ date: "2026-02-28T06:49:42"
 description: "A community-driven visualization, originating from the GTA VI Mapping Discord, offers an early look at Vice City's potential scale compared to Los Santos, though Port Gellhorn is not included."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Los Santos", "Map Size", "Comparison", "Gaming News", "Community Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgvo4l/vice_citys_size_compared_to_los_santos_visualized/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Vice City Map Size Visualized Against Los Santos

@@ -4,6 +4,7 @@ date: "2026-06-04T21:49:22"
 description: "A Reddit user on r/GTA6 perfectly encapsulates the universal fan sentiment, expressing both immense excitement for Grand Theft Auto 6's launch and a desire for time to slow down."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming", "Anticipation", "Reddit", "Fan Reaction", "Hype", "Time"]
 source: "https://www.reddit.com/r/GTA6/comments/1tx1p8h/time/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype vs. The March of Time: Fans Grapple with Bittersweet Anticipation

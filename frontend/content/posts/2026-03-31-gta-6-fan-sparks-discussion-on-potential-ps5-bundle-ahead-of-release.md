@@ -4,6 +4,7 @@ date: "2026-03-31T15:54:55"
 description: "A Reddit user's anticipation for Grand Theft Auto 6 reignites the debate around potential PlayStation 5 console bundles and future console upgrades for the highly awaited title."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PlayStation 5", "PS5 Pro", "Console Bundle", "Gaming Hardware", "Fan Speculation", "Community Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8rdlg/will_there_be_a_ps5_bundle/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Sparks Discussion on Potential PS5 Bundle Ahead of Release

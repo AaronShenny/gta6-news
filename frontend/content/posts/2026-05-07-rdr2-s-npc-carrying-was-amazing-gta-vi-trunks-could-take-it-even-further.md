@@ -4,6 +4,7 @@ date: "2026-05-07T10:02:46"
 description: "A Reddit user suggests GTA 6 could expand on Red Dead Redemption 2's body carrying mechanics, allowing players to store NPCs in vehicle trunks for enhanced gameplay freedom."
 tags: ["GTA 6", "Grand Theft Auto VI", "Red Dead Redemption 2", "RDR2", "Gameplay Mechanics", "NPC Interaction", "Vehicle Trunks", "Player Freedom", "Rockstar Games", "Fan Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t660hk/rdr2s_npc_carrying_was_amazing_gta_vi_trunks/"
+classification: "RUMOR"
 ---
 
 # RDR2’s NPC carrying was amazing — GTA VI trunks could take it even further

@@ -4,6 +4,7 @@ date: "2026-06-27T15:43:10"
 description: "The GTA 6 community is buzzing with speculation about Rockstar's next marketing moves, debating whether new content like screenshots or character spotlights will drop before Trailer 3."
 tags: ["GTA 6", "Rockstar Games", "Marketing Strategy", "Trailer 3", "Community Speculation", "Gaming News", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1uh5zpf/what_can_we_expect_on_rockstars_upcoming_tuesdays/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Pre-Trailer 3 Marketing Drops

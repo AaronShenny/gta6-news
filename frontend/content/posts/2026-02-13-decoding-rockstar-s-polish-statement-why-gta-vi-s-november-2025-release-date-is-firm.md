@@ -4,6 +4,7 @@ date: "2026-02-13T03:56:56"
 description: "A deep dive into Rockstar Games' history of using the term 'polish' in delay announcements suggests Grand Theft Auto VI's November 2025 release is locked in, based on past trends."
 tags: ["GTA VI", "Grand Theft Auto 6", "Rockstar Games", "Game Development", "Release Date", "Game Delays", "Gaming Industry", "Red Dead Redemption", "Gaming News", "Industry Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1r3ez20/rockstar_polishing_and_why_gta_vi_wont_be_delayed/"
+classification: "UNKNOWN"
 ---
 
 # Decoding Rockstar's 'Polish' Statement: Why GTA VI's November 2025 Release Date is Firm

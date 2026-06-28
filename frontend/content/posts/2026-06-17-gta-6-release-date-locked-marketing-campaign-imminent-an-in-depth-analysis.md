@@ -4,6 +4,7 @@ date: "2026-06-17T11:39:14"
 description: "Exclusive breakdown confirms GTA 6's November 19th release, citing Take-Two's financial commitments and market data. Expect Trailer 3 and pre-orders late June/early July."
 tags: ["GTA 6", "Grand Theft Auto 6", "Release Date", "Trailer 3", "Take-Two Interactive", "Rockstar Games", "Gaming Industry", "Financial Analysis", "Market Data", "Pre-orders", "RAGE Engine", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u87ree/gta6_delay_info_breakdown/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Release Date Locked, Marketing Campaign Imminent: An In-Depth Analysis

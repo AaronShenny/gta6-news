@@ -4,6 +4,7 @@ date: "2026-03-05T06:05:20"
 description: "A Reddit user shares their vision for Grand Theft Auto 6's vehicle mechanics, advocating for the realistic damage of GTA 4 combined with the accessible handling of GTA 5."
 tags: ["GTA 6", "Grand Theft Auto 6", "Car Physics", "Vehicle Damage", "GTA 4", "GTA 5", "Rockstar Games", "Gaming Community", "Player Feedback"]
 source: "https://www.reddit.com/r/GTA6/comments/1rl9thn/car_damage_be_like_gta_4_and_car_physics_be_like/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Car Physics Debate: Fans Call for a Blend of GTA 4 Damage and GTA 5 Handling

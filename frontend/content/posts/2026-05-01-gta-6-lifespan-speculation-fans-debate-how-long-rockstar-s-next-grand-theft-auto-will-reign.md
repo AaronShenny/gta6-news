@@ -4,6 +4,7 @@ date: "2026-05-01T13:38:43"
 description: "A Reddit user speculates that Grand Theft Auto 6 could have a 13-year lifespan, drawing parallels to GTA V's longevity fueled by GTA Online."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Industry", "Game Lifespan", "GTA Online", "Fan Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0tptq/how_many_years_do_yall_see_gta_6_lasting/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Lifespan Speculation: Fans Debate How Long Rockstar's Next Grand Theft Auto Will Reign

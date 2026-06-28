@@ -4,6 +4,7 @@ date: "2026-04-13T12:29:00"
 description: "Reports suggest the Fable reboot could see an internal delay until 2027, with developers reportedly wary of launching too close to the highly anticipated GTA 6."
 tags: ["Fable", "GTA 6", "Grand Theft Auto 6", "Xbox", "PlayStation 5", "PC", "Gaming News", "Game Delay", "Playground Games", "Microsoft", "RPG"]
 source: "https://www.gamespot.com/articles/fable-reboot-could-be-delayed-to-2027-amid-concern-about-gta-6-report/1100-6539357/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # Fable Reboot Potentially Delayed to 2027 Amid GTA 6 Launch Concerns

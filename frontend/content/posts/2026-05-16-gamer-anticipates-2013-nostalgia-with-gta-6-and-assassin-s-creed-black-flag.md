@@ -4,6 +4,7 @@ date: "2026-05-16T22:49:57"
 description: "A dedicated gamer shares their excitement for GTA 6, linking its release to fond memories of 2013 and the potential joy of playing it alongside a 'resynced' Assassin's Creed Black Flag."
 tags: ["GTA 6", "Grand Theft Auto", "Assassin's Creed Black Flag", "Gaming Nostalgia", "2013 Gaming", "Video Game Anticipation", "Gamer Sentiment", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tf80be/playing_gta_6_and_ac_black_flag_resynced_this/"
+classification: "UNKNOWN"
 ---
 
 # Gamer Anticipates 2013 Nostalgia with GTA 6 and Assassin's Creed Black Flag

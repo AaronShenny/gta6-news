@@ -4,6 +4,7 @@ date: "2026-06-16T14:09:51"
 description: "A Reddit user on r/GTA6 speculates Rockstar Games is intentionally dropping cryptic hints about GTA 6's marketing campaign, citing past and recent clues."
 tags: ["GTA 6", "Rockstar Games", "Marketing", "Fan Theories", "Speculation", "Vice City", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7en6z/it_all_seems_done_on_purpose_rockstar_is_hinting/"
+classification: "RUMOR"
 ---
 
 # Fan Theories Emerge: Is Rockstar Games Subtly Hinting at GTA 6 Marketing Commencement?

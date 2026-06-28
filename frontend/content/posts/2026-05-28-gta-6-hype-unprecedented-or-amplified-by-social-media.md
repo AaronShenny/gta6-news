@@ -4,6 +4,7 @@ date: "2026-05-28T23:06:29"
 description: "A community discussion explores whether the immense hype surrounding Grand Theft Auto VI is genuinely greater than previous titles, or simply more visible due to social media's pervasive influence."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Hype", "Social Media", "Rockstar Games", "Gaming Community", "Video Game Industry", "Fan Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tqjmoc/compared_to_previous_gta_games_is_the_hype_for/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Unprecedented or Amplified by Social Media?

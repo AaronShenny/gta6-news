@@ -4,6 +4,7 @@ date: "2026-04-05T14:29:33"
 description: "A heartfelt reflection on the unprecedented anticipation and community experience surrounding GTA 6's upcoming launch, highlighting the unique shared journey of fans."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming Anticipation", "Community Hype", "Pre-Release", "Gaming Culture", "Reddit", "GTA Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1sd527o/were_about_half_a_year_away_regardless_of_how_gta/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Unforgettable Pre-Release Journey Nears Its End

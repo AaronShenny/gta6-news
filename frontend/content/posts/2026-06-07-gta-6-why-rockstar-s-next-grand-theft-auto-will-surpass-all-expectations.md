@@ -4,6 +4,7 @@ date: "2026-06-07T14:03:25"
 description: "A gaming journalist breaks down why Grand Theft Auto 6 is set to be a monumental leap in quality, surpassing both GTA 5 and Red Dead Redemption 2, thanks to an unprecedented development effort and next-gen technology."
 tags: ["GTA 6", "Rockstar Games", "Grand Theft Auto", "Game Development", "Next-Gen Gaming", "PS5", "RDR2", "Gaming Industry", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzd05f/nothing_new_but_a_reminder_while_we_are_dreaming/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Why Rockstar's Next Grand Theft Auto Will Surpass All Expectations

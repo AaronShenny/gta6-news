@@ -4,6 +4,7 @@ date: "2026-05-28T09:43:11"
 description: "A Reddit post title sparks discussion on the intense hype and impatience surrounding the highly anticipated release of Grand Theft Auto 6, reflecting fan sentiment."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Community", "Anticipation", "Hype", "Video Games", "Reddit", "Fan Reaction", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1tpyqwi/why_dont_people_justwait_for_gta_6_to_release/"
+classification: "UNKNOWN"
 ---
 
 # The Unbearable Wait: Why GTA 6 Fans Struggle with Anticipation

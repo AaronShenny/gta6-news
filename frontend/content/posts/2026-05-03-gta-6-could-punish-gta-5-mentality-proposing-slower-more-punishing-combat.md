@@ -4,6 +4,7 @@ date: "2026-05-03T01:02:41"
 description: "A Reddit user speculates that GTA 6 will feature significantly different combat and pacing, moving away from GTA 5's 'Rambo' style towards a more challenging and desperate experience, especially during high-star chases."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gameplay", "Combat", "Pacing", "Rockstar Games", "GTA 5", "Fan Discussion", "Speculation", "Wanted Level", "Gaming Journalism"]
 source: "https://www.reddit.com/r/GTA6/comments/1t277my/gta_6_might_punish_people_that_have_the_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Could Punish 'GTA 5 Mentality,' Proposing Slower, More Punishing Combat

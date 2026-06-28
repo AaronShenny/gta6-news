@@ -4,6 +4,7 @@ date: "2026-03-11T01:27:36"
 description: "A Reddit post on r/GTA6 discusses an anonymous source who reportedly predicted 'Trailer 2,' a 'GTA 6 delay to May,' and screenshots, sparking debate on their legitimacy."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rumors", "Leaks", "Predictions", "Reddit", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqg51n/found_this_post_unsure_about_this/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Rumor Mill: Reddit User Highlights Unverified Leaker with Alleged Accurate Predictions

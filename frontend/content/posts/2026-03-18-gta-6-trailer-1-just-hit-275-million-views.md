@@ -4,6 +4,7 @@ date: "2026-03-18T00:13:34"
 description: "The 'GTA 6 Trailer 1' continues to break records, surpassing 275 million views on its primary platform and over a billion across social media, accumulating 1 million comments and 12 million likes."
 tags: ["GTA 6", "Grand Theft Auto", "Trailer", "Gaming News", "Viral Video", "View Records", "Social Media"]
 source: "https://www.reddit.com/r/GTA6/comments/1rwoel2/gta_6_trailer_1_just_hit_275_million_views/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Trailer 1 Just Hit 275 Million Views

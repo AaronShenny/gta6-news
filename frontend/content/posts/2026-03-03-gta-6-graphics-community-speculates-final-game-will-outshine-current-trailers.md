@@ -4,6 +4,7 @@ date: "2026-03-03T19:57:34"
 description: "A Reddit discussion highlights community anticipation that GTA 6's final graphics will be significantly more impressive than current trailers, drawing comparisons to Red Dead Redemption 2's visual evolution."
 tags: ["GTA 6", "Grand Theft Auto VI", "Graphics", "Visuals", "Trailers", "Rockstar Games", "Red Dead Redemption 2", "Gaming News", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjznsm/the_game_is_going_to_look_better_than_what_we/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Graphics: Community Speculates Final Game Will Outshine Current Trailers

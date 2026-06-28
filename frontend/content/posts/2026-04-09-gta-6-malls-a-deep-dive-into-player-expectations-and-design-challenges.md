@@ -4,6 +4,7 @@ date: "2026-04-09T06:55:14"
 description: "A Reddit user sparks a debate on the potential scale and realism of enclosed malls in Grand Theft Auto VI, questioning how Rockstar will bring hundreds of stores to life."
 tags: ["GTA 6", "Grand Theft Auto VI", "Malls", "Vice City", "Game Design", "Rockstar Games", "Open World", "Player Expectations", "Ambrosia"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgi8ge/i_still_keep_thinking_about_the_malls_in_the_game/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Malls: A Deep Dive into Player Expectations and Design Challenges

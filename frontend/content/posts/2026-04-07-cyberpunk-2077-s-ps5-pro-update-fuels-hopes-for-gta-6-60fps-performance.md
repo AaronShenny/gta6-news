@@ -4,6 +4,7 @@ date: "2026-04-07T17:28:49"
 description: "A recent Cyberpunk 2077 PS5 Pro update achieving 60fps with ray tracing has sparked optimism among gamers for Grand Theft Auto VI's potential 60fps performance on the console, with speculation on potential graphics modes."
 tags: ["GTA 6", "Grand Theft Auto VI", "PS5 Pro", "PlayStation 5 Pro", "Cyberpunk 2077", "Frame Rate", "60fps", "Ray Tracing", "Gaming Performance", "Rockstar Games", "Gaming Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sf2p9x/latest_cp2077_ps5_pro_update_gives_me_hope_in_gta/"
+classification: "RUMOR"
 ---
 
 # Cyberpunk 2077's PS5 Pro Update Fuels Hopes for GTA 6 60fps Performance

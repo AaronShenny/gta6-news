@@ -4,6 +4,7 @@ date: "2026-06-16T19:23:06"
 description: "A Reddit user highlights their primary anticipation for Grand Theft Auto 6: its plot, sparking discussion around the game's potential narrative depth."
 tags: ["GTA 6", "Grand Theft Auto", "Narrative", "Plot", "Storytelling", "Community", "Player Expectations", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7ndn9/i_am_playing_gta_6_for_the_plot/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: Player Expresses Strong Interest in Narrative

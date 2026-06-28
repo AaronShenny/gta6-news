@@ -4,6 +4,7 @@ date: "2026-05-25T14:56:50"
 description: "A Reddit post debunks rumors of a GTA 6 Trailer 3 or new screenshots on May 26th, citing Take-Two's CEO on a summer marketing launch and predicting a quiet day for fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer 3", "Release Date", "Marketing", "Delays", "Gaming News", "Rumors", "Fan Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnbm3n/trailer_3/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans' Hopes for Trailer 3 Dashed as May 26th Approaches Without New Content

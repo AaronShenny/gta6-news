@@ -4,6 +4,7 @@ date: "2026-03-15T19:39:12"
 description: "The official GTA Wiki has moved to gta.wiki, offering a superior experience with fewer ads, less censorship, and a focus on GTA VI content. Learn how to support the new independent platform."
 tags: ["GTA Wiki", "Grand Theft Auto", "GTA VI", "Fandom", "Wiki Migration", "Gaming News", "gta.wiki", "Community Support", "Censorship", "Ad-Free Experience"]
 source: "https://www.reddit.com/r/GTA6/comments/1runi6m/the_gta_wiki_has_moved_from_fandom_to_gtawiki/"
+classification: "CONFIRMED"
 ---
 
 # GTA Wiki Ditches Fandom for Independent Home Ahead of GTA VI Release

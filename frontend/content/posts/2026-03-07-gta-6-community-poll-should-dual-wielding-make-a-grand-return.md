@@ -4,6 +4,7 @@ date: "2026-03-07T20:51:56"
 description: "A popular Reddit thread sparks debate among fans: Will dual-wielding weapons be a feature in the highly anticipated Grand Theft Auto 6?"
 tags: ["GTA 6", "Grand Theft Auto 6", "Dual Wielding", "Fan Discussion", "Reddit", "Community Poll", "Gameplay Features", "Wishlist", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnl0xj/do_you_think_dual_wielding_should_return_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Poll: Should Dual-Wielding Make a Grand Return?

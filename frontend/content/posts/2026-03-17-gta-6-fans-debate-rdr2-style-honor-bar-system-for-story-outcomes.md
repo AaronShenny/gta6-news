@@ -4,6 +4,7 @@ date: "2026-03-17T12:06:07"
 description: "A Reddit discussion explores the possibility of GTA 6 incorporating an 'Honor bar' similar to Red Dead Redemption 2, where player morality could dictate the fates of protagonists Jason and Lucia."
 tags: ["GTA 6", "Grand Theft Auto 6", "Honor System", "RDR2", "Red Dead Redemption 2", "Morality System", "Story Choices", "Endings", "Jason and Lucia", "Fan Speculation", "Reddit Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rw4nkh/how_would_you_feel_if_gta_6_has_a_honor_bar_just/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Debate RDR2-Style 'Honor Bar' System for Story Outcomes

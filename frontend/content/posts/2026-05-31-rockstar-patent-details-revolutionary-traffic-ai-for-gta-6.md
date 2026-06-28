@@ -4,6 +4,7 @@ date: "2026-05-31T07:43:15"
 description: "A recent Rockstar patent uncovers advanced NPC vehicle navigation, promising denser traffic, diverse driver personalities, smarter police chases, and a more dynamic open-world experience for GTA 6."
 tags: ["GTA 6", "Rockstar Games", "Patent", "NPC AI", "Traffic System", "Open World", "Police Chases", "Vehicle AI", "Gaming News", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tsoqrh/this_was_proven_wrong_what_this_patent_actually/"
+classification: "UNKNOWN"
 ---
 
 # Rockstar Patent Details Revolutionary Traffic AI for GTA 6

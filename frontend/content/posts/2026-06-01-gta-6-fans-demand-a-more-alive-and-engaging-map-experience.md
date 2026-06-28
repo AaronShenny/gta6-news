@@ -4,6 +4,7 @@ date: "2026-06-01T14:27:36"
 description: "A dedicated GTA 6 fan expresses their biggest hope for the upcoming game: a dynamic, lively map that avoids the 'dead' feeling of GTA V's expansive but often empty landscape."
 tags: ["GTA 6", "Grand Theft Auto VI", "Map Design", "Open World", "Community Feedback", "Gaming News", "Rockstar Games", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1tttwlb/whats_the_biggest_changeimprovement_you_hope_to/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Demand a 'More Alive' and Engaging Map Experience

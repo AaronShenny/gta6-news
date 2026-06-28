@@ -4,6 +4,7 @@ date: "2026-05-09T06:49:03"
 description: "A gaming journalist expresses immense admiration for the Grand Theft Auto VI logo, declaring it the best in the series and one of the finest in video game history, citing its vibrant, retro aesthetic."
 tags: ["GTA 6", "Grand Theft Auto VI", "logo", "game design", "gaming", "Rockstar Games", "opinion", "retro aesthetics"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7xbff/the_logo_man/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Logo Hailed as Series' Best, Praised for Retro Design

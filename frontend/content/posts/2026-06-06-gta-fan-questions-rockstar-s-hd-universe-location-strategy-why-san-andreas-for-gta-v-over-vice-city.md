@@ -4,6 +4,7 @@ date: "2026-06-06T06:54:03"
 description: "A dedicated Grand Theft Auto fan sparks debate, questioning Rockstar Games' decision to feature San Andreas in GTA V rather than Vice City, proposing an alternative release order for the HD universe titles."
 tags: ["GTA 6", "GTA V", "Vice City", "San Andreas", "Rockstar Games", "Game Design", "Open World Games", "Fan Theories", "Leonida", "Gaming Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tya0by/why_didnt_gta5_take_place_in_vice_city/"
+classification: "CONFIRMED"
 ---
 
 # GTA Fan Questions Rockstar's HD Universe Location Strategy: Why San Andreas for GTA V Over Vice City?

@@ -4,6 +4,7 @@ date: "2026-03-23T20:57:06"
 description: "A Reddit user sparks discussion on how the GTA 6 community plans to handle spoilers upon release, questioning whether to avoid or actively seek content."
 tags: ["GTA 6", "Grand Theft Auto 6", "spoilers", "gaming community", "Reddit", "social media", "player choices", "game release", "discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1tcme/spoilers/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Spoilers: Community Debates Avoiding vs. Seeking Content

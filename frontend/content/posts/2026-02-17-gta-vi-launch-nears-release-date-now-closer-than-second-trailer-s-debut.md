@@ -4,6 +4,7 @@ date: "2026-02-17T01:48:44"
 description: "A Reddit user observes that Grand Theft Auto VI's launch is now less than a year away and closer than the release of its second trailer, sparking renewed fan excitement."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Trailer 2", "Gaming News", "Fan Anticipation", "Rockstar Games", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6sw4w/i_just_realized_were_now_closer_to_the_gta_vi/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Launch Nears: Release Date Now Closer Than Second Trailer's Debut

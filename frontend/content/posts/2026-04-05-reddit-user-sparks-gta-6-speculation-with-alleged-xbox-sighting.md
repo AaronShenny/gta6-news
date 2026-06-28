@@ -4,6 +4,7 @@ date: "2026-04-05T01:10:44"
 description: "A Reddit user shared a post claiming to have found a 'GTA 6' sighting on their Xbox, fueling community speculation about the unreleased game's status."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox", "Reddit", "Rumors", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1scq8u0/are_this_guy_play_gta_6/"
+classification: "RUMOR"
 ---
 
 # Reddit User Sparks GTA 6 Speculation with Alleged Xbox Sighting

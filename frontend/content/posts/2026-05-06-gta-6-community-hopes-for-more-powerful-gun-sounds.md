@@ -4,6 +4,7 @@ date: "2026-05-06T16:25:53"
 description: "A Reddit user on r/GTA6 expresses a desire for significantly improved and more powerful gun sound effects in Grand Theft Auto 6, contrasting them with the 'muffled' audio of GTA 5."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gun Sounds", "Audio Design", "Community Feedback", "Reddit", "Gaming Expectations"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5hv6k/gun_sound/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Hopes for 'More Powerful' Gun Sounds

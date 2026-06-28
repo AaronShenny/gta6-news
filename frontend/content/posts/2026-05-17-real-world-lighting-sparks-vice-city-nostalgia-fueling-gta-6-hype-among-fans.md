@@ -4,6 +4,7 @@ date: "2026-05-17T20:51:36"
 description: "A Reddit user's observation of real-world 'Vice City-esque' lighting ignites discussion within the r/GTA6 community, highlighting fan anticipation for the game's visual style."
 tags: ["GTA 6", "Vice City", "Rockstar Games", "Gaming Community", "Lighting", "Fan Hype", "Reddit", "Visuals", "Atmosphere"]
 source: "https://www.reddit.com/r/GTA6/comments/1tg1gvw/vice_city_ahh_lighting_in_my_city/"
+classification: "RUMOR"
 ---
 
 # Real-World Lighting Sparks Vice City Nostalgia, Fueling GTA 6 Hype Among Fans

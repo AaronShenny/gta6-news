@@ -4,6 +4,7 @@ date: "2026-03-17T11:05:23"
 description: "A dedicated fan expresses a common desire for more realistic vehicle speed and acceleration in GTA 6, citing BeamNG.drive as an example of excellence."
 tags: ["GTA 6", "Vehicle Physics", "Speed Simulation", "Acceleration", "Driving Mechanics", "Fan Expectations", "Realism", "BeamNG.drive", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1rw3g3z/feeling_of_speed_an_acceleration_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Hopes for More Realistic Vehicle Speed and Acceleration

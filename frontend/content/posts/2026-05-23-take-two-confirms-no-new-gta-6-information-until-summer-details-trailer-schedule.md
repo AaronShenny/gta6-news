@@ -4,6 +4,7 @@ date: "2026-05-23T20:36:53"
 description: "Take-Two Interactive has reconfirmed that Grand Theft Auto 6 fans should not expect any new details or Trailer 3 until the summer, following previous trailer releases in December 2023 and May 2025."
 tags: ["GTA 6", "Grand Theft Auto VI", "Take-Two Interactive", "Rockstar Games", "Gaming News", "Trailer 3", "Summer Update", "Release Information"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlrhgy/trailer_3_until_summer/"
+classification: "RUMOR"
 ---
 
 # Take-Two Confirms No New GTA 6 Information Until Summer, Details Trailer Schedule

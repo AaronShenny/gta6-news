@@ -4,6 +4,7 @@ date: "2026-06-11T06:28:45"
 description: "A Reddit user emphasizes the importance of an in-depth photo mode for GTA 6, drawing parallels to the highly praised camera features in Insomniac's Spider-Man 2."
 tags: ["GTA 6", "Rockstar Games", "Photo Mode", "Gaming Community", "Spider-Man 2", "Launch Features", "Player Feedback", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2r59s/rockstar_please_include_a_photo_mode_from_launch/"
+classification: "UNKNOWN"
 ---
 
 # Community Plea: GTA 6 Needs a Robust Photo Mode from Day One

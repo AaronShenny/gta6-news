@@ -4,6 +4,7 @@ date: "2026-06-04T10:28:51"
 description: "Sony's latest PS5 firmware (Version: 26.04-13.40.00) focuses on stability. This comes as new titles like Marvel's Wolverine prepare for 2026, many avoiding GTA 6's release."
 tags: ["PS5", "PlayStation 5", "Firmware Update", "System Stability", "Gaming News", "GTA 6", "Marvel's Wolverine", "Upcoming Games", "Sony", "Gaming Industry"]
 source: "https://www.gamespot.com/articles/new-ps5-update-is-out-now-but-dont-get-too-excited/"
+classification: "UNKNOWN"
 ---
 
 # PS5 Gets New Stability Update as Developers Strategize Around GTA 6's Shadow

@@ -4,6 +4,7 @@ date: "2026-06-02T19:21:23"
 description: "The highly anticipated 'Tomb Raider: Legacy of Atlantis' has reportedly shifted its release from Autumn 2026 to February 2027, a move attributed to the looming launch of Grand Theft Auto 6."
 tags: ["GTA 6", "Tomb Raider Legacy of Atlantis", "Game Delay", "Release Date", "Gaming Industry", "Competition", "Video Games News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv193e/gta_6_spares_no_one_tomb_raider_legacy_of/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Industry Shake-Up: Tomb Raider: Legacy of Atlantis Reportedly Delayed to Early 2027

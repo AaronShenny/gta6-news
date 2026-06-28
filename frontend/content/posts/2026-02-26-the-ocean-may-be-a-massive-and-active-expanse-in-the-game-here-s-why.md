@@ -4,6 +4,7 @@ date: "2026-02-26T20:25:35"
 description: "GTA 6's ocean could be a dynamic, active gameplay zone, integrating modern smuggling, naval patrols, advanced boat mechanics, and unique events, aligning with 'Project Americas'."
 tags: ["GTA 6", "Grand Theft Auto 6", "Ocean Gameplay", "Smuggling", "Florida", "Caribbean", "Rockstar Games", "Project Americas", "Boat Mechanics", "Naval Combat", "Open World", "Leaks"]
 source: "https://www.reddit.com/r/GTA6/comments/1rflbrz/the_ocean_may_be_a_massive_and_active_expanse_in/"
+classification: "RUMOR"
 ---
 
 # The ocean may be a massive and active expanse in the game, here's why

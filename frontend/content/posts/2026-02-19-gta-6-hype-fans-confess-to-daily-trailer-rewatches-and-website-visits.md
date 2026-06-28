@@ -4,6 +4,7 @@ date: "2026-02-19T09:30:52"
 description: "A dedicated GTA 6 fan admits to daily website visits and trailer rewatches, sparking discussion on pre-release obsession within the community."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gaming Hype", "Fan Obsession", "Trailers", "Reddit", "Gaming Community", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8ut8d/how_often_do_you_revisit_the_website_andor/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Hype: Fans Confess to Daily Trailer Rewatches and Website Visits

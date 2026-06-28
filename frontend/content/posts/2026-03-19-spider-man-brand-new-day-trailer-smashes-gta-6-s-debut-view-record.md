@@ -4,6 +4,7 @@ date: "2026-03-19T15:49:00"
 description: "The new trailer for Spider-Man: Brand New Day has officially surpassed GTA 6's record for most views in its first 24 hours, signaling immense anticipation for both upcoming blockbusters."
 tags: ["GTA 6", "Grand Theft Auto 6", "Spider-Man Brand New Day", "Trailer Records", "Gaming News", "Movie News", "Entertainment Industry", "Rockstar Games", "Sony"]
 source: "https://www.gamespot.com/articles/gta-6s-trailer-record-finally-beaten-by-spider-man/1100-6538898/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Spider-Man: Brand New Day Trailer Smashes GTA 6's Debut View Record

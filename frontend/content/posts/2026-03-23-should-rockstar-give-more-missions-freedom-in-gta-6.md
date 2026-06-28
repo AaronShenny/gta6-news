@@ -4,6 +4,7 @@ date: "2026-03-23T14:26:46"
 description: "A gaming journalist discusses the ongoing debate around mission freedom in Grand Theft Auto 6, arguing for Rockstar's traditional approach to story missions within an open world."
 tags: ["GTA 6", "Rockstar Games", "Mission Design", "Open World", "Narrative", "Gaming Debate", "Grand Theft Auto", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1id94/should_rockstar_give_more_missions_freedom_in_gta/"
+classification: "UNKNOWN"
 ---
 
 # Should Rockstar give more missions freedom in GTA 6?

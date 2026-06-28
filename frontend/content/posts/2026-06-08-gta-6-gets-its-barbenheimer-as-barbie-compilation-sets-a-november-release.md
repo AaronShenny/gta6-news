@@ -4,6 +4,7 @@ date: "2026-06-08T16:47:56"
 description: "Atari is releasing a Barbie game compilation and a Godzilla remaster in November, just weeks before GTA 6, drawing comparisons to the 'Barbenheimer' phenomenon."
 tags: ["GTA 6", "Grand Theft Auto 6", "Barbie Rewind", "Barbie", "Atari", "Digital Eclipse", "Godzilla: Destroy All Monsters Melee", "Game Release Dates", "Gaming News", "Barbenheimer", "Retro Gaming", "Game Compilations"]
 source: "https://www.gamespot.com/articles/gta-6-gets-its-barbenheimer-as-barbie-compilation-sets-a-november-release/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Gets Its Barbenheimer As Barbie Compilation Sets A November Release

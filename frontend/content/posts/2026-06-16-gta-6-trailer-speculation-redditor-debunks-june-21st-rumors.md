@@ -4,6 +4,7 @@ date: "2026-06-16T18:40:55"
 description: "A user on r/GTA6 challenges the popular theory that June 21st is a significant date for a Grand Theft Auto 6 trailer or information drop, calling such speculation 'highly unlikely.'"
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailer", "Release Date", "Rumors", "Speculation", "Reddit", "Gaming News", "Rockstar Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7m6op/more_realistic_approaches_to_given_information/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer Speculation: Redditor Debunks June 21st Rumors

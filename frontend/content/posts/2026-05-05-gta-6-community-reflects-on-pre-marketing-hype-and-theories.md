@@ -4,6 +4,7 @@ date: "2026-05-05T23:31:26"
 description: "As GTA 6's marketing rollout appears imminent, fans look back at the 'fun madness' of the pre-marketing hype cycle, including memorable theories like the '27 theory'."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming Hype", "Release Date", "Marketing", "Community Theories", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4w3iu/what_was_your_favorite_phase_of_the_premarketing/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Reflects on Pre-Marketing Hype and Theories

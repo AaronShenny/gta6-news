@@ -4,6 +4,7 @@ date: "2026-03-06T22:05:41"
 description: "A keen-eyed fan has discovered a French-language billboard in leaked GTA 6 screenshots, featuring a 'cheap but delicious' food ad, raising questions about its significance."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "billboard", "French ad", "game details", "fan speculation", "Vice City", "cultural elements"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmrpe9/why_is_there_a_french_ad_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # French Billboard Spotted in GTA 6 Screenshots Sparks Fan Curiosity

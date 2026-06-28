@@ -4,6 +4,7 @@ date: "2026-06-27T07:38:50"
 description: "A viral Reddit post encourages Grand Theft Auto fans to rewatch existing content and imagine the groundbreaking potential of GTA 6, sparking widespread community speculation."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Community", "Hype", "Speculation", "Reddit", "Open World", "Anticipation", "Next-Gen Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1ugwdgo/do_yourself_a_favour_have_a_rewatch_and_just/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Intensifies: Community Urges Fans to Envision Next-Gen Grand Theft Auto

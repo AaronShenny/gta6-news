@@ -4,6 +4,7 @@ date: "2026-03-16T18:07:39"
 description: "Explore a highly speculative fan-made map concept for GTA 6's Leonida, detailing three major cities, diverse biomes, and unique activities, drawing inspiration from Florida and beyond."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fan Concept", "Map Speculation", "Leonida", "Vice City", "Gaming News", "Rockstar Games", "Open World", "Florida"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvh6el/final_concept_of_leonida/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Concept: 'Final Concept of Leonida' Map Vision Surfaces

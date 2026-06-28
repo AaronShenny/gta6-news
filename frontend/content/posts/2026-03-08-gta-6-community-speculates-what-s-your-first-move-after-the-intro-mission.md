@@ -4,6 +4,7 @@ date: "2026-03-08T15:17:48"
 description: "A Reddit thread ignites discussion among GTA 6 fans, asking what their immediate plans and first activities will be after completing the game's introductory mission."
 tags: ["GTA 6", "Grand Theft Auto", "Community Discussion", "Reddit", "Player Plans", "Open World Games", "Gaming Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ro7ezu/whats_your_first_plan_after_completing_the_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Speculates: What's Your First Move After the Intro Mission?

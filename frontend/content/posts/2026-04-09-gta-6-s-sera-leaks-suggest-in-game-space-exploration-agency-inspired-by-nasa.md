@@ -4,6 +4,7 @@ date: "2026-04-09T03:42:23"
 description: "New leaks for Grand Theft Auto 6 suggest the inclusion of 'SERA,' a space exploration agency possibly inspired by NASA's Kennedy Space Center, hinting at in-game rocket launches and related events."
 tags: ["GTA 6", "Grand Theft Auto 6", "SERA", "Leaks", "Space Exploration", "NASA", "Kennedy Space Center", "Rocket Launch", "Gaming News", "Rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgenqn/one_of_the_most_exciting_things_to_explore_when/"
+classification: "RUMOR"
 ---
 
 # GTA 6's SERA: Leaks Suggest In-Game Space Exploration Agency Inspired by NASA

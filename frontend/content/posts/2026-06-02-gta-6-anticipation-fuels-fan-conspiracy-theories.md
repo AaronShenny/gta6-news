@@ -4,6 +4,7 @@ date: "2026-06-02T10:57:51"
 description: "The lengthy wait for Grand Theft Auto 6 is driving fans to explore wild conspiracy theories, reflecting intense community anticipation and speculation."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Fan Theories", "Gaming Community", "Anticipation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tung98/this_gta_6_wait_is_making_me_find_crazy/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Anticipation Fuels Fan Conspiracy Theories

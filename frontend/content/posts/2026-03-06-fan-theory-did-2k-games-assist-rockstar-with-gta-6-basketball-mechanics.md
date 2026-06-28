@@ -4,6 +4,7 @@ date: "2026-03-06T11:22:32"
 description: "A Reddit user speculates that Rockstar may have collaborated with 2K Games for GTA 6's basketball mechanics, potentially in exchange for NBA2K26 promotion."
 tags: ["GTA 6", "Rockstar Games", "2K Games", "NBA2K26", "Basketball Mechanics", "Fan Theory", "Gaming Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmberf/did_2kgames_help_rockstar_with_gta_6_basketball/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: Did 2K Games Assist Rockstar with GTA 6 Basketball Mechanics?

@@ -4,6 +4,7 @@ date: "2026-03-28T18:59:18"
 description: "A Reddit theory speculates on GTA 6's potential opening, featuring Jason's drug running, Lucia's prison introduction, and a unique character switch mechanic."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jason", "Lucia", "Reddit Theory", "Game Start", "Opening Missions", "Protagonists", "Speculation", "Prison Gameplay"]
 source: "https://www.reddit.com/r/GTA6/comments/1s68u7f/i_think_i_know_how_gta_6_starts/"
+classification: "RUMOR"
 ---
 
 # Reddit User Proposes Intriguing Opening Sequence for Grand Theft Auto VI

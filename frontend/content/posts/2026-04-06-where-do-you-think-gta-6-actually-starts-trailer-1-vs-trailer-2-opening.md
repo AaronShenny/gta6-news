@@ -4,6 +4,7 @@ date: "2026-04-06T14:58:20"
 description: "A Reddit discussion speculates on Grand Theft Auto VI's opening sequence, contrasting the vibes of Trailer 1 and Trailer 2, with a strong argument for starting in the Keys."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer Analysis", "Game Start", "Vice City", "The Keys", "Jason", "Lucia", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1se195a/where_do_you_think_gta_6_actually_starts_trailer/"
+classification: "RUMOR"
 ---
 
 # Where do you think GTA 6 actually starts? Trailer 1 vs Trailer 2 opening

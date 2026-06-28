@@ -4,6 +4,7 @@ date: "2026-06-26T00:40:09"
 description: "A Reddit user shares a deeply personal connection to Vice City and a specific car, sparking immense excitement for GTA 6 and its potential to recapture pure gaming joy."
 tags: ["GTA 6", "Vice City", "Rockstar Games", "Gaming Nostalgia", "Hype", "Cheats", "Reddit", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufrpgn/this_image_has_me_so_hyped/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Sparks Nostalgic Vice City Hype for Long-Time Fan

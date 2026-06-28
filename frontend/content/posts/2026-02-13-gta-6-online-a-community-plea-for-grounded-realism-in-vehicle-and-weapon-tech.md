@@ -4,6 +4,7 @@ date: "2026-02-13T04:38:18"
 description: "A prominent Reddit discussion proposes that GTA 6 Online should exclude futuristic vehicle and weapon technology, advocating for a strictly real-world approach to enhance balance and player immersion."
 tags: ["GTA 6", "GTA Online", "Game Design", "Realism", "Vehicle Technology", "Weapon Technology", "Player Immersion", "Community Feedback", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1r3fss1/gta_6_online_should_not_have_any_vehicle/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Online: A Community Plea for Grounded Realism in Vehicle and Weapon Tech

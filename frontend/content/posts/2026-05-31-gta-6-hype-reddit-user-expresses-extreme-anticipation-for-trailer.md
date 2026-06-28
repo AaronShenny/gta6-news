@@ -4,6 +4,7 @@ date: "2026-05-31T01:14:08"
 description: "A Reddit user on r/GTA6 candidly shares their intense and humorous 'thirst' for any news or a trailer for Grand Theft Auto 6, reflecting widespread community anticipation."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Hype", "Reddit", "Video Games", "Anticipation", "Trailer"]
 source: "https://www.reddit.com/r/GTA6/comments/1tsh599/how_parched_are_we_boys/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Hype: Reddit User Expresses Extreme Anticipation for Trailer

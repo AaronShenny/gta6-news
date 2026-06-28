@@ -4,6 +4,7 @@ date: "2026-05-18T03:00:32"
 description: "A Reddit user claims an Xbox website for Grand Theft Auto 6 received a recent update, sparking immediate discussion and speculation among the gaming community."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox", "Rockstar Games", "Gaming News", "Rumors", "Speculation", "Website Update", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tga0qy/apparently_xbox_updated_their_gta_6_website_2/"
+classification: "RUMOR"
 ---
 
 # Xbox's GTA 6 Website Reportedly Updated, Igniting Fan Speculation

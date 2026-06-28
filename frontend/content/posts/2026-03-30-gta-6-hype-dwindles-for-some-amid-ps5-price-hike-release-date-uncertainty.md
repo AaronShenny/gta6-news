@@ -4,6 +4,7 @@ date: "2026-03-30T18:36:08"
 description: "A Reddit user shares their diminishing excitement for Grand Theft Auto 6, citing the recent PS5 price increase and the continued absence of a release date as key factors, especially in the current economy."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PlayStation 5", "Gaming Hype", "Console Price Increase", "Release Date", "Gaming Economy", "Player Sentiment", "Reddit Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7z6da/anyone_else_feel_the_same_about_the_ps5_price/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Dwindles for Some Amid PS5 Price Hike, Release Date Uncertainty

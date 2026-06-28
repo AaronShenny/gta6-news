@@ -4,6 +4,7 @@ date: "2026-06-26T14:42:22"
 description: "A Reddit discussion from r/GTA6 explores community predictions on the remaining GTA 6 trailers and whether Rockstar will replicate Red Dead Redemption 2's marketing strategy."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailers", "Marketing", "RDR2", "Red Dead Redemption 2", "Speculation", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1ug8rjy/how_many_trailers_do_you_think_gta_vi_has_left/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer Speculation: Will Rockstar Follow RDR2's Marketing Blueprint?

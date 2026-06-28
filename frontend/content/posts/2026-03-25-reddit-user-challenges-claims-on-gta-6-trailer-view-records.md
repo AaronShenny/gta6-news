@@ -4,6 +4,7 @@ date: "2026-03-25T05:01:44"
 description: "A Reddit user on r/GTA6 disputes claims that GTA 6's trailer view count has been surpassed, arguing it still holds the record over Spider-Man, and predicts immense cultural impact."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer Views", "Record Breaking", "Spider-Man", "Gaming News", "Cultural Impact", "Reddit", "Viewership Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1s31jr7/sony_and_culture_crave_are_lying_gta_6_still/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Challenges Claims on GTA 6 Trailer View Records

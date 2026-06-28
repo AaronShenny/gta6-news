@@ -4,6 +4,7 @@ date: "2026-03-14T21:55:25"
 description: "A dedicated GTA 6 fan shares their console choice, opting for a PS5 Slim after learning about the PC version's delayed release, continuing a personal gaming tradition."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5 Slim", "PlayStation 5", "PC release", "console gaming", "fan reaction", "gaming news"]
 source: "https://www.reddit.com/r/GTA6/comments/1rtw51c/whats_everyone_playing_gta_6_on_when_it_drops/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Fan Switches to PS5 Slim Ahead of Launch Due to PC Delay

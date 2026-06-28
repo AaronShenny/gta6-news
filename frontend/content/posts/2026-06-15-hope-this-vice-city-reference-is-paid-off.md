@@ -4,6 +4,7 @@ date: "2026-06-15T13:25:06"
 description: "A Reddit user shares their experience revisiting GTA 4's DLC stories while expressing a desire for Vice City references in the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "GTA 4", "The Lost and Damned", "The Ballad of Gay Tony", "Rockstar Games", "Fan Speculation", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6gjth/hope_this_vice_city_reference_is_paid_off/"
+classification: "RUMOR"
 ---
 
 # Hope this vice city reference is paid off

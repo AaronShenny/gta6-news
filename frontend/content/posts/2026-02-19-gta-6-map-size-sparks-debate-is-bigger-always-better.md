@@ -4,6 +4,7 @@ date: "2026-02-19T18:50:44"
 description: "A Reddit user raises concerns that GTA 6's rumored 3.5x larger map might lead to an empty open world, questioning if 'bigger is better' for the highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto 6", "Map Size", "Open World", "Gaming Debate", "Rockstar Games", "GTA V", "Fan Concerns", "Video Games", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r97qnp/am_i_the_only_one_whos_bothered_about_the_map/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map Size Sparks Debate: Is Bigger Always Better?

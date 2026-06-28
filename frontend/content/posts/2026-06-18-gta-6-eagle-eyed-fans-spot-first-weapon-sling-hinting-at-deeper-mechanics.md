@@ -4,6 +4,7 @@ date: "2026-06-18T23:26:32"
 description: "A new detail from GTA 6 discussions reveals the first appearance of a weapon sling, sparking speculation about advanced weapon carrying and customization in the upcoming title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Weapon System", "Weapon Sling", "Game Details", "Community Discussion", "Game Development", "Customization"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9ltsg/first_appearance_of_a_weapon_sling_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Eagle-Eyed Fans Spot First Weapon Sling, Hinting at Deeper Mechanics

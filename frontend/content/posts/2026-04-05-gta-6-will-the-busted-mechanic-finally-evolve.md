@@ -4,6 +4,7 @@ date: "2026-04-05T00:32:20"
 description: "A Reddit discussion questions the outdated 'busted' mechanic in Grand Theft Auto, arguing for a more realistic and engaging approach in GTA 6."
 tags: ["GTA 6", "Grand Theft Auto", "Gameplay Mechanics", "Busted Mechanic", "Realism", "Player Feedback", "Fan Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1scpfn9/do_you_think_gta_vi_will_keep_busted/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Will the 'Busted' Mechanic Finally Evolve?

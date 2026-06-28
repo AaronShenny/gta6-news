@@ -4,6 +4,7 @@ date: "2026-04-09T19:48:53"
 description: "A deep dive into the most beloved mechanics from past Grand Theft Auto titles that fans are hoping Rockstar brings back and expands upon for the highly anticipated GTA VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Wishlist", "Game Mechanics", "Rockstar Games", "Gaming News", "Features", "GTA III", "GTA Vice City", "GTA San Andreas", "GTA IV", "GTA V", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1sh087l/mechanics_from_previous_gta_games_id_like_to_see/"
+classification: "RUMOR"
 ---
 
 # Fan Wishlist: Iconic GTA Mechanics Players Want to See in Grand Theft Auto VI

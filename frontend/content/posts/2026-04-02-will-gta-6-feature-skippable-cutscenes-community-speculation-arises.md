@@ -4,6 +4,7 @@ date: "2026-04-02T01:39:21"
 description: "A Reddit post on the r/GTA6 subreddit sparks discussion and anticipation regarding the potential for skippable cutscenes in the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Cutscenes", "Skippable Cutscenes", "Gaming Features", "Community Discussion", "Reddit", "Rockstar Games", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sa3yr9/will_gta_6_have_skipicle_cutscenes/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Feature Skippable Cutscenes? Community Speculation Arises

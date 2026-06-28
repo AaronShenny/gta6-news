@@ -4,6 +4,7 @@ date: "2026-03-10T22:03:14"
 description: "A Reddit user shares a simple strategy for GTA 6 players to prevent losing money upon death, drawing parallels from Red Dead Redemption 2's mechanic."
 tags: ["GTA 6", "Grand Theft Auto", "Money", "Death Penalty", "Tips", "Guide", "Strategy", "Red Dead Redemption 2", "Rockstar Games", "Community Advice"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqb1gp/for_the_people_who_dont_want_to_lose_money_in_gta/"
+classification: "CONFIRMED"
 ---
 
 # Community Tip: A Proactive Strategy to Safeguard Your Cash in GTA 6

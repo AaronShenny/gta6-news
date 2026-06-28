@@ -4,6 +4,7 @@ date: "2026-05-11T13:09:40"
 description: "A dedicated Grand Theft Auto fan on Reddit has shared their speculative cover art for GTA 6, drawing heavily from the classic Vice City aesthetic, as the community eagerly awaits official news."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Fan Art", "Cover Art", "Gaming Community", "Reddit", "Rockstar Games", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ta2u9e/i_made_cover_art_for_gta_6_inspired_by_vice_city/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Fan Crafts Vice City-Inspired Cover Art Ahead of Official Reveal

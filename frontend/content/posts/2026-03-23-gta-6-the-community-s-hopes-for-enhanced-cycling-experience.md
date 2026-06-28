@@ -4,6 +4,7 @@ date: "2026-03-23T01:09:56"
 description: "A Reddit user sparks discussion on desired cycling features in Grand Theft Auto VI, hoping for improved mechanics, diverse terrain, and bike destruction beyond GTA V's limitations."
 tags: ["GTA 6", "Grand Theft Auto VI", "Cycling", "Bikes", "Gameplay Features", "Community Wishlist", "Rockstar Games", "Open World", "Vehicle Mechanics"]
 source: "https://www.reddit.com/r/GTA6/comments/1s133ex/anyone_else_excited_for_cycling_in_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Community's Hopes for Enhanced Cycling Experience

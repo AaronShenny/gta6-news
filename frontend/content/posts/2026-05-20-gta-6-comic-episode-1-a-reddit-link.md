@@ -4,6 +4,7 @@ date: "2026-05-20T13:51:03"
 description: "A Reddit post on r/GTA6 by u/posisquid highlights 'GTA 6 Comic Episode 1,' serving as a direct link to an external comic for fans."
 tags: ["GTA 6", "Comic", "Reddit", "Fan Content", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1timc7g/gta_6_comic_episode_1/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Comic Episode 1: A Reddit Link

@@ -4,6 +4,7 @@ date: "2026-05-08T16:13:48"
 description: "Sony officially highlighted Grand Theft Auto 6 and confirmed its marketing partnership with Rockstar Games during its recent earnings call on May 8, emphasizing player engagement."
 tags: ["Sony", "GTA 6", "Grand Theft Auto", "Rockstar Games", "Marketing Deal", "Earnings Call", "PlayStation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7cjm3/sony_has_highlighted_gta_6_in_their_recent/"
+classification: "CONFIRMED"
 ---
 
 # Sony Confirms GTA 6 Marketing Deal in Latest Earnings Call

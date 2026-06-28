@@ -4,6 +4,7 @@ date: "2026-03-08T15:33:08"
 description: "A Reddit user cautions against overhyping the number of accessible interiors in GTA 6, drawing parallels to RDR2's limited building access."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Expectations", "Enterable Buildings", "RDR2", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1ro7sgb/gta_6_and_interiors/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Managing Expectations for Enterable Buildings

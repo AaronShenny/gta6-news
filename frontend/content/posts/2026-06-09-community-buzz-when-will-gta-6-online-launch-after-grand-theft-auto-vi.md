@@ -4,6 +4,7 @@ date: "2026-06-09T21:06:42"
 description: "Explore the ongoing community speculation and predictions regarding the release timeline for GTA 6 Online, following the highly anticipated launch of Grand Theft Auto VI."
 tags: ["GTA 6", "GTA 6 Online", "Release Date", "Predictions", "Rockstar Games", "Community Discussion", "Multiplayer", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1hvip/gta_6_online/"
+classification: "RUMOR"
 ---
 
 # Community Buzz: When Will GTA 6 Online Launch After Grand Theft Auto VI?

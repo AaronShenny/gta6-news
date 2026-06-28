@@ -4,6 +4,7 @@ date: "2026-05-28T23:32:03"
 description: "A Reddit user on r/GTA6 shares their desire for Grand Theft Auto 6's marketing strategy to evoke the same feeling and impact as the highly successful Grand Theft Auto 5 campaign."
 tags: ["GTA 6", "Grand Theft Auto VI", "Marketing", "GTA 5", "Rockstar Games", "Fan Opinion", "Gaming Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1tqk925/i_truly_hope_gta_6_marketing_to_feel_something/"
+classification: "RUMOR"
 ---
 
 # Reddit User Expresses Hope for GTA 6 Marketing to Mirror GTA 5's Iconic Campaign

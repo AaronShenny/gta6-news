@@ -4,6 +4,7 @@ date: "2026-05-21T06:45:55"
 description: "As Take-Two's investor call approaches, a Reddit post outlines three realistic scenarios for GTA 6 updates, ranging from a new trailer and pre-orders to a potential delay or a simple reaffirmation of the November 19th release date."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Investor Call", "Game Release Date", "Game Delay", "Trailer 3", "Pre-orders", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjcawp/realistic_expectations_for_today/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Await News Amidst Take-Two Investor Call: Three Potential Outcomes

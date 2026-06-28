@@ -4,6 +4,7 @@ date: "2026-03-01T14:12:37"
 description: "The GTA 6 community is buzzing with anticipation over potential car modifications, with one Redditor specifically hoping for dynamic exhaust sound changes."
 tags: ["GTA 6", "Grand Theft Auto", "Car Customization", "Vehicle Mods", "Community Wishlist", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rhy9h1/what_car_modifications_would_you_like_to_see_in/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Revs Up: What Car Customizations Are Players Hoping For?

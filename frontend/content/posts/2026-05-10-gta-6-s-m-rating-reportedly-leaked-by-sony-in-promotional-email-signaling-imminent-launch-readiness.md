@@ -4,6 +4,7 @@ date: "2026-05-10T01:43:49"
 description: "A PlayStation promotional email reportedly showed Grand Theft Auto 6 rated 'M for Mature,' sparking speculation that the game is 'locked and loaded' for release."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Sony", "PlayStation", "M Rating", "ESRB", "Game Leak", "Release Date Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8telm/gta_6_is_finished_sony_accidentally_leaked_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6's M-Rating Reportedly Leaked by Sony in Promotional Email, Signaling Imminent Launch Readiness

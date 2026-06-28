@@ -4,6 +4,7 @@ date: "2026-06-08T05:51:42"
 description: "A Reddit post highlights the impending 'battlefield' of game releases in Sep 2026 and Feb 2027, sparking discussion on how GTA 6 will navigate or dominate these crowded periods."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Video Game Releases", "Gaming Industry", "Speculation", "2026", "2027", "Gaming News", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzz7z2/seeing_all_these_games_releasing_in_sep_26_feb_27/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Unfazed Stance on Crowded 2026/2027 Game Release Windows

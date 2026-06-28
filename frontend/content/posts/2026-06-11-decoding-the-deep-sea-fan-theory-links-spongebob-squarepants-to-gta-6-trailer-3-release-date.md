@@ -4,6 +4,7 @@ date: "2026-06-11T22:43:04"
 description: "A dedicated fan has unveiled an elaborate theory connecting SpongeBob SquarePants lore to the highly anticipated Grand Theft Auto 6 Trailer 3, predicting a specific release date and time based on complex numerical 'evidence.'"
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "Fan Theory", "Rockstar Games", "SpongeBob SquarePants", "Release Date Speculation", "Gaming Humor", "Satire", "Video Game News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u3dw2o/people_think_trailer_3_will_just_randomly_drop/"
+classification: "RUMOR"
 ---
 
 # Decoding the Deep Sea: Fan Theory Links SpongeBob SquarePants to GTA 6 Trailer 3 Release Date

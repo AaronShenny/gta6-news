@@ -4,6 +4,7 @@ date: "2026-04-08T12:03:07"
 description: "A brief look at a Reddit post hinting at a shared, nostalgic 'feeling' among fans for the upcoming Grand Theft Auto VI, despite minimal details."
 tags: ["GTA 6", "Grand Theft Auto VI", "Community", "Anticipation", "Reddit", "Gaming Culture", "Nostalgia"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfquey/did_you_think_we_would_experience_that_feeling_in/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI: Community Anticipation and the Elusive 'Feeling'

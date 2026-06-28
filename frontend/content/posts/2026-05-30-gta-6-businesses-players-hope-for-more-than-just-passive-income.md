@@ -4,6 +4,7 @@ date: "2026-05-30T13:45:27"
 description: "A Reddit discussion on r/GTA6 explores whether businesses in the upcoming game should offer more engaging gameplay than simple passive income, without becoming overly complex."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Online", "Business Mechanics", "Gameplay Features", "Passive Income", "Fan Discussion", "Rockstar Games", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1ts0emc/should_businesses_be_more_indepth_than_simply/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Businesses: Players Hope for More Than Just Passive Income

@@ -4,6 +4,7 @@ date: "2026-03-29T17:57:14"
 description: "A Reddit discussion from /r/GTA6 explores community hopes for Vice City's nightlife in Grand Theft Auto 6, touching on elements like strip clubs, bustling streets, and dynamic weather impacts."
 tags: ["GTA 6", "Vice City", "Nightlife", "Fan Discussion", "Reddit", "Rockstar Games", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1s720mw/nightlife_in_vice_city_what_do_you_want_to_see/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Brainstorm Vice City's Nightlife Ambience

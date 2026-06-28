@@ -4,6 +4,7 @@ date: "2026-05-08T05:34:50"
 description: "A viral Reddit post humorously pits GTA 6 against the apocalypse, showcasing extreme fan anticipation for Rockstar's upcoming title."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Culture", "Fan Anticipation", "Reddit", "Humor", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6yp2m/if_gta_6_doomsday_release_at_the_same_time_im/"
+classification: "UNKNOWN"
 ---
 
 # Gamer Declares Unwavering Loyalty: Choosing GTA 6 Over Doomsday

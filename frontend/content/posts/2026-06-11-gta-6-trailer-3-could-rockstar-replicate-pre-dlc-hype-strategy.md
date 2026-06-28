@@ -4,6 +4,7 @@ date: "2026-06-11T15:35:58"
 description: "Speculation mounts that GTA 6 Trailer 3 could drop just days before the next GTA Online DLC, mirroring the successful marketing strategy used for Trailer 1 and 'The Chop Shop' update."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA Online", "Rockstar Games", "Trailer 3", "DLC", "Marketing Strategy", "Speculation", "Gaming News", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1u32h32/could_trailer_3_drop_right_before_the_next_gta/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3: Could Rockstar Replicate Pre-DLC Hype Strategy?

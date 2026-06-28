@@ -4,6 +4,7 @@ date: "2026-03-31T01:40:46"
 description: "A recent Reddit post expresses a strong desire for GTA 6 to move away from GTA V's story structure, advocating for a more serious narrative akin to Red Dead Redemption 2 or earlier GTA titles."
 tags: ["GTA 6", "Grand Theft Auto V", "Storytelling", "Gaming Opinion", "Rockstar Games", "Game Narrative", "Red Dead Redemption 2", "Gaming Journalism"]
 source: "https://www.reddit.com/r/GTA6/comments/1s89xo0/i_hope_gta_6_is_nothing_like_gta_v/"
+classification: "RUMOR"
 ---
 
 # Opinion: A Gaming Journalist's Hopes for GTA 6's Narrative Direction

@@ -4,6 +4,7 @@ date: "2026-06-20T14:33:44"
 description: "A Reddit user speculates whether Rockstar Games will utilize the iconic Hotel Figueroa for Grand Theft Auto 6's marketing, mirroring past campaigns for GTA V and GTA IV."
 tags: ["GTA 6", "Rockstar Games", "Marketing", "Hotel Figueroa", "Grand Theft Auto", "Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1uay453/will_rockstar_use_hotel_figueroa_for_marketing/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing Buzz: Will Hotel Figueroa Play a Role Again?

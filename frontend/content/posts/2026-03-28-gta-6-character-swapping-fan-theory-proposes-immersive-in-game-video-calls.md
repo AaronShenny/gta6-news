@@ -4,6 +4,7 @@ date: "2026-03-28T01:34:41"
 description: "A compelling fan theory for GTA 6 suggests an innovative character transition system, utilizing in-game video calls to enhance immersion and dynamic character interactions between Jason and Lucia."
 tags: ["GTA 6", "Grand Theft Auto VI", "Character Switching", "Fan Theory", "Immersion", "Video Calls", "Rockstar Games", "Gameplay Mechanics", "Jason and Lucia"]
 source: "https://www.reddit.com/r/GTA6/comments/1s5n4ub/thoughts_on_how_character_transitions_will_work/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Character Swapping: Fan Theory Proposes Immersive In-Game Video Calls

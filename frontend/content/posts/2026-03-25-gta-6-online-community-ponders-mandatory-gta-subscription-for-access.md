@@ -4,6 +4,7 @@ date: "2026-03-25T05:20:57"
 description: "A Reddit user sparks discussion by posing a hypothetical scenario: What if GTA 6 Online required an active GTA+ subscription for access? The post asks the community if they would pay."
 tags: ["GTA 6", "GTA 6 Online", "Rockstar Games", "GTA+", "Subscription", "Community Discussion", "Speculation", "Hypothetical"]
 source: "https://www.reddit.com/r/GTA6/comments/1s31waa/question_to_all_of_you/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Community Ponders Mandatory GTA+ Subscription for Access

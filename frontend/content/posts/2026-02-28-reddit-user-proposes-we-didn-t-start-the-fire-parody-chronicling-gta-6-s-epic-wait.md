@@ -4,6 +4,7 @@ date: "2026-02-28T03:48:35"
 description: "A Redditor suggests creating a parody of Billy Joel's 'We Didn't Start the Fire' to list all the cultural, political, and scientific events that transpired during the long anticipation for Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Reddit", "Billy Joel", "We Didn't Start the Fire", "Parody", "Gaming Community", "Anticipation", "Development Cycle"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgsad2/i_think_that_after_the_release_of_gta_6_we_should/"
+classification: "RUMOR"
 ---
 
 # Reddit User Proposes 'We Didn't Start the Fire' Parody Chronicling GTA 6's Epic Wait

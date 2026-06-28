@@ -4,6 +4,7 @@ date: "2026-02-14T19:29:13"
 description: "A GTA 6 fan expresses a strong desire for more dynamic and realistic NPC behavior, where enemies react logically to player weaponry and combat situations, moving beyond the static AI seen in GTA V."
 tags: ["GTA 6", "NPC AI", "Reactive NPCs", "Gaming Community", "Player Feedback", "Realism", "Open World", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4tjmw/reactive_npcs/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Hopes for More Reactive and Realistic NPC AI

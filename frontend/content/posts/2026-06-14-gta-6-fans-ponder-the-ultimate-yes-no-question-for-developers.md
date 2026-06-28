@@ -4,6 +4,7 @@ date: "2026-06-14T03:06:09"
 description: "A popular Reddit thread challenges Grand Theft Auto VI enthusiasts to craft the single most impactful yes/no question they'd ask a developer to uncover elusive game details."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Community Discussion", "Fan Speculation", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u59r5y/one_yesno_question/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Ponder the Ultimate Yes/No Question for Developers

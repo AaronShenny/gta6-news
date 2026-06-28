@@ -4,6 +4,7 @@ date: "2026-03-22T18:30:05"
 description: "A new fan theory for Grand Theft Auto 6 suggests protagonists Jason and Lucia might be able to dynamically switch their main safe house location between Vice City and the Leonida Keys."
 tags: ["GTA 6", "Grand Theft Auto 6", "Safe Houses", "Jason", "Lucia", "Fan Theory", "Speculation", "Leonida Keys", "Vice City", "Gameplay Mechanics"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0t9tu/changing_safe_houses/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Safe House Speculation: Could Jason and Lucia Dynamically Relocate?

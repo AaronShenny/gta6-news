@@ -4,6 +4,7 @@ date: "2026-04-13T00:23:30"
 description: "A Reddit discussion highlights player desires for an impactful reputation system in GTA VI, exploring how choices could shape world interactions and make the game feel more alive."
 tags: ["GTA VI", "Grand Theft Auto", "Reputation System", "Community Discussion", "Reddit", "Game Features", "Open World", "Player Immersion", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sjvd4w/what_kind_of_reputation_system_would_make_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA VI Fans Debate Ideal Reputation System for a 'Living' World

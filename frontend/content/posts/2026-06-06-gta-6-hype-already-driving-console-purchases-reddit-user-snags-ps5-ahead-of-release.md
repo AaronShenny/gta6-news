@@ -4,6 +4,7 @@ date: "2026-06-06T02:13:07"
 description: "A Reddit user shares their proactive step of buying a PS5 specifically for the upcoming Grand Theft Auto 6, aiming to avoid future shortages and price hikes."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5", "PlayStation 5", "Console Purchase", "Gaming Hype", "Video Games", "Anticipation", "Console Shortages"]
 source: "https://www.reddit.com/r/GTA6/comments/1ty4kba/consoles/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Already Driving Console Purchases, Reddit User Snags PS5 Ahead of Release

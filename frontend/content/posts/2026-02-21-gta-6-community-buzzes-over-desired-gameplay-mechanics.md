@@ -4,6 +4,7 @@ date: "2026-02-21T19:41:32"
 description: "The GTA 6 community is actively discussing what new and returning gameplay mechanics they hope to see in the highly anticipated title. Join the conversation!"
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Mechanics", "Community Discussion", "Player Feedback", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rb0g3c/do_you_want_this_type_of_mechanics_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Buzzes Over Desired Gameplay Mechanics

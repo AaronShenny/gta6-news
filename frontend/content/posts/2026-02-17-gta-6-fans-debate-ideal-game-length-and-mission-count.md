@@ -4,6 +4,7 @@ date: "2026-02-17T19:25:20"
 description: "A Reddit discussion sparks debate among fans regarding GTA 6's potential story length and mission count, with comparisons to Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Length", "Mission Count", "Red Dead Redemption 2", "RDR2", "Fan Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1r7fymt/how_long_do_you_want_the_game_to_be/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Fans Debate Ideal Game Length and Mission Count

@@ -4,6 +4,7 @@ date: "2026-05-21T20:14:04"
 description: "Take-Two Interactive's stock experienced a significant jump of almost 7% following reports that Grand Theft Auto 6 remains on schedule for its November 19th release."
 tags: ["GTA 6", "Grand Theft Auto", "Take-Two Interactive", "Stock Market", "Release Date", "Gaming News", "Rockstar Games", "Industry Impact"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjwhmn/take_two_stock_is_up_nearly_7_after_the/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Release Date Confirmation Fuels Nearly 7% Stock Surge for Take-Two

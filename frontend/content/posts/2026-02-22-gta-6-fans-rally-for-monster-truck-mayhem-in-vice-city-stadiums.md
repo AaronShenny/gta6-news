@@ -4,6 +4,7 @@ date: "2026-02-22T12:32:15"
 description: "A Reddit user suggests Rockstar Games should incorporate high-octane Monster Jam events into the ballpark stadiums of the upcoming Grand Theft Auto 6, set in Vice City."
 tags: ["GTA 6", "Grand Theft Auto 6", "Vice City", "Rockstar Games", "Fan Speculation", "Monster Trucks", "Monster Jam", "Stadium Activities", "Community Ideas", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rbkq20/stadium_activities_in_miamivice_city/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Rally for Monster Truck Mayhem in Vice City Stadiums

@@ -4,6 +4,7 @@ date: "2026-03-29T01:00:16"
 description: "A PC gamer new to console experiences turns to the r/GTA6 community for guidance on selecting an Xbox or PlayStation for the highly anticipated Grand Theft Auto 6, aiming for the optimal gameplay experience."
 tags: ["GTA 6", "Xbox", "PlayStation", "Console Gaming", "PC Gaming", "Gaming Hardware", "Community Advice", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6heth/xbox_or_ps_for_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Console Conundrum: PC Gamer Seeks Community Advice on Xbox vs. PlayStation

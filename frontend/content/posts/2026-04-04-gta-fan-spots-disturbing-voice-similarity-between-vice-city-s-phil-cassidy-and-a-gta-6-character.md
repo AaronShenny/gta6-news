@@ -4,6 +4,7 @@ date: "2026-04-04T00:55:27"
 description: "A dedicated GTA fan shares their theory on a striking voice similarity between Phil Cassidy from GTA: Vice City and a character spotted in the GTA 6 trailers, sparking debate."
 tags: ["GTA 6", "Grand Theft Auto VI", "Phil Cassidy", "Vice City", "Voice Actor", "Fan Theory", "Rockstar Games", "Gaming News", "Trailer Analysis", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbv990/phil_de_vice_city_a_la_même_voix_que_phils_de_gta/"
+classification: "RUMOR"
 ---
 
 # GTA Fan Spots 'Disturbing' Voice Similarity Between Vice City's Phil Cassidy and a GTA 6 Character

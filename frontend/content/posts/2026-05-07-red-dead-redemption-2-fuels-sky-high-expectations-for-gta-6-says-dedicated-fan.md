@@ -4,6 +4,7 @@ date: "2026-05-07T06:01:14"
 description: "A passionate gamer argues that Red Dead Redemption 2 demonstrates Rockstar's unparalleled capabilities on modern hardware, setting a new bar for what to expect from Grand Theft Auto 6 beyond mere graphical improvements."
 tags: ["GTA 6", "Red Dead Redemption 2", "Rockstar Games", "Game Hype", "Open World", "Gaming Experience", "NPC Simulation", "Storytelling", "World Building", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1t61unh/anyone_elses_hype_for_this_game_purely_off_rdr2/"
+classification: "UNKNOWN"
 ---
 
 # Red Dead Redemption 2 Fuels Sky-High Expectations for GTA 6, Says Dedicated Fan

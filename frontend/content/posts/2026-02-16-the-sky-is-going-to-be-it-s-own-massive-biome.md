@@ -4,6 +4,7 @@ date: "2026-02-16T20:31:16"
 description: "GTA 6 is poised to transform its sky into a dynamic, populated 'biome,' with advanced weather systems and active aerial combat, a significant upgrade from GTA 5's empty airspace."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Open World", "Game Mechanics", "Sky Biome", "Weather System", "Flight Simulation", "Aerial Combat", "NPCs", "Gameplay Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6l0cn/the_sky_is_going_to_be_its_own_massive_biome/"
+classification: "UNKNOWN"
 ---
 
 # The sky is going to be it's own massive biome

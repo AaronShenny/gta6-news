@@ -4,6 +4,7 @@ date: "2026-03-16T17:26:58"
 description: "A dedicated community developer has launched a significant update to their GTA 6 interactive map, now featuring over 1400 mapped locations, trailer screenshot spots, and an improved UI for Vice City and Leonida."
 tags: ["GTA 6", "Grand Theft Auto VI", "Interactive Map", "Vice City", "Leonida", "Community Project", "Trailer Analysis", "Gaming News", "Fan Made", "Exploration"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvfzvk/update_gta_6_interactive_map_1400_mapped/"
+classification: "RUMOR"
 ---
 
 # Massive Update Released for Community-Driven GTA 6 Interactive Map, Over 1400 Locations Mapped

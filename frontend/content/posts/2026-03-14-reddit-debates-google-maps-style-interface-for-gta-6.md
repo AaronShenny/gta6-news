@@ -4,6 +4,7 @@ date: "2026-03-14T03:07:09"
 description: "A Reddit user sparks discussion on whether Grand Theft Auto VI should adopt a Google Maps-like interface for its in-game map, similar to Watch Dogs 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Map Interface", "Google Maps", "Watch Dogs 2", "UI/UX", "Gaming Debate", "Reddit", "Rockstar Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rt8bi9/should_gta_vi_have_a_google_maps_like_map_menu/"
+classification: "UNKNOWN"
 ---
 
 # Reddit Debates Google Maps-Style Interface for GTA 6

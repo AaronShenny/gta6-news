@@ -4,6 +4,7 @@ date: "2026-05-09T18:55:02"
 description: "A gaming journalist examines Rockstar's history of pushing console hardware to its limits, arguing that GTA 6 will be an unprecedented technical marvel on the PlayStation 5, mirroring the achievements of GTA V and RDR 2."
 tags: ["GTA 6", "Rockstar Games", "PlayStation 5", "Game Development", "Hardware Optimization", "Gaming Industry", "Red Dead Redemption 2", "Grand Theft Auto V", "Next-Gen Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8dj8g/this_is_why_gta_6_will_surpass_all_expectations/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Why Rockstar's Track Record Suggests Unprecedented Innovation on PS5

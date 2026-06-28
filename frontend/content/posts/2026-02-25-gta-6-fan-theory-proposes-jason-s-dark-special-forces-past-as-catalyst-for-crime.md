@@ -4,6 +4,7 @@ date: "2026-02-25T20:06:03"
 description: "A popular GTA 6 fan theory speculates that protagonist Jason's background as former special forces, marked by a disastrous mission, could be the catalyst for his criminal life in Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jason (GTA 6)", "Fan Theory", "Rockstar Games", "Character Backstory", "Special Forces", "Vice City", "Narrative Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1reo8p2/since_jason_is_former_special_forces_rockstar/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Theory Proposes Jason's Dark Special Forces Past as Catalyst for Crime

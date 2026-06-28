@@ -4,6 +4,7 @@ date: "2026-03-06T17:41:41"
 description: "A Reddit user sparks debate, arguing that GTA 6's release on Xbox technically means it's already 'half-released' on PC due to shared architecture and ecosystem."
 tags: ["GTA 6", "Xbox", "PC Gaming", "Rockstar Games", "Gaming Industry", "Hardware", "Microsoft Ecosystem", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmkoac/if_gta_6_releases_on_xbox_then_technically_it_has/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 on Xbox: Is it Already 'Half-Released' on PC?

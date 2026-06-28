@@ -4,6 +4,7 @@ date: "2026-06-23T15:03:14"
 description: "Gaming fans are buzzing with speculation about GTA 6's opening mission, theorizing everything from Lucia's prison release to a flashback detailing Jason and Lucia's first encounter."
 tags: ["GTA 6", "Grand Theft Auto VI", "Opening Mission", "Fan Theories", "Speculation", "Lucia", "Jason", "Rockstar Games", "Vice City", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1udjmq5/gta_6_start/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Opening Mission: Fan Theories Abound for the Highly Anticipated Kick-off

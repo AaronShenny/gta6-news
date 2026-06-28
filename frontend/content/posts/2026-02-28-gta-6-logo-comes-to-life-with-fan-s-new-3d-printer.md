@@ -4,6 +4,7 @@ date: "2026-02-28T16:10:44"
 description: "A dedicated Grand Theft Auto VI enthusiast, Reddit user u/Own-Measurement8977, showcases their impressive 3D printed GTA 6 logo, a project completed shortly after acquiring a new printer."
 tags: ["GTA 6", "Grand Theft Auto VI", "3D printing", "fan creation", "gaming community", "logo", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rh6hy5/3d_printed_gta_6_logo/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Logo Comes to Life with Fan's New 3D Printer

@@ -4,6 +4,7 @@ date: "2026-05-17T14:19:34"
 description: "A Reddit user's post about an alleged interaction with a Best Buy virtual assistant sparks intense speculation among fans regarding the potential release of Grand Theft Auto VI's third trailer."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "Speculation", "Rumor", "Best Buy", "Virtual Assistant", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tfquss/i_spoke_to_the_best_buy_virtual_assistant_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3 Speculation Surges Following Unverified Best Buy Virtual Assistant Claim

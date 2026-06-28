@@ -4,6 +4,7 @@ date: "2026-05-21T02:30:15"
 description: "A dedicated GTA fan questions whether the increasing price of PlayStation Plus and a preference for story mode will deter players from GTA 6 Online, citing past frustrations with online repetitiveness."
 tags: ["GTA 6", "Grand Theft Auto", "Story Mode", "Online Multiplayer", "PlayStation Plus", "Gaming Costs", "Player Preference", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1tj71wx/are_there_a_lot_of_people_who_only_care_about_the/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Will Rising PS Plus Costs and Single-Player Nostalgia Push Gamers Away From Online?

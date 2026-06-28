@@ -4,6 +4,7 @@ date: "2026-03-07T10:16:25"
 description: "A dedicated GTA 6 fan expresses a desire for more intricate sniper scope views in the upcoming game, lamenting the 'massive black border' seen in past Rockstar titles and calling for an update to weapon detailing."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Sniper Scopes", "Game Design", "Player Feedback", "Weapon Details", "Gaming Graphics", "Community Opinion", "Silent Scope"]
 source: "https://www.reddit.com/r/GTA6/comments/1rn6hwh/guys_my_2_cents/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Hopes for Detailed Sniper Scope Views, Citing Rockstar's Meticulous Detail

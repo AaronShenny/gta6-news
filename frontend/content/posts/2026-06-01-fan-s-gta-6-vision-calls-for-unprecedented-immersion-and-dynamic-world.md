@@ -4,6 +4,7 @@ date: "2026-06-01T01:03:30"
 description: "A Reddit user outlines an ambitious vision for GTA 6, emphasizing a truly 'alive' world with hyper-realistic NPCs, interactive buildings, and a meaningful economy, questioning if these high expectations are reasonable."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fan Expectations", "Open World", "Immersion", "NPC AI", "Game Economy", "Enterable Buildings", "Rockstar Games", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttd2ju/gta_6_vision/"
+classification: "UNKNOWN"
 ---
 
 # Fan's GTA 6 'Vision' Calls for Unprecedented Immersion and Dynamic World

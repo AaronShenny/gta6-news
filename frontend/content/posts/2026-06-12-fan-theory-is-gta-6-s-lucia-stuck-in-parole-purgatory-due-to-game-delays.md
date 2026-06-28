@@ -4,6 +4,7 @@ date: "2026-06-12T17:12:41"
 description: "A humorous fan theory from Reddit speculates that GTA 6 protagonist Lucia's in-game parole is perpetually denied with every real-world game delay, tying her fictional fate to the game's development cycle."
 tags: ["GTA 6", "Grand Theft Auto VI", "Lucia", "Fan Theory", "Game Delays", "Rockstar Games", "Reddit", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u41fv2/does_lucia_get_denied_parole_every_time_gta_6/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: Is GTA 6's Lucia Stuck in Parole Purgatory Due to Game Delays?

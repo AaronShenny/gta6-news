@@ -4,6 +4,7 @@ date: "2026-05-01T15:08:18"
 description: "Reports indicate GTA 6-themed rides are appearing at a Czech beer festival, showcasing the immense, unofficial fan anticipation for Rockstar's upcoming title."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Hype", "Fan Creations", "Czech Republic", "Beer Festival", "Video Games News", "Anticipation", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0w3ey/we_got_gta_6themed_czech_beer_festival_rides/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Manifests in Unexpected Czech Beer Festival Rides

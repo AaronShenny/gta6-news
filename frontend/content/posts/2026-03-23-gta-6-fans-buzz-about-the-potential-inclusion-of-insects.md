@@ -4,6 +4,7 @@ date: "2026-03-23T22:21:32"
 description: "A Reddit discussion highlights fan anticipation for environmental realism in Grand Theft Auto 6, debating whether the game should feature detailed insect life."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Open World", "Realism", "Immersion", "Game Development", "Fan Discussion", "Insects", "Environment", "Community Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1vmco/would_you_like_to_see_insects_in_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Buzz About the Potential Inclusion of Insects

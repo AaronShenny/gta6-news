@@ -4,6 +4,7 @@ date: "2026-04-02T03:35:59"
 description: "A Reddit user speculates on GTA 6 offering multiple endings, specifically a romantic choice for Jason and Lucia, reminiscent of GTA IV's branching narratives."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Theory", "Multiple Endings", "Jason and Lucia", "Rockstar Games", "Community Speculation", "Gaming News", "Narrative Choices", "GTA IV"]
 source: "https://www.reddit.com/r/GTA6/comments/1sa6hse/do_you_think_gta_vi_will_have_multiple_endings_to/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Jason and Lucia's Fate Lead to Multiple Endings?

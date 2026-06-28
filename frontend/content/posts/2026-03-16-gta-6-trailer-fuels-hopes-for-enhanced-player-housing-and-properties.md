@@ -4,6 +4,7 @@ date: "2026-03-16T06:35:29"
 description: "A scene from the GTA 6 Trailer 1 featuring Lucia in a lavish penthouse has sparked community speculation about the return of extensive player-owned properties, including mansions and yachts, in story mode."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA 6 Trailer", "Player Housing", "Properties", "Penthouse", "Lucia", "Story Mode", "Game Speculation", "Vice City", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rv214e/a_fancy_penthouse_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer Fuels Hopes for Enhanced Player Housing and Properties

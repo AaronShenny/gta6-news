@@ -4,6 +4,7 @@ date: "2026-06-06T06:42:03"
 description: "A Reddit post on r/GTA6 sparks community discussion about what significant events or releases might *not* happen before the highly anticipated launch of Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming News", "Community Discussion", "Release Date Speculation", "Reddit", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ty9ssj/what_are_we_not_getting_before_gta_6/"
+classification: "RUMOR"
 ---
 
 # What are we NOT getting before GTA 6?

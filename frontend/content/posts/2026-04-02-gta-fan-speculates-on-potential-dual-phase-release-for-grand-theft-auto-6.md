@@ -4,6 +4,7 @@ date: "2026-04-02T18:19:03"
 description: "A Reddit user theorizes that Rockstar Games may employ a staggered release strategy for GTA 6, launching a base version for current consoles followed by an enhanced 'next-gen' edition for PC and future platforms, drawing parallels to GTA V's rollout."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Release Strategy", "Speculation", "Next-Gen", "PC Gaming", "Console Gaming", "Fan Theory", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sap9o0/anyone_else_hyped_for_the_second_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA Fan Speculates on Potential Dual-Phase Release for Grand Theft Auto 6

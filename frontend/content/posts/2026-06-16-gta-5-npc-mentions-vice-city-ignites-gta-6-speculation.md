@@ -4,6 +4,7 @@ date: "2026-06-16T20:41:02"
 description: "A Reddit user claims to have heard an NPC in Grand Theft Auto V mention 'Vice City,' sparking discussions about potential GTA 6 connections and hidden easter eggs."
 tags: ["GTA 6", "GTA 5", "Vice City", "Easter Egg", "Speculation", "NPC Dialogue", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7piqk/new_audio_in_gta_5/"
+classification: "RUMOR"
 ---
 
 # GTA 5 NPC Mentions Vice City, Ignites GTA 6 Speculation

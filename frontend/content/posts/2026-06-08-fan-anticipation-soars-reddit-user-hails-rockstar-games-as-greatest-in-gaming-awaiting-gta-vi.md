@@ -4,6 +4,7 @@ date: "2026-06-08T14:48:06"
 description: "A passionate Reddit user expresses immense excitement for Grand Theft Auto VI, praising Rockstar Games alongside Naughty Dog and Fumito Ueda as top-tier developers crafting 'works of art.'"
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Naughty Dog", "Fumito Ueda", "Gaming Community", "Fan Anticipation", "Video Game Development", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0a2ol/naughty_dog_rockstar_games_and_fumito_ueda_are/"
+classification: "UNKNOWN"
 ---
 
 # Fan Anticipation Soars: Reddit User Hails Rockstar Games as 'Greatest in Gaming,' Awaiting GTA VI

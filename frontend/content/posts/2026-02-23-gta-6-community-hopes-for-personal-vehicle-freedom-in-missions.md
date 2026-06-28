@@ -4,6 +4,7 @@ date: "2026-02-23T16:23:04"
 description: "A Reddit user on r/GTA6 highlights a common frustration in Grand Theft Auto games: being forced to use specific mission vehicles. Will GTA 6 allow players more freedom with their customized cars?"
 tags: ["GTA 6", "Grand Theft Auto", "Personal Vehicles", "Mission Design", "Player Choice", "Customization", "Gaming Frustrations", "Reddit Discussion", "Community Feedback"]
 source: "https://www.reddit.com/r/GTA6/comments/1rclxli/personal_vehicles/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Hopes for Personal Vehicle Freedom in Missions

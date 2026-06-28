@@ -4,6 +4,7 @@ date: "2026-02-26T03:51:06"
 description: "Discover why one long-time Grand Theft Auto player plans to ignore the main story in GTA 6 to binge on in-game TV shows like Republican Space Rangers and Princess Robot Bubblegum."
 tags: ["GTA 6", "Grand Theft Auto VI", "In-game TV", "Republican Space Rangers", "Princess Robot Bubblegum", "Impotent Rage", "Gaming culture", "Player habits", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rezr0f/first_thing_im_gonna_do_when_i_get_on_gta_vi_im/"
+classification: "RUMOR"
 ---
 
 # Dedicated GTA Fan Reveals Unusual Day One Priority for GTA 6: In-Game Television

@@ -4,6 +4,7 @@ date: "2026-05-06T15:36:42"
 description: "A Reddit user sparks a debate, questioning if Grand Theft Auto 6's hair physics and detail can surpass the acclaimed quality seen in Alan Wake 2 on PS5, highlighting the new standard set for in-game hair rendering."
 tags: ["GTA 6", "Grand Theft Auto 6", "Alan Wake 2", "Hair Physics", "Game Graphics", "PS5", "Rockstar Games", "Remedy Entertainment", "Gaming Debate", "Character Models"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5ggvf/do_yall_think_gta_6_will_have_better_hair_than/"
+classification: "RUMOR"
 ---
 
 # GTA 6 vs. Alan Wake 2: Will Rockstar's Hair Physics Surpass Remedy's Benchmark?

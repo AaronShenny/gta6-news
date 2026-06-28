@@ -4,6 +4,7 @@ date: "2026-04-05T13:27:43"
 description: "A Reddit user speculates on the GTA 6 gameplay trailer release, using historical Rockstar patterns from GTA 5 and RDR2 to predict a September 2026 reveal."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gameplay Trailer", "Release Date", "Rockstar Games", "Gaming News", "Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sd3mik/we_are_potentially_5ish_months_away_from_a/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Gameplay Trailer: Could September 2026 Be the Date?

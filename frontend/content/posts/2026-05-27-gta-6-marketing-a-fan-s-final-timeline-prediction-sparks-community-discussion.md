@@ -4,6 +4,7 @@ date: "2026-05-27T16:08:12"
 description: "Explore a dedicated Reddit user's 'final' prediction for Grand Theft Auto VI's marketing rollout, sparking widespread speculation among fans eagerly awaiting official news."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Marketing Prediction", "Fan Theory", "Reddit", "Gaming News", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tpa41f/my_final_gta_vi_marketing_timeline_prediction/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing: A Fan's 'Final' Timeline Prediction Sparks Community Discussion

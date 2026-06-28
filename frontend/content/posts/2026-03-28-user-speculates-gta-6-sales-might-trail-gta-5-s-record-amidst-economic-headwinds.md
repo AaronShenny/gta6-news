@@ -4,6 +4,7 @@ date: "2026-03-28T15:57:45"
 description: "A Reddit user predicts Grand Theft Auto 6's first-year sales could fall short of GTA 5's historic numbers, citing PS5 price hikes and the current economic climate as potential factors."
 tags: ["GTA 6", "Grand Theft Auto", "Sales Prediction", "Gaming Industry", "Economic Impact", "PS5", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s644kk/with_the_ps5_price_hike_and_the_current_economy_i/"
+classification: "UNKNOWN"
 ---
 
 # User Speculates GTA 6 Sales Might Trail GTA 5's Record Amidst Economic Headwinds

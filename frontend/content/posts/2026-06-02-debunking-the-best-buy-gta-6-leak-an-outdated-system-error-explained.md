@@ -4,6 +4,7 @@ date: "2026-06-02T18:26:16"
 description: "A recent Best Buy listing for Grand Theft Auto 6 sparked major hype, but a popular theory suggests it was merely an un-updated pre-order date in their system, not a true leak."
 tags: ["GTA 6", "Grand Theft Auto 6", "Best Buy", "Leak", "Pre-order", "Release Date", "Gaming Rumor", "Rockstar Games", "System Error"]
 source: "https://www.reddit.com/r/GTA6/comments/1tuzn6h/why_did_that_best_buy_leak_happen_explained/"
+classification: "RUMOR"
 ---
 
 # Debunking the Best Buy GTA 6 'Leak': An Outdated System Error Explained

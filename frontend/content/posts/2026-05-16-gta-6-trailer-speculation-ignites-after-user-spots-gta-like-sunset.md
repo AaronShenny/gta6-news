@@ -4,6 +4,7 @@ date: "2026-05-16T19:13:43"
 description: "A Reddit user's observation of a sunset sparks humorous speculation about the imminent GTA 6 trailer release, drawing parallels to the game's aesthetic."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer Speculation", "Reddit", "Fan Theory", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1tf2rll/i_think_this_is_a_sign_gta_6_trailer_drops_monday/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer Speculation Ignites After User Spots 'GTA-like Sunset'

@@ -4,6 +4,7 @@ date: "2026-06-23T15:33:35"
 description: "A dedicated GTA 6 fan on Reddit has revealed a unique Vice City-themed painting that glows under blacklight, with a promise to share a full picture soon."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Fan Art", "Painting", "Blacklight", "Reddit", "Community Creations"]
 source: "https://www.reddit.com/r/GTA6/comments/1udkgct/new_vice_city_painting/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype: Fan Unveils Blacklight-Reactive Vice City Painting, Promises More Details Soon

@@ -4,6 +4,7 @@ date: "2026-05-29T15:40:17"
 description: "A recent Reddit post highlights an old thread from 2019 that seemingly predicted elements of Grand Theft Auto 6, years before any official announcements or significant leaks."
 tags: ["GTA 6", "Grand Theft Auto", "Reddit", "speculation", "leaks", "gaming news", "community theories", "rumors"]
 source: "https://www.reddit.com/r/GTA6/comments/1tr5rgm/that_post_from_2019_3_years_before_we_got_any/"
+classification: "RUMOR"
 ---
 
 # Community Marvels at Prescient 2019 GTA 6 Speculation Post

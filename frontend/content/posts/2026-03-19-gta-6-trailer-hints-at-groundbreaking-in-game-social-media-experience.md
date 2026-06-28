@@ -4,6 +4,7 @@ date: "2026-03-19T23:50:58"
 description: "The first GTA 6 trailer prominently featured in-game social media, leading to speculation that it will be a massive, interactive component, potentially fostering virtual influencers within the game."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Online", "In-game Social Media", "Virtual Influencers", "Gaming News", "Rockstar Games", "Game Features", "Trailer Analysis", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rygmam/ingame_social_media_will_be_a_huge_presence_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer Hints at Groundbreaking In-Game Social Media Experience

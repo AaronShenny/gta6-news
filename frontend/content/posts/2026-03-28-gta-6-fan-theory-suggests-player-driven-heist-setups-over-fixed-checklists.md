@@ -4,6 +4,7 @@ date: "2026-03-28T09:16:25"
 description: "A popular fan theory explores how Grand Theft Auto 6 could revolutionize mission preparation, moving away from GTA V's fixed setup tasks to offer players complete freedom in funding and acquiring equipment, influencing mission difficulty and outcomes."
 tags: ["GTA 6", "Grand Theft Auto", "Mission Design", "Heists", "Gameplay Mechanics", "Player Choice", "Fan Theory", "Game Development", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s5vmr3/big_hiests_missions_setup/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Theory Suggests Player-Driven Heist Setups Over Fixed Checklists

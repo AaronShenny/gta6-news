@@ -4,6 +4,7 @@ date: "2026-06-19T01:38:40"
 description: "A recent observation by GTA 6 fans highlights two different characters wearing the Vice City Manatees shirt, leading to initial theories about character connections and in-game lore."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City Manatees", "Character Speculation", "Easter Eggs", "In-game Lore", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9onlw/both_wear_the_vice_city_mantees_tshirt/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Spot Recurring Vice City Manatees Apparel, Sparking Character Speculation

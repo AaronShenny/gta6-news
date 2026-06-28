@@ -4,6 +4,7 @@ date: "2026-02-23T21:39:42"
 description: "Dedicated GTA 6 fans are calling for a sophisticated, modern in-game smartphone, complete with customizable features and a suite of parody apps like 'Zit' (Spotify) and 'Bleeter' (Twitter), to enhance immersion and gameplay."
 tags: ["GTA 6", "Grand Theft Auto VI", "in-game phone", "smartphone", "parody apps", "Watch Dogs", "player suggestions", "community ideas", "immersion", "gameplay features", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcuu77/we_need_a_mobile_modern_phone_like_the_one_in/"
+classification: "RUMOR"
 ---
 
 # Beyond iFruit: GTA 6 Players Envision a Watch Dogs-Style Smartphone Experience

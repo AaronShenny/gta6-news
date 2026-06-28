@@ -4,6 +4,7 @@ date: "2026-06-25T15:45:57"
 description: "Leaked details suggest GTA 6 will revolutionize in-game vehicle fidelity with true 3D geometry, detailed suspension, and Physically Based Rendering, potentially setting a new benchmark beyond dedicated racing titles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Vehicle Technology", "Gaming Graphics", "PBR", "3D Geometry", "Suspension Modeling", "Racing Games", "Forza Horizon", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufdr97/gta_6_compared_to_forza_horizon_6/"
+classification: "LEAK"
 ---
 
 # GTA 6's Vehicle Tech Poised to Outperform Dedicated Racing Games

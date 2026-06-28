@@ -4,6 +4,7 @@ date: "2026-06-21T16:48:45"
 description: "A Reddit user speculates that Grand Theft Auto 6 Online might move away from explosive-heavy PvP, prioritizing more visceral bullet-based encounters, potentially rebalancing gameplay."
 tags: ["GTA 6", "GTA Online", "PvP", "Combat", "Weapons", "Explosives", "Bullets", "Speculation", "Reddit", "Gaming News", "Minigun", "Buzzard"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubuve8/this_minigun_and_the_50_cal_on_the_side_of_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Fan Speculation Hints at a Shift Towards Bullet-Based Combat Over Explosives

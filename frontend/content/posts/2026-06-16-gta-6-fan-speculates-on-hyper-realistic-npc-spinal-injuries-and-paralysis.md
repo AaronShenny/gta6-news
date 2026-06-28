@@ -4,6 +4,7 @@ date: "2026-06-16T02:06:25"
 description: "A dedicated GTA 6 fan raises a fascinating question about the game's potential for hyper-realistic NPC damage, including spinal injuries and paralysis, moving beyond traditional ragdoll physics."
 tags: ["GTA 6", "Grand Theft Auto 6", "NPC", "Realism", "Game Physics", "Spinal Injuries", "Paralysis", "Ragdoll Physics", "Fan Speculation", "Rockstar Games", "Gaming News", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u70ibg/you_think_hitting_npcs_will_give_them_spinal/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculates on Hyper-Realistic NPC Spinal Injuries and Paralysis

@@ -4,6 +4,7 @@ date: "2026-04-12T00:04:06"
 description: "A co-writer of David Allan Coe's 'Need a Little Time Off for Bad Behavior' reportedly posted on Facebook, hinting at the song's appearance in the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Soundtrack", "Music", "Rumor", "Leak", "David Allan Coe", "Rockstar Games", "Country Music"]
 source: "https://www.reddit.com/r/GTA6/comments/1siz45f/the_co_writer_of_david_allan_coe_need_a_little/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Soundtrack Rumor: David Allan Coe Co-Writer Hints at Song's Inclusion

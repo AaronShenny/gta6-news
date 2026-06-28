@@ -4,6 +4,7 @@ date: "2026-06-04T16:17:36"
 description: "A community discussion explores the potential for Grand Theft Auto 6 to adopt Red Dead Redemption 2's acclaimed 'Greet/Antagonize' NPC system, enhancing world immersion and player agency."
 tags: ["GTA 6", "Grand Theft Auto VI", "Red Dead Redemption 2", "RDR2", "NPC Interaction", "Dialogue System", "Rockstar Games", "Open World", "Gaming Features", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1twseuy/will_gta_6_adopt_rdr2s_greet_antagonize_npc/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Embrace Red Dead Redemption 2's Dynamic NPC Interactions?

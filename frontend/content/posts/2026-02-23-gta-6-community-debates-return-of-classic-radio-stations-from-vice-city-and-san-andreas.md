@@ -4,6 +4,7 @@ date: "2026-02-23T20:46:29"
 description: "A Reddit user sparks discussion on r/GTA6 about the potential inclusion of 'retro' radio stations featuring popular tracks from past GTA titles like Vice City and San Andreas in GTA 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "Radio Stations", "Nostalgia", "Vice City", "San Andreas", "Gaming Community", "Reddit", "Fan Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rctfio/how_would_you_feel_about_old_radio_stations/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Debates Return of Classic Radio Stations from Vice City and San Andreas

@@ -4,6 +4,7 @@ date: "2026-03-30T01:58:20"
 description: "A Reddit discussion explores the potential for Grand Theft Auto 6 to satirize IRL streamers and Meta glasses pickup artists, weighing if it's classic Rockstar humor or risks quickly becoming stale."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "IRL Streamers", "Gaming News", "Video Game Satire", "Social Commentary", "Community Debate", "Miami", "Influencer Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7dr6b/would_irl_streamer_parodies_fit_in_gta_6_or_would/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could IRL Streamer Parodies Be Rockstar's Next Big Hit or a Tired Trope?

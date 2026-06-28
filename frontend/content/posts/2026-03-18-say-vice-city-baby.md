@@ -4,6 +4,7 @@ date: "2026-03-18T13:56:07"
 description: "A look at the community buzz and anticipation surrounding Grand Theft Auto 6's highly anticipated return to the iconic Vice City setting."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Rockstar Games", "Open World", "Gaming News", "Speculation", "Fan Theories", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rx4l5k/say_vice_city_baby/"
+classification: "RUMOR"
 ---
 
 # Say Vice City, baby.

@@ -4,6 +4,7 @@ date: "2026-02-25T17:20:20"
 description: "A dedicated GTA 6 fan is touring Florida, seeking real-world locations that could inspire Vice City's landscape, from iconic cities to specific landmarks hinted at in trailers and leaks."
 tags: ["GTA 6", "Vice City", "Florida", "Real-Life Locations", "Gaming Tourism", "Open World", "Game Inspirations", "Reddit Community", "Everglades", "Miami", "Key West"]
 source: "https://www.reddit.com/r/GTA6/comments/1rejg3u/currently_in_florida_where_can_i_visit_in_real/"
+classification: "LEAK"
 ---
 
 # GTA 6 Fan Explores Florida for Real-Life Vice City Inspirations

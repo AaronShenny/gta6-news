@@ -4,6 +4,7 @@ date: "2026-06-24T19:03:42"
 description: "Two independent retailers, Video Games Plus and Loot Box Gaming, announce they will not stock Grand Theft Auto 6 if its physical release is merely a digital code in a box, citing game preservation and customer value."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Physical Release", "Digital Code", "Video Games Plus", "Loot Box Gaming", "Game Preservation", "Gaming News", "Retailers", "Industry Reaction"]
 source: "https://www.gamespot.com/articles/some-retailers-are-refusing-to-carry-gta-6s-physical-release/"
+classification: "RUMOR"
 ---
 
 # Some Retailers Are Refusing To Carry GTA 6’s Physical Release

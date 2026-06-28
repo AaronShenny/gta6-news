@@ -4,6 +4,7 @@ date: "2026-02-18T16:09:50"
 description: "A Reddit discussion on r/GTA6 invites the community to share their hopes for returning classic cheat codes and brand-new concepts for the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Cheat Codes", "Community Discussion", "Reddit", "Gaming Wishlist", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8743r/what_cheat_codes_would_you_like_to_see_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Discusses Desired Cheat Codes: Old Favorites and New Ideas

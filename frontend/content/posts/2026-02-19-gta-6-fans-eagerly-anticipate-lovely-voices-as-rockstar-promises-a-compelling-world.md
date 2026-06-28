@@ -4,6 +4,7 @@ date: "2026-02-19T00:17:40"
 description: "A Reddit post highlights fan excitement for GTA 6's voice acting, echoing Rockstar's ambition to create a deeply compelling game world for the upcoming title."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Voice Acting", "Game World", "Gaming News", "Community Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8k5zt/cant_wait_to_hear_this_lovely_voice_this_year_for/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6: Fans Eagerly Anticipate 'Lovely Voices' as Rockstar Promises a 'Compelling World'

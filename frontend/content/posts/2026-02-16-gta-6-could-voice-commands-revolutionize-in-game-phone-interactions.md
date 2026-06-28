@@ -4,6 +4,7 @@ date: "2026-02-16T02:51:19"
 description: "A Reddit discussion explores the potential for real-world voice assistant integration, like 'Hey Siri,' to streamline phone actions in Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Voice Commands", "In-Game Phone", "Player Suggestions", "Reddit Discussion", "Gaming Innovation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5xwvc/hey_sirialexagoogle/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Voice Commands Revolutionize In-Game Phone Interactions?

@@ -4,6 +4,7 @@ date: "2026-04-30T01:00:57"
 description: "A Reddit user sparks discussion, highlighting the gaming community's anticipation for GTA 6's new gameplay mechanics and enhanced world realism, curious about confirmed features beyond leaks and trailers."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Mechanics", "Open World", "Realism", "Community Discussion", "Leaks", "Trailers", "Gaming News", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1szhbtm/what_will_gta_6_do_thats_new_or_at_least_better/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Community Ponders New Mechanics and World Realism Amidst Speculation

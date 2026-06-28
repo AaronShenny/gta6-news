@@ -4,6 +4,7 @@ date: "2026-05-30T09:36:30"
 description: "An 'article' consisting solely of a 2013 Reddit post title offers a glimpse into early fan speculation for Grand Theft Auto VI's release date, pinpointing November 18th or 19th."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Speculation", "Reddit", "Gaming History", "Fan Anticipation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1trvbyv/us_on_november_18th_or_19_wherever_you_are_in_the/"
+classification: "RUMOR"
 ---
 
 # A Decade-Old Reddit Post Surfaces, Speculating a November Release for GTA VI

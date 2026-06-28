@@ -4,6 +4,7 @@ date: "2026-05-02T16:40:28"
 description: "As of May 3, 2026, Grand Theft Auto VI is just 200 days from launch, marking the closest fans have been since its previous delay on November 6, 2025."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Release Date", "Launch Countdown", "Gaming News", "Community Update"]
 source: "https://www.reddit.com/r/GTA6/comments/1t1uu66/today_is_the_closest_weve_ever_been_to_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI: Fans Closer Than Ever to Launch Following Delay Milestone

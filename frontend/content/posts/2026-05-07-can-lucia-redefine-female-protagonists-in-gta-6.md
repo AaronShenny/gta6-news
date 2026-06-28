@@ -4,6 +4,7 @@ date: "2026-05-07T22:32:22"
 description: "A discussion on whether GTA 6's Lucia can achieve iconic status, rivaling characters like Arthur Morgan, and set a new standard for female leads in gaming."
 tags: ["GTA 6", "Lucia", "Rockstar Games", "Female Protagonist", "Character Development", "Gaming Industry", "Arthur Morgan", "Red Dead Redemption 2", "Video Game Writing", "Iconic Characters"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6ppp8/could_rockstar_be_able_to_do_this/"
+classification: "RUMOR"
 ---
 
 # Can Lucia Redefine Female Protagonists in GTA 6?

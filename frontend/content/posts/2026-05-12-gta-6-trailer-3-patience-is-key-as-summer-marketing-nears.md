@@ -4,6 +4,7 @@ date: "2026-05-12T23:32:45"
 description: "Despite recent disappointment, a new GTA 6 trailer and marketing blitz are expected soon, with summer marking the official kickoff for pre-orders and more, according to a recent Reddit post."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer 3", "Marketing", "Release Date", "Summer", "Gaming News", "Leaks", "Take-Two Interactive"]
 source: "https://www.reddit.com/r/GTA6/comments/1tbihbc/gta_6_trailer_3_will_be_here_soon_lets_relax/"
+classification: "LEAK"
 ---
 
 # GTA 6 Trailer 3: Patience is Key as Summer Marketing Nears

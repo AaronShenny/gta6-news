@@ -4,6 +4,7 @@ date: "2026-04-09T03:08:28"
 description: "A Reddit user's query sparks widespread discussion on whether GTA 6 Online will offer a complete solo experience for players without a dedicated group, addressing a common concern for the upcoming title."
 tags: ["GTA 6", "GTA Online", "Solo Play", "Online Gaming", "Gaming Community", "Rockstar Games", "Multiplayer Accessibility", "PlayStation 5"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgdy3r/you_guys_think_itll_be_possible_to_play_the_gta_6/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6 Online Embrace Solo Players? Community Debates Accessibility Without a Crew

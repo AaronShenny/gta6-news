@@ -4,6 +4,7 @@ date: "2026-06-11T10:32:24"
 description: "A recent Reddit discussion speculates on GTA 6's story tonality, suggesting a more serious narrative direction compared to GTA 5's comedic elements, despite the presence of Florida-inspired NPCs."
 tags: ["GTA 6", "Grand Theft Auto 6", "Story Tone", "Narrative", "Jason and Lucia", "GTA 5", "Rockstar Games", "Gaming News", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2vbcf/tonality_of_the_gta_6_story/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Story: A Shift Towards Seriousness?

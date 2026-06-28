@@ -4,6 +4,7 @@ date: "2026-04-13T01:18:44"
 description: "A deep dive into the 'Your Daily Bird PART 5' analysis, identifying the pelican species seen in the GTA 6 trailer based on its distinct features and Florida's wildlife."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer Analysis", "Wildlife", "Fauna", "Pelican", "Brown Pelican", "Rockstar Games", "Gaming News", "Florida"]
 source: "https://www.reddit.com/r/GTA6/comments/1sjwkrc/your_daily_bird_in_gta_vi_who_am_i_gta_vi_fauna/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fauna Analysis: Identifying the Mysterious Pelican in the Trailer

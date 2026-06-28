@@ -4,6 +4,7 @@ date: "2026-03-29T00:27:04"
 description: "New analysis of financial documents suggests Rockstar North alone has spent over $2.1 billion on GTA 6 development, hinting at a total cost approaching $3 billion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Rockstar North", "Development Cost", "Gaming Industry", "Video Game News", "Financial Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6gp33/rockstar_has_probably_put_more_than_2b_in_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # Rockstar has probably put more than $2B in GTA 6

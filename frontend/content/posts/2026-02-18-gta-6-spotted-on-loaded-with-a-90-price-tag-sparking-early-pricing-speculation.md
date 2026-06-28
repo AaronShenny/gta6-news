@@ -4,6 +4,7 @@ date: "2026-02-18T17:42:58"
 description: "An unofficial listing for Grand Theft Auto 6's standard edition appeared on 'Loaded' for £90, igniting discussions about the highly anticipated game's potential official price point."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming News", "Price Speculation", "Rumors", "Video Games", "Leaks"]
 source: "https://www.reddit.com/r/GTA6/comments/1r89rb7/gta_6_has_appeared_on_loaded_at_90_for_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Spotted on 'Loaded' with a £90 Price Tag, Sparking Early Pricing Speculation

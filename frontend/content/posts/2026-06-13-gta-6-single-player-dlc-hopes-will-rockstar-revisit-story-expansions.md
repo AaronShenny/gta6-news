@@ -4,6 +4,7 @@ date: "2026-06-13T13:59:16"
 description: "A Reddit discussion explores the likelihood of single-player DLCs for GTA 6, citing past sales performance of GTA IV expansions and the dominance of GTA Online as key factors."
 tags: ["GTA 6", "Single-player DLC", "Rockstar Games", "GTA Online", "Gaming Industry Trends", "Story Expansions"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4rpgh/do_yall_honestly_have_hopes_for_a_single_player/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Single-Player DLC Hopes: Will Rockstar Revisit Story Expansions?

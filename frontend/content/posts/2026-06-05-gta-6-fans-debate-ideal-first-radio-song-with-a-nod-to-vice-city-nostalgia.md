@@ -4,6 +4,7 @@ date: "2026-06-05T20:28:23"
 description: "A Reddit user sparks a discussion on the perfect first radio song for GTA 6, suggesting Michael Jackson's 'Billie Jean' as a nostalgic tribute to the original Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Radio", "Music", "Vice City", "Nostalgia", "Billie Jean", "Michael Jackson", "Fan Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1txwhx5/first_song/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Debate Ideal First Radio Song, With a Nod to Vice City Nostalgia

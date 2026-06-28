@@ -4,6 +4,7 @@ date: "2026-06-14T00:10:43"
 description: "A dedicated GTA 6 fan on Reddit makes a compelling case for the influence of the gritty crime series 'Banshee' on Rockstar's upcoming title, emphasizing the ex-con couple dynamic and high-stakes criminal exploits."
 tags: ["GTA 6", "Grand Theft Auto", "Banshee", "Rockstar Games", "Gaming News", "Fan Theory", "Crime Drama", "Video Game Comparison", "Lucia and Jason"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5685p/the_banshee_dna_in_gta_6_is_insane/"
+classification: "RUMOR"
 ---
 
 # Reddit User Highlights 'Banshee DNA' in GTA 6, Drawing Exciting Narrative Parallels

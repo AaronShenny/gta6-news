@@ -4,6 +4,7 @@ date: "2026-06-11T17:42:54"
 description: "A new theory, based on past GTA 6 trailer releases, GTA Online DLCs, and GTA+ cycles, suggests a specific window for the highly anticipated third GTA 6 trailer, potentially between June 21-30."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "GTA Online", "DLC", "Rockstar Games", "GTA+", "Gaming News", "Release Date Prediction"]
 source: "https://www.reddit.com/r/GTA6/comments/1u35ynp/a_pattern_linking_gta_6_trailers_gta_and_gta/"
+classification: "RUMOR"
 ---
 
 # Journalist Uncovers GTA 6 Trailer Pattern, Predicts Next Reveal Window

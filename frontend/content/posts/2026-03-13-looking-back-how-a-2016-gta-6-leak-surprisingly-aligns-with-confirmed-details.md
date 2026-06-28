@@ -4,6 +4,7 @@ date: "2026-03-13T02:22:07"
 description: "An old 2016 Reddit post, initially dismissed as speculation, is now gaining traction for its surprising accuracy regarding key GTA 6 details like protagonists, setting, and tone."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Leak", "Speculation", "Gaming News", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsb14v/the_earliest_gta_6_leak_from_2016_looking_back/"
+classification: "RUMOR"
 ---
 
 # Looking Back: How a 2016 GTA 6 Leak Surprisingly Aligns with Confirmed Details

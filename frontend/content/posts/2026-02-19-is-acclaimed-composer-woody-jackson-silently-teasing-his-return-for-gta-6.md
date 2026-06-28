@@ -4,6 +4,7 @@ date: "2026-02-19T23:18:04"
 description: "Speculation mounts as Woody Jackson, known for GTA V and Red Dead Redemption 2, appears to subtly hint at his involvement in Grand Theft Auto 6 via an unusual update on his personal website."
 tags: ["GTA 6", "Grand Theft Auto 6", "Woody Jackson", "Rockstar Games", "Composer", "Music", "Soundtrack", "Speculation", "Tease", "NDA"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9et6a/woody_jackson_teasing_involvement_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Is Acclaimed Composer Woody Jackson Silently Teasing His Return for GTA 6?

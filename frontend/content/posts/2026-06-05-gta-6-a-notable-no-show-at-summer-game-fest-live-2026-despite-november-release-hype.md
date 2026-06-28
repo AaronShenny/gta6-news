@@ -4,6 +4,7 @@ date: "2026-06-05T20:45:00"
 description: "Despite intense anticipation and a looming November release, Grand Theft Auto VI was conspicuously absent from Geoff Keighley's Summer Game Fest Live 2026, leaving fans to await its next reveal."
 tags: ["GTA 6", "Grand Theft Auto VI", "Summer Game Fest 2026", "SGF Live", "Gaming News", "Rockstar Games", "Game Announcements", "No-Show", "November Release"]
 source: "https://www.gamespot.com/articles/summer-game-fest-live-2026-all-the-biggest-announcements-and-games/"
+classification: "RUMOR"
 ---
 
 # GTA 6 a Notable No-Show at Summer Game Fest Live 2026 Despite November Release Hype

@@ -4,6 +4,7 @@ date: "2026-06-20T04:22:49"
 description: "A Reddit post highlights the excitement among GTA 6 fans regarding the potential inclusion of a twin-engine jet, suggesting new aerial vehicle diversity beyond the classic 747."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Aircraft", "Twin-Engine Jet", "Gaming News", "Leaks", "Fan Reaction", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1uamz41/glad_to_see_a_twin_engine_jet_flying_in_vice_city/"
+classification: "LEAK"
 ---
 
 # GTA 6 Fans Abuzz Over Apparent Twin-Engine Jet Sighting in Vice City

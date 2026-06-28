@@ -4,6 +4,7 @@ date: "2026-06-01T03:29:48"
 description: "A viral Reddit post on r/GTA6 captured the immense fan anticipation for Grand Theft Auto VI by posing a hypothetical scenario of the game being 98% downloaded, sparking widespread community reactions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming News", "Fan Anticipation", "Reddit", "Gaming Community", "Release Date Speculation", "Rockstar Games", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttg85a/its_november_19th_and_gta_vi_is_98_downloaded/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Reddit Post Ignites Fan Excitement Over Hypothetical Near-Release

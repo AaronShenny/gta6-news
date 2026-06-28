@@ -4,6 +4,7 @@ date: "2026-04-04T08:29:19"
 description: "A Reddit user highlights the struggle for PC players anticipating GTA 6, facing a long wait for a PC port and the inevitable flood of spoilers."
 tags: ["GTA 6", "PC Gaming", "Console Exclusivity", "Spoilers", "Rockstar Games", "Gaming Dilemma", "PS5", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1sc3up4/pc_players_what_will_you_do_once_gta_6_releases/"
+classification: "UNKNOWN"
 ---
 
 # The GTA 6 PC Player Dilemma: Navigating Console Exclusivity and Spoiler Minefields

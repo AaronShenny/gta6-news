@@ -4,6 +4,7 @@ date: "2026-03-04T04:48:45"
 description: "A community discussion on Reddit's r/GTA6 examines whether the highly anticipated Grand Theft Auto 6 will allow full map access immediately, like GTA 5, or gate areas behind story progression, mirroring earlier titles."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Open World", "Map Progression", "Gaming Discussion", "Community Speculation", "Video Game News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rkc9gw/map_progression/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Its Map Be Open From The Start, Or Story-Gated?

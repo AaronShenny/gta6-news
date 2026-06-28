@@ -4,6 +4,7 @@ date: "2026-04-08T07:51:08"
 description: "Players are speculating whether GTA 6, set in the 2020s, will feature modern glass cockpits in its aircraft, aligning with contemporary aviation standards."
 tags: ["GTA 6", "Grand Theft Auto VI", "Aircraft", "Cockpit", "Glass Cockpit", "Analog Gauges", "Realism", "Game Design", "Rockstar Games", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfmclh/do_you_think_aircraft_with_a_modern_glass_cockpit/"
+classification: "RUMOR"
 ---
 
 # GTA 6's 2020s Setting: Will Aircraft Cockpits Finally Go Digital?

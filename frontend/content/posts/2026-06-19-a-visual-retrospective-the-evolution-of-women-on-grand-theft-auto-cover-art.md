@@ -4,6 +4,7 @@ date: "2026-06-19T05:00:18"
 description: "Explore the history of Grand Theft Auto cover art, highlighting the recurring presence of female characters from GTA 3 through the anticipated GTA VI, noting the absence in earlier titles."
 tags: ["Grand Theft Auto", "GTA", "Cover Art", "Gaming History", "Female Characters", "Rockstar Games", "GTA 6", "GTA VI", "Gaming Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9sojl/gta_cover_art_girls_over_the_years/"
+classification: "UNKNOWN"
 ---
 
 # A Visual Retrospective: The Evolution of Women on Grand Theft Auto Cover Art

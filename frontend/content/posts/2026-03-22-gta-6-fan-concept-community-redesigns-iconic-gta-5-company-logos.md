@@ -4,6 +4,7 @@ date: "2026-03-22T00:50:52"
 description: "Explore fan-made redesigns of Grand Theft Auto 5 company logos, reimagined for the anticipated release of Grand Theft Auto 6, as shared by the community."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Concepts", "Logo Redesigns", "Community Creations", "Gaming News", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s07x8c/some_gta_5_company_logo_redesigns_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Concept: Community Redesigns Iconic GTA 5 Company Logos

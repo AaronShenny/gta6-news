@@ -4,6 +4,7 @@ date: "2026-03-30T16:20:43"
 description: "A Reddit user's speculative post envisions the ultimate entertainment night: a blockbuster movie followed by an immersive, all-night Grand Theft Auto 6 gaming marathon, highlighting the immense anticipation for Rockstar's next title."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Hype", "Fan Speculation", "Reddit", "Entertainment Fantasy", "Avengers Doomsday", "Rockstar Games", "Future Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7v9j4/just_imagine_going_to_the_cinema_to_watch/"
+classification: "RUMOR"
 ---
 
 # The Ultimate Gaming Fantasy: Avengers Doomsday and an All-Night GTA 6 Session

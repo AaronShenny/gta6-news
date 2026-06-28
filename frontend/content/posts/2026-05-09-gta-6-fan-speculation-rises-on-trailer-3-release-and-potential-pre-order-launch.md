@@ -4,6 +4,7 @@ date: "2026-05-09T03:30:19"
 description: "The GTA community is buzzing with speculation about the imminent release of Grand Theft Auto 6's third trailer, pondering if it will coincide with pre-orders or new game details."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Trailer 3", "Pre-orders", "Gaming News", "Speculation", "Video Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7thgc/gta_6_trailer_3_preorders/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculation Rises on Trailer 3 Release and Potential Pre-Order Launch

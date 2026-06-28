@@ -4,6 +4,7 @@ date: "2026-06-17T13:48:29"
 description: "A Reddit user expresses their desires for Grand Theft Auto 6, focusing on improved interior access, realistic crowd panic, and sophisticated police and SWAT unit AI, contrasting it with previous GTA titles."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Expectations", "Gameplay Features", "Interiors", "Police AI", "NPC Behavior", "Open World Games", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8aplw/i_really_hope_that_on_gta_6_we_can_do/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Hopes for Enhanced Interiors and Realistic Police Encounters

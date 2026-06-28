@@ -4,6 +4,7 @@ date: "2026-04-01T11:38:24"
 description: "The latest V15 Yanis community-made map for GTA 6 is now available, sparking discussions among fans about recent leaks suggesting changes to the game's landmass."
 tags: ["GTA 6", "Grand Theft Auto 6", "Community Map", "V15 Yanis", "Leaks", "Map Speculation", "Gaming News", "Fan Project"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9i1i2/v15_yanis_gta_6_community_map_is_here/"
+classification: "RUMOR"
 ---
 
 # V15 Yanis GTA 6 Community Map Drops, Fueling Landmass Speculation

@@ -4,6 +4,7 @@ date: "2026-06-24T11:20:33"
 description: "A Reddit post from user /u/kingofhearts67 suggests that Grand Theft Auto VI will primarily be a single-player experience, sparking early discussions among fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "Single-player", "Rockstar Games", "Gaming News", "Rumor", "Speculation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1ueaq1y/grand_theft_auto_vi_is_a_singleplayer_experience/"
+classification: "RUMOR"
 ---
 
 # Grand Theft Auto VI is a singleplayer experience.

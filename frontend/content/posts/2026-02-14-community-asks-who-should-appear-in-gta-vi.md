@@ -4,6 +4,7 @@ date: "2026-02-14T16:03:49"
 description: "A popular Reddit thread on r/GTA6 sparks discussion about potential celebrity cameos, voice actors, and internet personalities fans want to see in the upcoming Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Celebrity Cameos", "Voice Actors", "Radio Hosts", "Internet Personalities", "Gaming Community", "Rockstar Games", "Fan Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4obkm/who_do_you_want_to_to_make_an_appearance_in_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # Community Asks: Who Should Appear in GTA VI?

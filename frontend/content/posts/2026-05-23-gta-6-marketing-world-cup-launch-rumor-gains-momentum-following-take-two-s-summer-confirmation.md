@@ -4,6 +4,7 @@ date: "2026-05-23T17:26:29"
 description: "Take-Two Interactive's recent confirmation of a 'summer' marketing campaign for Grand Theft Auto VI is lending significant credibility to earlier rumors of a massive World Cup marketing push."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Marketing", "World Cup", "Gaming News", "Rumors", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlmla7/the_gta_vi_world_cup_marketing_rumor_makes_more/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing: World Cup Launch Rumor Gains Momentum Following Take-Two's 'Summer' Confirmation

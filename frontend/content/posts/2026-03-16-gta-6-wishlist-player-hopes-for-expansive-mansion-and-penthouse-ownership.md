@@ -4,6 +4,7 @@ date: "2026-03-16T00:02:38"
 description: "A Reddit user expresses their fervent hope for buyable mansions and penthouses in Grand Theft Auto 6, envisioning lavish properties in Vice City's Starfish Island."
 tags: ["GTA 6", "Grand Theft Auto VI", "Wishlist", "Mansions", "Penthouses", "Property Ownership", "Vice City", "Starfish Island", "Rockstar Games", "Player Housing"]
 source: "https://www.reddit.com/r/GTA6/comments/1ruu5uf/mansions/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Wishlist: Player Hopes for Expansive Mansion and Penthouse Ownership

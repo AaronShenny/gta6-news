@@ -4,6 +4,7 @@ date: "2026-03-07T22:23:23"
 description: "A Reddit user sparks discussion about potential Epsilon Program references and humorous nods to development delays in the upcoming Grand Theft Auto 6, set in 2026."
 tags: ["GTA 6", "Grand Theft Auto VI", "Epsilon Program", "Easter Eggs", "Fan Speculation", "Rockstar Games", "Gaming News", "Community Discussion", "Video Games", "Humor"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnn9pk/epsilon_program_possible_reference/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Speculate on Epsilon Program Easter Eggs and Self-Referential Humor

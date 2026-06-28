@@ -4,6 +4,7 @@ date: "2026-02-16T20:17:28"
 description: "A Reddit user proposes an innovative concept for story-mode co-op in GTA 6, allowing 2-3 players to share a cinematic narrative experience without disrupting Rockstar's storytelling."
 tags: ["GTA 6", "Grand Theft Auto", "Co-op", "Story Mode", "Multiplayer", "Rockstar Games", "Concept", "Gaming", "Narrative", "Dual Protagonists"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6kmz7/concept_how_storymode_coop_could_work_in_gta/"
+classification: "RUMOR"
 ---
 
 # Concept: How story-mode co-op could work in GTA (mission starters, shared save, POV replayability)

@@ -4,6 +4,7 @@ date: "2026-03-21T07:17:30"
 description: "A Reddit user shares new photos from Wynwood, Miami, highlighting uncanny resemblances to potential Grand Theft Auto 6 locations and sparking further excitement among fans."
 tags: ["GTA 6", "Grand Theft Auto 6", "Vice City", "Miami", "Wynwood", "Real-World Comparisons", "Fan Speculation", "Location Scouting", "Florida Culture", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzl58i/yall_ready_for_them_car_meets_this_the_classic/"
+classification: "RUMOR"
 ---
 
 # Real-World Miami Photos Intensify GTA 6 Hype, Fans See Vice City in Wynwood

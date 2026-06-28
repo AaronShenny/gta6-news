@@ -4,6 +4,7 @@ date: "2026-05-22T08:02:06"
 description: "A Reddit user speculates on a potential GTA 6 reveal during an upcoming May 27th tech conference, citing the need to showcase new technologies."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Rumors", "Tech Conference", "Game Reveal", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tkc9zb/we_might_actually_be_back/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Reveal Rumors Surface Ahead of Anticipated May Tech Conference

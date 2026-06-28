@@ -4,6 +4,7 @@ date: "2026-02-28T05:10:18"
 description: "A Reddit post from a user speculates on a fictional cast for Grand Theft Auto VI, envisioning it as a sitcom from the late 2000s to early 2010s. This fan concept offers a humorous take on the highly anticipated game."
 tags: ["GTA 6", "Fan Speculation", "Reddit", "Humor", "Sitcom Concept", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgtw2m/her_the_cast_of_grand_theft_auto_vi_definitive/"
+classification: "RUMOR"
 ---
 
 # Reddit User Imagines GTA 6 Cast as a 'Definitive Sitcom' from 2008-2013

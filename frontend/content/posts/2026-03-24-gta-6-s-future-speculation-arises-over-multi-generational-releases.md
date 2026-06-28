@@ -4,6 +4,7 @@ date: "2026-03-24T14:41:39"
 description: "A Reddit user speculates that Rockstar will leverage GTA 6 across multiple console generations, mirroring GTA V's successful re-release strategy for massive profits."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Console Generations", "Gaming Industry", "PS6", "Next-Gen Xbox", "GTA V", "Game Releases", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s2fos6/gta_6_on_next_generation_consoles/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Future: Speculation Arises Over Multi-Generational Releases

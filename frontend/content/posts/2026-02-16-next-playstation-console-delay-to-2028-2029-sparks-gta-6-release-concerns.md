@@ -4,6 +4,7 @@ date: "2026-02-16T17:13:28"
 description: "Bloomberg reports Sony may delay its next PlayStation console to 2028/2029. Could this, coupled with PS5 optimization rumors, push back GTA 6's release?"
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "PlayStation", "Sony", "Console Delay", "PS5", "Next-Gen", "Gaming News", "Rumors", "Bloomberg"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6fhso/bloomberg_is_reporting_that_sony_is_considering/"
+classification: "RUMOR"
 ---
 
 # Next PlayStation Console Delay to 2028/2029 Sparks GTA 6 Release Concerns

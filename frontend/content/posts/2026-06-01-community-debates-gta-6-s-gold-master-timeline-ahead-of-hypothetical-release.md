@@ -4,6 +4,7 @@ date: "2026-06-01T20:52:30"
 description: "A Reddit user sparks discussion about the critical final stages of Grand Theft Auto VI's development, questioning when Rockstar Games would finalize the game for a speculated November 19 release."
 tags: ["GTA 6", "Rockstar Games", "Game Development", "Release Date", "Gold Master", "Gaming Industry", "Community Discussion", "Manufacturing Process", "Development Cycle"]
 source: "https://www.reddit.com/r/GTA6/comments/1tu5ezy/when_do_rockstar_employees_stop_working_on_the/"
+classification: "UNKNOWN"
 ---
 
 # Community Debates GTA 6's 'Gold Master' Timeline Ahead of Hypothetical Release

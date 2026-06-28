@@ -4,6 +4,7 @@ date: "2026-02-27T11:38:01"
 description: "A Reddit post titled 'So is this how burning cars will look in gta 6' has sparked community discussion and speculation about the potential visual effects for vehicle fires in Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Speculation", "Graphics", "Visual Effects", "Community Discussion", "Reddit", "Car Fires"]
 source: "https://www.reddit.com/r/GTA6/comments/1rg4dr1/so_is_this_how_burning_cars_will_look_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Car Fire Speculation Ignites on Reddit

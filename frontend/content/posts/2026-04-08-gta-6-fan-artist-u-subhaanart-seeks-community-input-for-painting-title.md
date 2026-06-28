@@ -4,6 +4,7 @@ date: "2026-04-08T17:14:36"
 description: "Reddit user /u/subhaanart has shared a work-in-progress painting inspired by Grand Theft Auto VI and is asking the r/GTA6 community for title suggestions."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Painting", "Reddit", "Community Input", "Gaming Art"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfz52o/my_latest_painting_in_the_works_based_on_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Artist /u/subhaanart Seeks Community Input for Painting Title

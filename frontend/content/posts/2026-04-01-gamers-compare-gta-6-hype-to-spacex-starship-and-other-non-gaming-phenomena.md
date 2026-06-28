@@ -4,6 +4,7 @@ date: "2026-04-01T00:52:21"
 description: "A Reddit thread on r/GTA6 explores real-world events that match Grand Theft Auto 6's immense hype and anticipation, with SpaceX's Starship cited as a prime example."
 tags: ["GTA 6", "Grand Theft Auto 6", "Hype", "Anticipation", "SpaceX Starship", "Reddit Discussion", "Gaming Culture", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s95pr6/what_thing_or_event_outside_of_the_gaming/"
+classification: "RUMOR"
 ---
 
 # Gamers Compare GTA 6 Hype to SpaceX Starship and Other Non-Gaming Phenomena

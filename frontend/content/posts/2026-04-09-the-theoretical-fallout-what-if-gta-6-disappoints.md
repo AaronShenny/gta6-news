@@ -4,6 +4,7 @@ date: "2026-04-09T01:02:24"
 description: "A Reddit user sparks a debate on the potential catastrophic consequences for Rockstar Games should Grand Theft Auto VI fail to meet expectations, covering everything from stock impact to company stability."
 tags: ["GTA 6", "Rockstar Games", "Speculation", "Game Development", "Industry Impact", "Reddit", "Gaming News", "Financial Impact"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgb73o/theorically/"
+classification: "RUMOR"
 ---
 
 # The Theoretical Fallout: What if GTA 6 Disappoints?

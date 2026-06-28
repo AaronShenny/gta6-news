@@ -4,6 +4,7 @@ date: "2026-02-20T15:16:13"
 description: "A Reddit user sparks community discussion by speculating on which controller Grand Theft Auto 6 might utilize, referencing Rockstar's unpredictable development."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Controllers", "Speculation", "Community Discussion", "Reddit", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9y0xk/which_controller_do_you_think_gta_6_will_use_when/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Controller Debate Ignites on Reddit

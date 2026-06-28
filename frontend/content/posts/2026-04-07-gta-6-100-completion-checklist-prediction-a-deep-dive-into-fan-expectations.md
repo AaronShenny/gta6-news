@@ -4,6 +4,7 @@ date: "2026-04-07T04:12:52"
 description: "Explore a detailed fan-made prediction for GTA 6's 100% completion checklist, breaking down potential requirements across story, side missions, hobbies, collectibles, and more."
 tags: ["GTA 6", "Grand Theft Auto", "100% Completion", "Gameplay Prediction", "Fan Theory", "Open World", "Side Missions", "Collectibles", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1selm5u/my_100_completion_checklist_prediction/"
+classification: "RUMOR"
 ---
 
 # GTA 6 100% Completion Checklist Prediction: A Deep Dive into Fan Expectations

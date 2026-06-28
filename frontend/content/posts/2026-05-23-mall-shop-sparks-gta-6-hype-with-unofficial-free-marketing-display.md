@@ -4,6 +4,7 @@ date: "2026-05-23T08:16:30"
 description: "A Reddit user spotted a local mall shop engaging in unofficial GTA 6 marketing, generating buzz and 'free promotion' for the highly anticipated game."
 tags: ["GTA 6", "Grand Theft Auto 6", "Marketing", "Unofficial Promotion", "Fan Hype", "Retail", "Mall", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlagyv/gta_6_free_marketing/"
+classification: "CONFIRMED"
 ---
 
 # Mall Shop Sparks GTA 6 Hype with Unofficial 'Free Marketing' Display

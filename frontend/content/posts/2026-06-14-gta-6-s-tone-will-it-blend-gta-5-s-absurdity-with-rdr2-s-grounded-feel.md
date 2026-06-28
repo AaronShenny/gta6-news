@@ -4,6 +4,7 @@ date: "2026-06-14T22:43:39"
 description: "A popular Reddit discussion explores whether Grand Theft Auto 6 will combine the chaotic, over-the-top tone of GTA 5 with the more grounded narrative style of Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Tone", "GTA 5", "Red Dead Redemption 2", "Gaming Discussion", "Fan Speculation", "Narrative Style"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5z3a0/do_you_think_gta_6_will_feel_like_a_mix_of_gta5/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Tone: Will it Blend GTA 5's Absurdity with RDR2's Grounded Feel?

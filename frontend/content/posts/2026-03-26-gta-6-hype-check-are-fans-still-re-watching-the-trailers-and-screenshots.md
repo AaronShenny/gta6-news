@@ -4,6 +4,7 @@ date: "2026-03-26T18:04:56"
 description: "A recent Reddit post sparks a community discussion among GTA 6 fans, questioning their current engagement with the game's existing trailers and official screenshots."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailers", "Screenshots", "Fan Engagement", "Hype", "Community Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4f0s0/when_was_the_last_time_you_watched_either_of_the/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Hype Check: Are Fans Still Re-watching the Trailers and Screenshots?

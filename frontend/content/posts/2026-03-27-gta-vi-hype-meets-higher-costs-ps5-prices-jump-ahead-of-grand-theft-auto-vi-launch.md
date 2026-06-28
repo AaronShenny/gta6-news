@@ -4,6 +4,7 @@ date: "2026-03-27T17:14:15"
 description: "Sony has announced a global price hike for PlayStation 5 consoles and PlayStation Portal, effective April 2, 2026, impacting gamers planning to purchase for Grand Theft Auto VI. Discover the new regional pricing."
 tags: ["GTA 6", "Grand Theft Auto VI", "PS5", "PlayStation 5", "Console Price Hike", "Sony", "Gaming News", "PS5 Pro", "PlayStation Portal", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1s5acsr/waiting_for_gta_vi_to_buy_a_ps5_just_got_more/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Hype Meets Higher Costs: PS5 Prices Jump Ahead of Grand Theft Auto VI Launch

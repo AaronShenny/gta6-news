@@ -4,6 +4,7 @@ date: "2026-05-10T02:43:50"
 description: "A Reddit user expresses a strong desire for GTA 6 to launch simultaneously for all players, specifically hoping that YouTubers and streamers do not receive early access, reserving it only for traditional journalists and reviewers."
 tags: ["GTA 6", "Grand Theft Auto VI", "Early Access", "Content Creators", "Streamers", "YouTubers", "Gaming Community", "Launch", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t8unjk/hope_that_no_youtubers_or_streamers_get_the_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Equal Launch Access, Excluding Streamers

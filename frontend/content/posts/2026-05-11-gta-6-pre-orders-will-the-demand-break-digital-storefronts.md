@@ -4,6 +4,7 @@ date: "2026-05-11T12:47:33"
 description: "Massive anticipation for Grand Theft Auto 6 has sparked fan speculation about whether its pre-order launch could crash Xbox and PlayStation Store servers."
 tags: ["GTA 6", "Grand Theft Auto", "Pre-orders", "Xbox Store", "PlayStation Store", "Server Crash", "Rockstar Games", "Gaming News", "Digital Sales", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ta2akb/do_you_think_pre_orders_for_gta_6_will_crash_xbox/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Orders: Will the Demand Break Digital Storefronts?

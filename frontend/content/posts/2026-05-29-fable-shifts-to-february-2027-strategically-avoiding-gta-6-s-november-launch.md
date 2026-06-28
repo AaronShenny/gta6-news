@@ -4,6 +4,7 @@ date: "2026-05-29T16:38:28"
 description: "Xbox has officially delayed Fable to February 2027. The move is widely seen as a strategic decision to give the highly anticipated RPG a dedicated launch window, steering clear of the monumental release of Grand Theft Auto 6 in November 2026."
 tags: ["Fable", "GTA 6", "Grand Theft Auto 6", "Xbox", "Microsoft", "Game Delay", "RPG", "Gaming News", "Playground Games", "Matt Booty"]
 source: "https://www.gamespot.com/articles/fable-has-been-delayed-to-february-2027/"
+classification: "CONFIRMED"
 ---
 
 # Fable Shifts to February 2027, Strategically Avoiding GTA 6's November Launch

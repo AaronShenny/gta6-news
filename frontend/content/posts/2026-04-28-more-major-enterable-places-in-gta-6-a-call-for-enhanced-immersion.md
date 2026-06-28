@@ -4,6 +4,7 @@ date: "2026-04-28T10:38:58"
 description: "A gaming journalist explores the community's strong desire for significantly more enterable buildings and dynamic interiors in Grand Theft Auto VI to deepen player immersion and world interactivity."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Open World", "Game Design", "Immersion", "Interiors", "Player Feedback", "Gaming News", "Next-Gen Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1sxxna9/more_major_enterable_places/"
+classification: "RUMOR"
 ---
 
 # More Major Enterable Places in GTA 6: A Call for Enhanced Immersion

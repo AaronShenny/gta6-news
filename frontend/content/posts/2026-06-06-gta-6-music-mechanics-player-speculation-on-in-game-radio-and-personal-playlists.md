@@ -4,6 +4,7 @@ date: "2026-06-06T16:51:37"
 description: "Fans are discussing potential music mechanics in GTA 6, drawing comparisons to Watch Dogs 2's on-demand music player and speculating about integrating personal streaming services."
 tags: ["GTA 6", "Music Mechanics", "In-Game Radio", "Watch Dogs 2", "Player Speculation", "Gaming Features", "Vice City", "Rockstar Games", "Streaming Services"]
 source: "https://www.reddit.com/r/GTA6/comments/1tymduf/music_mechanics/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Music Mechanics: Player Speculation on In-Game Radio and Personal Playlists

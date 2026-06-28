@@ -4,6 +4,7 @@ date: "2026-06-17T00:40:02"
 description: "A Reddit user on r/GTA6 shares a humorous prediction for a popular launch bug in Grand Theft Auto 6, involving a scooter, water, and unexpected aerial physics."
 tags: ["GTA 6", "Grand Theft Auto VI", "Bugs", "Glitches", "Community Predictions", "Reddit", "Gaming Humor", "Physics Exploits", "Launch Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7vcpo/whats_one_bug_that_youll_expect_in_gta_6_that_is/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Speculates on Hilarious Launch Bugs, One User Predicts Aquatic Scooter Glitch

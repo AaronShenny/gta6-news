@@ -4,6 +4,7 @@ date: "2026-06-08T20:54:14"
 description: "A 2020 Rockstar patent suggests GTA 6 will feature revolutionary NPC animations, with four layers of detail and seamless transitions, promising highly reactive character behavior."
 tags: ["GTA 6", "Rockstar Games", "NPC Animation", "Character Locomotion", "Gaming Technology", "Open World Games", "Video Game Patent", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0khx1/can_you_imagine_how_with_a_single_shot_into_the/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 NPCs Poised for Unprecedented Animation Depth and Reactivity

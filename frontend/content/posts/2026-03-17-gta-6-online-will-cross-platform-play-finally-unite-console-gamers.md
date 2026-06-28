@@ -4,6 +4,7 @@ date: "2026-03-17T18:25:41"
 description: "A Reddit discussion explores the highly anticipated possibility of cross-platform play for GTA 6 Online between PlayStation and Xbox, questioning Rockstar's stance and potential leaks."
 tags: ["GTA 6", "GTA 6 Online", "Cross-Platform Play", "Crossplay", "Rockstar Games", "PlayStation", "Xbox", "Gaming News", "Community Discussion", "Leaks"]
 source: "https://www.reddit.com/r/GTA6/comments/1rweu6d/will_gta_6_online_have_cross_platform_play_on/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Will Cross-Platform Play Finally Unite Console Gamers?

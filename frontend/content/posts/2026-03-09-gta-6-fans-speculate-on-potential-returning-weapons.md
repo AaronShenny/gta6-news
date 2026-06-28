@@ -4,6 +4,7 @@ date: "2026-03-09T04:02:47"
 description: "The Grand Theft Auto 6 community is buzzing with speculation on Reddit, discussing which classic weapons might make a comeback in the highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto", "Weapons", "Community Speculation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1roq2u7/do_you_guys_think_these_weapons_will_see_a/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Speculate on Potential Returning Weapons

@@ -4,6 +4,7 @@ date: "2026-06-07T02:43:14"
 description: "A Reddit user on r/GTA6 shares a highly speculative 'gut feeling' that Gary Smith from Rockstar's Bully could appear as a minor antagonist in the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gary Smith", "Bully", "Rockstar Games", "Fan Theory", "Speculation", "Reddit", "Video Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tz05t4/gary_smith_from_bully_will_be_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Fan Speculation: Reddit User Theorizes Bully's Gary Smith for GTA 6

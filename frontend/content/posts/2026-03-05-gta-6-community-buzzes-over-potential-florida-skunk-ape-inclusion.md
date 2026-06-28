@@ -4,6 +4,7 @@ date: "2026-03-05T00:41:07"
 description: "The GTA 6 community is abuzz with speculation, fueled by a Reddit post, regarding the possible appearance of Florida's legendary Skunk Ape cryptid in the upcoming game's Vice City setting."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Florida Skunk Ape", "Cryptid", "Vice City", "Leonida", "Community Speculation", "Easter Egg", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rl30a3/do_you_think_the_legendary_florida_skunk_ape_will/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Buzzes Over Potential Florida Skunk Ape Inclusion

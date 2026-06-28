@@ -4,6 +4,7 @@ date: "2026-04-09T18:14:00"
 description: "Grand Theft Auto V actor Jay Klaitz (Lester) weighs in on GTA 6, suggesting delays could improve the game but advocating for an 'accessible' price point over a potential $100 tag."
 tags: ["GTA 6", "Grand Theft Auto 6", "Jay Klaitz", "Lester Crest", "Rockstar Games", "Video Game Prices", "Game Delays", "Gaming News", "Matthew Ball", "Leonida"]
 source: "https://www.gamespot.com/articles/another-gta-6-delay-would-make-game-cooler-but-i-wouldnt-pay-100-for-it-actor-says/1100-6539316/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # Lester's Take: GTA 6 Delays 'Cooler,' But $100 Price Tag Too Steep, Says Actor Jay Klaitz

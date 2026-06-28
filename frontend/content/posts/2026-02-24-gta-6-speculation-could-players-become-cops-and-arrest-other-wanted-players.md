@@ -4,6 +4,7 @@ date: "2026-02-24T20:29:28"
 description: "Following Rockstar's acquisition of FiveM developers, a Reddit user speculates on a groundbreaking GTA 6 feature: players enforcing the law against fellow players."
 tags: ["GTA 6", "Rockstar Games", "FiveM", "Cfx.re", "Roleplay", "Multiplayer", "Police Gameplay", "Player Interaction", "Vice City", "Game Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rdrpek/working_as_a_cop_against_illegal_player_activity/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Speculation: Could Players Become Cops and Arrest Other Wanted Players?

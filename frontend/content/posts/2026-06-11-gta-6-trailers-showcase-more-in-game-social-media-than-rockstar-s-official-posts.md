@@ -4,6 +4,7 @@ date: "2026-06-11T09:14:35"
 description: "A Reddit user has highlighted an intriguing observation: GTA 6 trailers feature more unique in-game social media content than the total official social media posts made by Rockstar Games about the title itself."
 tags: ["GTA 6", "Rockstar Games", "Social Media", "Trailers", "Community", "Reddit", "Gaming News", "Developer Updates"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2ty94/fun_fact_about_social_media/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Trailers Showcase More In-Game Social Media Than Rockstar's Official Posts

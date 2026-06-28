@@ -4,6 +4,7 @@ date: "2026-06-26T16:27:23"
 description: "A Reddit user recalls a mysterious photo from GTA: San Andreas Definitive Edition that sparked massive GTA 6 speculation and discussions on the r/GTA6 subreddit."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "GTA San Andreas Definitive Edition", "Leaks", "Teases", "Speculation", "Gaming News", "Reddit Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1ugbm9a/everyone_else_remember_this_photo/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Revisited: The San Andreas Definitive Edition Photo That Fueled Early Speculation

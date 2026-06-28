@@ -4,6 +4,7 @@ date: "2026-04-05T06:24:36"
 description: "A Reddit discussion in the r/GTA6 community debates whether GTA 6 Online will be a complete reset, erasing all GTA 5 Online progress, or if elements like vehicles and businesses will transfer."
 tags: ["GTA 6", "GTA 6 Online", "Grand Theft Auto 6", "Online Progress", "Fresh Start", "Rockstar Games", "Gaming News", "Community Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1scwas3/do_you_think_gta_6_online_be_a_completely_fresh/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Online: Will Progress Carry Over or Will It Be a Fresh Start?

@@ -4,6 +4,7 @@ date: "2026-03-31T16:00:39"
 description: "The gaming community is buzzing with speculation on whether Rockstar Games will implement a global simultaneous launch for GTA 6, potentially blocking the popular 'New Zealand trick' to prevent early spoilers."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Launch Strategy", "New Zealand Trick", "Global Launch", "Spoilers", "Gaming News", "Xbox", "PlayStation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8rjd7/do_you_think_were_getting_a_simultaneous_global/"
+classification: "RUMOR"
 ---
 
 # Will the 'New Zealand Trick' Work for GTA 6? Fans Debate Rockstar's Global Launch Strategy

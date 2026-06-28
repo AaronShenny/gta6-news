@@ -4,6 +4,7 @@ date: "2026-03-06T21:18:21"
 description: "A new analysis reveals the staggering scale of GTA 6's development, with estimates suggesting over 15,000 person-years of work, far surpassing typical AAA titles and even Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Development", "AAA Games", "Development Scale", "Person-Years", "Red Dead Redemption 2", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmqhoh/how_big_is_gta_6s_development_compared_to_your/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Development Scale: Rockstar's Unprecedented Undertaking Dwarfs Typical AAA Projects

@@ -4,6 +4,7 @@ date: "2026-03-31T12:32:41"
 description: "A Reddit user explores unexpected parallels between Grand Theft Auto 6's rumored elements and the Fast & Furious franchise, suggesting potential cinematic inspirations beyond the 'Bonnie and Clyde' vibe."
 tags: ["GTA 6", "Grand Theft Auto 6", "Fast & Furious", "Rockstar Games", "Gaming Influences", "Fan Theory", "Game Development", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8m427/fast_and_furious_vs_gta6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Fast & Furious Be a Hidden Influence?

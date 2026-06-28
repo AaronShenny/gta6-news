@@ -4,6 +4,7 @@ date: "2026-03-26T19:04:52"
 description: "A Reddit discussion from u/Strong-Drink-6630 explores the desire for more realistic police mechanics in GTA 6, specifically regarding traffic law enforcement for speeding and red light violations."
 tags: ["GTA 6", "Police Mechanics", "Traffic Laws", "Gameplay Features", "Community Discussion", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4gnxf/about_gta_6_police_mechanics/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Police Mechanics: Should Traffic Laws Be Enforced?

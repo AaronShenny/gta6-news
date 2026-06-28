@@ -4,6 +4,7 @@ date: "2026-03-12T03:45:37"
 description: "A Reddit user's detailed observation from the GTA 6 second trailer suggests a significant leap in vehicle destruction mechanics, with parts appearing to 'rip off' from damage."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vehicle Destruction", "Game Mechanics", "Trailer Analysis", "Rockstar Games", "Gaming News", "Speculation", "Open World Games", "Realism"]
 source: "https://www.reddit.com/r/GTA6/comments/1rrg7yi/vehicle_destruction_in_gta_vi_looks_way_more/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer Analysis Hints at Groundbreaking Vehicle Destruction

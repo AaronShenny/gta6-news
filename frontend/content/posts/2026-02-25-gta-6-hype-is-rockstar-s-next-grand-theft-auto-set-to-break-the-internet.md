@@ -4,6 +4,7 @@ date: "2026-02-25T07:46:50"
 description: "A Reddit post highlights the unprecedented hype for Grand Theft Auto VI, speculating if its launch will be the biggest in history and cause an internet frenzy."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Hype", "Game Launch", "Viral Gaming", "Social Media Trends", "Video Games", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1re714d/gta_6_is_going_to_break_the_internet/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Is Rockstar's Next Grand Theft Auto Set to 'Break the Internet'?

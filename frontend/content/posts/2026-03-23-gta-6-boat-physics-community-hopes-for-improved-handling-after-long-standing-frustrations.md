@@ -4,6 +4,7 @@ date: "2026-03-23T00:31:02"
 description: "A Reddit discussion highlights player dissatisfaction with current GTA boat physics, citing issues like airborne momentum loss and audio glitches, as fans look to GTA 6 for significant improvements."
 tags: ["GTA 6", "Grand Theft Auto", "Boat Physics", "Vehicle Handling", "Gaming Community", "Rockstar Games", "Player Feedback", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1s128fr/am_i_the_only_one_who_hates_boat_physics_in_gta/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Boat Physics: Community Hopes for Improved Handling After Long-Standing Frustrations

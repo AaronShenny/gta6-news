@@ -4,6 +4,7 @@ date: "2026-06-07T04:30:27"
 description: "GTA 6 fans are discussing the possibility of animal riding mechanics, drawing parallels to Rockstar's acclaimed implementation in Red Dead Redemption 2 and hoping for expanded features."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Red Dead Redemption 2", "Animal Riding", "Gameplay Mechanics", "Fan Speculation", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tz2aea/do_you_think_well_be_able_to_ride_horses_or_other/"
+classification: "RUMOR"
 ---
 
 # Could GTA 6 Let Players Ride Animals? Fans Point to RDR2's Success

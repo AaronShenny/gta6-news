@@ -4,6 +4,7 @@ date: "2026-03-25T03:58:35"
 description: "Fans are divided over whether Grand Theft Auto 6 should prioritize photorealistic graphics or a more profound, systemic realism in its gameplay and world mechanics."
 tags: ["GTA 6", "Grand Theft Auto", "Realism", "Graphics", "Gameplay", "Systemic Realism", "Rockstar Games", "Game Development", "Player Debate", "Immersion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s30bpa/should_gta_6_be_realistic_in_terms_of_graphics_or/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Great Realism Debate – Graphics or Deep Systems?

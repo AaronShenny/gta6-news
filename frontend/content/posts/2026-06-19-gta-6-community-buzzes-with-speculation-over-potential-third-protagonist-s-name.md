@@ -4,6 +4,7 @@ date: "2026-06-19T09:01:53"
 description: "GTA 6 fans are actively discussing and humorously speculating on the potential name of a rumored third protagonist, beyond confirmed characters Lucia and Jason, in a lively Reddit thread."
 tags: ["GTA 6", "Grand Theft Auto VI", "Protagonists", "Character Names", "Fan Speculation", "Community Discussion", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9wuu3/perhaps_the_most_important_question_about_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzzes with Speculation Over Potential Third Protagonist's Name

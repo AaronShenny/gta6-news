@@ -4,6 +4,7 @@ date: "2026-03-08T23:26:43"
 description: "A popular fan theory suggests GTA Online could conclude with players' characters being forced into GTA 6's Leonida, hinting at a narrative transition."
 tags: ["GTA 6", "GTA Online", "Fan Theory", "Rockstar Games", "Gaming News", "Grand Theft Auto", "Leonida", "Mr. Faber", "Online Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1rojyif/gta_online_ending_started_with_new_era/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: GTA Online's Dramatic End Could Pave Way for GTA 6 Online

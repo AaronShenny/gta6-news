@@ -4,6 +4,7 @@ date: "2026-05-01T06:59:55"
 description: "A fan-proposed GTA 6 mechanic concept introduces a detailed hunger and health system, influencing stamina, regeneration, and even character weight, aiming for enhanced realism and roleplaying."
 tags: ["GTA 6", "Game Mechanics", "Health System", "Hunger Mechanic", "Roleplaying", "Fan Concept", "Weight Management", "Realism", "Open World", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0lw45/my_food_and_health_mechanic_idea/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Concept Proposes Deep, Realistic Food and Health Mechanics

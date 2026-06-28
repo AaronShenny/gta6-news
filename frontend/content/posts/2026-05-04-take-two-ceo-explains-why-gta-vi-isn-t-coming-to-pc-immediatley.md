@@ -4,6 +4,7 @@ date: "2026-05-04T20:25:46"
 description: "Take-Two CEO Strauss Zelnick clarifies that Grand Theft Auto VI will launch on consoles first, citing Rockstar's historical focus on its core console audience, not a marketing deal."
 tags: ["GTA 6", "Grand Theft Auto VI", "PC Release", "Console Exclusivity", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Gaming News", "Industry Interview", "Jason Schreier"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3tlj5/taketwo_ceo_explains_why_gta_vi_isnt_coming_to_pc/"
+classification: "UNKNOWN"
 ---
 
 # Take-Two CEO explains why GTA VI isn't coming to PC immediatley

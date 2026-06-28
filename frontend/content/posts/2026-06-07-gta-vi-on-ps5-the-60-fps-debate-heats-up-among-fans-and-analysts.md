@@ -4,6 +4,7 @@ date: "2026-06-07T06:05:28"
 description: "The gaming community is buzzing with speculation on whether Grand Theft Auto VI will achieve a 60 frames per second performance on the base PlayStation 5, or if its ambitious scope will necessitate a 30 FPS lock."
 tags: ["GTA 6", "Grand Theft Auto VI", "PS5", "PlayStation 5", "Frame Rate", "60 FPS", "30 FPS", "Performance Mode", "Rockstar Games", "Gaming Tech", "Console Performance", "Graphics"]
 source: "https://www.reddit.com/r/GTA6/comments/1tz41rl/why_do_you_think_the_base_ps5_wont_run_gta_vi_at/"
+classification: "RUMOR"
 ---
 
 # GTA VI on PS5: The 60 FPS Debate Heats Up Among Fans and Analysts

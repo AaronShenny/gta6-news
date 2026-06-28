@@ -4,6 +4,7 @@ date: "2026-02-22T12:32:14"
 description: "Dedicated fans have scoured the initial GTA 6 trailer, identifying numerous minor graphical glitches and inconsistencies, sparking discussion about the game's early development state."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Trailer Analysis", "Game Development", "Bugs", "Glitches", "Fan Reaction", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rbkq1n/gta_6_mistakes/"
+classification: "CONFIRMED"
 ---
 
 # Eagle-Eyed Fans Dissect GTA 6 Trailer for Early Graphical Glitches

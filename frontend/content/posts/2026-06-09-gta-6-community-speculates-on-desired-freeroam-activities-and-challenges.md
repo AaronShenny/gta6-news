@@ -4,6 +4,7 @@ date: "2026-06-09T06:44:33"
 description: "A Reddit thread has sparked discussion among GTA 6 fans, eager to share their hopes for engaging freeroam activities and challenges, drawing inspiration from past Rockstar hits like GTA V and Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Freeroam Activities", "Challenges", "Community Discussion", "Rockstar Games", "GTA V", "RDR2"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0xc23/what_kind_of_freeroam_activitieschallenges_would/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Desired Freeroam Activities and Challenges

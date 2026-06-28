@@ -4,6 +4,7 @@ date: "2026-05-03T02:47:31"
 description: "A Reddit user has compiled snippets of the highly anticipated 'Welcome to Vice City' song, believed to be from GTA 6 leaks, into a listenable track for the community."
 tags: ["GTA 6", "Grand Theft Auto VI", "Welcome to Vice City", "Leaks", "Fan Content", "Gaming Soundtrack", "Reddit Community", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t29fle/people_keep_mention_this_guy_with_welcome_to_vice/"
+classification: "LEAK"
 ---
 
 # Fan Compiles 'Welcome to Vice City' Song from GTA 6 Leaks Amidst Community Buzz

@@ -4,6 +4,7 @@ date: "2026-03-07T14:46:35"
 description: "The gaming community is buzzing with anticipation over how Grand Theft Auto VI could leverage PlayStation 5's DualSense haptics and adaptive triggers to revolutionize driving, shooting, and overall gameplay immersion."
 tags: ["GTA 6", "Grand Theft Auto VI", "PS5", "PlayStation 5", "DualSense", "Haptics", "Adaptive Triggers", "Rockstar Games", "Gaming Immersion", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnbqqe/how_do_you_think_gta_vi_will_use_ps5_haptics/"
+classification: "RUMOR"
 ---
 
 # GTA VI and PS5 Haptics: Community Speculates on Next-Gen Immersion

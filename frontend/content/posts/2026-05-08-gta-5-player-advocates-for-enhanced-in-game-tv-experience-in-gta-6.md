@@ -4,6 +4,7 @@ date: "2026-05-08T22:40:52"
 description: "A dedicated GTA 5 player expresses an ardent desire for Rockstar to significantly expand and improve the in-game television content for the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "In-Game TV", "GTA 5", "Player Feedback", "Gaming Features", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7n3ta/replaying_gta_5_right_now_and_theres_one_thing_im/"
+classification: "RUMOR"
 ---
 
 # GTA 5 Player Advocates for Enhanced In-Game TV Experience in GTA 6

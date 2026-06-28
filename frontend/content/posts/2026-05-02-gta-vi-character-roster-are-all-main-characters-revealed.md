@@ -4,6 +4,7 @@ date: "2026-05-02T19:41:51"
 description: "A Reddit post sparks community discussion and speculation regarding the potential full roster of main characters in Grand Theft Auto VI, beyond those already known."
 tags: ["GTA VI", "Grand Theft Auto 6", "Main Characters", "Character Roster", "Speculation", "Community Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t1znjr/do_you_think_these_are_all_the_main_characters_in/"
+classification: "RUMOR"
 ---
 
 # GTA VI Character Roster: Are All Main Characters Revealed?

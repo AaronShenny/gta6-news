@@ -4,6 +4,7 @@ date: "2026-06-18T13:28:09"
 description: "A Reddit user anticipates the end of GTA 6 pricing rumors, hinting at pre-orders and official details being just one week away, sparking community excitement."
 tags: ["GTA 6", "Rockstar Games", "Pre-orders", "Pricing Rumors", "Community Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u96al0/not_only_are_we_one_week_from_preorders_we_are/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Order and Pricing Announcement Imminent, Community Speculation Rife

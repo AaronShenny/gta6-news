@@ -4,6 +4,7 @@ date: "2026-03-23T05:25:06"
 description: "Gaming insider Tom Henderson anticipates Grand Theft Auto VI's third trailer before Take-Two's August earnings, though some question if this timing is optimal for summer marketing."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "Tom Henderson", "Take-Two Interactive", "Earnings Call", "Gaming Rumors", "Video Game News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1886n/new_tom_henderson_predicts_that_gta_vi_trailer_3/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3: Tom Henderson Predicts August Reveal, Sparking Timing Debate

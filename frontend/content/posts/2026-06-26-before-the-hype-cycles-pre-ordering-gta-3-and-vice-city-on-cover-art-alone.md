@@ -4,6 +4,7 @@ date: "2026-06-26T00:21:38"
 description: "A Reddit user reminisces about pre-ordering GTA 3 and Vice City based solely on magazine cover art and screenshots, highlighting the stark contrast with modern gaming's extensive pre-release information."
 tags: ["GTA", "Grand Theft Auto", "Gaming History", "Video Game Industry", "Nostalgia", "Pre-orders", "GTA 3", "Vice City", "Gaming Culture", "Retro Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufrapn/i_preordered_gta3_and_vice_city_based_on_cover/"
+classification: "UNKNOWN"
 ---
 
 # Before the Hype Cycles: Pre-Ordering GTA 3 and Vice City on Cover Art Alone

@@ -4,6 +4,7 @@ date: "2026-03-29T17:46:42"
 description: "Reddit user PoufyGB shares a creative fan-made concept video for Grand Theft Auto VI, set to the iconic Eric Prydz track 'Call On Me', generating buzz within the GTA community."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Creation", "Concept Video", "Eric Prydz", "Call On Me", "Reddit Community", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s71q9q/grand_theft_auto_vi_x_call_on_me_gameclip_eric/"
+classification: "RUMOR"
 ---
 
 # Fan-Made GTA 6 Concept Video Blends Grand Theft Auto VI with Eric Prydz's 'Call On Me'

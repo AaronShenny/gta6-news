@@ -4,6 +4,7 @@ date: "2026-03-17T14:43:44"
 description: "Take-Two CEO Strauss Zelnick recently dismissed the idea of AI creating a game like GTA as 'laughable' and expressed strong confidence that gamers do not age out of beloved franchises like GTA 6, stating the audience continues to grow."
 tags: ["GTA 6", "Grand Theft Auto", "Take-Two Interactive", "Strauss Zelnick", "AI in Gaming", "Gaming Industry", "Gamer Demographics", "Rockstar Games", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rw8htu/new_interview_with_taketwo_ceo_strauss_zelnick/"
+classification: "RUMOR"
 ---
 
 # Take-Two CEO Strauss Zelnick Dismisses AI's Role in GTA, Confident in GTA 6's Enduring Appeal to Gamers of All Ages

@@ -4,6 +4,7 @@ date: "2026-02-22T12:09:43"
 description: "A Reddit user draws parallels between Red Dead Redemption 2's trailer graphics and its final release, suggesting GTA 6's early visuals promise an even more breathtaking game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Graphics", "Red Dead Redemption 2", "Game Development", "Trailer Analysis", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rbk9xb/to_put_it_into_perspective/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Graphics Potential: Red Dead Redemption 2's Evolution Hints at a Stunning Final Product

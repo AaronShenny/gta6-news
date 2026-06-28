@@ -4,6 +4,7 @@ date: "2026-06-10T21:05:38"
 description: "A Reddit discussion on r/GTA6 explores fan theories regarding possible celebrity and brand collaborations for Grand Theft Auto 6, inspired by GTA Online's Dr. Dre contracts."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Collaborations", "Dr. Dre", "GTA Online", "Fan Theories", "Gaming News", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2ewx7/gta_6_collabs/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Speculate on Potential Collaborations Following Dr. Dre's GTA Online Success

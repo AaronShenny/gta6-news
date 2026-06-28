@@ -4,6 +4,7 @@ date: "2026-03-24T17:05:23"
 description: "A new leak from Reddit user u/ElkAltruisticc suggests Grand Theft Auto 6 will move beyond simple day-night cycles, introducing dynamic weekly, monthly, and yearly events, including F1 races and massive weekend nightlife crowds. Learn how this could revolutionize the single-player experience."
 tags: ["GTA 6", "Grand Theft Auto 6", "Leaks", "Rumors", "Gameplay Features", "Game Cycles", "Open World", "Rockstar Games", "Vice City", "F1 Races", "Car Meets", "Single-Player"]
 source: "https://www.reddit.com/r/GTA6/comments/1s2jpqx/i_heard_something_and_i_want_to_share_for_the/"
+classification: "RUMOR"
 ---
 
 # Rumor: GTA 6 to Introduce Groundbreaking Week, Month, and Year Cycles

@@ -4,6 +4,7 @@ date: "2026-02-23T00:32:01"
 description: "A Reddit post on the r/GTA6 subreddit has ignited a discussion among fans about the potential pricing of Grand Theft Auto 6, with one user willing to pay up to $200."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming", "Pricing", "Reddit", "Fan Speculation", "Ravenwood202", "Video Games", "Game Changer"]
 source: "https://www.reddit.com/r/GTA6/comments/1rc2pp1/will_you_pay_more_for_gta_6/"
+classification: "RUMOR"
 ---
 
 # Reddit User Sparks Debate: How Much Are Fans Willing to Pay for GTA 6?

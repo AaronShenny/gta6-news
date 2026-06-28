@@ -4,6 +4,7 @@ date: "2026-02-14T19:10:20"
 description: "Discover how dedicated Grand Theft Auto players plan to maintain character authenticity for Jason and Lucia in GTA 6, from custom vehicles to period-accurate clothing, based on past GTA V experiences."
 tags: ["GTA 6", "Grand Theft Auto", "Roleplaying", "Immersive Gaming", "Character Customization", "GTA V", "Red Dead Redemption 2", "Jason and Lucia", "Gaming Culture", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4t2t1/does_anyone_else_try_to_keep_their_characters_in/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Players Are Already Planning Deep Roleplaying for Jason and Lucia

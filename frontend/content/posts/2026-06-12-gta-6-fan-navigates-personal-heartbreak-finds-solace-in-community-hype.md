@@ -4,6 +4,7 @@ date: "2026-06-12T10:35:23"
 description: "A dedicated GTA 6 fan shares their emotional journey after a breakup impacts their anticipation for the game, finding support within the online community."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gaming Community", "Personal Story", "Breakup", "Fan Experience", "Hype", "Reddit", "Emotional Impact", "Lucia"]
 source: "https://www.reddit.com/r/GTA6/comments/1u3rm8b/never_thought_id_say_this_but_a_breakup_before/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Navigates Personal Heartbreak, Finds Solace in Community Hype

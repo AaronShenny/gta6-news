@@ -4,6 +4,7 @@ date: "2026-04-11T18:37:24"
 description: "A gaming journalist shares their surprising newfound love for GTA V and the anticipation for GTA VI's rumored multi-billion dollar budget as key drivers for their excitement."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Excitement", "Video Game Budget", "GTA V", "Open World Games", "AAA Gaming", "Gaming Journalism"]
 source: "https://www.reddit.com/r/GTA6/comments/1sir34n/im_extremely_excited_for_gta6_for_2_reasons/"
+classification: "RUMOR"
 ---
 
 # I'm extremely excited for GTA6 for 2 reasons

@@ -4,6 +4,7 @@ date: "2026-04-01T23:32:26"
 description: "A viral Reddit post claiming GTA 6's cancellation has been debunked as a satirical prank, with no credible information from Rockstar Games supporting the claim."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Rumors", "Prank", "Reddit", "Cancellation hoax", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1sa13b7/breaking_gta_6_has_been_cancelled/"
+classification: "RUMOR"
 ---
 
 # Don't Panic: GTA 6 'Cancellation' Report on Reddit Was Just a Prank

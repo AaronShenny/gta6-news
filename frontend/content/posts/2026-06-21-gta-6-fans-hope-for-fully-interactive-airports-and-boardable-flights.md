@@ -4,6 +4,7 @@ date: "2026-06-21T08:21:09"
 description: "A Reddit discussion highlights player desire for fully enterable airport interiors and the ability to board commercial flights in Grand Theft Auto 6, citing GTA 5's limitations."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Vice City International", "airport", "immersion", "gameplay features", "fan speculation", "open world", "travel"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubkkkh/anyone_else_hoping_we_can_finally_board_flights/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for Fully Interactive Airports and Boardable Flights

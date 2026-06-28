@@ -4,6 +4,7 @@ date: "2026-06-25T21:31:37"
 description: "Grand Theft Auto 6's Ultimate Edition will feature the Klose K17, a new in-game firearm heavily influenced by real-world Glock and SIG Sauer pistols."
 tags: ["GTA 6", "Grand Theft Auto 6", "Klose K17", "Glock 17", "SIG Sauer P320", "Ultimate Edition", "In-game weapon", "Gaming news", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ufn7ti/klose_is_a_new_gun_brand_based_on_glock/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Ultimate Edition Reveals New Klose K17 Pistol, Heavily Inspired by Glock

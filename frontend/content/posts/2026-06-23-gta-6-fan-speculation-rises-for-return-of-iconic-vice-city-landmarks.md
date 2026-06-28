@@ -4,6 +4,7 @@ date: "2026-06-23T19:21:46"
 description: "A Reddit post sparks discussion among GTA 6 fans about the potential return of iconic Grand Theft Auto: Vice City buildings, like Diaz's Mansion, for a nostalgic touch in the upcoming title."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Nostalgia", "Gaming News", "Fan Speculation", "Diaz's Mansion", "Rockstar Games", "Easter Eggs"]
 source: "https://www.reddit.com/r/GTA6/comments/1udqrgw/do_you_think_well_see_any_iconic_or_ordinary/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculation Rises for Return of Iconic Vice City Landmarks

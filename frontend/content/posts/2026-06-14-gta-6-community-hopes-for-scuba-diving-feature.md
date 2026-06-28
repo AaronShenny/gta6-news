@@ -4,6 +4,7 @@ date: "2026-06-14T13:56:38"
 description: "A Grand Theft Auto 6 fan shares their desire for scuba diving to be an available activity in the upcoming game, sparking speculation among the community."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Scuba Diving", "Fan Wishlist", "Community Discussion", "Gameplay Features", "Underwater Exploration"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5lu9v/i_hope_we_can_do_scuba_diving_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Scuba Diving Feature

@@ -4,6 +4,7 @@ date: "2026-05-16T06:40:39"
 description: "Insider Gaming's Tom Henderson casts doubt on immediate GTA 6 pre-orders and suggests fans won't see tangible news until July or August, urging caution against 'hopium'."
 tags: ["GTA 6", "Grand Theft Auto 6", "Tom Henderson", "Insider Gaming", "Pre-orders", "Gaming News", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tels9i/tom_hendersoninsider_gaming_we_dont_believe/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Pre-Order Hopes Dashed, Insider Suggests Later News Window

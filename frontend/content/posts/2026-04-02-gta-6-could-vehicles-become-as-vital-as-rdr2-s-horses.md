@@ -4,6 +4,7 @@ date: "2026-04-02T22:10:02"
 description: "A gaming journalist proposes GTA 6 revolutionize vehicle interaction by adopting Red Dead Redemption 2's immersive mechanics, suggesting vehicle maintenance, familiarity, and a limited inventory system."
 tags: ["GTA 6", "Grand Theft Auto VI", "Red Dead Redemption 2", "RDR2", "Vehicles", "Gameplay Mechanics", "Immersion", "Inventory System", "Vehicle Maintenance", "Rockstar Games", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1save8s/would_you_like_to_see_vehicles_matter_as_much_as/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Could Vehicles Become as Vital as RDR2's Horses?

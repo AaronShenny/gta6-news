@@ -4,6 +4,7 @@ date: "2026-02-22T23:09:16"
 description: "A Reddit user reflects on the nine-month period since GTA 6 Trailer 2, expressing optimism that the game's full release is 'not long now' and anticipating a soon-to-be playable title."
 tags: ["GTA 6", "Grand Theft Auto 6", "Release Date", "Trailer 2", "Speculation", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rc0r50/not_much_longer_now/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Release Speculation: Reddit User Optimistic for Imminent Launch

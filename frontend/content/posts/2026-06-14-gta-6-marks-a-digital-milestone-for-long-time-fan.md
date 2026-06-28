@@ -4,6 +4,7 @@ date: "2026-06-14T23:33:24"
 description: "A veteran Grand Theft Auto player reflects on their journey from collecting physical copies to embracing a digital-only future with the release of GTA 6, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto", "Digital Games", "Physical Games", "Xbox Series S", "Gaming Trends", "Game Ownership", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u607yh/this_is_the_first_time_i_wont_have_a_physical/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Marks a Digital Milestone for Long-Time Fan

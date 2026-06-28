@@ -4,6 +4,7 @@ date: "2026-05-08T17:23:00"
 description: "Take-Two CEO Strauss Zelnick discusses the unsustainable rise in game development costs, highlighting GTA 6's massive budget and the company's exploration of AI and technology to enhance efficiency without compromising game quality."
 tags: ["GTA 6", "Grand Theft Auto 6", "Take-Two", "Strauss Zelnick", "AI in Gaming", "Game Development Costs", "Gaming Industry", "Rockstar Games", "PS5", "Xbox Series X|S", "Game Prices"]
 source: "https://www.gamespot.com/articles/gta-6-company-exploring-ai-to-help-make-games-smarter-and-possibly-bring-down-costs/1100-6539870/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # GTA 6 Company "Exploring" AI To Help Make Games "Smarter" And Possibly Bring Down Costs

@@ -4,6 +4,7 @@ date: "2026-06-07T13:45:55"
 description: "A Reddit user highlights how Red Dead Redemption 2's immersive world, story, and mechanics are setting realistic expectations and building excitement for Grand Theft Auto 6."
 tags: ["GTA 6", "Red Dead Redemption 2", "Rockstar Games", "Gaming Hype", "Game Expectations", "Open World Games", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzckzt/rdr2_is_one_of_the_main_reasons_why_im_so_hyped/"
+classification: "UNKNOWN"
 ---
 
 # Red Dead Redemption 2: The Unexpected Blueprint Fueling GTA 6 Hype

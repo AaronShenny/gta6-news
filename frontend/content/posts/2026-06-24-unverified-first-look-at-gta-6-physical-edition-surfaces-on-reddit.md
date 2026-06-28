@@ -4,6 +4,7 @@ date: "2026-06-24T14:59:18"
 description: "A Reddit user has posted a link claiming to offer a 'first look' at the physical edition of Grand Theft Auto 6, sparking community interest. Details remain unconfirmed."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Physical Edition", "Leak", "Rumor", "Reddit", "Gaming News", "Unconfirmed"]
 source: "https://www.reddit.com/r/GTA6/comments/1uefwag/first_look_at_gta_6_physical_edition/"
+classification: "RUMOR"
 ---
 
 # Unverified 'First Look' at GTA 6 Physical Edition Surfaces on Reddit

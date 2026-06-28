@@ -4,6 +4,7 @@ date: "2026-04-01T22:37:14"
 description: "A dedicated Grand Theft Auto fan has designed and shared a full PS5 cover concept for GTA 6 on Reddit, fueling community excitement and speculation."
 tags: ["GTA 6", "Grand Theft Auto", "PS5", "Fan Art", "Cover Art", "Reddit", "Gaming Community", "Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9zrxh/gta_6_full_ps5_cover_fan_made/"
+classification: "RUMOR"
 ---
 
 # Fan-Made GTA 6 PS5 Cover Sparks Community Buzz on Reddit

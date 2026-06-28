@@ -4,6 +4,7 @@ date: "2026-06-23T07:49:15"
 description: "A Reddit user speculates on the technical leaps GTA 6 will introduce, following a tradition of groundbreaking innovations seen in past Grand Theft Auto titles like San Andreas, GTA IV, and GTA V."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Technology", "Video Game Innovation", "NPCs", "World Simulation", "Game Physics", "Immersion", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1udao6a/every_gta_game_has_had_its_own_technical/"
+classification: "UNKNOWN"
 ---
 
 # Predicting GTA 6's Technical Revolution: What Innovations Will Define Rockstar's Next Grand Theft Auto?

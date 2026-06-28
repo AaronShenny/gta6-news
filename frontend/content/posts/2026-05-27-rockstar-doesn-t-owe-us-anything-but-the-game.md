@@ -4,6 +4,7 @@ date: "2026-05-27T23:46:13"
 description: "A Reddit user urges GTA 6 fans to temper their expectations and impatience regarding Rockstar's social media silence, emphasizing that the game will arrive when ready."
 tags: ["GTA 6", "Rockstar Games", "Fan Expectations", "Gaming Community", "Impatience", "Social Media Silence", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tpmpv7/rockstar_doesnt_owe_us_anything_but_the_game/"
+classification: "UNKNOWN"
 ---
 
 # Rockstar doesn’t owe us anything but the game.

@@ -4,6 +4,7 @@ date: "2026-02-16T13:56:37"
 description: "A Reddit discussion speculates on how Grand Theft Auto VI will handle vehicle roof damage, a feature scaled back in GTA V due to first-person camera challenges like clipping."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA V", "Vehicle Damage", "First-Person Camera", "Rockstar Games", "Gaming News", "Community Discussion", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6a9qp/in_gta_v_roof_damage_was_removed_with_the_first/"
+classification: "RUMOR"
 ---
 
 # GTA VI's Vehicle Damage: Will Roof Deformation Return After GTA V's First-Person Compromise?

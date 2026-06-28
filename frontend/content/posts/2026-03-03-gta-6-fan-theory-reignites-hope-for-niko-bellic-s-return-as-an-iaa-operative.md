@@ -4,6 +4,7 @@ date: "2026-03-03T04:57:53"
 description: "A Reddit theory proposes Niko Bellic from GTA IV could make a surprising comeback in GTA 6, possibly as an IAA agent, drawing parallels to Karen Daniels' transformation."
 tags: ["GTA 6", "Niko Bellic", "Grand Theft Auto IV", "IAA", "Fan Theory", "Character Return", "Gaming News", "Rockstar Games", "Voice Acting"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjgc2j/prediction_niko_will_be_in_gta_6_as_an_iaa/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Theory Reignites Hope for Niko Bellic's Return as an IAA Operative

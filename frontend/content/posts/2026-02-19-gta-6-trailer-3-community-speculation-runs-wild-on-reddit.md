@@ -4,6 +4,7 @@ date: "2026-02-19T05:51:49"
 description: "A recent Reddit post highlights the intense fan speculation and diverse theories surrounding the potential release date of Grand Theft Auto 6's third trailer, with guesses ranging from May to August."
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailer 3", "Release Date", "Speculation", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8r6ov/trailer_3/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3: Community Speculation Runs Wild on Reddit

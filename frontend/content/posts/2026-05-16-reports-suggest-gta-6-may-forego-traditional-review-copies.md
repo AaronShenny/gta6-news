@@ -4,6 +4,7 @@ date: "2026-05-16T20:23:48"
 description: "New reports, citing Portal Viciados and Insider Gaming, indicate that Rockstar may not be sending out traditional review copies for Grand Theft Auto 6, potentially to prevent spoilers."
 tags: ["GTA 6", "Rockstar Games", "Review Copies", "Gaming News", "Spoilers", "Video Games", "Grand Theft Auto", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tf4j98/no_review_copies_for_gta_6_per_portal_viciados/"
+classification: "RUMOR"
 ---
 
 # Reports Suggest GTA 6 May Forego Traditional Review Copies

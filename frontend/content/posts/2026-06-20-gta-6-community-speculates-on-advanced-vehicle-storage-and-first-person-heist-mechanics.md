@@ -4,6 +4,7 @@ date: "2026-06-20T14:17:17"
 description: "A deep dive into community speculation surrounding potential vehicle storage capabilities and immersive first-person heist experiences in Grand Theft Auto VI, inspired by the Brian and Lori Heder scene."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vehicle Mechanics", "Weapon Storage", "First-Person", "Heists", "Community Speculation", "Rockstar Games", "Gameplay Features", "Brian and Lori Heder Scene"]
 source: "https://www.reddit.com/r/GTA6/comments/1uaxqnx/storage_trunk_capability_of_vehicles_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Speculates on Advanced Vehicle Storage and First-Person Heist Mechanics

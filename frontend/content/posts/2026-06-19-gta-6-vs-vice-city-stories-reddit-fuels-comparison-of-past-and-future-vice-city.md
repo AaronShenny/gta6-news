@@ -4,6 +4,7 @@ date: "2026-06-19T04:51:09"
 description: "A Reddit post has ignited fan discussions comparing the upcoming Grand Theft Auto 6 with the classic GTA Vice City Stories, exploring the evolution of Rockstar's iconic setting."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City Stories", "Rockstar Games", "Community Discussion", "Gaming Comparison", "Vice City", "Reddit", "Open World", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9si6w/gta_6_vs_gta_vice_city_stories_comparison/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 vs. Vice City Stories: Reddit Fuels Comparison of Past and Future Vice City

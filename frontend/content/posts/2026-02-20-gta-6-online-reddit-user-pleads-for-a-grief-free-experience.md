@@ -4,6 +4,7 @@ date: "2026-02-20T01:06:03"
 description: "A Reddit user expresses a desire for GTA 6 Online to foster a more mature and cooperative environment, moving away from griefing and battle royale mechanics."
 tags: ["GTA 6", "GTA Online", "Griefing", "Player Conduct", "Online Gaming", "Community", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9hcnx/gta_6_griefers/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Reddit User Pleads for a Grief-Free Experience

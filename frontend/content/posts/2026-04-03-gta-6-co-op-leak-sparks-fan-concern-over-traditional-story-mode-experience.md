@@ -4,6 +4,7 @@ date: "2026-04-03T00:36:13"
 description: "A recent GTA 6 leak suggesting co-op integration into story mode has prompted concern from a fan who fears it could detract from the series' traditional single-player experience."
 tags: ["GTA 6", "Grand Theft Auto 6", "Co-op", "Story Mode", "Single-player", "Leak", "Fan Reaction", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1saytgz/i_hope_the_gta_6_story_mode_coop_leak_is_not_true/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Co-op Leak Sparks Fan Concern Over Traditional Story Mode Experience

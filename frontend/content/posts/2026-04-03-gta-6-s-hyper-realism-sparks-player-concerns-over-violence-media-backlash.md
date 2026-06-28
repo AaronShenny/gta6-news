@@ -4,6 +4,7 @@ date: "2026-04-03T09:44:27"
 description: "A Reddit user expresses apprehension that Grand Theft Auto 6's anticipated realism could make in-game violence disturbing and reignite debates about video games' link to real-world aggression."
 tags: ["GTA 6", "Grand Theft Auto", "Realism", "Video Game Violence", "Player Experience", "Media Scrutiny", "Gaming Concerns", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1sb937i/mass_killing_and_realism_problem/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Hyper-Realism Sparks Player Concerns Over Violence, Media Backlash

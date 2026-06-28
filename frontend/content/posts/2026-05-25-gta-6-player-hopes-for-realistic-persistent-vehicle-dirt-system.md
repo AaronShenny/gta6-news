@@ -4,6 +4,7 @@ date: "2026-05-25T19:37:41"
 description: "A dedicated GTA 6 fan expresses a strong desire for Rockstar to implement a highly realistic and persistent dirt and mud system for vehicles, moving beyond arcade 'magic clean' mechanics for enhanced immersion."
 tags: ["GTA 6", "Grand Theft Auto", "Realism", "Vehicle Physics", "Offroading", "Immersion", "Open World Games", "Rockstar Games", "Fan Wishlist", "Gaming Expectations"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnjj10/i_hope_gta_6_doesnt_use_the_typical_magic_clean/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Player Hopes for Realistic, Persistent Vehicle Dirt System

@@ -4,6 +4,7 @@ date: "2026-04-01T09:28:24"
 description: "The dedicated GTA 6 community has released version 11 of their fan-made map, integrating new details from recent leaks, screenshots, and official trailers to offer an updated visualization of the game world."
 tags: ["GTA 6", "Grand Theft Auto 6", "Community Map", "Fan Project", "Leaks", "Trailers", "Vice City", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9fm2t/v11_of_the_yanis_gta_6_community_map_is_here/"
+classification: "LEAK"
 ---
 
 # GTA 6 Fan Map Reaches V11, Incorporating Latest Leaks and Trailers

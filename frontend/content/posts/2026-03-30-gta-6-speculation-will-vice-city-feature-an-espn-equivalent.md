@@ -4,6 +4,7 @@ date: "2026-03-30T00:21:22"
 description: "A Reddit user sparks discussion on r/GTA6, questioning the potential inclusion of an ESPN-like sports network in Grand Theft Auto VI, spurred by real-world location confirmations."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Gaming Speculation", "ESPN", "Sports Broadcast", "Reddit", "Rockstar Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7bn69/does_gta_universes_have_an_espn_equivalent/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Speculation: Will Vice City Feature an ESPN Equivalent?

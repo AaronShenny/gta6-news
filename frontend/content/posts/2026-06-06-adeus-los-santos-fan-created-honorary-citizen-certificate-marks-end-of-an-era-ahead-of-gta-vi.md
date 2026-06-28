@@ -4,6 +4,7 @@ date: "2026-06-06T02:00:53"
 description: "As GTA VI approaches, a fan has created an 'Honorary Citizen of Los Santos' certificate for players to bid a symbolic farewell to the iconic city from GTA: San Andreas and GTA V."
 tags: ["GTA 6", "Grand Theft Auto VI", "Los Santos", "Vice City", "Leonida", "Fan Tribute", "Gaming Community", "Rockstar Games", "Farewell", "Certificate"]
 source: "https://www.reddit.com/r/GTA6/comments/1ty4b34/adeus_los_santos_certificado_de_cidadão_honorário/"
+classification: "UNKNOWN"
 ---
 
 # Adeus, Los Santos: Fan-Created 'Honorary Citizen' Certificate Marks End of an Era Ahead of GTA VI

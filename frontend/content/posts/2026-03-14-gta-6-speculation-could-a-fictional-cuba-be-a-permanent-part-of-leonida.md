@@ -4,6 +4,7 @@ date: "2026-03-14T10:31:42"
 description: "Dive into the latest GTA 6 rumors suggesting a permanent, explorable fictional Cuba alongside Vice City. Will Rockstar Games deliver a multi-region map akin to GTA San Andreas, potentially revealed in a future trailer?"
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Vice City", "State of Leonida", "Fictional Cuba", "Map Expansion", "Rumors", "Speculation", "Trailer 3", "GTA San Andreas", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1rtg1dx/will_a_fictional_version_of_cuba_be_in_the_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Speculation: Could a Fictional Cuba Be a Permanent Part of Leonida?

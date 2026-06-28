@@ -4,6 +4,7 @@ date: "2026-05-09T11:47:04"
 description: "A popular fan theory from Reddit speculates on a potential third protagonist for Grand Theft Auto 6, possibly for an epilogue, drawing parallels to past Rockstar titles and leaked footage."
 tags: ["GTA 6", "Grand Theft Auto 6", "Protagonist", "Fan Theory", "Rockstar Games", "Jason", "Lucia", "Epilogue", "Leaks", "Trailer 1"]
 source: "https://www.reddit.com/r/GTA6/comments/1t82s1a/hold_on_to_your_tin_foil_hats_for_this_one/"
+classification: "RUMOR"
 ---
 
 # New GTA 6 Theory Suggests Third Playable Character for Post-Story Content

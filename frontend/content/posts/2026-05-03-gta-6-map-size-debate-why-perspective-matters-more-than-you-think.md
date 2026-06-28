@@ -4,6 +4,7 @@ date: "2026-05-03T00:12:37"
 description: "A gaming journalist debunks claims that the Grand Theft Auto VI map is 'small,' arguing that perceived size is often an optical illusion influenced by top-down views and in-game experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "Map Size", "Game World", "Gaming Analysis", "Perspective", "Rockstar Games", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1t2651f/people_calling_gta_vi_map_small_are_just_getting/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Map Size Debate: Why Perspective Matters More Than You Think

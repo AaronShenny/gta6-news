@@ -4,6 +4,7 @@ date: "2026-03-14T02:34:30"
 description: "Exploring the possibility of GTA VI utilizing a day-one patch to block physical copies until release, drawing parallels with Crimson Desert's strategy to combat early leaks and protect launch day experience."
 tags: ["GTA VI", "Grand Theft Auto 6", "Leaks", "Day-One Patch", "Game Preservation", "Crimson Desert", "Rockstar Games", "Gaming Industry", "Launch Strategy"]
 source: "https://www.reddit.com/r/GTA6/comments/1rt7ml1/could_the_physical_version_of_gta_vi_have_a_day_1/"
+classification: "RUMOR"
 ---
 
 # GTA VI Leak Prevention: Could a Day-One Patch Lock Physical Copies Until Launch?

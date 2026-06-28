@@ -4,6 +4,7 @@ date: "2026-06-02T20:15:27"
 description: "A recent Reddit post on the r/GTA6 subreddit, titled 'Had enough of this city. Bought a one way ticket to Vice City,' reflects the strong community anticipation for Grand Theft Auto 6 and a potential return to Vice City."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Reddit", "Fan Hype", "Gaming Community", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv2sm8/had_enough_of_this_city_bought_a_one_way_ticket/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Reddit Post Captures Community's Vice City Longing

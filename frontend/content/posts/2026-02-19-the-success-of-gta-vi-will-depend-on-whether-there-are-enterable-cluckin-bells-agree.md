@@ -4,6 +4,7 @@ date: "2026-02-19T07:13:51"
 description: "A humorous Reddit post sparks debate among the GTA 6 community, questioning whether the game's success hinges on the ability to enter Cluckin' Bell restaurants."
 tags: ["GTA 6", "Reddit Discussion", "Cluckin' Bell", "Fan Speculation", "Open World Features", "Game Immersion", "Community Debate", "Humor", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8sm9m/the_success_of_gta_vi_will_depend_on_whether/"
+classification: "RUMOR"
 ---
 
 # The success of GTA VI will depend on whether there are enterable Cluckin' Bells. Agree?

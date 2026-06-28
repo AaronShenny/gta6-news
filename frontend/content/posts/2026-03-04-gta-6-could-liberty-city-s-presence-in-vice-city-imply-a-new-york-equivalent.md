@@ -4,6 +4,7 @@ date: "2026-03-04T05:23:29"
 description: "A Reddit discussion sparks debate on whether GTA 6's Vice City, potentially featuring a Liberty City parody, could also include a 'New York' equivalent, given Rockstar's history of real-world parodies."
 tags: ["GTA 6", "Vice City", "Liberty City", "Rockstar Games", "Game development", "Speculation", "City names", "Open world", "Reddit discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rkcxjx/if_theres_a_place_called_liberty_city_in_miami/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Liberty City's Presence in Vice City Imply a 'New York' Equivalent?

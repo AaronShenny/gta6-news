@@ -4,6 +4,7 @@ date: "2026-05-01T21:31:52"
 description: "A Reddit discussion highlights the importance of managing expectations for GTA VI, reminding players that highly detailed graphics don't always translate to new gameplay features, referencing past Rockstar titles."
 tags: ["GTA 6", "GTA VI", "Rockstar Games", "Game Graphics", "Game Features", "Fan Expectations", "Community Discussion", "Reddit", "Gaming Journalism"]
 source: "https://www.reddit.com/r/GTA6/comments/1t16moo/just_a_reminder_that_not_every_graphic_detail_in/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Fans Reminded: Not Every Stunning Graphic Detail Will Be a Playable Mechanic

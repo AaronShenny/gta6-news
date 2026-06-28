@@ -4,6 +4,7 @@ date: "2026-04-03T21:59:55"
 description: "Despite Grand Theft Auto VI's anticipated realism, fans are actively debating what 'unrealistic' elements they'd love to see in the upcoming title in a popular community thread."
 tags: ["GTA 6", "Grand Theft Auto VI", "Community Discussion", "Fan Requests", "Unrealistic Features", "Gaming Culture", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbr757/what_is_one_unrealistic_thing_you_want_in_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Ponders Desired Unrealistic Features Amidst Realism Expectations

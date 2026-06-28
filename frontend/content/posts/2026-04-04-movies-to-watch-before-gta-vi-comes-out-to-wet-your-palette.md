@@ -4,6 +4,7 @@ date: "2026-04-04T02:59:24"
 description: "A Reddit user proposes a unique movie review series, exploring potential cinematic influences for Grand Theft Auto VI, drawing parallels to past GTA titles like Vice City and seeking community recommendations."
 tags: ["GTA VI", "Grand Theft Auto", "Cinematic Influences", "Movie Inspirations", "Video Game Speculation", "Reddit Community", "Film Series", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbxvtj/movies_to_watch_before_gta_vi_comes_out_to_wet/"
+classification: "RUMOR"
 ---
 
 # Movies to watch before GTA VI comes out to wet your palette

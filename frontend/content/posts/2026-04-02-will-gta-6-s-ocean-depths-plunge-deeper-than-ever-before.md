@@ -4,6 +4,7 @@ date: "2026-04-02T20:24:25"
 description: "Fan speculation is rife about the potential ocean depth in Grand Theft Auto 6, comparing GTA V's shallow waters to real-world Florida's vast continental shelf. Will players finally explore true abyssal zones?"
 tags: ["GTA 6", "Grand Theft Auto VI", "Ocean Depth", "Underwater Exploration", "GTA V", "Florida", "Gaming Speculation", "Easter Eggs", "Rockstar Games", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1sasnjc/how_deep_do_you_think_the_ocean_in_gta_6_will_be/"
+classification: "RUMOR"
 ---
 
 # Will GTA 6's Ocean Depths Plunge Deeper Than Ever Before?

@@ -4,6 +4,7 @@ date: "2026-06-14T04:52:16"
 description: "A viral Reddit post on r/GTA6 captures the community's deep-seated impatience for Grand Theft Auto 6, blending humor with a personal expression of longing for the game's release."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Community", "Anticipation", "Reddit", "Fan Sentiment", "Release Date", "Gaming Culture", "Humor"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5bufn/knicks_before_gta_6_cant_believe_we_live_in_this/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User's Poignant Lament Over GTA 6's Elusive Release Date

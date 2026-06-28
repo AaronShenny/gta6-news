@@ -4,6 +4,7 @@ date: "2026-02-20T15:38:09"
 description: "A Reddit user speculates on GTA 6's graphical fidelity, drawing parallels to Uncharted 4 and suggesting it surpasses Red Dead Redemption 2's visuals in an open-world setting."
 tags: ["GTA 6", "Grand Theft Auto 6", "Graphics", "Uncharted 4", "Red Dead Redemption 2", "Open World", "Gaming Journalism", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r9ym2a/gta_6_graphics/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Graphics: A Comparison to Uncharted 4's Fidelity in an Open World

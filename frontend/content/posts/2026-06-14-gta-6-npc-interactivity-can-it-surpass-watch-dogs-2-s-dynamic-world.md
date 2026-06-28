@@ -4,6 +4,7 @@ date: "2026-06-14T18:17:06"
 description: "A Reddit user speculates on whether Grand Theft Auto 6's NPCs will offer more dynamic interactions than Watch Dogs 2, highlighting hacking and emotive responses as key features."
 tags: ["GTA 6", "Grand Theft Auto 6", "NPCs", "Interactivity", "Watch Dogs 2", "Red Dead Redemption 2", "Rockstar Games", "Gaming Discussion", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5sftu/will_gta_6_npcs_be_more_interactive_than_watch/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 NPC Interactivity: Can it Surpass Watch Dogs 2's Dynamic World?

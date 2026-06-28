@@ -4,6 +4,7 @@ date: "2026-05-14T13:55:53"
 description: "Reports of GTA 6 preorder news featured on CNBC, leading to a notable increase in Take-Two Interactive (TTWO) stock performance."
 tags: ["GTA 6", "Grand Theft Auto VI", "Take-Two Interactive", "TTWO", "Stock Market", "CNBC", "Gaming News", "Preorders", "Financial News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tcyyl2/gta_6_preorder_news_makes_it_on_cnbc_this_morning/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Preorder Buzz Hits CNBC, Sparks Take-Two Stock Rally

@@ -4,6 +4,7 @@ date: "2026-06-22T10:02:57"
 description: "A recent Reddit discussion ponders the 'hottest' female cover characters in Grand Theft Auto history, featuring Vice City, GTA V, and a new 'Latina baddie' for GTA 6."
 tags: ["GTA 6", "Grand Theft Auto", "Cover Art", "Female Characters", "Vice City", "GTA V", "Fan Discussion", "Reddit", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucgeqw/whos_taking_the_hotness_crown/"
+classification: "RUMOR"
 ---
 
 # GTA 6's New 'Latina Baddie' Ignites Fan Debate Over Series' Most Iconic Cover Art Characters

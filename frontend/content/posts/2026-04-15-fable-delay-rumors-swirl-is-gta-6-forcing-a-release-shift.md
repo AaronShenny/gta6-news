@@ -4,6 +4,7 @@ date: "2026-04-15T16:47:00"
 description: "Rumors suggest the Fable reboot might be delayed beyond 2026, with social media activity hinting at a shift. Industry fear of GTA 6's launch is cited as a potential driving factor."
 tags: ["Fable", "GTA 6", "Game Delay", "Xbox", "PlayStation", "PC Gaming", "Industry News", "Playground Games", "Rockstar Games", "Social Media", "Release Date"]
 source: "https://www.gamespot.com/articles/as-fable-is-rumored-to-be-delayed-lets-read-too-much-into-this-social-media-change/1100-6539421/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # Fable Delay Rumors Swirl: Is GTA 6 Forcing a Release Shift?

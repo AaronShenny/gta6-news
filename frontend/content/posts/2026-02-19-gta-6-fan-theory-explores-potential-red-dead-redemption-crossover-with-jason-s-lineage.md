@@ -4,6 +4,7 @@ date: "2026-02-19T00:27:14"
 description: "A viral Reddit theory suggests a shocking lineage for GTA 6 protagonist Jason, potentially linking him to Red Dead Redemption's Jack Marston. Explore the evidence and implications."
 tags: ["GTA 6", "Grand Theft Auto VI", "Red Dead Redemption", "Jack Marston", "Jason", "Fan Theory", "Rockstar Games", "Gaming Lore", "Cross-Franchise", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8ke4k/could_jack_marston_be_jasons_dad/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory Explores Potential Red Dead Redemption Crossover with Jason's Lineage

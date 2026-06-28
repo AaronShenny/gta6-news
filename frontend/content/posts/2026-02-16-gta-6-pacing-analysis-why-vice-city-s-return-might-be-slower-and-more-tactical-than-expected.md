@@ -4,6 +4,7 @@ date: "2026-02-16T02:36:59"
 description: "An in-depth look at leaked GTA 6 footage reveals a deliberate, RDR2-inspired pacing with complex UI, nuanced character interactions, and strategic police encounters."
 tags: ["GTA 6", "Grand Theft Auto", "Gameplay Pacing", "Rockstar Games", "RDR2 Influence", "Leaked Footage", "UI Elements", "Robbery Mechanics", "Police AI", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5xm27/pacing/"
+classification: "LEAK"
 ---
 
 # GTA 6 Pacing Analysis: Why Vice City's Return Might Be Slower and More Tactical Than Expected

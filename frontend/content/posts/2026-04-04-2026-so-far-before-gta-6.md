@@ -4,6 +4,7 @@ date: "2026-04-04T20:26:06"
 description: "A Reddit post titled '2026 so far before GTA 6' was submitted, but no article content was provided for summarization."
 tags: ["GTA 6", "Reddit", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1scjqg8/2026_so_far_before_gta_6/"
+classification: "RUMOR"
 ---
 
 # 2026 so far before GTA 6

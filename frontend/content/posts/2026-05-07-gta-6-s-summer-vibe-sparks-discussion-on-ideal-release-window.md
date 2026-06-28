@@ -4,6 +4,7 @@ date: "2026-05-07T11:13:00"
 description: "A Reddit user shares their appreciation for GTA 6's strong summer aesthetic and argues why a Summer 2026 release would have perfectly complemented the game's atmosphere."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Atmosphere", "Summer Vibe", "Release Date", "Gaming Aesthetic", "Fan Opinion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t67dvv/gta_6_summer_2026_vibe/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's 'Summer Vibe' Sparks Discussion on Ideal Release Window

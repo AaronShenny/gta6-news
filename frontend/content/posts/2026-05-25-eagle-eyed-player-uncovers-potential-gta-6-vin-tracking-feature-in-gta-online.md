@@ -4,6 +4,7 @@ date: "2026-05-25T06:38:10"
 description: "A GTA Online player claims to have found a hidden description hinting at a 'VIN tracking' feature for police, potentially a leak from the upcoming GTA 6."
 tags: ["GTA 6", "GTA Online", "Leak", "VIN Tracking", "Rockstar Games", "Coquette D10", "Gaming Rumor", "Vehicle Customization", "Suspect Profiling"]
 source: "https://www.reddit.com/r/GTA6/comments/1tn0v0r/potential_gta_6_feature_leaked_in_gta_online/"
+classification: "RUMOR"
 ---
 
 # Eagle-Eyed Player Uncovers Potential GTA 6 'VIN Tracking' Feature in GTA Online

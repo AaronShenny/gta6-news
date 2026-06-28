@@ -4,6 +4,7 @@ date: "2026-06-15T19:23:47"
 description: "A Reddit discussion explores fan theories on Grand Theft Auto VI's potential 'vibe,' ranging from an inspirational couple's journey to a chaotic outlaw lifestyle."
 tags: ["GTA VI", "Grand Theft Auto 6", "Game Vibe", "Speculation", "Community Discussion", "Narrative", "Gameplay Tone", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6qjfn/what_vibe_you_think_gta_vi_will_have/"
+classification: "RUMOR"
 ---
 
 # GTA VI Vibe Speculation: Community Debates Game's Tone and Narrative Direction

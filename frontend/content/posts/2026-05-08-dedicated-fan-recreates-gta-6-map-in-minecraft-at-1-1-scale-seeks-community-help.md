@@ -4,6 +4,7 @@ date: "2026-05-08T16:29:17"
 description: "A Reddit user has begun an ambitious project to meticulously rebuild the entire Grand Theft Auto VI map within Minecraft at a 1:1 scale, actively seeking fellow builders to join the massive undertaking."
 tags: ["GTA 6", "Minecraft", "Fan Project", "Community Build", "1:1 Scale", "Gaming News", "Grand Theft Auto VI", "WIP", "User-Generated Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7cz21/grand_theft_auto_vi_in_minecraft_11_scale_wip/"
+classification: "UNKNOWN"
 ---
 
 # Dedicated Fan Recreates GTA 6 Map in Minecraft at 1:1 Scale, Seeks Community Help

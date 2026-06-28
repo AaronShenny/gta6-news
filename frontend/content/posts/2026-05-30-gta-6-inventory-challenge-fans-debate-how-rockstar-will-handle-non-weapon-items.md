@@ -4,6 +4,7 @@ date: "2026-05-30T17:05:01"
 description: "The GTA 6 community is buzzing with speculation about the game's non-weapon inventory system, questioning the practicality of satchels, backpacks, or car trunks for items like fishing poles and healing supplies."
 tags: ["GTA 6", "Grand Theft Auto VI", "Inventory System", "Rockstar Games", "Game Mechanics", "Fan Speculation", "Reddit Discussion", "Open World Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ts5emv/how_do_you_think_the_inventory_system_is_going_to/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Inventory Challenge: Fans Debate How Rockstar Will Handle Non-Weapon Items

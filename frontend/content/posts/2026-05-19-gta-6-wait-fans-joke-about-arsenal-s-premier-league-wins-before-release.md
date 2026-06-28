@@ -4,6 +4,7 @@ date: "2026-05-19T21:14:58"
 description: "A humorous Reddit post captures the community's lengthy wait for Grand Theft Auto 6, comparing its development cycle to Arsenal winning the Premier League multiple times."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Community", "Fan Humor", "Release Date", "Anticipation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1ti0lyl/we_got_arsenal_premier_league_champions_again/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Wait: Fans Joke About Arsenal's Premier League Wins Before Release

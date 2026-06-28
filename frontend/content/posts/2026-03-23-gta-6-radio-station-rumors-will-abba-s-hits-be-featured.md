@@ -4,6 +4,7 @@ date: "2026-03-23T09:56:31"
 description: "A Reddit user speculates on ABBA's potential inclusion in GTA 6's pop radio station, drawing parallels to the band's hypothetical social media resurgence in 2025."
 tags: ["GTA 6", "Grand Theft Auto 6", "Radio Station", "Music", "ABBA", "Non-Stop-Pop FM", "Community Speculation", "Reddit", "Gaming News", "Soundtrack"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1cken/gta_6s_pop_radio_station/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Radio Station Rumors: Will ABBA's Hits Be Featured?

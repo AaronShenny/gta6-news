@@ -4,6 +4,7 @@ date: "2026-06-15T01:09:13"
 description: "An analysis of how GTA Online's decade-long evolution provides clues to GTA 6's launch economy, predicting a tighter, business-focused, and solo-friendly grind."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Online", "In-game Economy", "Money Making", "Launch Strategy", "Gaming News", "Rockstar Games", "Game Predictions", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1u629g7/based_on_how_gta_online_evolved_heres_roughly_how/"
+classification: "UNKNOWN"
 ---
 
 # Predicting GTA 6's Economy: What GTA Online's Evolution Tells Us About Launch Day

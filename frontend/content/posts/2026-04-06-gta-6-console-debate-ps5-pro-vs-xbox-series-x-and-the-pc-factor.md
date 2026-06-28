@@ -4,6 +4,7 @@ date: "2026-04-06T22:41:00"
 description: "A Reddit discussion explores the console landscape for GTA 6, questioning the lack of Xbox Series X talk, the allure of the PS5 Pro for early access, and the performance advantages of PC gaming."
 tags: ["GTA 6", "Grand Theft Auto 6", "PS5 Pro", "Xbox Series X", "PC Gaming", "Console Wars", "Gaming Hardware", "Release Date", "Platform Debate", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1see20q/ps5_vs_xbox_series_x/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Console Debate: PS5 Pro vs. Xbox Series X, and the PC Factor

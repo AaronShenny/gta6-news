@@ -4,6 +4,7 @@ date: "2026-03-11T16:24:32"
 description: "A Reddit user sparks community discussion on whether the iconic military base, Fort Zancudo, will be featured in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fort Zancudo", "Fan Speculation", "Reddit", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rqyezy/do_you_think_well_have_a_gta_6_version_of_fort/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Speculation: Will Fort Zancudo Make a Return?

@@ -4,6 +4,7 @@ date: "2026-05-07T18:28:19"
 description: "A 34-year-old father of three shares a poignant reflection on his gaming journey, declaring Grand Theft Auto 6 as the final new title he anticipates with genuine excitement amidst growing burnout and time constraints."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Burnout", "Gamer Life", "Fatherhood", "Gaming Nostalgia", "Rockstar Games", "Gaming Industry", "Anticipation", "Last Hurrah"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6j2g9/gta_6_is_the_last_game_im_looking_forward_to_this/"
+classification: "UNKNOWN"
 ---
 
 # For One Dedicated Gamer, GTA 6 Marks the End of New Game Hype

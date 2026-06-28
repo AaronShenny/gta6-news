@@ -4,6 +4,7 @@ date: "2026-06-14T05:11:26"
 description: "A GTA 6 fan on Reddit speculates on a humorous and unexpected way Rockstar could resolve the iconic Mt. Chiliad mystery from GTA V in the upcoming game: a national radio disclosure."
 tags: ["GTA 6", "Grand Theft Auto VI", "Mt. Chiliad", "GTA V", "Easter Egg", "Fan Theory", "Speculation", "Reddit", "Rockstar Games", "Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5c7pb/a_random_thought/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory: Could a Radio Broadcast Finally Unravel the Mt. Chiliad Mystery?

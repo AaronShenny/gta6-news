@@ -4,6 +4,7 @@ date: "2026-04-09T11:56:46"
 description: "A Reddit post on r/GTA6 highlights the futility of fan speculation regarding unconfirmed Grand Theft Auto VI features, underscoring Rockstar Games' notorious information blackout."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Development", "Secrecy", "Community Speculation", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgnif9/this_sub_asking_if_gta_vi_will_have_insert/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Frustration Mounts Over Rockstar's Unyielding Secrecy

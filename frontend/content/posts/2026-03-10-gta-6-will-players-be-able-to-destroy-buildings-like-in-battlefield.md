@@ -4,6 +4,7 @@ date: "2026-03-10T02:12:09"
 description: "A Reddit discussion explores the highly anticipated realism of GTA 6, questioning if environmental destruction, including entire buildings and skyscrapers, will rival games like Battlefield."
 tags: ["GTA 6", "Grand Theft Auto 6", "Environmental Destruction", "Building Destruction", "Game Realism", "Battlefield Comparison", "Community Discussion", "Gaming Expectations", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpke35/do_you_guys_think_we_are_going_to_be_able_to/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Players Be Able to Destroy Buildings Like in Battlefield?

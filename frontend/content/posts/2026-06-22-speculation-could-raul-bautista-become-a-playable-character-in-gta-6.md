@@ -4,6 +4,7 @@ date: "2026-06-22T17:08:08"
 description: "A Reddit post speculates that Raul Bautista could become a post-story playable character in Grand Theft Auto VI, citing game design efficiency and Rockstar's past protagonist switches."
 tags: ["GTA 6", "Grand Theft Auto VI", "Raul Bautista", "Playable Character", "Speculation", "Rockstar Games", "Game Design", "Protagonist Switch", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucqi6n/raul_bautista_could_become_a_playable_character/"
+classification: "RUMOR"
 ---
 
 # Speculation: Could Raul Bautista Become a Playable Character in GTA 6?

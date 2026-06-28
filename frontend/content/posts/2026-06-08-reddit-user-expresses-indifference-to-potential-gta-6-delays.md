@@ -4,6 +4,7 @@ date: "2026-06-08T17:39:21"
 description: "A Reddit user on the r/GTA6 subreddit humorously dismisses potential Grand Theft Auto VI delays, stating they 'do not care' if the game faces further postponements."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Delays", "Fan Reaction", "Reddit", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0ewlx/we_do_not_fight_from_a_fight/"
+classification: "RUMOR"
 ---
 
 # Reddit User Expresses Indifference to Potential GTA 6 Delays

@@ -4,6 +4,7 @@ date: "2026-03-06T22:46:40"
 description: "A Reddit user on r/GTA6 has launched a discussion asking fans what 'typical GTA habits' and the 'soul of the franchise' should definitely return for Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Community Discussion", "Franchise Soul", "GTA Habits", "Player Feedback", "Reddit", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmspxz/what_is_a_typical_gta_habit_that_should/"
+classification: "UNKNOWN"
 ---
 
 # Community Sparks Debate: What Essential 'GTA Feeling' Must Return in GTA 6?

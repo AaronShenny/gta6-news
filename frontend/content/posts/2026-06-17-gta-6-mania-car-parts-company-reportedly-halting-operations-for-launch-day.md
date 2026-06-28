@@ -4,6 +4,7 @@ date: "2026-06-17T22:33:28"
 description: "The immense anticipation for Grand Theft Auto 6 is reaching new levels, with a Reddit user claiming a car parts company is temporarily closing so employees can play the game."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Hype", "BMS", "Video Game Release", "Cultural Impact", "Reddit News", "Gaming Culture", "Fan Dedication"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8oust/company_temp_closing_down_due_to_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Mania: Car Parts Company Reportedly Halting Operations for Launch Day

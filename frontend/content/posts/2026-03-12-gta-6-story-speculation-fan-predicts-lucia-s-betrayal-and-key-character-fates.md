@@ -4,6 +4,7 @@ date: "2026-03-12T22:13:40"
 description: "A dedicated fan delves into leaked GTA 6 character bios, predicting a dramatic story of betrayal between Lucia and Jason, and outlining the potential roles of other key figures in Leonida."
 tags: ["GTA 6", "Grand Theft Auto VI", "Story Speculation", "Lucia", "Jason", "Character Bios", "Fan Theory", "Rockstar Games", "Leonida", "Video Game News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rs51y1/speculated_prediction_on_how_the_story_might_go/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Story Speculation: Fan Predicts Lucia's Betrayal and Key Character Fates

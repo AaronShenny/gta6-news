@@ -4,6 +4,7 @@ date: "2026-04-11T15:23:32"
 description: "A dedicated GTA 6 community member warns players about the high likelihood of major story spoilers, including the ending, appearing online within hours of the game's release, advising a social media blackout."
 tags: ["GTA 6", "Grand Theft Auto VI", "Spoilers", "Gaming News", "Launch Day", "Social Media", "Player Advice", "Rockstar Games", "Community Warning"]
 source: "https://www.reddit.com/r/GTA6/comments/1sily2e/so_what_are_the_chances_that_the_whole_world_gets/"
+classification: "LEAK"
 ---
 
 # GTA 6 Spoilers: Prepare for Immediate Leaks Post-Launch, Community Warns

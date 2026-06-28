@@ -4,6 +4,7 @@ date: "2026-03-18T00:47:43"
 description: "The GTA community is actively discussing whether Grand Theft Auto 6 will feature a circular or square minimap, and which design players prefer."
 tags: ["GTA 6", "Grand Theft Auto 6", "Minimap", "UI", "User Interface", "Gaming Community", "Rockstar Games", "Speculation", "Fan Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1rwp7xh/do_you_think_gta_6_will_have_a_circular_or_square/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Minimap Debate: Fans Ponder Circular vs. Square Design

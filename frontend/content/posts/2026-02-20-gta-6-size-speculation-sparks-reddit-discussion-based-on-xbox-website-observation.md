@@ -4,6 +4,7 @@ date: "2026-02-20T19:05:14"
 description: "A recent Reddit post on r/GTA6 initiated fan speculation regarding the potential size of Grand Theft Auto 6, referencing an unspecified observation from the Xbox website."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming", "Speculation", "Reddit", "Xbox", "Game Size"]
 source: "https://www.reddit.com/r/GTA6/comments/1ra4bps/do_you_think_gta_6_will_be_this_small/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Size Speculation Sparks Reddit Discussion Based on Xbox Website Observation

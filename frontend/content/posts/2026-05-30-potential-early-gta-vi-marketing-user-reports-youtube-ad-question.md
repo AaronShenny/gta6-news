@@ -4,6 +4,7 @@ date: "2026-05-30T02:06:54"
 description: "A Reddit user claims to have encountered an advertisement question about Grand Theft Auto VI on YouTube, hinting at potential early marketing efforts for the highly anticipated game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "YouTube", "Marketing", "Advertising", "Gaming News", "Rumor"]
 source: "https://www.reddit.com/r/GTA6/comments/1trmr6l/first_time_ive_got_an_advertisement_question/"
+classification: "RUMOR"
 ---
 
 # Potential Early GTA VI Marketing: User Reports YouTube Ad Question

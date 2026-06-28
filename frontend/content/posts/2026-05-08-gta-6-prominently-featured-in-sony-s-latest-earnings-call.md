@@ -4,6 +4,7 @@ date: "2026-05-08T14:32:50"
 description: "Sony's May 8 earnings presentation showcased GTA 6 among its biggest upcoming titles, hinting at a marketing deal and potentially confirming no further delays for the highly anticipated game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Sony", "PlayStation", "Earnings Call", "Rockstar Games", "Marketing Deal", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1t79pvb/playstation_earnings_call/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Prominently Featured in Sony's Latest Earnings Call

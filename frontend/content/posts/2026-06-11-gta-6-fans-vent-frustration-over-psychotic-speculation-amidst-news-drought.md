@@ -4,6 +4,7 @@ date: "2026-06-11T22:56:29"
 description: "A Reddit post highlights the intense, often 'psychotic' speculation dominating the GTA 6 subreddit in the absence of official news, reflecting widespread fan anticipation and exasperation."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Fan Anticipation", "Gaming Community", "Speculation", "News Drought", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u3e78c/me_every_day_checking_this_sub_and_witnessing/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Vent Frustration Over 'Psychotic' Speculation Amidst News Drought

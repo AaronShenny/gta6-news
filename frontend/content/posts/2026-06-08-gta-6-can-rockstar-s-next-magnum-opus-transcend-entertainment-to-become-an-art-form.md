@@ -4,6 +4,7 @@ date: "2026-06-08T14:34:19"
 description: "A Reddit discussion ponders if GTA 6 will follow Red Dead Redemption 2's footsteps, achieving 'art form' status through deep storytelling and cinematic realism."
 tags: ["GTA 6", "Red Dead Redemption 2", "RDR2", "Rockstar Games", "Video Game Art", "Gaming Industry", "Cinematic Storytelling", "Thematic Depth", "Game Analysis", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u09pcc/do_you_think_gta_vi_will_be_regarded_as_an_art/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Can Rockstar's Next Magnum Opus Transcend Entertainment to Become an Art Form?

@@ -4,6 +4,7 @@ date: "2026-06-24T21:13:39"
 description: "A recent Reddit post sheds light on GTA 6's Ultimate Edition exclusive shops, confirming standard stores will still be present, and addresses the potential for post-launch physical disc releases to combat leaks."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Ultimate Edition", "Customization", "Physical Release", "Leaks", "Gaming News", "Vice City", "Jason", "Lucia"]
 source: "https://www.reddit.com/r/GTA6/comments/1ueq6c8/clearing_some_things_up/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Rumor Mill: Ultimate Edition Shops Clarified, Physical Release Status Addressed

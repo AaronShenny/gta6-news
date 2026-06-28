@@ -4,6 +4,7 @@ date: "2026-05-01T21:04:03"
 description: "A Reddit user weighs in on GTA 6 gameplay, predicting excellent driving but cautioning against overhyping potential hunting and fishing features based on early glimpses."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gameplay", "Driving", "Hunting", "Fishing", "Speculation", "Community Discussion", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t15wtx/if_you_had_to_guess_what_part_of_gta_6s_gameplay/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Gameplay Expectations: Driving vs. Hunting/Fishing

@@ -4,6 +4,7 @@ date: "2026-04-30T15:46:00"
 description: "Take-Two CEO Strauss Zelnick shared a story about canceling a sequel to a major legacy franchise because the development team lacked genuine enthusiasm, underscoring the company's selective approach to game development."
 tags: ["Take-Two Interactive", "Strauss Zelnick", "Game Development", "Video Game Sequels", "Legacy Franchises", "L.A. Noire", "Bully 2", "Rockstar Games", "Gaming Industry News"]
 source: "https://www.gamespot.com/articles/gta-6-owner-passed-on-a-sequel-to-a-legacy-franchise-but-wont-say-which-one/1100-6539720/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Take-Two Boss Reveals He Nixed A Legacy Franchise Sequel Due To Lack of Developer Passion

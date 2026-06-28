@@ -4,6 +4,7 @@ date: "2026-05-01T04:28:06"
 description: "A Reddit user proposes a unique and unsettling social media mechanic for GTA 6, where players could find themselves unintentionally featured in NPC livestreams, creating a subtle sense of digital paranoia and a truly 'alive' city."
 tags: ["GTA 6", "Grand Theft Auto 6", "Social Media", "NPC Interaction", "Game Mechanics", "Player Immersion", "Reddit Idea", "Gaming Concept", "Digital Paranoia", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0j1e2/social_media_paranoia/"
+classification: "RUMOR"
 ---
 
 # SOCIAL MEDIA PARANOIA

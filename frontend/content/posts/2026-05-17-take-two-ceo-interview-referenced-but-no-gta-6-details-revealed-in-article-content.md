@@ -4,6 +4,7 @@ date: "2026-05-17T14:18:25"
 description: "An article title references an interview with Take-Two CEO Strauss Zelnick discussing GTA 6, but the provided content offers no specific details or quotes from the interview itself."
 tags: ["GTA 6", "Grand Theft Auto 6", "Take-Two Interactive", "Strauss Zelnick", "Gaming News", "Release Date", "Industry Interview", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tfqtr4/recent_interview_with_ceo_of_take_two_interactive/"
+classification: "UNKNOWN"
 ---
 
 # Take-Two CEO Interview Referenced, But No GTA 6 Details Revealed in Article Content

@@ -4,6 +4,7 @@ date: "2026-03-19T05:38:39"
 description: "A Reddit user proposes an innovative way to build GTA 6 hype: subtle in-game radio teasers in GTA Online, connecting Los Santos to Vice City."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Fan Theory", "Speculation", "In-Game Teasers", "Radio", "Vice City", "Hype", "Environmental Storytelling"]
 source: "https://www.reddit.com/r/GTA6/comments/1rxs2ip/gta5_bridge_to_gta6/"
+classification: "RUMOR"
 ---
 
 # Fan Suggestion: GTA Online Radio Could Bridge the Gap to GTA 6

@@ -4,6 +4,7 @@ date: "2026-03-08T01:37:50"
 description: "The GTA 6 community's anticipation reaches new heights, with one fan humorously pointing out that Daylight Savings Time brings them an hour closer to the game's launch."
 tags: ["GTA 6", "Grand Theft Auto 6", "Daylight Savings", "Gaming Hype", "Gaming Community", "Anticipation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnroti/psa_remember_to_set_your_clock_1_hour_forward/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype: Fans See Daylight Savings as a Shortcut to Release

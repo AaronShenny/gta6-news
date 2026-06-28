@@ -4,6 +4,7 @@ date: "2026-06-11T06:37:17"
 description: "A gaming journalist voices apprehension regarding Grand Theft Auto VI Online's rumored heavy reliance on user-generated content, citing potential quality issues and community frustrations."
 tags: ["GTA VI", "GTA 6 Online", "User Generated Content", "UGC", "Rockstar Games", "Gaming News", "Community Concerns", "Role-Playing", "RP Servers", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2rahv/i_am_not_looking_forward_to_ugc_in_gta_vi_online/"
+classification: "RUMOR"
 ---
 
 # GTA VI Online's User-Generated Content Model Sparks Concerns Among Players

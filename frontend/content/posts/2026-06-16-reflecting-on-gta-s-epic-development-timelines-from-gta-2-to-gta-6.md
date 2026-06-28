@@ -4,6 +4,7 @@ date: "2026-06-16T05:02:09"
 description: "A Reddit user marvels at the extensive development timeline of the Grand Theft Auto series, from GTA 2 to GTA V and the highly anticipated GTA 6, drawing parallels to the scale of Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Development", "Gaming History", "Red Dead Redemption 2", "GTA Timeline"]
 source: "https://www.reddit.com/r/GTA6/comments/1u742f6/gta_2_gta_v_gta_6_timeline/"
+classification: "UNKNOWN"
 ---
 
 # Reflecting on GTA's Epic Development Timelines from GTA 2 to GTA 6

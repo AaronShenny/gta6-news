@@ -4,6 +4,7 @@ date: "2026-05-21T20:55:26"
 description: "Take-Two Interactive reconfirms Grand Theft Auto VI's November 19 launch for PS5 and Xbox Series X|S, with CEO Strauss Zelnick addressing delay rumors and announcing summer marketing plans."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Take-Two Interactive", "Rockstar Games", "PS5", "Xbox Series X|S", "Gaming News", "Strauss Zelnick", "Game Delay"]
 source: "https://www.gamespot.com/articles/no-gta-6-is-not-delayed-again-and-still-set-to-launch-this-november/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Confirmed for November 19 Release, Dispelling Delay Rumors

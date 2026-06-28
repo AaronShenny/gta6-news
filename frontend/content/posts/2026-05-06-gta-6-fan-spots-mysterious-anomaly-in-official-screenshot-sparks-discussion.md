@@ -4,6 +4,7 @@ date: "2026-05-06T10:12:06"
 description: "A Reddit user has highlighted an unusually tall, unidentified object visible in the distance of an official GTA 6 image, prompting speculation about rendering glitches or hidden details."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Game Glitch", "Rendering Error", "Fan Observation", "Community Discussion", "Screenshot Analysis", "Game Details"]
 source: "https://www.reddit.com/r/GTA6/comments/1t58krx/what_is_that_thing_visible_in_the_distance/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Spots Mysterious Anomaly in Official Screenshot, Sparks Discussion

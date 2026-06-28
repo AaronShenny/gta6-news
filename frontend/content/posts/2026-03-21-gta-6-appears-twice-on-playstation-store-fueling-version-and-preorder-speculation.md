@@ -4,6 +4,7 @@ date: "2026-03-21T14:53:07"
 description: "A Reddit user noticed Grand Theft Auto VI listed twice on the PlayStation Store website, sparking theories about different game versions or imminent preorders."
 tags: ["GTA 6", "Grand Theft Auto VI", "PlayStation Store", "Gaming News", "Rumors", "Speculation", "Preorders", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rztfz8/did_anyone_notice_this_before_today/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Appears Twice on PlayStation Store, Fueling Version and Preorder Speculation

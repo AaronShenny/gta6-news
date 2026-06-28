@@ -4,6 +4,7 @@ date: "2026-04-12T05:26:14"
 description: "A Reddit user sparks discussion on how Grand Theft Auto 6 could improve vehicle variety and realism by featuring cars with unique configurations and cosmetic damage, moving beyond GTA 5's pristine, repetitive vehicles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Vehicles", "Car Variety", "Realism", "Game Design", "Community Feedback", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1sj5nh9/cars_and_their_variants/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for More Diverse and Damaged Vehicles

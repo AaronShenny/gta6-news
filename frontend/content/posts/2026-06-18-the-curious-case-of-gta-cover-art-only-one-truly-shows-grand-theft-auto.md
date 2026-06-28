@@ -4,6 +4,7 @@ date: "2026-06-18T16:34:02"
 description: "A deep dive into Grand Theft Auto's cover art reveals that, despite the series' name, only one game's cover actually depicts the titular crime of car theft."
 tags: ["GTA", "Grand Theft Auto", "GTA VI", "GTA 2", "Cover Art", "Gaming Journalism", "Rockstar Games", "Video Games", "Car Theft", "Game Design"]
 source: "https://www.gamespot.com/articles/nearly-30-years-later-only-one-gta-cover-actually-shows-the-titular-crime/"
+classification: "RUMOR"
 ---
 
 # The Curious Case of GTA Cover Art: Only One Truly Shows Grand Theft Auto

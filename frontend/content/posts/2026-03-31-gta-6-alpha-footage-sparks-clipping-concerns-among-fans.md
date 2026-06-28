@@ -4,6 +4,7 @@ date: "2026-03-31T19:51:55"
 description: "A Reddit user points out clipping issues in leaked GTA 6 alpha footage, comparing it to older Rockstar titles like GTA IV and raising questions about physics fidelity."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Clipping", "Game Physics", "Alpha Build", "Fan Reaction", "GTA IV", "GTA V", "RDR 2", "Leaked Footage"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8y3c5/clipping/"
+classification: "LEAK"
 ---
 
 # GTA 6 Alpha Footage Sparks Clipping Concerns Among Fans

@@ -4,6 +4,7 @@ date: "2026-04-29T17:14:49"
 description: "A popular Reddit thread invites fans to imagine what they'd showcase in a hypothetical GTA 6 Trailer 3 if they were a developer, and how they'd refine previous trailers."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "Developer Insight", "Fan Speculation", "Gaming Community", "Reddit", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sz550a/trailer_3_as_a_dev/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Brainstorms Potential Trailer 3 Content from a Developer's Angle

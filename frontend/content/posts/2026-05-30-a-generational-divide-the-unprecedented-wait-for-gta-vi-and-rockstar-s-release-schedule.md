@@ -4,6 +4,7 @@ date: "2026-05-30T19:40:43"
 description: "Explore how the decade-long wait for Grand Theft Auto VI has shaped the gaming experience for different generations, highlighting Rockstar's changed release cadence."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA V", "Rockstar Games", "Gaming Generations", "Game Development", "Video Game Industry", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1ts9ddq/just_thinking/"
+classification: "UNKNOWN"
 ---
 
 # A Generational Divide: The Unprecedented Wait for GTA VI and Rockstar's Release Schedule

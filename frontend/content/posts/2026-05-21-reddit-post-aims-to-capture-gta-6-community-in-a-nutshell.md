@@ -4,6 +4,7 @@ date: "2026-05-21T10:44:11"
 description: "A Reddit user has submitted a post titled 'GTA 6 community in a nutshell,' suggesting a concise look at the fanbase's current state and discussions surrounding Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Gaming Community", "Fanbase", "Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjgonb/gta_6_community_in_a_nutshell/"
+classification: "UNKNOWN"
 ---
 
 # Reddit Post Aims to Capture 'GTA 6 Community in a Nutshell'

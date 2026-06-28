@@ -4,6 +4,7 @@ date: "2026-06-17T13:22:30"
 description: "The GTA 6 community is buzzing with questions about 'Boobie,' a character described on a website but absent from the trailer, prompting calls for Rockstar to provide more details."
 tags: ["GTA 6", "Rockstar Games", "Boobie", "Vice City", "Character Speculation", "Game Trailer", "Community Reaction", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8a29j/who_the_hell_are_you/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Demand Answers on Mysterious 'Boobie' Character

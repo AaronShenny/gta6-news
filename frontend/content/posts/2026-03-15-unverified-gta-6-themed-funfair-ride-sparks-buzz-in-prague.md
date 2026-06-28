@@ -4,6 +4,7 @@ date: "2026-03-15T21:37:00"
 description: "A Reddit user claims an unverified sighting of a GTA 6 themed funfair ride in Prague, Czechia, sparking speculation among fans."
 tags: ["GTA 6", "Grand Theft Auto 6", "Prague", "Czechia", "Funfair", "Rumor", "Speculation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ruqm1u/gta_6_themed_funfair_ride_spotted_in_prague/"
+classification: "RUMOR"
 ---
 
 # Unverified GTA 6 Themed Funfair Ride Sparks Buzz in Prague

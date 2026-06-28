@@ -4,6 +4,7 @@ date: "2026-04-01T18:35:22"
 description: "A Reddit discussion highlights fan disappointment over GTA 6's anticipated lack of path tracing at launch, citing console hardware limitations and potential for PC-exclusive advanced graphics."
 tags: ["GTA 6", "Grand Theft Auto 6", "Path Tracing", "Graphics", "PC Gaming", "Console Exclusivity", "Gaming News", "AMD GPUs", "PlayStation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9t743/anyone_else_bummed_out_gta_6_wont_have_path/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Launch to Miss Path Tracing, Sparking Fan Disappointment

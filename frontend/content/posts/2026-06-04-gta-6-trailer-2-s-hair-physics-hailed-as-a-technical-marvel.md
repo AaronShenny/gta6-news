@@ -4,6 +4,7 @@ date: "2026-06-04T07:15:03"
 description: "A deep dive into GTA 6 Trailer 2 reveals groundbreaking hair physics, suggesting individual strand animation and realistic lighting, even for NPCs."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 2", "Hair Physics", "Graphics", "Technical Achievement", "Rockstar Games", "NPCs", "Realism", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1twg87y/how_good_does_the_hair_look_in_trailer_2/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Trailer 2's Hair Physics Hailed as a 'Technical Marvel'

@@ -4,6 +4,7 @@ date: "2026-04-01T07:59:19"
 description: "A Reddit user sparks discussion on whether upgrading from a base PS5 to a PS5 Pro is necessary or beneficial for playing Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "PS5 Pro", "PlayStation 5 Pro", "Console Upgrade", "Gaming Hardware", "Performance", "Rockstar Games", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9e4kf/gta_6ps5_pro/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 on PS5 Pro: Community Ponders Upgrade Worth

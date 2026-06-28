@@ -4,6 +4,7 @@ date: "2026-03-28T17:31:14"
 description: "A Reddit user raises apprehension about Grand Theft Auto 6's narrative and character quality, drawing comparisons to recent GTA V DLCs lacking signature 'GTA flair.'"
 tags: ["GTA 6", "Grand Theft Auto VI", "Story", "Scripting", "Narrative", "Characters", "GTA V DLC", "Community Concerns", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s66kmw/is_anyone_else_scared_about_the_scriptingstory_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Story Concerns Emerge from Community Discussion, Citing Recent GTA V DLCs

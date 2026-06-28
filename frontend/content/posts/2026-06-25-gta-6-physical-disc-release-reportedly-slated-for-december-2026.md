@@ -4,6 +4,7 @@ date: "2026-06-25T09:45:12"
 description: "Rumors suggest Grand Theft Auto VI could launch its physical disc version in December 2026. Stay updated on the latest GTA 6 release date speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Physical Disc", "Rumor", "Speculation", "Rockstar Games", "Gaming News", "December 2026"]
 source: "https://www.reddit.com/r/GTA6/comments/1uf5hui/gta_6_will_reportedly_have_a_physical_disc/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Physical Disc Release Reportedly Slated for December 2026

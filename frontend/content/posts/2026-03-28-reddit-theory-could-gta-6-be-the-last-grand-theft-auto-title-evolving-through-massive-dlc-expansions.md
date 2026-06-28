@@ -4,6 +4,7 @@ date: "2026-03-28T00:47:35"
 description: "A popular Reddit theory suggests GTA 6 could be Rockstar's final GTA game, continuously expanding with new cities like Liberty City and Los Santos via DLC instead of new sequels."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "DLC", "Game Expansion", "Gaming Theory", "Open World", "Liberty City", "Los Santos", "Vice City", "Future of Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1s5m36z/what_if_gta_6_is_the_last_gta_game/"
+classification: "RUMOR"
 ---
 
 # Reddit Theory: Could GTA 6 Be the Last Grand Theft Auto Title, Evolving Through Massive DLC Expansions?

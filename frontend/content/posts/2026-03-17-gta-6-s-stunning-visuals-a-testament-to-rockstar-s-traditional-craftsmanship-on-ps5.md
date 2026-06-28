@@ -4,6 +4,7 @@ date: "2026-03-17T17:45:19"
 description: "A Reddit post highlights GTA 6's impressive graphics, noting its development without generative AI and performance on the base PS5, reinforcing Rockstar's industry-leading position."
 tags: ["GTA 6", "Rockstar Games", "PlayStation 5", "Gaming Industry", "Game Development", "Graphics", "Visuals", "Generative AI", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rwdnfg/a_reminder_that_gta_6_looks_this_good_with_zero/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Stunning Visuals: A Testament to Rockstar's Traditional Craftsmanship on PS5

@@ -4,6 +4,7 @@ date: "2026-06-11T11:30:57"
 description: "A Reddit user sparks discussion, arguing that 30FPS is acceptable for GTA 6 on controller, prioritizing graphical quality over higher frame rates."
 tags: ["GTA 6", "Grand Theft Auto 6", "Frame Rate", "FPS", "Graphics", "Visual Quality", "Rockstar Games", "Gaming Debate", "Controller Gaming", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2wfv8/what_would_you_choose/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Frame Rate Debate: Fan Suggests 30FPS is Enough for Visual Fidelity

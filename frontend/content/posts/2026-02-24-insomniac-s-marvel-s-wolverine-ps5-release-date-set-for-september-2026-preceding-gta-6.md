@@ -4,6 +4,7 @@ date: "2026-02-24T17:00:00"
 description: "Insomniac Games' highly anticipated Marvel's Wolverine will launch on PS5 on September 15, 2026, two months before Rockstar's Grand Theft Auto 6."
 tags: ["Marvel's Wolverine", "Insomniac Games", "PS5", "PlayStation 5", "Release Date", "GTA 6", "Grand Theft Auto 6", "Wolverine", "Logan", "X-Men", "Gaming News"]
 source: "https://www.gamespot.com/articles/marvels-wolverine-for-ps5-gets-september-release-date/1100-6538393/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Insomniac's Marvel's Wolverine PS5 Release Date Set for September 2026, Preceding GTA 6

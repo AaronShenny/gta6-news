@@ -4,6 +4,7 @@ date: "2026-05-08T21:09:33"
 description: "Reddit user u/West_Web4094 shares additional screenshots of their ambitious 1:1 scale Grand Theft Auto VI world recreated meticulously within Minecraft, captivating the gaming community."
 tags: ["GTA 6", "Grand Theft Auto VI", "Minecraft", "Fan Creation", "Community Project", "Gaming News", "User Content", "Rockstar Games", "Map Build"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7ksc4/more_screenshots_of_my_11_gta_6_minecraft_map/"
+classification: "CONFIRMED"
 ---
 
 # Fan Showcase: New Screenshots Emerge of Massive 1:1 GTA 6 Minecraft Map

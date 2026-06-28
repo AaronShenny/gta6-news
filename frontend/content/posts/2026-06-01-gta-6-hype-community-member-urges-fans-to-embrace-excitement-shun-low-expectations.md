@@ -4,6 +4,7 @@ date: "2026-06-01T16:18:17"
 description: "A Reddit user on the GTA 6 subreddit calls out negativity, advocating for fans to embrace excitement and high expectations for what they believe will be the biggest game launch in history."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming Community", "Hype", "Expectations", "Fan Culture", "Reddit", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttx6sk/just_live_in_anticipation_of_gta_vi_this_wont/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype: Community Member Urges Fans to Embrace Excitement, Shun Low Expectations

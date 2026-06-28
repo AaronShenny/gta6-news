@@ -4,6 +4,7 @@ date: "2026-06-02T20:10:33"
 description: "A Reddit post sparks debate on GTA 6's reported $1 billion budget and 6000-developer team, questioning player expectations for bug-free gameplay and groundbreaking features."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Development", "Gaming Budget", "Player Expectations", "Bugs", "Video Games Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv2nlz/can_we_expect_blowing_our_heads_off_features/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Staggering Budget: What Does $1 Billion and 6000 Devs Mean for Player Expectations?

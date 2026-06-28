@@ -4,6 +4,7 @@ date: "2026-03-14T06:11:10"
 description: "A gaming journalist discusses player concerns about the potential toxicity of GTA 6 Online, drawing comparisons with GTA V Online's evolving player base and hopes for a more skill-based experience."
 tags: ["GTA 6", "GTA VI Online", "GTA Online", "Toxicity", "Player Behavior", "Gaming Community", "PvP", "Griefing", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rtbsx9/do_you_think_that_gta_vi_online_will_be_as_toxic/"
+classification: "RUMOR"
 ---
 
 # Do You Think That GTA VI Online Will Be As Toxic As GTA V Online?

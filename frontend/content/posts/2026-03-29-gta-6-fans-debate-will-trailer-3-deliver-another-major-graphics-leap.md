@@ -4,6 +4,7 @@ date: "2026-03-29T23:50:26"
 description: "The GTA 6 community is buzzing with speculation about whether the third trailer will showcase a dramatic graphical upgrade, mirroring the impressive jump seen between the first two trailers."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "Graphics", "Visuals", "Rockstar Games", "Game Development", "Community Discussion", "Expectations", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7ayeg/do_you_think_trailer_3_will_have_the_same/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Debate: Will Trailer 3 Deliver Another Major Graphics Leap?

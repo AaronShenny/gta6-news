@@ -4,6 +4,7 @@ date: "2026-05-30T12:04:45"
 description: "A Reddit post on r/GTA6 has sparked community discussion, claiming a vehicle associated with Grand Theft Auto 6 has surfaced before the game's official launch."
 tags: ["GTA 6", "Grand Theft Auto 6", "Leaks", "Vehicles", "Gaming News", "Reddit", "Fan Speculation", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1try4u2/we_got_gta_6_car_before_gta_6/"
+classification: "RUMOR"
 ---
 
 # Fans Claim 'GTA 6 Car' Spotted Ahead of Game's Release

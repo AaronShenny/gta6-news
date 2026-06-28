@@ -4,6 +4,7 @@ date: "2026-02-23T19:19:13"
 description: "A diligent Reddit user has reportedly unearthed a collection of new, high-resolution GTA 6 artworks by exploring the source code of a Rockstar Games subpage."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Artworks", "Leaks", "Discovery", "Gaming News", "High Resolution"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcqys7/gta_6_new_artworks_from_r_subpage/"
+classification: "LEAK"
 ---
 
 # Hidden GTA 6 Artworks Uncovered on Rockstar's Official Subpage

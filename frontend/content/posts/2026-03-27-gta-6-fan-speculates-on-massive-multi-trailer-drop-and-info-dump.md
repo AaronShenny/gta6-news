@@ -4,6 +4,7 @@ date: "2026-03-27T23:48:12"
 description: "A Reddit user, u/sasukeamongus, proposes Rockstar could release 5-6 GTA 6 trailers simultaneously, featuring main and side characters, alongside a significant website info dump, drawing parallels to past unexpected reveals."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Game Trailers", "Fan Speculation", "Info Dump", "Character Reveals", "Lucia", "Jason", "Cal", "Drequan", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s5kq6v/multiple_trailers/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculates on Massive Multi-Trailer Drop and Info Dump

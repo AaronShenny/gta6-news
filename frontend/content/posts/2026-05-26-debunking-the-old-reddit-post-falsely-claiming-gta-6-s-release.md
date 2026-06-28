@@ -4,6 +4,7 @@ date: "2026-05-26T05:57:54"
 description: "An outdated Reddit post titled 'GTA 6 is officially out now' from nearly a decade ago has resurfaced, but the claim is entirely false. GTA 6 has not been released by Rockstar Games."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Hoax", "Misinformation", "Reddit", "Release Date", "Debunked"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnxyiq/gta_6_is_officially_out_now_according_to/"
+classification: "CONFIRMED"
 ---
 
 # Debunking the Old Reddit Post Falsely Claiming GTA 6's Release

@@ -4,6 +4,7 @@ date: "2026-06-19T06:28:20"
 description: "A dedicated Reddit user, u/No-Performance979, has unveiled their fan-made recreation of the Grand Theft Auto 6 theme song, presenting it as an unmixed demo."
 tags: ["GTA 6", "Grand Theft Auto 6", "Theme Song", "Fan-Made", "Music", "Demo", "Reddit", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9uail/i_remade_the_gta_6_theme_songwhat_do_you_think/"
+classification: "UNKNOWN"
 ---
 
 # Fan Recreates GTA 6 Theme Song, Shares Demo for Community Feedback

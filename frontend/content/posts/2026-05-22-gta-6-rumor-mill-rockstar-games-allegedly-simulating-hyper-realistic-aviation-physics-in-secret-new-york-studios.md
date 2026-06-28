@@ -4,6 +4,7 @@ date: "2026-05-22T15:01:11"
 description: "Unverified claims suggest Rockstar Games is undertaking extensive, secretive production in New York, focusing on incredibly detailed aviation physics, plane analysis, and audio recording, potentially for Grand Theft Auto 6."
 tags: ["GTA 6", "Rockstar Games", "Aviation Physics", "Game Development", "Rumors", "Leaks", "New York", "Farmingdale", "Bethpage", "Realistic Gaming", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1tklk18/gta_6_production_secret_location/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Rumor Mill: Rockstar Games Allegedly Simulating Hyper-Realistic Aviation Physics in Secret New York Studios

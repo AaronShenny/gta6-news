@@ -4,6 +4,7 @@ date: "2026-04-30T21:08:45"
 description: "Rockstar Games confirms GTA 6 will feature exclusively fictional brands, foregoing real-world product placement to maintain the game's unique satirical universe."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Product Placement", "Fictional Brands", "Gaming News", "Game Development", "Immersive World"]
 source: "https://www.reddit.com/r/GTA6/comments/1t093ze/gta_6_wont_have_any_brand_product_placement_its_a/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Confirmed to Shun Real-World Brand Product Placement, Prioritizing Fictional Purity

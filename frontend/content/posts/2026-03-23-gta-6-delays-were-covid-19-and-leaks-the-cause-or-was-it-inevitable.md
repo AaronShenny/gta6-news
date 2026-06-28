@@ -4,6 +4,7 @@ date: "2026-03-23T14:54:11"
 description: "A Reddit community discussion speculates whether external factors like the coronavirus pandemic and significant leaks truly impacted GTA 6's release timeline, or if delays were always part of the development cycle."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Development", "Delays", "COVID-19", "Leaks", "Community Discussion", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1j3a2/if_it_hadnt_been_for_the_coronavirus_and_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Delays: Were COVID-19 and Leaks the Cause, or Was It Inevitable?

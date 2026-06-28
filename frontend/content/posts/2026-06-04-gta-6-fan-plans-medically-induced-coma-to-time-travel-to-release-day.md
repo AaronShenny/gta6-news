@@ -4,6 +4,7 @@ date: "2026-06-04T20:08:26"
 description: "A dedicated Grand Theft Auto 6 fan on Reddit announced a humorous plan to enter a medically induced coma to bypass the long wait for the game's release, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto", "Reddit", "Gaming Community", "Fan Anticipation", "Humor", "Release Date"]
 source: "https://www.reddit.com/r/GTA6/comments/1twz06a/im_putting_myself_in_a_medically_induced_coma/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Plans Medically Induced Coma to 'Time Travel' to Release Day

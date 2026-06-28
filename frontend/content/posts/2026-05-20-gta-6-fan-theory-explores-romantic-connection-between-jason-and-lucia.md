@@ -4,6 +4,7 @@ date: "2026-05-20T23:21:15"
 description: "A popular fan theory from Reddit speculates that Grand Theft Auto 6 protagonists Jason and Lucia share a romantic relationship, citing in-game clues, promotional art, and official descriptions. Dive into the evidence suggesting a Bonnie and Clyde-esque dynamic."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jason Duval", "Lucia Caminos", "Fan Theory", "Rockstar Games", "Protagonists", "Romantic Relationship", "Bonnie and Clyde", "Trailer Analysis", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tj2n08/theory_jason_duval_is_lucia_caminoss_boyfriend/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Theory Explores Romantic Connection Between Jason and Lucia

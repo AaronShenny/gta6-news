@@ -6,9 +6,16 @@ from datetime import datetime
 from github import Github
 from dotenv import load_dotenv
 import re
-from bs4 import BeautifulSoup
+import html2text
 from google import genai
 from google.genai import types
+from pydantic import BaseModel, Field
+from tenacity import retry, stop_after_attempt, wait_exponential
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 # Load environment variables
 load_dotenv()
@@ -37,17 +44,32 @@ FEEDS = [
 # Keywords
 KEYWORDS = ["GTA 6", "Grand Theft Auto VI", "Vice City", "GTA VI"]
 
+class FAQItem(BaseModel):
+    question: str
+    answer: str
+
+class ArticleSummary(BaseModel):
+    title: str = Field(description="The catchy title of the article")
+    meta_description: str = Field(description="A short meta description for SEO")
+    summary: str = Field(description="A detailed summary of the article in markdown")
+    key_points: list[str] = Field(description="A list of key takeaways")
+    faq: list[FAQItem] = Field(description="A list of FAQ items generated from the article")
+    tags: list[str] = Field(description="Relevant tags for the article")
+    classification: str = Field(description="Classify the news as one of: CONFIRMED, RUMOR, LEAK, or UNKNOWN")
+
 def clean_html(html_content):
-    soup = BeautifulSoup(html_content, "html.parser")
-    return soup.get_text(separator=" ")
+    h = html2text.HTML2Text()
+    h.ignore_links = False
+    return h.handle(html_content)
 
 def check_relevance(title, content):
     text = (title + " " + content).lower()
     return any(keyword.lower() in text for keyword in KEYWORDS)
 
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
 def summarize_article(title, content, link):
     if not client:
-        print("Skipping summarization (No API Key)")
+        logger.warning("Skipping summarization (No API Key)")
         return None
 
     prompt = f"""
@@ -56,16 +78,6 @@ You are a professional gaming journalist. Summarize this article about GTA 6 for
 Article Title: {title}
 Article Content: {content[:8000]}
 Source Link: {link}
-
-Return ONLY valid JSON with this structure:
-{{
-    "title": "",
-    "meta_description": "",
-    "summary": "",
-    "key_points": [],
-    "faq": [],
-    "tags": []
-}}
 """
 
     try:
@@ -74,20 +86,22 @@ Return ONLY valid JSON with this structure:
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.7,
-                response_mime_type="application/json"
+                response_mime_type="application/json",
+                response_schema=ArticleSummary
             )
         )
 
         raw_text = response.text.strip()
-
         if raw_text.startswith("```"):
             raw_text = raw_text.split("```")[1]
+            if raw_text.startswith("json"):
+                raw_text = raw_text[4:]
 
-        return json.loads(raw_text)
+        return json.loads(raw_text.strip())
 
     except Exception as e:
-        print(f"Error summarising article: {e}")
-        return None
+        logger.error(f"Error summarising article: {e}")
+        raise e
 
 def save_local_markdown(data, original_date):
     if not data:
@@ -105,6 +119,8 @@ def save_local_markdown(data, original_date):
         answer = item.get("answer", "")
         faq_items.append(f"**{question}**\n{answer}\n")
     faq_content = "\n".join(faq_items)
+    
+    classification = data.get('classification', 'UNKNOWN')
 
     md_content = f"""---
 title: "{data.get('title', '')}"
@@ -112,6 +128,7 @@ date: "{original_date.isoformat()}"
 description: "{data.get('meta_description', '')}"
 tags: {json.dumps(data.get('tags', []))}
 source: "{data.get('source_link', '')}"
+classification: "{classification}"
 ---
 
 # {data.get('title', '')}
@@ -135,7 +152,7 @@ source: "{data.get('source_link', '')}"
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(md_content)
 
-    print(f"Saved: {filepath}")
+    logger.info(f"Saved: {filepath}")
     return filepath
 
 def main():
@@ -151,7 +168,7 @@ def main():
     new_posts = []
 
     for feed_url in FEEDS:
-        print(f"Checking feed: {feed_url}")
+        logger.info(f"Checking feed: {feed_url}")
 
         try:
             feed = feedparser.parse(feed_url)
@@ -159,7 +176,7 @@ def main():
             for entry in feed.entries:
 
                 if request_count >= MAX_REQUESTS:
-                    print("Reached max free-tier requests. Stopping.")
+                    logger.warning("Reached max free-tier requests. Stopping.")
                     break
 
                 if entry.link in seen_urls:
@@ -176,36 +193,39 @@ def main():
                 clean_content = clean_html(content)
 
                 if check_relevance(entry.title, clean_content):
-                    print(f"Relevant: {entry.title}")
+                    logger.info(f"Relevant: {entry.title}")
 
-                    summary_data = summarize_article(
-                        entry.title,
-                        clean_content,
-                        entry.link
-                    )
+                    try:
+                        summary_data = summarize_article(
+                            entry.title,
+                            clean_content,
+                            entry.link
+                        )
 
-                    if summary_data:
-                        request_count += 1
-                        summary_data['source_link'] = entry.link
+                        if summary_data:
+                            request_count += 1
+                            summary_data['source_link'] = entry.link
 
-                        if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                            dt = datetime.fromtimestamp(
-                                time.mktime(entry.published_parsed)
-                            )
-                        else:
-                            dt = datetime.now()
+                            if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                                dt = datetime.fromtimestamp(
+                                    time.mktime(entry.published_parsed)
+                                )
+                            else:
+                                dt = datetime.now()
 
-                        filepath = save_local_markdown(summary_data, dt)
+                            filepath = save_local_markdown(summary_data, dt)
 
-                        if filepath:
-                            seen_urls.add(entry.link)
-                            new_posts.append(filepath)
+                            if filepath:
+                                seen_urls.add(entry.link)
+                                new_posts.append(filepath)
+                    except Exception as e:
+                        logger.error(f"Failed to summarize and save {entry.title}: {e}")
 
             if request_count >= MAX_REQUESTS:
                 break
 
         except Exception as e:
-            print(f"Error processing feed {feed_url}: {e}")
+            logger.error(f"Error processing feed {feed_url}: {e}")
 
     os.makedirs("backend", exist_ok=True)
     with open(seen_file, "w") as f:
@@ -215,7 +235,7 @@ def main():
     # GitHub Commit Section
     # -------------------------
     if GITHUB_TOKEN and REPO_NAME:
-        print("Committing to GitHub...")
+        logger.info("Committing to GitHub...")
 
         try:
             g = Github(GITHUB_TOKEN)
@@ -235,7 +255,7 @@ def main():
                     existing_seen.sha,
                     branch="main"
                 )
-                print("seen.json updated.")
+                logger.info("seen.json updated.")
 
             except Exception:
                 repo.create_file(
@@ -244,7 +264,7 @@ def main():
                     seen_content,
                     branch="main"
                 )
-                print("seen.json created.")
+                logger.info("seen.json created.")
 
             # ---- Update or Create Posts ----
             for post_path in new_posts:
@@ -264,9 +284,9 @@ def main():
                             existing_file.sha,
                             branch="main"
                         )
-                        print(f"Updated: {rel_path}")
+                        logger.info(f"Updated: {rel_path}")
                     else:
-                        print(f"No changes: {rel_path}")
+                        logger.info(f"No changes: {rel_path}")
 
                 except Exception:
                     repo.create_file(
@@ -275,12 +295,12 @@ def main():
                         content,
                         branch="main"
                     )
-                    print(f"Created: {rel_path}")
+                    logger.info(f"Created: {rel_path}")
 
-            print("GitHub commit completed successfully.")
+            logger.info("GitHub commit completed successfully.")
 
         except Exception as e:
-            print(f"GitHub API Error: {e}")
+            logger.error(f"GitHub API Error: {e}")
 
 if __name__ == "__main__":
-    main() 
+    main()

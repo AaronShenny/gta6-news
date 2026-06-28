@@ -4,6 +4,7 @@ date: "2026-05-31T15:27:24"
 description: "A Reddit user discovered an in-game mention of Vice City in GTA IV, reigniting discussions about its potential role and other location references in the upcoming GTA 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "GTA IV", "Easter Egg", "Rockstar Games", "Game Lore", "Speculation", "Gaming News", "Locations", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tsye5v/found_a_quick_mention_of_vice_city_in_gta_iv/"
+classification: "RUMOR"
 ---
 
 # GTA IV Easter Egg Unearths Vice City Mention, Stoking GTA 6 Hopes

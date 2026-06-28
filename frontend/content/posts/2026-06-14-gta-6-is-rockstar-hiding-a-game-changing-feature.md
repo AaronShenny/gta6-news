@@ -4,6 +4,7 @@ date: "2026-06-14T10:59:54"
 description: "A gaming journalist speculates that Rockstar Games is keeping a major, unannounced feature for GTA 6 under wraps, citing historical marketing tactics, unexplored map areas, and the game's rumored multi-billion dollar budget."
 tags: ["GTA 6", "Rockstar Games", "Game Development", "Speculation", "Euphoria Engine", "Map Leaks", "Gaming Budget", "RAGE Engine", "Player Expectations"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5i5ea/for_the_most_patient_among_you_a_wall_of_text/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Is Rockstar Hiding a Game-Changing Feature?

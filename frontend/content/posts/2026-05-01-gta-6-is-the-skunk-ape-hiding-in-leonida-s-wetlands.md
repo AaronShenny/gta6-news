@@ -4,6 +4,7 @@ date: "2026-05-01T10:43:08"
 description: "New speculation suggests Rockstar Games might be including the legendary Skunk Ape, the 'sasquatch of the Everglades,' as a hidden Easter egg in Grand Theft Auto VI's expansive wetlands."
 tags: ["GTA 6", "Grand Theft Auto VI", "Easter Egg", "Skunk Ape", "Cryptid", "Leonida", "Everglades", "Rockstar Games", "Gaming News", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0pti9/possible_skunk_ape_easter_egg_in_gta_6_everglades/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Is the 'Skunk Ape' Hiding in Leonida's Wetlands?

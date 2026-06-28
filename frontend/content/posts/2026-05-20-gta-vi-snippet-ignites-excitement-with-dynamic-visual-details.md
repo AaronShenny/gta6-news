@@ -4,6 +4,7 @@ date: "2026-05-20T19:48:45"
 description: "A slowed-down GIF from the GTA VI website reveals intense action, featuring flying glass, muzzle flashes, and character detail, thrilling the gaming community."
 tags: ["GTA 6", "Grand Theft Auto VI", "GIF", "Gameplay Snippet", "Visuals", "Action", "Gaming News", "Reddit", "Fan Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1tiws54/this_gifsnippet_from_the_gta_vi_website_is_still/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Snippet Ignites Excitement with Dynamic Visual Details

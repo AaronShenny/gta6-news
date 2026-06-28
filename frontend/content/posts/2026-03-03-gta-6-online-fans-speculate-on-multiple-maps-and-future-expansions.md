@@ -4,6 +4,7 @@ date: "2026-03-03T13:31:59"
 description: "A recent Reddit discussion explores the exciting possibility of multiple playable maps coming to Grand Theft Auto 6 Online, drawing comparisons to GTA V's Cayo Perico and past 'Project Americas' leaks."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Maps", "Cayo Perico", "Project Americas", "Leaks", "Speculation", "Gaming News", "Community Discussion", "Future Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjpf0e/multiple_maps_in_gta6_online/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Fans Speculate on Multiple Maps and Future Expansions

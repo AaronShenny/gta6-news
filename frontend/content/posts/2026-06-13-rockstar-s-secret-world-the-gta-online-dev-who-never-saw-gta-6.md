@@ -4,6 +4,7 @@ date: "2026-06-13T14:18:56"
 description: "A viral Reddit post humorously imagines the plight of a Rockstar developer working on GTA Online, completely isolated from the highly anticipated GTA 6 project."
 tags: ["GTA 6", "Rockstar Games", "GTA Online", "Game Development", "Industry Secrecy", "Reddit", "Gaming Rumors", "Speculation", "Humor"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4s6ar/imagine_working_at_rockstar_for_the_past_10_years/"
+classification: "RUMOR"
 ---
 
 # Rockstar's Secret World: The GTA Online Dev Who Never Saw GTA 6

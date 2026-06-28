@@ -4,6 +4,7 @@ date: "2026-05-05T11:00:13"
 description: "Despite official confirmation of 'Mount Kalaga' in GTA 6's Leonida, many fans remain unaware, sparking a debate about realism versus creative liberty in the highly anticipated game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Leonida", "Mount Kalaga", "Map Details", "Gaming News", "Fan Debate", "Game Immersion"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4c2dc/most_people_still_dont_realize_mountains_exist_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Mountains Spark Debate: Are Fans Overlooking Official Map Details?

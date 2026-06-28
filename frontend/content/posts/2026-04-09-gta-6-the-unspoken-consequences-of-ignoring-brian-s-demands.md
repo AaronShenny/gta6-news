@@ -4,6 +4,7 @@ date: "2026-04-09T02:40:13"
 description: "Grand Theft Auto VI fans are actively speculating on the in-game repercussions Jason might face if players choose to neglect his missions for Brian, particularly concerning his living arrangements."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Jason", "Brian", "Missions", "Consequences", "Player Choice", "Game Mechanics", "Fan Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgdc1u/what_consequence_jason_may_face_if_he_ignores/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Unspoken Consequences of Ignoring Brian's Demands

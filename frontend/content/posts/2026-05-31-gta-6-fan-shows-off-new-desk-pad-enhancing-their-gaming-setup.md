@@ -4,6 +4,7 @@ date: "2026-05-31T00:57:47"
 description: "A dedicated Grand Theft Auto 6 fan on Reddit shares their excitement over a new GTA 6-themed desk pad, perfectly complementing their existing blue gaming peripherals."
 tags: ["GTA 6", "Grand Theft Auto 6", "Merchandise", "Desk Pad", "Gaming Setup", "Fan Culture", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tsgt6g/i_bought_a_gta_6_desk_pad/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Shows Off New Desk Pad, Enhancing Their Gaming Setup

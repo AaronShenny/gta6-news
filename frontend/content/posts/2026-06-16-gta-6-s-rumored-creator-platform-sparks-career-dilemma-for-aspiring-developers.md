@@ -4,6 +4,7 @@ date: "2026-06-16T13:25:27"
 description: "An aspiring game developer weighs the potential career opportunities of GTA 6's rumored creator platform against the traditional path of indie game development for financial stability."
 tags: ["GTA 6", "Game Development", "Creator Platform", "Indie Games", "Career Advice", "Modding", "Rockstar Games", "Community Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7dhp5/gta_6_is_most_likely_going_to_have_a_creator/"
+classification: "RUMOR"
 ---
 
 # GTA 6's Rumored Creator Platform Sparks Career Dilemma for Aspiring Developers

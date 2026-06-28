@@ -4,6 +4,7 @@ date: "2026-03-29T05:16:47"
 description: "Gaming fans are discussing what 100% completion should entail for Grand Theft Auto 6, weighing the streamlined approach of GTA V against the extensive checklists of Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "100% Completion", "Game Design", "Red Dead Redemption 2", "GTA V", "Gaming Community", "Fan Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6mhlp/what_do_guys_want_100_game_completion_to_look/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Completion: Fans Debate Between GTA V's Simplicity and RDR2's Epic Grind

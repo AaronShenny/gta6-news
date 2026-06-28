@@ -4,6 +4,7 @@ date: "2026-05-28T15:03:00"
 description: "Get the latest details on Call of Duty: Modern Warfare 4, including its October 2026 release date, Infinity Ward development, return to grounded multiplayer, DMZ mode, and platform availability, including Switch 2."
 tags: ["Call of Duty", "Modern Warfare 4", "MW4", "Infinity Ward", "Activision", "Release Date", "PS5", "Xbox Series X", "PC Gaming", "Nintendo Switch 2", "Multiplayer", "DMZ", "Campaign", "Game Pass", "Gaming News"]
 source: "https://www.gamespot.com/articles/call-of-duty-2026-release-date-trailer-story-modern-warfare-4/1100-6538487/"
+classification: "CONFIRMED"
 ---
 
 # Call of Duty: Modern Warfare 4 - Release Date, Story, Platforms & Everything We Know

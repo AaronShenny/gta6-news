@@ -4,6 +4,7 @@ date: "2026-02-26T22:49:49"
 description: "A recent Reddit post on r/GTA6, provocatively titled 'We got GTA 6 at home,' provides no actual content or details, leaving fans to speculate on its meaning."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "r/GTA6", "Gaming News", "Speculation", "Meme", "Placeholder"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfp5x7/we_got_gta_6_at_home/"
+classification: "RUMOR"
 ---
 
 # Reddit Post 'We Got GTA 6 at Home' Offers No Substantive Information

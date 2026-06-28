@@ -4,6 +4,7 @@ date: "2026-03-13T11:28:27"
 description: "The GTA 6 community on Reddit is voicing concerns over the game's rumored November 2026 release date, citing prolonged silence from Rockstar Games and past delay traumas."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Release Date", "Game Delays", "Gaming News", "Community Discussion", "Reddit", "Speculation", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rskqyb/do_yall_believe_its_coming_out_on_time/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Release Date: Community Apprehension Mounts Amidst Rockstar Silence

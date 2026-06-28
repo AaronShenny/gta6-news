@@ -4,6 +4,7 @@ date: "2026-06-01T21:26:27"
 description: "A community discussion highlights the strong desire for crossplay between PS5 and Xbox Series S/X in GTA 6, raising concerns about Rockstar's potential reliance on outdated online infrastructure."
 tags: ["GTA 6", "Grand Theft Auto 6", "Crossplay", "PS5", "Xbox Series S/X", "Rockstar Games", "Online Gaming", "Gaming Community", "Peer-to-Peer", "Take-Two Interactive"]
 source: "https://www.reddit.com/r/GTA6/comments/1tu6d60/gta_6_should_have_ps5_and_xbox_series_sx_crossplay/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Should Have PS5 and Xbox Series S/X Crossplay, Community Argues

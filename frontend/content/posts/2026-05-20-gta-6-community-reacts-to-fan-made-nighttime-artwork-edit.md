@@ -4,6 +4,7 @@ date: "2026-05-20T19:18:52"
 description: "A Reddit user has reimagined the official GTA 6 artwork with a nighttime theme, sparking a community discussion on the aesthetic appeal compared to the original daytime version."
 tags: ["GTA 6", "Grand Theft Auto VI", "Artwork", "Fan Edit", "Community Discussion", "Reddit", "Gaming News", "Visuals"]
 source: "https://www.reddit.com/r/GTA6/comments/1tivwoy/gta_6_artwork_edit_to_night/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Community Reacts to Fan-Made Nighttime Artwork Edit

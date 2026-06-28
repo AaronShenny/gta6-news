@@ -4,6 +4,7 @@ date: "2026-06-07T19:08:39"
 description: "A Reddit discussion explores the controversial marketing strategy of small indie games intentionally launching near Grand Theft Auto 6, leveraging the 'Barbenheimer' trend for visibility."
 tags: ["GTA 6", "Indie Games", "Game Development", "Marketing Strategy", "Barbenheimer", "Release Dates", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzl0rh/should_small_developers_go_for_a_barbenheimer/"
+classification: "UNKNOWN"
 ---
 
 # Could Indie Games Leverage a 'Barbenheimer' Strategy Against GTA 6's Release?

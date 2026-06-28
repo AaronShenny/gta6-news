@@ -4,6 +4,7 @@ date: "2026-03-26T04:04:55"
 description: "Explore the fan theories and past precedents suggesting how films like 'Heat,' 'Harsh Times,' and 'Pain & Gain' could inspire characters, heists, and the satirical tone of Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Movie Influences", "Cinematic Inspiration", "Harsh Times", "Heat", "The Place Beyond the Pines", "Pain & Gain", "Spring Breakers", "Infamous", "Video Game Development", "Game Design", "Fan Theories", "Crime Games", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s3x8q7/what_movies_will_be_6s_biggest_influences/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Unpacking the Cinematic Influences Shaping Rockstar's Next Blockbuster

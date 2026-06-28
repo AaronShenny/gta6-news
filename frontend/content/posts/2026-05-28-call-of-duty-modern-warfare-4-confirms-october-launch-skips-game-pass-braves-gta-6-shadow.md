@@ -4,6 +4,7 @@ date: "2026-05-28T15:00:17"
 description: "Activision's Call of Duty: Modern Warfare 4 launches October 23, just weeks before GTA 6, and will not be available on Xbox Game Pass at release. Discover its return to Nintendo and campaign details."
 tags: ["Call of Duty: Modern Warfare 4", "MW4", "GTA 6", "Grand Theft Auto 6", "Release Date", "Xbox Game Pass", "Nintendo Switch 2", "Activision", "Infinity Ward", "Gaming News", "FPS", "Gaming Industry"]
 source: "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-release-date-is-close-to-gta-6-wont-be-on-game-pass/"
+classification: "CONFIRMED"
 ---
 
 # Call of Duty: Modern Warfare 4 Confirms October Launch, Skips Game Pass, Braves GTA 6 Shadow

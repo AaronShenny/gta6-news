@@ -4,6 +4,7 @@ date: "2026-05-15T22:04:27"
 description: "Despite confirming an email's authenticity, Insider Gaming collectively dismisses speculation of GTA 6 pre-orders opening this Monday. They remain confident in a November release with no delay rumors."
 tags: ["GTA 6", "Grand Theft Auto 6", "Pre-orders", "Release Date", "Rumors", "Insider Gaming", "Gaming News", "Leaks", "Rockstar Games", "Tom Henderson"]
 source: "https://www.reddit.com/r/GTA6/comments/1teapfv/despite_confirming_the_email_being_real_insider/"
+classification: "RUMOR"
 ---
 
 # Insider Gaming Debunks GTA 6 Monday Pre-Order Rumors, Reaffirms November Release Confidence

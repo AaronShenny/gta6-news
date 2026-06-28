@@ -4,6 +4,7 @@ date: "2026-03-12T00:00:41"
 description: "A dedicated fan on Reddit has outlined an ambitious marketing and release timeline for Grand Theft Auto VI, detailing potential dates for trailers, pre-orders, gameplay reveals, and the game's launch."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Marketing Timeline", "Release Date Prediction", "Fan Speculation", "Gaming News", "Trailer", "Pre-order", "Gameplay Trailer"]
 source: "https://www.reddit.com/r/GTA6/comments/1rrb3gc/my_last_grand_theft_auto_vi_marketing_release/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing & Release Timeline Predictions Emerge from Fan Speculation

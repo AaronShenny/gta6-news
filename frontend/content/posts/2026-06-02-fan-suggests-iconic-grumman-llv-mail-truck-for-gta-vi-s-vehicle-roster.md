@@ -4,6 +4,7 @@ date: "2026-06-02T23:17:08"
 description: "A Reddit user sparked discussion on the GTA 6 subreddit by proposing the inclusion of the ubiquitous Grumman LLV mail truck, citing its long-standing presence in American cities and its absence from previous Grand Theft Auto titles."
 tags: ["GTA 6", "Grand Theft Auto VI", "Grumman LLV", "Mail Truck", "Vehicle Wishlist", "Fan Suggestion", "Reddit", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv7lvw/the_grumman_llv_deserves_an_appearance_in_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # Fan Suggests Iconic Grumman LLV Mail Truck for GTA VI's Vehicle Roster

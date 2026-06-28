@@ -4,6 +4,7 @@ date: "2026-06-22T13:55:52"
 description: "As discussions around potential $80 GTA 6 preorders heat up, a new $1,000 Steam game, 'Congratulations On Your Purchase,' offers a stark look at extreme pricing in gaming, featuring minimal content and a brutally honest developer."
 tags: ["GTA 6", "Steam", "Game Pricing", "Gaming Industry", "Special Editions", "Luxury Gaming", "Congratulations On Your Purchase", "Minimal Viable Prestige", "Game Refunds"]
 source: "https://www.gamespot.com/articles/this-1000-steam-game-offers-very-little-but-at-least-its-honest-about-it/"
+classification: "RUMOR"
 ---
 
 # A $1,000 Steam Game Sets a New Bar for 'Luxury Gaming' Amidst GTA 6 Pricing Debates

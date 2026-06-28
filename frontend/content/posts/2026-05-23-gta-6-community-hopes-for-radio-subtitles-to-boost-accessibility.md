@@ -4,6 +4,7 @@ date: "2026-05-23T19:14:59"
 description: "A Reddit user sparks discussion on the need for radio station subtitles in GTA 6, advocating for better accessibility and understanding for non-native English speakers and crucial in-game news."
 tags: ["GTA 6", "Grand Theft Auto VI", "Radio Subtitles", "Accessibility", "Gaming News", "Rockstar Games", "Community Request", "Non-Native Speakers", "Player Experience"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlpdw0/i_really_hope_gta_6_will_also_include_subtitles/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Radio Subtitles to Boost Accessibility

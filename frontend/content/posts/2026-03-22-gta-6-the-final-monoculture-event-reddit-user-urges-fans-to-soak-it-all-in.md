@@ -4,6 +4,7 @@ date: "2026-03-22T01:21:31"
 description: "A Reddit user speculates that Grand Theft Auto 6's release will mark the last truly massive, shared cultural event, uniting diverse audiences in an unprecedented way."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Culture", "Monoculture", "Cultural Event", "Reddit", "Video Games", "Anticipation", "Social Phenomenon"]
 source: "https://www.reddit.com/r/GTA6/comments/1s08l1d/this_will_likely_be_the_last_truly_big_manmade/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: The Final Monoculture Event? Reddit User Urges Fans to 'Soak It All In'

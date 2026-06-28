@@ -4,6 +4,7 @@ date: "2026-03-31T10:46:03"
 description: "A Reddit user has posted an unverified claim suggesting that a pirated version of Grand Theft Auto 6 is now available, sparking discussion among fans."
 tags: ["GTA 6", "Grand Theft Auto 6", "Piracy", "Rumors", "Reddit", "Unverified", "Gaming News", "Leaks"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8jykk/i_have_found_the_game/"
+classification: "RUMOR"
 ---
 
 # Unverified Claims of GTA 6 Piracy Surface on Reddit

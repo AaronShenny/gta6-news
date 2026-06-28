@@ -4,6 +4,7 @@ date: "2026-06-10T19:03:48"
 description: "A Reddit user speculates on Grand Theft Auto 6's potential to achieve unprecedented launch day sales, projecting 100 million copies if the game avoids console exclusivity."
 tags: ["GTA 6", "Grand Theft Auto", "Sales Predictions", "Gaming Industry", "Launch Sales", "Reddit", "Speculation", "Console Exclusivity", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2bl9j/so_gta_6_will_have_the_biggest_launch_day_sales/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Reddit User Predicts Record-Shattering 100 Million Sales if Not Console Exclusive

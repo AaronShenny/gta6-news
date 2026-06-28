@@ -4,6 +4,7 @@ date: "2026-03-17T19:48:01"
 description: "A dedicated fan has successfully recreated a recognizable GTA 6 location, specifically an old railway bridge, within Far Cry 5's Arcade mode on PS5, now available for free."
 tags: ["GTA 6", "Far Cry 5", "Arcade Mode", "PS5", "Fan Creation", "Map Editor", "Gaming News", "Community Content", "Recreation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rwh8de/i_recreated_this_location_in_far_cry_5_arcade_ps5/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Recreates Iconic Location in Far Cry 5 Arcade

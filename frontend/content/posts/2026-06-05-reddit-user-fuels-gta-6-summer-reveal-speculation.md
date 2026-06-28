@@ -4,6 +4,7 @@ date: "2026-06-05T20:15:44"
 description: "A Reddit post on r/GTA6 suggests a potential GTA 6 marketing kickoff at Summer Games Fest, based on unconfirmed comments about a 'summer' marketing start."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Summer Games Fest", "Gaming Rumors", "Speculation", "Video Games", "Community Hype", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1txw5vb/copium/"
+classification: "RUMOR"
 ---
 
 # Reddit User Fuels GTA 6 Summer Reveal Speculation

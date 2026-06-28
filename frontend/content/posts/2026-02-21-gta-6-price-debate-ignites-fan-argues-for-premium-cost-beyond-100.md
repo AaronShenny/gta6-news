@@ -4,6 +4,7 @@ date: "2026-02-21T15:31:47"
 description: "A Reddit user sparks a lively discussion within the GTA 6 community, arguing that the game's rumored $2 billion development cost and massive scope justify a premium price tag well above the standard $100."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Pricing", "Development Costs", "Gaming Industry", "Fan Opinion", "Reddit", "Gaming Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1ratzve/i_heard_people_really_thought_gta_6_is_gonna_cost/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Price Debate Ignites: Fan Argues for Premium Cost Beyond $100

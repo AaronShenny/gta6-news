@@ -4,6 +4,7 @@ date: "2026-03-21T21:07:50"
 description: "Take-Two CEO Strauss Zelnick suggests GTA 6 could launch at a premium price of $70-$80 and assures players there will be no in-game advertising."
 tags: ["GTA 6", "Grand Theft Auto VI", "Take-Two Interactive", "Strauss Zelnick", "Price", "In-Game Ads", "Gaming News", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s02tne/taketwo_ceo_strauss_zelnick_recently_indicated/"
+classification: "CONFIRMED"
 ---
 
 # Take-Two CEO Hints at GTA 6 Price Point: $70-$80 Expected, No In-Game Ads Confirmed

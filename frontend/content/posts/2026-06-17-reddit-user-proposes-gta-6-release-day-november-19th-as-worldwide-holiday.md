@@ -4,6 +4,7 @@ date: "2026-06-17T22:57:38"
 description: "A Reddit user has sparked discussion by suggesting that November 19th, the anticipated release day for Grand Theft Auto 6, should be recognized as a global holiday to celebrate its cultural impact."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Video Game Release", "Gaming Culture", "Worldwide Holiday", "Fan Opinion", "Reddit", "November 19th"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8pfgy/november_19th_should_be_a_worldwide_holiday/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Proposes GTA 6 Release Day, November 19th, as Worldwide Holiday

@@ -4,6 +4,7 @@ date: "2026-05-13T22:06:51"
 description: "A striking comparison from the GTA community highlights that the wait for Grand Theft Auto 6's third trailer has officially surpassed the development and release period between GTA 3 and GTA: Vice City."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming News", "Trailer Release", "Development Cycle", "Fan Speculation", "GTA 3", "GTA Vice City", "Video Game Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1tcekf7/the_wait_time_for_trailer_3_has_now_exceeded_the/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Wait for Third Trailer Now Longer Than Entire GTA 3 to Vice City Release Gap

@@ -4,6 +4,7 @@ date: "2026-05-23T20:03:52"
 description: "A Reddit post highlights the gaming community's strong expectation that Grand Theft Auto 6 will not be cheap on its launch day, sparking discussions about AAA game pricing."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Game Price", "Launch Day", "AAA Title", "Gaming Industry", "Speculation", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlqnfv/when_people_tell_me_gta_6_on_launch_day_is_not/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Launch Day Price Speculation: Community Expects a Premium Tag

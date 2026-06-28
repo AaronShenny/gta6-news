@@ -4,6 +4,7 @@ date: "2026-02-16T20:13:10"
 description: "A Reddit thread on r/GTA6 invites fans to share their ultimate 'next-level' feature desires for Grand Theft Auto 6, sparking community speculation."
 tags: ["GTA 6", "Grand Theft Auto", "Reddit", "Fan Discussion", "Next-Gen Features", "Community Wishlist", "Gaming Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6kiqq/whats_one_feature_that_would_make_gta_6_feel/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Ponder 'Next-Level' Features in Reddit Discussion

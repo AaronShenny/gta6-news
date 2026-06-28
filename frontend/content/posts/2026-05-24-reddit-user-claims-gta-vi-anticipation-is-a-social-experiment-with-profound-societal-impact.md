@@ -4,6 +4,7 @@ date: "2026-05-24T17:10:16"
 description: "A Reddit post suggests the immense anticipation for GTA VI has become a social experiment, reportedly lowering suicide rates and giving people a renewed reason to live."
 tags: ["GTA VI", "Grand Theft Auto", "Gaming Culture", "Social Impact", "Anticipation", "Reddit Theory", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmhz9y/gta_vi_is_a_social_experiment/"
+classification: "RUMOR"
 ---
 
 # Reddit User Claims GTA VI Anticipation Is a 'Social Experiment' with Profound Societal Impact

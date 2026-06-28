@@ -4,6 +4,7 @@ date: "2026-06-17T20:25:43"
 description: "A Reddit post from r/GTA6 suggests Rockstar's marketing team is discussing Grand Theft Auto VI, though no specific details are available within the 'article' itself."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Rumors", "Marketing Strategy", "Reddit", "Community Speculation", "Next-Gen Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8lkeo/rockstars_marketing_team_discussing_gta_vi/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Sparks Buzz Over Rockstar's GTA VI Marketing Discussions

@@ -4,6 +4,7 @@ date: "2026-02-26T20:44:09"
 description: "As GTA VI's launch marketing approaches, fans are debating whether Rockstar's rollout strategy will mirror the iconic GTA V hype cycle. What can we expect?"
 tags: ["GTA 6", "GTA V", "Rockstar Games", "Marketing Strategy", "Hype Cycle", "Gaming News", "Community Discussion", "Jason and Lucia"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfltkw/to_the_ogs_who_survived_the_gta_v_hype_how_does/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Hype: Is Rockstar Repeating Its GTA V Marketing Playbook?

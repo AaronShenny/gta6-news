@@ -4,6 +4,7 @@ date: "2026-05-06T16:01:00"
 description: "GTA 6 fans mark the one-year anniversary of its second trailer and the four-year anniversary of its reveal with little new information. Take-Two CEO Strauss Zelnick discusses marketing, cost, and pricing."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Trailer 2", "Vice City", "Jason and Lucia", "PS5", "Gaming News", "Game Release", "Anniversary"]
 source: "https://www.gamespot.com/articles/its-another-sad-gta-6-anniversary-today/1100-6539812/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Marks Another Anniversary Amidst Fan Anticipation

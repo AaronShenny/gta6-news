@@ -4,6 +4,7 @@ date: "2026-03-25T16:18:49"
 description: "Johnny Ray Gill, known for his roles in Red Dead Redemption and GTA V, reportedly hinted at potential involvement in Grand Theft Auto 6 some time ago, sparking fan speculation."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Johnny Ray Gill", "Voice Actor", "Gaming News", "Rumors", "Speculation", "Red Dead Redemption", "Grand Theft Auto V"]
 source: "https://www.reddit.com/r/GTA6/comments/1s3fccl/a_fews_ago_johnny_ray_gill_who_did_voice_work_in/"
+classification: "RUMOR"
 ---
 
 # GTA V and Red Dead Voice Actor Johnny Ray Gill Reportedly Hinted at GTA 6 Work

@@ -4,6 +4,7 @@ date: "2026-03-25T18:56:32"
 description: "A Reddit post sparks discussion among GTA 6 fans about the potential cost and desired contents of a premium collector's edition, with one user willing to pay over £299 for specific merchandise."
 tags: ["GTA 6", "Grand Theft Auto VI", "Collector's Edition", "Gaming Merch", "Reddit Discussion", "Fan Wishlist", "Video Games", "Rockstar Games", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1s3jrmy/would_you_buy_a_collectors_edition_if_it_costs/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Collector's Edition: Fans Debate £299+ Price Tag and Dream Merch

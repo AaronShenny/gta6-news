@@ -4,6 +4,7 @@ date: "2026-03-31T13:57:58"
 description: "Early GTA 6 trailers showcase at least five distinct police departments and various vehicles, suggesting a major upgrade in law enforcement diversity compared to GTA V, sparking community speculation on the final count."
 tags: ["GTA 6", "Grand Theft Auto VI", "Police", "Law Enforcement", "Trailers", "Game Features", "GTA V", "Open World", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s8o69x/gta_6_police/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailers Hint at Significantly More Diverse Police Departments

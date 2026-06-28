@@ -4,6 +4,7 @@ date: "2026-06-17T01:30:27"
 description: "Drawing parallels from GTA Online's progression, this article predicts GTA 6's launch month economy, outlining player income, early business strategies, and the importance of passive earnings."
 tags: ["GTA 6", "Grand Theft Auto 6", "GTA Online", "In-game Economy", "Money Guide", "Launch Strategy", "Gaming Predictions", "Rockstar Games", "Open World Games", "Business Management", "Passive Income", "Player Progression"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7wfve/looking_at_gta_onlines_money_curve_heres_roughly/"
+classification: "UNKNOWN"
 ---
 
 # Predicting Your Wealth: How Rich Will You Be in GTA 6's First Month?

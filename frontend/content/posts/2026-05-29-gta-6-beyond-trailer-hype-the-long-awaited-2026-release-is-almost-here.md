@@ -4,6 +4,7 @@ date: "2026-05-29T01:09:38"
 description: "Gaming fans are buzzing about Grand Theft Auto VI's imminent 2026 release, marking the end of a 12-year wait for a new mainline title, despite focus on trailer speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Release Date", "Gaming News", "Rockstar Games", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tqmicn/everyone_is_so_caught_up_with_trailer_3_that/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Beyond Trailer Hype, The Long-Awaited 2026 Release is Almost Here

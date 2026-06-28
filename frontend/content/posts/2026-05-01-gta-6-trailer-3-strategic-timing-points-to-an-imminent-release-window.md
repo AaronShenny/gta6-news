@@ -4,6 +4,7 @@ date: "2026-05-01T10:18:41"
 description: "Gaming journalists and fans speculate on the optimal release window for GTA 6 Trailer 3, citing Take-Two earnings calls and potential competition with Forza Horizon 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA 6 Trailer 3", "Rockstar Games", "Take-Two Interactive", "Gaming Industry", "Release Speculation", "Forza Horizon 6", "Marketing Strategy"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0pd44/this_coming_week_feels_more_likely_if_rockstar/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3: Strategic Timing Points to an Imminent Release Window

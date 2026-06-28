@@ -4,6 +4,7 @@ date: "2026-06-11T16:02:19"
 description: "A new installment in the fan-created 'GTA 6 Comic' series, titled 'Episode 4 - Gift Giving,' has been shared on Reddit, continuing community-driven speculation."
 tags: ["GTA 6", "Fan Content", "Comic", "Reddit", "Community", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u33779/gta_6_comic_episode_4_gift_giving/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Comic Series Continues with 'Episode 4 - Gift Giving'

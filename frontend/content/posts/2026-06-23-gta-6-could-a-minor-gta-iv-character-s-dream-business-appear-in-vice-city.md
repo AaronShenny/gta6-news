@@ -4,6 +4,7 @@ date: "2026-06-23T04:48:33"
 description: "A deep dive into a fan theory suggesting GTA IV's Jerry Kapowitz, a character who acquired the TBoGT diamonds, might open a unique gun and liquor store in GTA 6's Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jerry Kapowitz", "Vice City", "Leonida", "Fan Theory", "Easter Egg", "Lore", "Rockstar Games", "GTA IV", "TBoGT", "Gun Store", "Liquor Store", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ud7gz4/does_anyone_remember_jerry_kapowitz/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could a Minor GTA IV Character's Dream Business Appear in Vice City?

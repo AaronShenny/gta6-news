@@ -4,6 +4,7 @@ date: "2026-02-25T08:35:24"
 description: "A Reddit user suggests Grand Theft Auto 6 incorporate a dynamic drug-selling system inspired by GTA: Chinatown Wars, featuring varying prices with different buyers."
 tags: ["GTA 6", "Grand Theft Auto", "Chinatown Wars", "Drug System", "Gameplay Mechanics", "Community Suggestion", "Rockstar Games", "Open World", "Game Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1re7th3/drug_war_system/"
+classification: "UNKNOWN"
 ---
 
 # Drug War System

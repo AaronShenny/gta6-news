@@ -4,6 +4,7 @@ date: "2026-06-17T20:39:23"
 description: "A Reddit post speculates on the return of character physique mechanics in GTA 6, drawing parallels to San Andreas and sparking discussion on immersion vs. chore."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Jason", "Gameplay Mechanics", "Physique", "San Andreas", "Fan Speculation", "Immersion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8lxgk/do_you_think_maintaining_your_physique_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Physique Mechanic Sparks Fan Debate: Immersion or Chore?

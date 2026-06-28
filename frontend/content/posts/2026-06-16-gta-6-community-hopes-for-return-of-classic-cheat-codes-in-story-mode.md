@@ -4,6 +4,7 @@ date: "2026-06-16T22:50:09"
 description: "The GTA 6 community on Reddit is buzzing with anticipation, discussing which classic and new cheat codes they hope to see return in the game's story mode, including humorous throwbacks like big head mode."
 tags: ["GTA 6", "Cheat Codes", "Story Mode", "Fan Discussion", "Reddit", "Vice City", "Big Head Mode"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7stbm/what_cheat_codes_do_you_hope_make_it_to_story_mode/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Return of Classic Cheat Codes in Story Mode

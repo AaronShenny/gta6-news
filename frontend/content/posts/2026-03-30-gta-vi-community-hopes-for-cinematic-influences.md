@@ -4,6 +4,7 @@ date: "2026-03-30T21:47:01"
 description: "A Reddit user speculates on potential movie inspirations for Grand Theft Auto VI's story and atmosphere, sparking community discussion."
 tags: ["GTA VI", "Grand Theft Auto 6", "Movie Inspirations", "Gaming Community", "Fan Speculation", "Rockstar Games", "Game Development", "Cinematic Influences"]
 source: "https://www.reddit.com/r/GTA6/comments/1s84fuy/some_movies_i_hope_gta_vi_takes_inspiration_from/"
+classification: "RUMOR"
 ---
 
 # GTA VI: Community Hopes for Cinematic Influences

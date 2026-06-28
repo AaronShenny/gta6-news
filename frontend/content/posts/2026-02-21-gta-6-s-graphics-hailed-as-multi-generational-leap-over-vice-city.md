@@ -4,6 +4,7 @@ date: "2026-02-21T05:16:56"
 description: "A Reddit user on r/GTA6 emphasizes the dramatic visual disparity between the upcoming Grand Theft Auto 6 and the classic Vice City, claiming GTA 6 is '3 maybe 4 consoles ahead.'"
 tags: ["GTA 6", "Grand Theft Auto 6", "Vice City", "Graphics", "Visuals", "Gaming Technology", "Reddit", "Game Comparison"]
 source: "https://www.reddit.com/r/GTA6/comments/1rail78/gta_6_makes_vice_city_look_like_a_game_that_came/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Graphics Hailed as Multi-Generational Leap Over Vice City

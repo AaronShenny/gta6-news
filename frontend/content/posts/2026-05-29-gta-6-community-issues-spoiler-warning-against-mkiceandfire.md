@@ -4,6 +4,7 @@ date: "2026-05-29T22:09:42"
 description: "A Reddit post on r/GTA6 advises players to block MKIceAndFire to avoid rapid Grand Theft Auto 6 spoilers upon release."
 tags: ["GTA 6", "Grand Theft Auto 6", "Spoilers", "MKIceAndFire", "Community Warning", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1trhbnv/reminder_to_block_mkiceandfire_when_gta_6_drops/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Issues Spoiler Warning Against MKIceAndFire

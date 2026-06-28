@@ -4,6 +4,7 @@ date: "2026-02-19T00:57:50"
 description: "A Reddit post speculates on the 'insane' backlash if the highly anticipated GTA 6, despite its immense hype, were to receive only a 6 or 7/10 review score."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Hype", "Game Reviews", "Fan Expectations", "Gaming Community", "Backlash"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8l31o/you_know_what_would_be_the_funniest_thing_to/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype vs. Reality: The Potential Fallout of a Subpar Release

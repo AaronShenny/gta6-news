@@ -4,6 +4,7 @@ date: "2026-06-05T06:57:50"
 description: "The impending launch of Grand Theft Auto 6 is fueling discussions among gamers regarding potential PlayStation 5 Pro supply shortages, prompting questions about early pre-orders versus Sony's production plans."
 tags: ["GTA 6", "PS5 Pro", "PlayStation 5 Pro", "Console Sales", "Gaming Hardware", "Sony", "Rockstar Games", "Supply Chain", "Pre-orders", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1txdcv6/ps5_pro_at_risk_with_gta6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Sparks PS5 Pro Availability Concerns Among Gamers

@@ -4,6 +4,7 @@ date: "2026-05-29T13:33:36"
 description: "A Reddit user speculates on how GTA 6 could improve its police system by integrating a nuanced witness mechanic, allowing players to intimidate or talk their way out of trouble before authorities arrive, similar to RDR2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Witness System", "RDR2", "Red Dead Redemption 2", "Police AI", "Gameplay Mechanics", "Fan Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tr2235/do_you_think_gta_vi_will_have_a_witness_system/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could a Red Dead Redemption 2-Style Witness System Revolutionize Crime and Punishment?

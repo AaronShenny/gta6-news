@@ -4,6 +4,7 @@ date: "2026-05-16T13:33:57"
 description: "A Reddit user expresses skepticism over Tom Henderson's prediction that major GTA 6 news won't arrive until August, arguing a three-month marketing window is unrealistic for the game's massive launch."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gaming News", "Tom Henderson", "Marketing", "Release Date", "Hype Cycle", "Rockstar Games", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1tetuox/tom_henderson_saying_the_next_major_gta_6_news/"
+classification: "UNKNOWN"
 ---
 
 # Concerns Mount Over Potential GTA 6 Marketing Timeline Following Tom Henderson's August Prediction

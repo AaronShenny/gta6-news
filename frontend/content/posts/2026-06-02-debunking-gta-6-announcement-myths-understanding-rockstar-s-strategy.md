@@ -4,6 +4,7 @@ date: "2026-06-02T22:25:50"
 description: "A community post clarifies Rockstar Games' unique announcement patterns for new titles like Grand Theft Auto VI, urging fans to temper expectations regarding major events and speculative leaks."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Announcements", "Rumors", "Speculation", "Industry Events", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv6bic/why_you_all_dont_move_on_instead_of_fighting/"
+classification: "RUMOR"
 ---
 
 # Debunking GTA 6 Announcement Myths: Understanding Rockstar's Strategy

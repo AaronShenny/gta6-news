@@ -4,6 +4,7 @@ date: "2026-02-22T08:11:35"
 description: "An analysis suggests Grand Theft Auto 6, despite immense hype, faces market challenges like declining console sales, mobile gaming dominance, and high PC hardware costs, preventing it from replicating GTA 5's record-breaking performance."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Industry", "Market Analysis", "Console Sales", "Mobile Gaming", "PC Gaming Costs", "Premium Games", "Gaming Trends", "Rockstar Games", "GTA 5 Success"]
 source: "https://www.reddit.com/r/GTA6/comments/1rbg9tl/unpopular_opinion_gta_6_wont_be_as_successful_as/"
+classification: "UNKNOWN"
 ---
 
 # Gaming Journalist Predicts GTA 6 Won't Match GTA 5's Phenomenal Success

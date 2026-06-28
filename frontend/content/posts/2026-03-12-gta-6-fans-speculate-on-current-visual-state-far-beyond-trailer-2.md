@@ -4,6 +4,7 @@ date: "2026-03-12T13:07:24"
 description: "Dedicated GTA 6 fans are buzzing with speculation that the game's visuals, lighting, and animations have seen substantial polish and improvement since the release of its second trailer nearly a year ago."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Graphics", "Visual Fidelity", "Game Development", "Trailer 2", "Fan Speculation", "Reddit Gaming", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rrq9mn/i_wonder_what_gta_6_looks_like_rn/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Speculate on Current Visual State Far Beyond Trailer 2

@@ -4,6 +4,7 @@ date: "2026-03-08T21:47:43"
 description: "Dedicated GTA 6 fans are already planning their first moves after completing the highly anticipated game's intro mission. Discover popular strategies and what players are most excited to do first in Leonida."
 tags: ["GTA 6", "Grand Theft Auto VI", "Player Plans", "Open World", "Gaming Community", "Leonida", "Rockstar Games", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rohj3s/whats_your_first_plan_after_completing_the_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: What's Your Immediate Post-Intro Mission Strategy?

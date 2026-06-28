@@ -4,6 +4,7 @@ date: "2026-05-01T02:35:13"
 description: "A Reddit user on r/GTA6 expresses anxiety and speculation as the 200-day countdown to the Grand Theft Auto 6 reveal approaches, fearing potential delays or hoping for significant news."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming News", "Game Reveal", "Community Speculation", "Reddit", "Countdown"]
 source: "https://www.reddit.com/r/GTA6/comments/1t0gpi3/im_afraid/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Reveal Nears 200-Day Mark, Community Anticipation and Anxiety Mounts

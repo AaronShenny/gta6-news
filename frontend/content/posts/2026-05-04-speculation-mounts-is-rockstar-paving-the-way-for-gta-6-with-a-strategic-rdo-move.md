@@ -4,6 +4,7 @@ date: "2026-05-04T17:36:04"
 description: "A Reddit post suggests Rockstar might release Red Dead Online news soon, potentially creating a content gap to build anticipation for a major Grand Theft Auto 6 reveal or release in 2025."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Red Dead Online", "RDO", "Gaming News", "Speculation", "Release Date", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3opwx/rockstar_might_post_rdo_tomorrow_and_leave_a_gap/"
+classification: "RUMOR"
 ---
 
 # Speculation Mounts: Is Rockstar Paving the Way for GTA 6 with a Strategic RDO Move?

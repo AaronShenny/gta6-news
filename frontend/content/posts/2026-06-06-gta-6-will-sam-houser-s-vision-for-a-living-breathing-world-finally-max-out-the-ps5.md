@@ -4,6 +4,7 @@ date: "2026-06-06T05:55:24"
 description: "A look back at Sam Houser's E3 2005 vision for immersive worlds sparks speculation on how GTA 6 will leverage PS5 hardware, potentially surpassing RDR2's depth and realism."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Sam Houser", "PS5", "PlayStation 5", "Next-Gen Gaming", "RDR2", "Red Dead Redemption 2", "Open World", "Game Development", "Immersion", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1ty8ylm/stumbled_this_old_sam_houser_interview_about_hisr/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Sam Houser's Vision for a 'Living, Breathing World' Finally Max Out the PS5?

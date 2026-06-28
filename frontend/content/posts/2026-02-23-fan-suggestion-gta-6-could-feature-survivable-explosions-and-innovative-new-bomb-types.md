@@ -4,6 +4,7 @@ date: "2026-02-23T00:55:11"
 description: "A Reddit user proposes exciting new gameplay mechanics for GTA 6, including explosions that leave lasting effects and a diverse arsenal of unique, modifiable bombs like napalm and kinetic devices."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gameplay Mechanics", "Explosions", "Bombs", "Fan Suggestions", "Reddit", "Napalm", "Kinetic Bombs", "Improvised Explosives", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rc38z1/survivable_explosions_and_unique_bombs_in_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # Fan Suggestion: GTA 6 Could Feature Survivable Explosions and Innovative New Bomb Types

@@ -4,6 +4,7 @@ date: "2026-03-03T05:03:43"
 description: "A Reddit user has sparked discussion with an intriguing idea: what if your GTA Online character could make an appearance in GTA VI, potentially via the Rockstar Social Club?"
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA Online", "Rockstar Social Club", "Fan Ideas", "Game Features", "Gaming Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjggko/cool_idea_i_thought_of/"
+classification: "RUMOR"
 ---
 
 # Fan Concept Explores GTA Online Character Integration in Grand Theft Auto VI

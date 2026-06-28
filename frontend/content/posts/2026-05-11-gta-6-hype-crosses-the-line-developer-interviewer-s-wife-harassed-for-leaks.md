@@ -4,6 +4,7 @@ date: "2026-05-11T21:46:02"
 description: "The intense anticipation for GTA 6 has reportedly led to concerning behavior, with fans harassing developer interviewer 'Kiwi Talkz' and even his recovering wife for game leaks."
 tags: ["GTA 6", "Grand Theft Auto VI", "fan behavior", "gaming community", "harassment", "leaks", "Kiwi Talkz", "video game news", "hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1tahlbo/have_the_fans_gone_crazy/"
+classification: "LEAK"
 ---
 
 # GTA 6 Hype Crosses the Line: Developer Interviewer's Wife Harassed for Leaks

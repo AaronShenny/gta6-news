@@ -4,6 +4,7 @@ date: "2026-02-18T15:15:35"
 description: "Exploring the growing frustration within the GTA 6 community regarding persistent negative speculation and 'doom and gloom' predictions."
 tags: ["GTA 6", "Grand Theft Auto 6", "Community Sentiment", "Gaming Hype", "Fan Culture", "Video Games", "Rockstar Games", "Speculation", "Criticism"]
 source: "https://www.reddit.com/r/GTA6/comments/1r85myq/the_gta_6_doom_and_gloom_crowd_is_exhausting/"
+classification: "RUMOR"
 ---
 
 # GTA 6: The Exhausting Reality of Constant Doom and Gloom Speculation

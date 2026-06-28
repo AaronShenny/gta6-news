@@ -4,6 +4,7 @@ date: "2026-05-14T14:03:48"
 description: "Rockstar Games' latest GTA Online update schedule, extending for two weeks, has ignited fan speculation about an imminent Grand Theft Auto 6 campaign announcement."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "GTA Online", "Game Announcement", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tcz6rr/rockstar_announced_the_weekly_gta_online_update/"
+classification: "RUMOR"
 ---
 
 # GTA Online's Two-Week Update Fuels GTA 6 Campaign Speculation

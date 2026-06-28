@@ -4,6 +4,7 @@ date: "2026-05-05T18:08:38"
 description: "A Reddit user proposes an innovative dynamic crime system for GTA 6 Online, allowing players to choose between partnering with or robbing a powerful NPC, with actions influencing future opportunities."
 tags: ["GTA 6", "GTA Online", "Fan Concept", "Dynamic Crime", "NPC Interaction", "Player Choice", "Heists", "Business", "Reddit", "Community Idea"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4ngj0/idea_for_a_sort_of_dynamic_crime_system_in_online/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Fan Pitches Dynamic Crime System with Evolving NPC Alliances

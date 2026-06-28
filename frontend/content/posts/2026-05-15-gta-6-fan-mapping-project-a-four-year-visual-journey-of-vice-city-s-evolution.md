@@ -4,6 +4,7 @@ date: "2026-05-15T22:01:38"
 description: "Explore a fascinating fan-made GTA VI mapping project timelapse, showcasing the community's dedication to reconstructing Vice City from leaks and official trailers between 2022 and 2026."
 tags: ["GTA 6", "Grand Theft Auto VI", "Mapping Project", "Fan-Made Map", "Timelapse", "Vice City", "Leaks", "Trailers", "Community Project", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1teamxu/mapping_project_timelapse_september_2022_to_may/"
+classification: "LEAK"
 ---
 
 # GTA 6 Fan Mapping Project: A Four-Year Visual Journey of Vice City's Evolution

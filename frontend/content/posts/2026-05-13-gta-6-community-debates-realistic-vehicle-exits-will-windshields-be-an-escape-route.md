@@ -4,6 +4,7 @@ date: "2026-05-13T19:29:34"
 description: "The GTA 6 community is buzzing about how Rockstar might handle blocked vehicle exits, with players hoping for a more realistic mechanic than the 'teleport' seen in previous titles, drawing inspiration from games like Sleeping Dogs."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vehicle Mechanics", "Realism", "Gaming Community", "Sleeping Dogs", "Open World", "Rockstar Games", "Player Experience"]
 source: "https://www.reddit.com/r/GTA6/comments/1tca5mh/how_will_blocked_vehicle_exits_work_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Debates Realistic Vehicle Exits – Will Windshields Be an Escape Route?

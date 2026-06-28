@@ -4,6 +4,7 @@ date: "2026-03-06T17:04:41"
 description: "Anticipation builds for GTA 6's character customization, with a popular Reddit post sparking community discussions on desired features beyond GTA 5's offerings."
 tags: ["GTA 6", "Grand Theft Auto VI", "Character Customization", "Community Discussion", "Reddit", "Gaming News", "Wishlist", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmjn2i/gta_6_will_definitely_feature_character/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 will definitely feature character customization on a whole new level! 👀 What customization features do you want to see that GTA 5 didn’t have?

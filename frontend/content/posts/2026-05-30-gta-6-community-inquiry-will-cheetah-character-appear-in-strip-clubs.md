@@ -4,6 +4,7 @@ date: "2026-05-30T05:54:17"
 description: "A Reddit user poses a unique question about character inclusion in GTA 6, specifically asking if 'Cheetah,' identified as their wife, will be featured in the game's strip clubs."
 tags: ["GTA 6", "Grand Theft Auto 6", "Community Question", "Character Speculation", "Reddit", "Strip Clubs", "Cheetah"]
 source: "https://www.reddit.com/r/GTA6/comments/1trrdk7/will_cheetah_be_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Inquiry: Will 'Cheetah' Character Appear in Strip Clubs?

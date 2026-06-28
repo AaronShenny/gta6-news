@@ -4,6 +4,7 @@ date: "2026-03-26T17:14:52"
 description: "A dedicated fan shares a vivid dream of playing GTA 6 early, detailing initial excitement quickly turning into frustration over buggy graphics, poor performance, and unexpected gameplay shifts, leading to a surprising conclusion about the game's future."
 tags: ["GTA 6", "Grand Theft Auto", "Dream", "Gaming News", "Fan Experience", "Rockstar Games", "Game Development", "Bugs", "Graphics", "Gameplay"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4dly3/i_dreamt_of_playing_gta_6_early_true_story/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 'Early Release' Dream Leaves Gamer Utterly Disappointed

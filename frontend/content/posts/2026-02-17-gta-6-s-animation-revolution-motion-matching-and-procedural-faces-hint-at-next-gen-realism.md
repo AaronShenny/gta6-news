@@ -4,6 +4,7 @@ date: "2026-02-17T01:27:56"
 description: "A Reddit post highlights GTA 6's focus on advanced animation techniques like motion matching and procedural face animation, promising a departure from static, 'boring preset animations' and a more realistic gameplay experience."
 tags: ["GTA 6", "Grand Theft Auto VI", "Animation", "Motion Matching", "Procedural Animation", "Locomotion", "Gameplay", "Next-Gen", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r6sfcn/gta_vi_locomotionmotion_matchingprocedural_face/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Animation Revolution: Motion Matching and Procedural Faces Hint at Next-Gen Realism

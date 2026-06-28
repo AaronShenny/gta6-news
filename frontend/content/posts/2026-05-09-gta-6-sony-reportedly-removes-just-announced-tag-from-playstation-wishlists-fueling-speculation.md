@@ -4,6 +4,7 @@ date: "2026-05-09T10:15:27"
 description: "PlayStation users report that the 'Just Announced' tag for Grand Theft Auto VI has been removed from wishlists, sparking speculation about the game's development progress and potential release timeline."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "PlayStation", "Sony", "Gaming News", "Release Date Speculation", "Wishlist", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1t811pe/sony_removed_the_just_announced_tag_if_you_check/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Sony Reportedly Removes 'Just Announced' Tag from PlayStation Wishlists, Fueling Speculation

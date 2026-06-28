@@ -4,6 +4,7 @@ date: "2026-03-15T04:01:53"
 description: "A Reddit user on r/GTA6 shares striking real-life photos of downtown Miami, igniting further speculation about the authentic depiction of Vice City in Grand Theft Auto 6."
 tags: ["GTA 6", "Vice City", "Miami", "Grand Theft Auto", "Fan Speculation", "Game Locations", "Rockstar Games", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1ru46nw/vice_city_real_life_miami/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Get a Glimpse of Vice City's Real-Life Inspiration with New Miami Photo Set

@@ -4,6 +4,7 @@ date: "2026-02-25T15:52:14"
 description: "A Reddit user on r/GTA6 predicts that the intense anticipation for Grand Theft Auto 6 will eventually give way to similar calls for GTA 7, highlighting the cyclical nature of gaming fan expectations."
 tags: ["GTA 6", "GTA 7", "Grand Theft Auto", "Gaming Hype", "Fan Anticipation", "Video Games", "Gaming Culture", "Rockstar Games", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1regxij/its_crazy_to_think_the_same_way_we_are_waiting/"
+classification: "UNKNOWN"
 ---
 
 # The Inevitable Cycle of GTA Hype: Looking Beyond GTA 6 to GTA 7

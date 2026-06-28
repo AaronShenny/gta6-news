@@ -4,6 +4,7 @@ date: "2026-02-25T00:51:25"
 description: "A recent Reddit discussion on r/GTA6 explores whether the beloved diamond storyline from GTA IV should make a comeback, potentially as a side quest, in the upcoming Grand Theft Auto VI."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA IV", "Diamond Storyline", "Fan Discussion", "Reddit", "Gaming News", "Rockstar Games", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rdyk4q/do_yall_want_to_see_the_diamond_storyline/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Ponders the Return of Grand Theft Auto IV's Iconic Diamond Storyline

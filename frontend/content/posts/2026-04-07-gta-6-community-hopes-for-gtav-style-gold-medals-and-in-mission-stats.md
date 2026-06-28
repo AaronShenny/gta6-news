@@ -4,6 +4,7 @@ date: "2026-04-07T12:38:31"
 description: "A recent community discussion highlights player preferences for Grand Theft Auto 6's mission replayability, advocating for GTAV's gold medal system and real-time performance metrics."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gold Medals", "Mission Replay", "GTAV", "RDR2", "Community Feedback", "Gameplay Mechanics", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1seus59/i_really_hope_they_stick_to_gtavs_gold_medal/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Hopes for GTAV-Style Gold Medals and In-Mission Stats

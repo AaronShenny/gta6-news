@@ -4,6 +4,7 @@ date: "2026-03-07T07:41:02"
 description: "A Reddit user passionately defends Rockstar Games against common criticisms, praising their development effort and predicting GTA 6 will be the 'game of the decade,' despite monetization concerns."
 tags: ["GTA 6", "Rockstar Games", "Gaming Industry", "Game Development", "Fan Opinion", "GTA Online", "Red Dead Online", "Game of the Decade"]
 source: "https://www.reddit.com/r/GTA6/comments/1rn3y63/rockstar_are_so_good_to_us/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Defends Rockstar Games, Declares GTA 6 'Game of the Decade'

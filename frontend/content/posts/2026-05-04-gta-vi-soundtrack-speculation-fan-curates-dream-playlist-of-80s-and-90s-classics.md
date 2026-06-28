@@ -4,6 +4,7 @@ date: "2026-05-04T16:05:33"
 description: "A Grand Theft Auto VI enthusiast shares a detailed wishlist of classic 80s and early 90s tracks, from Tears For Fears to Van Halen, that they believe would perfectly capture the retro vibe of Leonida's radio waves."
 tags: ["GTA VI", "Grand Theft Auto 6", "Soundtrack", "Music", "Fan Speculation", "80s Music", "Vice City", "Leonida", "Gaming News", "Playlist"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3m38x/songs_i_expect_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA VI Soundtrack Speculation: Fan Curates Dream Playlist of 80s and 90s Classics

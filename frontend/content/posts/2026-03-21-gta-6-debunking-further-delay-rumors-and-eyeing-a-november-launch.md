@@ -4,6 +4,7 @@ date: "2026-03-21T01:06:20"
 description: "A Reddit post argues that fears of additional GTA 6 delays are unfounded, suggesting a November release is highly probable despite Rockstar's history of multiple postponements."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Delays", "Release Date", "Gaming News", "Speculation", "Marketing Strategy"]
 source: "https://www.reddit.com/r/GTA6/comments/1rze3cs/gta_6_delayed_again_is_fear_mongering/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Debunking Further Delay Rumors and Eyeing a November Launch

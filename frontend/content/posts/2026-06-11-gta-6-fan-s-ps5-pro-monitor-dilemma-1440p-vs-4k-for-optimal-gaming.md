@@ -4,6 +4,7 @@ date: "2026-06-11T04:53:52"
 description: "A dedicated GTA 6 fan is torn between monitor resolutions for their upcoming PS5 Pro and PC setup, debating 1440p and 4K for optimal gaming, and seeking community advice."
 tags: ["GTA 6", "PS5 Pro", "Gaming Monitor", "1440p", "4K", "PC Gaming", "Console Gaming", "Hardware Dilemma", "Gaming Setup", "Resolution", "Reddit Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1u2pexg/im_buying_a_ps5_pro_just_for_this_game_but_i_need/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan's PS5 Pro Monitor Dilemma: 1440p vs. 4K for Optimal Gaming

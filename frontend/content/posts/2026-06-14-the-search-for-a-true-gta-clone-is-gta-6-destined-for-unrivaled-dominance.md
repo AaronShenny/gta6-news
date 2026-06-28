@@ -4,6 +4,7 @@ date: "2026-06-14T12:37:45"
 description: "A Reddit user on r/GTA6 laments the absence of strong 'GTA clones' in recent years, suggesting Grand Theft Auto 6 will face little competition."
 tags: ["GTA 6", "Grand Theft Auto", "GTA Clones", "Open World Games", "Gaming Industry", "Watch Dogs Legion", "Saints Row Reboot", "Mafia Definitive Edition", "Cyberpunk 2077", "Competition"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5k2hl/its_funny_how_we_are_6_years_in_this_decade/"
+classification: "UNKNOWN"
 ---
 
 # The Search for a True 'GTA Clone': Is GTA 6 Destined for Unrivaled Dominance?

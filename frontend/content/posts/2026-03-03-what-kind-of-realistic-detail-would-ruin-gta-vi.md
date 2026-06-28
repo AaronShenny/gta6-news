@@ -4,6 +4,7 @@ date: "2026-03-03T23:20:50"
 description: "A Reddit discussion on r/GTA6 explores the community's concerns about 'too much realism' in Grand Theft Auto VI, highlighting features that could detract from gameplay rather than enhance it."
 tags: ["GTA 6", "Grand Theft Auto VI", "Realism", "Gameplay", "Community Discussion", "Fan Feedback", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rk50lk/what_kind_of_realistic_detail_would_ruin_gta_vi/"
+classification: "RUMOR"
 ---
 
 # What kind of realistic detail would ruin GTA VI?

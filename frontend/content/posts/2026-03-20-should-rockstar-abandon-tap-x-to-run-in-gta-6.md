@@ -4,6 +4,7 @@ date: "2026-03-20T22:20:47"
 description: "A Reddit discussion on /r/GTA6 questions whether Rockstar should update or remove the long-standing 'tap X to run' mechanic for Grand Theft Auto 6, acknowledging community division on the control scheme."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Game Controls", "Game Mechanics", "Tap X to Run", "Player Feedback", "Gaming Debate", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rza61o/should_rockstar_abandon_tap_x_to_run_in_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # Should Rockstar abandon tap X to run in GTA 6?

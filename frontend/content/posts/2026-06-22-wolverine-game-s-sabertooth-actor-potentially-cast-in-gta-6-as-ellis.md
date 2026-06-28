@@ -4,6 +4,7 @@ date: "2026-06-22T17:44:31"
 description: "Voice actor Brett Gipson, known for his role as Sabertooth in the upcoming Wolverine game, has listed 'GTA VI' on his online resume, sparking speculation about his role as 'Ellis' in Rockstar's highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Voice Actor", "Brett Gipson", "Sabertooth", "Wolverine Game", "Ellis", "Casting", "Rumors", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ucrhtr/brett_gipson_who_plays_sabertooth_in_the/"
+classification: "RUMOR"
 ---
 
 # Wolverine Game's Sabertooth Actor Potentially Cast in GTA 6 as 'Ellis'

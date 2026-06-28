@@ -4,6 +4,7 @@ date: "2026-06-28T04:07:17"
 description: "A dedicated GTA V player expresses a strong desire for Grand Theft Auto VI to implement a true boat loading mechanic, allowing players to retrieve boats onto trailers, a feature notably absent in GTA V."
 tags: ["GTA 6", "GTA VI", "Grand Theft Auto", "Rockstar Games", "Gameplay Mechanics", "Community Wishlist", "Vehicles", "Immersion"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhn3bw/in_gta_v_you_could_only_launch_a_boat_off_a/"
+classification: "RUMOR"
 ---
 
 # GTA VI: Community Hopes for Enhanced Boat Loading Mechanics

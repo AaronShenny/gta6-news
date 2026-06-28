@@ -4,6 +4,7 @@ date: "2026-02-18T11:42:08"
 description: "A Reddit user proposes May 26, the anniversary of Ray Liotta's passing, as the ideal date for a GTA 6 gameplay trailer, honoring the voice of Tommy Vercetti."
 tags: ["GTA 6", "Grand Theft Auto 6", "Ray Liotta", "Tommy Vercetti", "Vice City", "Rockstar Games", "Gameplay Trailer", "Tribute", "Gaming Community", "Fan Suggestion"]
 source: "https://www.reddit.com/r/GTA6/comments/1r80rij/gta_6_gameplay_trailer_on_may_26_would_be_a/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Campaign for May 26 Trailer to Honor Ray Liotta's Legacy

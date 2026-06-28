@@ -4,6 +4,7 @@ date: "2026-05-10T21:59:34"
 description: "Grand Theft Auto VI's second official trailer has officially surpassed 160 million views, fueling intense community speculation for the imminent release of Trailer 3."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Trailer Views", "Video Game", "Community Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9k9pn/gta_6_trailer_2_has_officially_reached_160/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 2 Hits Staggering 160 Million Views, Community Buzzes for Trailer 3

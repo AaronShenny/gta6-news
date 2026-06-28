@@ -4,6 +4,7 @@ date: "2026-04-11T08:46:36"
 description: "A Reddit user expresses immense love for Vice City, calling it their favorite open-world city, fueling GTA 6 excitement and nostalgic discussions."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Reddit", "Gaming Community", "Open World", "Fan Opinion", "Hype"]
 source: "https://www.reddit.com/r/GTA6/comments/1sidrbj/look_at_this_man_vice_city_is_already_my_favorite/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype: Reddit User Declares Vice City 'Favorite Open-World City Ever'

@@ -4,6 +4,7 @@ date: "2026-06-26T18:15:45"
 description: "A Miami resident shares their 'scary' yet immersive reaction to GTA 6 screenshots, noting the striking resemblance to real-life locations and anticipating in-game chaos near their home."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Miami", "Fan Reaction", "Game Realism", "Player Immersion", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ugejt5/im_in_miami_some_of_these_screenshots_are_a/"
+classification: "LEAK"
 ---
 
 # GTA 6's Vice City Realism Hits Close to Home for Miami Residents

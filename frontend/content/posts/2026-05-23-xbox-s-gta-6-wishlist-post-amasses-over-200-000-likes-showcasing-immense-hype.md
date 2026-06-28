@@ -4,6 +4,7 @@ date: "2026-05-23T05:33:28"
 description: "An Xbox social media post encouraging players to wishlist Grand Theft Auto 6 has quickly surpassed 200,000 likes in just 13 hours, signaling massive player anticipation."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox", "Gaming Hype", "Social Media", "Wishlist", "Rockstar Games", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tl7hc5/xbox_gta_6_post_already_on_222k_likes/"
+classification: "UNKNOWN"
 ---
 
 # Xbox's GTA 6 Wishlist Post Amasses Over 200,000 Likes, Showcasing Immense Hype

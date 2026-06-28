@@ -4,6 +4,7 @@ date: "2026-06-01T17:30:33"
 description: "With summer officially underway, gaming enthusiasts are buzzing with anticipation for an influx of Grand Theft Auto 6 news, trailers, and gameplay details from Rockstar Games."
 tags: ["GTA 6", "Rockstar Games", "Gaming News", "Game Updates", "Summer", "Hype", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ttzdaq/just_a_reminder_to_cheer_yall_up/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Hype Ignites as Summer Kicks Off, Fans Anticipate New Details

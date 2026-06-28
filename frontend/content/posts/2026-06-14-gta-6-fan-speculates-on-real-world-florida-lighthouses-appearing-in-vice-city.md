@@ -4,6 +4,7 @@ date: "2026-06-14T10:31:17"
 description: "A Reddit user's discovery of a Florida lighthouse map sparks fan speculation about the inclusion of these landmarks in the upcoming Grand Theft Auto 6, set in Vice City."
 tags: ["GTA 6", "Grand Theft Auto 6", "Vice City", "Florida", "Lighthouses", "Fan Speculation", "Reddit", "Game World", "Exploration", "Easter Eggs"]
 source: "https://www.reddit.com/r/GTA6/comments/1u5hnik/found_this_florida_lighthouse_map_at_a_local_ice/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Speculates on Real-World Florida Lighthouses Appearing in Vice City

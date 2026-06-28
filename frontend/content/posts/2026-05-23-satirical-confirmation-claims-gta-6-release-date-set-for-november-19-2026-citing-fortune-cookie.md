@@ -4,6 +4,7 @@ date: "2026-05-23T19:04:13"
 description: "A Reddit user playfully suggests GTA 6 will launch on November 19, 2026, humorously claiming a fortune cookie as their 'truest-possible form of official confirmation.'"
 tags: ["GTA 6", "Grand Theft Auto 6", "Release Date", "Rumor", "Speculation", "Satire", "Humor", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlp49d/i_just_received_the_truestpossible_form_of/"
+classification: "RUMOR"
 ---
 
 # Satirical 'Confirmation' Claims GTA 6 Release Date Set for November 19, 2026, Citing Fortune Cookie

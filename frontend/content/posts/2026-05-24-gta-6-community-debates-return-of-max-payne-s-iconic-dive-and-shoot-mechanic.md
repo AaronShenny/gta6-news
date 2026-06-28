@@ -4,6 +4,7 @@ date: "2026-05-24T21:45:01"
 description: "A Reddit thread sparks discussion among fans about whether Grand Theft Auto VI will reintroduce or evolve the beloved cinematic dive-and-shoot gunplay style from Max Payne."
 tags: ["GTA 6", "Max Payne", "Rockstar Games", "Gunplay", "Mechanics", "Speculation", "Community Discussion", "Dive and Shoot", "Slow Motion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmp8hy/could_gta_vi_bring_back_max_paynestyle_diving_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Debates Return of Max Payne's Iconic Dive-and-Shoot Mechanic

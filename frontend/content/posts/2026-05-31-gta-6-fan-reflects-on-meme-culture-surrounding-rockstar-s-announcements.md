@@ -4,6 +4,7 @@ date: "2026-05-31T10:32:56"
 description: "A Reddit user recalls the 'Vice City gradient' meme following GTA 6 Trailer 1, noting how Rockstar's news often becomes meme-worthy and humorously imagining Rockstar engaging with it."
 tags: ["GTA 6", "Rockstar Games", "Gaming Culture", "Memes", "Trailer 1", "Vice City", "Fan Discussion", "Social Media"]
 source: "https://www.reddit.com/r/GTA6/comments/1tsropq/if_rockstar_did_this/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Reflects on Meme Culture Surrounding Rockstar's Announcements

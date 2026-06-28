@@ -4,6 +4,7 @@ date: "2026-06-15T17:08:00"
 description: "A user on the r/GTA6 subreddit proposes a unique suite of sports mini-games for Grand Theft Auto VI, advocating for activities like basketball, snooker, darts, and American rugby over traditional racing."
 tags: ["GTA 6", "Grand Theft Auto VI", "Mini-Games", "Sports Games", "Reddit", "Gaming Community", "Rockstar Games", "Basketball", "Snooker", "Darts", "Football", "Rugby"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6mnjy/what_games_would_you_like_to_see_in_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Pitches Sports-Focused Mini-Games for GTA VI, Suggests Basketball, Snooker, and More

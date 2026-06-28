@@ -4,6 +4,7 @@ date: "2026-03-13T18:07:19"
 description: "A Reddit user on vacation in Tirana, Albania, captures a taxi adorned with GTA 6 imagery, showcasing the game's widespread international anticipation."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Albania", "Tirana", "Gaming Hype", "Fan Culture", "International Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsuvfh/taxi_in_tirana_albania/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Goes Global: Albanian Taxi Spotted Sporting Game Art

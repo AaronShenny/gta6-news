@@ -4,6 +4,7 @@ date: "2026-02-18T00:34:21"
 description: "Amidst the intense anticipation for Grand Theft Auto 6, a Reddit user's peculiar question about 'commas' highlights the community's fervent speculation."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Fan Speculation", "Gaming Humor", "Reddit Community", "Anticipation", "Gaming Culture"]
 source: "https://www.reddit.com/r/GTA6/comments/1r7o0mv/will_gta_6_have_commas/"
+classification: "RUMOR"
 ---
 
 # The Curious Case of Commas in GTA 6: A Deep Dive into Fan Speculation

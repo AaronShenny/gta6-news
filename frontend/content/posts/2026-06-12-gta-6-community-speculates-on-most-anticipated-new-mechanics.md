@@ -4,6 +4,7 @@ date: "2026-06-12T13:04:25"
 description: "A Reddit post on r/GTA6 sparks community discussion, asking fans to share their most exciting and anticipated gameplay mechanics for the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Mechanics", "Fan Discussion", "Community", "Anticipation", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u3upq3/most_anticipated_mechanic/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Most Anticipated New Mechanics

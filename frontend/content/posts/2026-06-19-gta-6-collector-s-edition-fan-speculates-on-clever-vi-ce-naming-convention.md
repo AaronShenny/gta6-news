@@ -4,6 +4,7 @@ date: "2026-06-19T09:55:35"
 description: "A Reddit user sparks discussion with a clever observation about a potential 'GTA VI:CE' title for Grand Theft Auto 6's Collector's Edition, referencing the iconic Vice City."
 tags: ["GTA 6", "Grand Theft Auto VI", "Collector's Edition", "Vice City", "Rockstar Games", "Fan Speculation", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9xrb0/it_just_dawned_on_me_that_if_this_game_gets_a/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Collector's Edition: Fan Speculates on Clever 'VI:CE' Naming Convention

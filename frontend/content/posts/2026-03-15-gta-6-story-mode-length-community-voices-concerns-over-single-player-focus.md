@@ -4,6 +4,7 @@ date: "2026-03-15T20:26:01"
 description: "A Reddit user sparks discussion on GTA 6's story mode length, expressing worry that Rockstar might prioritize online play over a robust single-player experience, a concern for fans who love replaying campaigns."
 tags: ["GTA 6", "Grand Theft Auto", "Story Mode", "Single Player", "Online", "Game Length", "Rockstar Games", "Community Discussion", "Replayability", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ruoqun/game_length_for_the_story_mode_players/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Story Mode Length: Community Voices Concerns Over Single-Player Focus

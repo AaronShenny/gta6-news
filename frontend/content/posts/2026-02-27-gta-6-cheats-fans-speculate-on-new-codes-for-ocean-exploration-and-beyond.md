@@ -4,6 +4,7 @@ date: "2026-02-27T16:41:05"
 description: "Dedicated GTA fans are already wondering about new and unique cheats for Grand Theft Auto 6, especially with the introduction of ocean exploration. Will classic codes return?"
 tags: ["GTA 6", "Grand Theft Auto 6", "Cheats", "Gaming News", "Fan Speculation", "Ocean Exploration", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rgbotq/what_do_you_think_will_there_be_any_unique_new/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cheats: Fans Speculate on New Codes for Ocean Exploration and Beyond

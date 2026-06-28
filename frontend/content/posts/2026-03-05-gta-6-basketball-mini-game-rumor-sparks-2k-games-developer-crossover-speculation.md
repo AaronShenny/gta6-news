@@ -4,6 +4,7 @@ date: "2026-03-05T17:56:15"
 description: "A long-standing rumor about a basketball mini-game in GTA 6 resurfaces, leading fans to speculate if 2K Games developers could be involved due to the shared Take-Two Interactive umbrella."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "2K Games", "NBA 2K", "Take-Two Interactive", "Gaming Rumors", "Mini-Games", "Speculation", "Basketball"]
 source: "https://www.reddit.com/r/GTA6/comments/1rlogsa/remember_the_rumor_about_a_basketball_mini_game/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Basketball Mini-Game Rumor Sparks 2K Games Developer Crossover Speculation

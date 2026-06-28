@@ -4,6 +4,7 @@ date: "2026-03-30T17:20:09"
 description: "A Reddit user on r/GTA6 sparks discussion, asking the community to predict the massive pre-order revenue Grand Theft Auto 6 could generate in its first month."
 tags: ["GTA 6", "Grand Theft Auto 6", "Pre-orders", "Gaming Industry", "Revenue Speculation", "Community Discussion", "Reddit", "Sales Predictions", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7wz6y/gta_6_preorders_money/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Speculates on 'Crazy' Pre-Order Revenue Potential

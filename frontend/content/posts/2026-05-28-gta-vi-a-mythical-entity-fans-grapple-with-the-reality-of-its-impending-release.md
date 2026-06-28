@@ -4,6 +4,7 @@ date: "2026-05-28T14:40:17"
 description: "A Reddit user articulates a common fan sentiment, describing GTA VI as a 'mythical entity' that feels like a fantasy, despite its highly anticipated November release."
 tags: ["GTA VI", "Grand Theft Auto 6", "Fan Sentiment", "Gaming Community", "Anticipation", "Rockstar Games", "Reddit", "Gaming News", "Hopium", "Copium"]
 source: "https://www.reddit.com/r/GTA6/comments/1tq5lqr/is_it_just_me_or_does_gta_vi_feel_like_this/"
+classification: "RUMOR"
 ---
 
 # GTA VI: A Mythical Entity? Fans Grapple with the Reality of its Impending Release

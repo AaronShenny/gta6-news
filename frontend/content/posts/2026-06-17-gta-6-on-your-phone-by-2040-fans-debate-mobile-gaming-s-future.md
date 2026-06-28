@@ -4,6 +4,7 @@ date: "2026-06-17T06:51:31"
 description: "A Reddit post sparks discussion among fans, speculating whether Grand Theft Auto 6 could be playable on smartphones by 2040, citing the impressive evolution of mobile gaming."
 tags: ["GTA 6", "Grand Theft Auto", "Mobile Gaming", "Smartphone", "Gaming Future", "Rockstar Games", "2040", "Speculation", "Reddit", "Gaming Trends"]
 source: "https://www.reddit.com/r/GTA6/comments/1u82qb4/if_you_told_me_back_then_that_id_have_rdr_bully/"
+classification: "RUMOR"
 ---
 
 # GTA 6 on Your Phone by 2040? Fans Debate Mobile Gaming's Future

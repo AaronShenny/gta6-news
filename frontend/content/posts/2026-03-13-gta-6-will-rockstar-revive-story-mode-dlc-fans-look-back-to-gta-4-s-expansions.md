@@ -4,6 +4,7 @@ date: "2026-03-13T23:38:15"
 description: "A Reddit user sparks a community discussion, expressing a strong desire for Grand Theft Auto 6 to feature robust story mode DLC, reminiscent of GTA 4's beloved 'The Ballad of Gay Tony' and 'The Lost and Damned'."
 tags: ["GTA 6", "Grand Theft Auto 6", "Story DLC", "Single Player DLC", "Rockstar Games", "GTA 4", "The Ballad of Gay Tony", "The Lost and Damned", "Community Discussion", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rt3m1m/do_you_think_were_finally_gonna_get_an_actual/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Rockstar Revive Story Mode DLC? Fans Look Back to GTA 4's Expansions

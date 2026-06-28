@@ -4,6 +4,7 @@ date: "2026-05-19T14:06:55"
 description: "A Reddit user proposes an 'incredibly original' GTA 6 marketing strategy: a 24/7 live stream evolving from a remote CCTV feed to the heart of Vice City."
 tags: ["GTA 6", "Grand Theft Auto 6", "Marketing", "Gaming News", "Vice City", "Live Stream", "CCTV", "Rockstar Games", "Community Idea"]
 source: "https://www.reddit.com/r/GTA6/comments/1tho28x/one_thing_that_would_be_incredibly_original_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing Idea: A Live Stream Journey Through Vice City

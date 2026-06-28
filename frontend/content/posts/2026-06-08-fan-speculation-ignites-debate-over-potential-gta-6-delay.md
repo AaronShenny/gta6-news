@@ -4,6 +4,7 @@ date: "2026-06-08T08:40:12"
 description: "A Reddit post from the GTA 6 community expresses strong skepticism about the game's current trajectory, suggesting a potential need for further delays."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Game Development", "Game Delays", "Fan Speculation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u02451/now_gta_6_has_no_chance_bruh_they_better_delay/"
+classification: "RUMOR"
 ---
 
 # Fan Speculation Ignites Debate Over Potential GTA 6 Delay

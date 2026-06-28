@@ -4,6 +4,7 @@ date: "2026-06-03T14:58:34"
 description: "A Reddit user speculates that GTA 6 might adopt a less serious narrative tone than GTA 4, prompting community discussion based on initial trailer observations."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Community Discussion", "Reddit", "Game Tone", "Story Speculation", "GTA 4", "Trailers"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvrwhv/would_yall_love_or_hate_if_gta_6_isnt_as_serious/"
+classification: "RUMOR"
 ---
 
 # Reddit Debates GTA 6's Potential Tone Shift from GTA 4

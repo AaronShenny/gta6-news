@@ -4,6 +4,7 @@ date: "2026-02-23T20:07:25"
 description: "New insider reports suggest Rockstar Games has implemented extreme security measures to prevent any leaks of Grand Theft Auto 6 ahead of its highly anticipated release."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Leaks", "Gaming News", "Industry Insiders", "Reece Reilly", "Ghost of Hope", "Security"]
 source: "https://www.reddit.com/r/GTA6/comments/1rcsbrm/apparently_rockstar_is_fully_locked_down_to/"
+classification: "RUMOR"
 ---
 
 # Rockstar Reportedly Enters 'Full Lockdown' Mode to Prevent GTA 6 Leaks

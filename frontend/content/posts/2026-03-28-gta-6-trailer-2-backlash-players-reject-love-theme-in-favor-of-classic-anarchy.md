@@ -4,6 +4,7 @@ date: "2026-03-28T16:31:31"
 description: "A Reddit post highlights significant player discontent with GTA 6's perceived 'love theme' in Trailer 2, indicating a strong preference for the series' signature chaotic gameplay."
 tags: ["GTA 6", "Grand Theft Auto", "Trailer 2", "Player Reaction", "Fan Expectations", "Gaming News", "Rockstar Games", "Controversy"]
 source: "https://www.reddit.com/r/GTA6/comments/1s6506o/93k_people_disliked_it_because_the_main_theme_of/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Trailer 2 Backlash: Players Reject 'Love Theme' in Favor of Classic Anarchy

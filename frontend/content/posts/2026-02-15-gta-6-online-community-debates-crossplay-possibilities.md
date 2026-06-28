@@ -4,6 +4,7 @@ date: "2026-02-15T01:28:05"
 description: "The Grand Theft Auto 6 community is actively discussing and speculating whether GTA 6 Online will feature cross-platform play, generating significant buzz among fans."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA Online", "Crossplay", "Cross-Platform Gaming", "Gaming Community", "Rockstar Games", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r51su7/do_you_think_gta_6_online_will_be_crossplay/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Community Debates Crossplay Possibilities

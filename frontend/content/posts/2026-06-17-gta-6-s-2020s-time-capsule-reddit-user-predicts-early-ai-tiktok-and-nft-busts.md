@@ -4,6 +4,7 @@ date: "2026-06-17T16:15:34"
 description: "A Reddit user speculates on how GTA 6 will capture the early 2020s, focusing on influencer culture, nascent AI, peak TikTok, and the NFT market crash, with a cultural lag similar to previous GTA titles."
 tags: ["GTA 6", "Grand Theft Auto", "2020s Culture", "Influencer Culture", "TikTok", "NFTs", "AI", "Rockstar Games", "Gaming News", "Cultural Commentary", "Gen Z"]
 source: "https://www.reddit.com/r/GTA6/comments/1u8eopa/how_do_you_think_gta_6_will_capture_the_2020s/"
+classification: "RUMOR"
 ---
 
 # GTA 6's 2020s Time Capsule: Reddit User Predicts Early AI, TikTok, and NFT Busts

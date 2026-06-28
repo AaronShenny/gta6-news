@@ -3,5 +3,6 @@ requests
 google-genai
 python-dotenv
 PyGithub
-beautifulsoup4
 html2text
+pydantic
+tenacity

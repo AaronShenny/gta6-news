@@ -4,6 +4,7 @@ date: "2026-02-13T15:10:27"
 description: "A Reddit user expresses strong optimism for Grand Theft Auto 6's missions, drawing comparisons to beloved past titles like San Andreas and GTA 5, anticipating 'over the top great' gameplay."
 tags: ["GTA 6", "Grand Theft Auto", "Missions", "Fan Opinion", "Reddit", "Gaming Community", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r3ro3g/gta_6_missions_are_going_to_be_incredible/"
+classification: "RUMOR"
 ---
 
 # Reddit User's High Hopes for GTA 6 Missions

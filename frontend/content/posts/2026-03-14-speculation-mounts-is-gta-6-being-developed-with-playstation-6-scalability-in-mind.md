@@ -4,6 +4,7 @@ date: "2026-03-14T01:44:07"
 description: "A Reddit user speculates that Grand Theft Auto VI, set for a late-generation release, might already be designed with scalability for future hardware like the PlayStation 6, mirroring GTA 5's multi-generational launch strategy."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "PlayStation 6", "PS6", "Console Generation", "Game Development", "Speculation", "Gaming Industry", "Scalability", "GTA V"]
 source: "https://www.reddit.com/r/GTA6/comments/1rt6ja0/hot_take_gta_6_might_already_be_developed_with/"
+classification: "RUMOR"
 ---
 
 # Speculation Mounts: Is GTA 6 Being Developed with PlayStation 6 Scalability in Mind?

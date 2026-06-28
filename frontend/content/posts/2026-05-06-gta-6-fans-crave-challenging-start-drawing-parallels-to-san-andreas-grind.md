@@ -4,6 +4,7 @@ date: "2026-05-06T05:53:24"
 description: "A Reddit user expresses hope that GTA 6's single-player won't start with abundant wealth, advocating for a challenging money-grind experience reminiscent of GTA San Andreas."
 tags: ["GTA 6", "Grand Theft Auto 6", "Single Player", "Game Economy", "Difficulty", "Money Grind", "GTA San Andreas", "Player Feedback", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1t5466j/i_hope_that_in_gta_6_single_player_we_wont_start/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Crave Challenging Start, Drawing Parallels to San Andreas' Grind

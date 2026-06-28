@@ -4,6 +4,7 @@ date: "2026-06-10T00:21:33"
 description: "A Reddit user sparks discussion about whether physical editions of Grand Theft Auto VI will continue the tradition of including a printed map, drawing comparisons to GTA IV, GTA V, and Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Physical Copy", "Game Map", "Collectibles", "Fan Speculation", "Rockstar Games", "Red Dead Redemption 2"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1mo8y/will_physical_copy_have_a_map_like_4_and_5/"
+classification: "RUMOR"
 ---
 
 # Fans Speculate: Will GTA 6 Physical Copies Include a Map?

@@ -4,6 +4,7 @@ date: "2026-05-11T14:13:41"
 description: "Speculation is mounting among fans that Grand Theft Auto 6's third trailer, pre-order details, and official cover art could drop within hours, according to multiple unconfirmed reports."
 tags: ["GTA 6", "Grand Theft Auto 6", "Trailer 3", "Pre-orders", "Cover Art", "Rumors", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1ta4jwf/gta_6_news_multiple_reports_suggest_that_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3, Pre-Orders, and Cover Art Rumored for Imminent Release

@@ -4,6 +4,7 @@ date: "2026-05-21T16:55:48"
 description: "A Reddit user shares their fan-made artwork for Grand Theft Auto 6, reflecting the community's palpable anticipation and ongoing wait for official updates from Rockstar Games."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Gaming Community", "Anticipation", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjqkq2/gta_vi_fan_art/"
+classification: "LEAK"
 ---
 
 # GTA 6 Fan Art Highlights Community's Eagerness for News

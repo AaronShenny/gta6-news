@@ -4,6 +4,7 @@ date: "2026-04-02T07:32:33"
 description: "A Reddit post titled 'Do you think there will be seasonal changes in GTA 6?' has sparked lively discussion among fans, exploring the possibilities and implications of dynamic seasons in the upcoming game."
 tags: ["GTA 6", "Seasonal Changes", "Reddit", "Community Discussion", "Speculation", "Rumors", "Open World", "Environment", "Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1saaqdu/do_you_think_there_will_be_seasonal_changes_in/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Reddit Community Debates Potential Seasonal Changes

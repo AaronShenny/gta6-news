@@ -4,6 +4,7 @@ date: "2026-02-21T01:58:33"
 description: "A Reddit user speculates whether GTA 6's female protagonist, Lucia, will encounter realistic street harassment from male NPCs, sparking debate on the game's social commentary."
 tags: ["GTA 6", "Lucia", "NPCs", "Street Harassment", "Social Commentary", "Player Reaction", "Gaming Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1raejzw/you_think_that_you_will_get_inappropriate_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Discussion: Will Lucia Encounter Street Harassment from NPCs?

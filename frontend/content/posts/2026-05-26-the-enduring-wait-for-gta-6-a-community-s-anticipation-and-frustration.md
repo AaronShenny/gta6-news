@@ -4,6 +4,7 @@ date: "2026-05-26T04:21:26"
 description: "A Reddit post encapsulates the collective sentiment of the Grand Theft Auto 6 community regarding the game's prolonged development, highlighting the bittersweet anticipation and potential frustration among fans."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Community", "Anticipation", "Hype", "Fan Sentiment", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tnw1i0/mentally_preparing_for_an_entire_day_of_we/"
+classification: "UNKNOWN"
 ---
 
 # The Enduring Wait for GTA 6: A Community's Anticipation and Frustration

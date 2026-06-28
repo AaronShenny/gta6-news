@@ -4,6 +4,7 @@ date: "2026-02-19T08:55:28"
 description: "A Reddit user argues that GTA 6 must target 60fps on base PS5, deeming 30fps 'not good enough' given GTA 5's performance, or risk alienating players or requiring a PS5 Pro."
 tags: ["GTA 6", "Grand Theft Auto VI", "Frame Rate", "30fps", "60fps", "PS5", "PS5 Pro", "Rockstar Games", "Gaming Performance", "Next-Gen Gaming", "Fan Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8u8p9/heres_the_problem_with_the_30fps_theory/"
+classification: "RUMOR"
 ---
 
 # GTA 6 at 30fps: Unacceptable When GTA 5 Hits 60?

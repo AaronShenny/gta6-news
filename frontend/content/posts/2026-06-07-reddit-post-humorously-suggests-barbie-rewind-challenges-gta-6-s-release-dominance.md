@@ -4,6 +4,7 @@ date: "2026-06-07T09:02:51"
 description: "A popular Reddit post playfully observes that while major studios delay releases to avoid GTA 6, 'Barbie Rewind' is seemingly taking it 'head on'."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Industry", "Release Dates", "Game Delays", "Barbie Rewind", "Speculation", "Reddit", "Humor"]
 source: "https://www.reddit.com/r/GTA6/comments/1tz71xi/barbie_rewind_taking_gta_6_head_on_while_every/"
+classification: "RUMOR"
 ---
 
 # Reddit Post Humorously Suggests 'Barbie Rewind' Challenges GTA 6's Release Dominance

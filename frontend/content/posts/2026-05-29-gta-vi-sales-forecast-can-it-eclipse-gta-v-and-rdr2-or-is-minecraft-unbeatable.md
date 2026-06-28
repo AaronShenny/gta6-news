@@ -4,6 +4,7 @@ date: "2026-05-29T10:17:52"
 description: "A Reddit user predicts Grand Theft Auto VI will surpass GTA V and Red Dead Redemption 2 sales within a decade, but sees Minecraft as an insurmountable sales leader due to its broad appeal."
 tags: ["GTA 6", "Grand Theft Auto VI", "Sales Predictions", "Gaming Industry", "GTA V", "Red Dead Redemption 2", "Minecraft", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tqxfd0/how_long_until_gta_vi_beats_them/"
+classification: "RUMOR"
 ---
 
 # GTA VI Sales Forecast: Can it Eclipse GTA V and RDR2, or is Minecraft Unbeatable?

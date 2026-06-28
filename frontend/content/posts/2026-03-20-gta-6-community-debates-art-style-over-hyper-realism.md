@@ -4,6 +4,7 @@ date: "2026-03-20T23:51:33"
 description: "A Reddit user sparks a discussion, arguing that Grand Theft Auto 6 should prioritize a strong art style over pushing for ultra-realistic graphics."
 tags: ["GTA 6", "Grand Theft Auto", "Graphics", "Art Style", "Realism", "Gaming Debate", "Rockstar Games", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rzceas/gta_6_shouldnt_have_realistic_graphics_but_good/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Community Debates Art Style Over Hyper-Realism

@@ -4,6 +4,7 @@ date: "2026-06-24T14:18:46"
 description: "Rockstar Games confirms GTA 6 will launch as a single-player experience on November 19, priced at $80. Preorders open June 25, with initial details on its online status and physical editions."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Release Date", "Price", "Single-Player", "GTA Online", "Preorder", "PS5", "Xbox Series X|S"]
 source: "https://www.gamespot.com/articles/gta-6-features-a-single-player-experience-at-least-at-launch/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Confirmed as Single-Player at Launch; Pricing and Preorder Details Revealed

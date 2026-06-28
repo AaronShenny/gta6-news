@@ -4,6 +4,7 @@ date: "2026-06-21T23:25:31"
 description: "A Reddit discussion from r/GTA6 explores which lore-friendly vehicles, not yet seen in GTA 5 or GTA 6 trailers, fans hope will appear in the upcoming game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Cars", "Vehicles", "Community Discussion", "Reddit", "Wishlist", "Lore-friendly"]
 source: "https://www.reddit.com/r/GTA6/comments/1uc4fm5/what_cars_havent_been_seen_yet/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Speculates on Unseen Lore-Friendly Cars

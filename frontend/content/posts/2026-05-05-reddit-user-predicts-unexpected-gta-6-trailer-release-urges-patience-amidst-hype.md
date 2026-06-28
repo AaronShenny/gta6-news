@@ -4,6 +4,7 @@ date: "2026-05-05T22:23:47"
 description: "A Reddit user speculates on the timing of the next Grand Theft Auto 6 trailer, suggesting Rockstar will drop it unexpectedly and advising fans to await official announcements."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Trailer", "Release Date", "Speculation", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4ugpx/ima_tell_yall_gta_6_trailer_3_will_come_out_when/"
+classification: "RUMOR"
 ---
 
 # Reddit User Predicts Unexpected GTA 6 Trailer Release, Urges Patience Amidst Hype

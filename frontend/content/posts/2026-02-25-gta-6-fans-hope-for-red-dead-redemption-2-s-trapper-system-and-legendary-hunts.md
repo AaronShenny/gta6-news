@@ -4,6 +4,7 @@ date: "2026-02-25T23:39:00"
 description: "A recent Reddit discussion reveals GTA 6 fans are speculating about the inclusion of RDR2-style trapper mechanics, camping, and legendary animal hunts in the upcoming modern-day title."
 tags: ["GTA 6", "Grand Theft Auto 6", "Red Dead Redemption 2", "RDR2", "Trapper", "Hunting", "Camping", "Game Mechanics", "Fan Speculation", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1retxpp/do_you_guys_think_we_will_get_something_similar/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for Red Dead Redemption 2's Trapper System and Legendary Hunts

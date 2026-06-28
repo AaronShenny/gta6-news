@@ -4,6 +4,7 @@ date: "2026-06-06T18:14:38"
 description: "A Reddit post captures the gaming community's sentiment of moving on from GTA V to embrace the highly anticipated Grand Theft Auto VI, humorously calling it a 'perfect sendoff'."
 tags: ["GTA 6", "GTA V", "Rockstar Games", "Gaming Community", "Anticipation", "Grand Theft Auto", "Video Games", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1tyojvm/the_perfect_sendoff/"
+classification: "UNKNOWN"
 ---
 
 # The 'Perfect Sendoff': Gaming Community Prepares for GTA VI's Arrival

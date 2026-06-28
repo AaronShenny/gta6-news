@@ -4,6 +4,7 @@ date: "2026-05-17T00:22:26"
 description: "Fans on Reddit are debating the potential cover art for Grand Theft Auto VI, specifically whether protagonist Lucia will be the sole focus or if a traditional 'cover girl' will make an appearance."
 tags: ["GTA 6", "Grand Theft Auto VI", "Cover Art", "Lucia", "Gaming Speculation", "Fan Discussion", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tfa3e7/gta_6_cover_girl/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cover Art: Will Lucia Take Center Stage or Will a 'Cover Girl' Return?

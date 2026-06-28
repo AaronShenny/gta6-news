@@ -4,6 +4,7 @@ date: "2026-05-31T18:41:29"
 description: "Reddit user /u/posisquid shares 'Delivery Service,' the third episode in a fan-created comic series imagining Grand Theft Auto VI scenarios."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Comic", "Delivery Service", "Reddit", "Gaming News", "Community Content", "/u/posisquid"]
 source: "https://www.reddit.com/r/GTA6/comments/1tt3lw0/gta_6_comic_episode_3_delivery_service/"
+classification: "RUMOR"
 ---
 
 # Fan-Made GTA 6 Comic 'Delivery Service' Episode 3 Hits Reddit

@@ -4,6 +4,7 @@ date: "2026-03-22T13:40:45"
 description: "Explore why Grand Theft Auto fans are passionately advocating for the inclusion and enhancement of Red Dead Redemption 2's dynamic greet/antagonize system in the upcoming GTA 6, aiming for deeper character interactions."
 tags: ["GTA 6", "Red Dead Redemption 2", "RDR2", "Rockstar Games", "Greet/Antagonize System", "Community Wishlist", "Game Features", "Player Interaction", "Speculation", "Open World Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s0lx7a/the_greetantagonize_system_in_rdr2_is_easily_one/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Hopes for Return and Evolution of RDR2's Beloved Greet/Antagonize System

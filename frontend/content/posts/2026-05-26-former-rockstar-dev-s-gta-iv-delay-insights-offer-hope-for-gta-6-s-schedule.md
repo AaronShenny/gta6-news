@@ -4,6 +4,7 @@ date: "2026-05-26T14:17:15"
 description: "Obbe Vermeij's past comments on GTA IV's development delays provide a surprisingly positive outlook for GTA 6, suggesting its massive scale may not lead to unexpected postponements."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Development", "Release Date", "Game Delay", "Obbe Vermeij", "GTA IV", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1to8bp6/former_rockstar_devs_gta_4_delay_comments_have/"
+classification: "RUMOR"
 ---
 
 # Former Rockstar Dev's GTA IV Delay Insights Offer Hope for GTA 6's Schedule

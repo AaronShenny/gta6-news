@@ -4,6 +4,7 @@ date: "2026-03-30T14:58:18"
 description: "A recent Reddit post suggests Yusuf Amir, the flamboyant real estate mogul from GTA IV: The Ballad of Gay Tony, would be a perfect fit for Grand Theft Auto VI's rumored Vice City setting."
 tags: ["GTA 6", "Grand Theft Auto VI", "Yusuf Amir", "GTA IV", "The Ballad of Gay Tony", "Vice City", "Fan Speculation", "Character Return", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7sxtb/if_this_dude_is_in_gta_6_i_would_love_it/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Speculate on Yusuf Amir's Potential Return to Vice City

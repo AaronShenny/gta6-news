@@ -4,6 +4,7 @@ date: "2026-06-25T12:36:43"
 description: "A Reddit user has potentially discovered a clever easter egg in GTA 6 Ultimate Edition bonuses, suggesting weapon numbers on Lucia and Jason's gear correspond to past Grand Theft Auto: Vice City game release dates."
 tags: ["GTA 6", "Grand Theft Auto VI", "Easter Egg", "Vice City", "Rockstar Games", "Gaming News", "Lucia", "Jason", "Ultimate Edition", "Release Dates"]
 source: "https://www.reddit.com/r/GTA6/comments/1uf8sn2/just_noticed_this_release_date_easter_egg/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Easter Egg Uncovered: Weapon Numbers Hint at Vice City Release Dates

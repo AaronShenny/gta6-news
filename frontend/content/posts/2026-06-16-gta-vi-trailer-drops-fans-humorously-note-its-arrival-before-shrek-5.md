@@ -4,6 +4,7 @@ date: "2026-06-16T16:13:53"
 description: "A popular Reddit post celebrates the release of the Grand Theft Auto VI trailer, playfully observing it has arrived before the much-anticipated Shrek 5."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer", "Rockstar Games", "Shrek 5", "Gaming Community", "Reddit", "Fan Reaction", "Humor", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7i0ly/ladies_and_gentlemenwe_got_gta_vi_before_shrek_5/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Trailer Drops, Fans Humorously Note Its Arrival Before Shrek 5

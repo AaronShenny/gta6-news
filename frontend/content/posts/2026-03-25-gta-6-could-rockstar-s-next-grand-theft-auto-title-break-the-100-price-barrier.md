@@ -4,6 +4,7 @@ date: "2026-03-25T23:23:27"
 description: "A Reddit user speculates GTA 6 could launch at an unprecedented $100 due to inflation, urging gamers to wait for sales if it happens."
 tags: ["GTA 6", "Grand Theft Auto 6", "Game Pricing", "Video Game Industry", "Inflation", "Rockstar Games", "Gaming News", "Market Trends", "$100 Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s3qy3f/gta_6_might_be_the_first_game_to_be_100_at_launch/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could Rockstar's Next Grand Theft Auto Title Break the $100 Price Barrier?

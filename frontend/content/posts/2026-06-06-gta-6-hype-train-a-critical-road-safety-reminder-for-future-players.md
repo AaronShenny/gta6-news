@@ -4,6 +4,7 @@ date: "2026-06-06T12:55:46"
 description: "A Reddit post humorously yet pointedly reminds future Grand Theft Auto 6 players to prioritize road safety amidst anticipated excitement for the game's release."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Safety", "Road Safety", "Community Reminder", "Player Well-being", "Game Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tygkbr/the_chance_of_somebody_dying_on_their_way_back/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Hype Train: A Critical Road Safety Reminder for Future Players

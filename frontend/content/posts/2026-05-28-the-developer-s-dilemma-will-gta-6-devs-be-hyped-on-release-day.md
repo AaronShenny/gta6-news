@@ -4,6 +4,7 @@ date: "2026-05-28T10:52:51"
 description: "A community discussion ponders whether Rockstar Games developers, artists, and testers will still be excited to play GTA 6 without spoilers after years of development."
 tags: ["GTA 6", "Rockstar Games", "Game Development", "Developer Experience", "Spoilers", "Gaming Industry", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tq027t/do_you_think_most_of_the_developers_artists/"
+classification: "RUMOR"
 ---
 
 # The Developer's Dilemma: Will GTA 6 Devs Be Hyped on Release Day?

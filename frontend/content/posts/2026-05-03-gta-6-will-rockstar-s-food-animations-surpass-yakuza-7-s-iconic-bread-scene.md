@@ -4,6 +4,7 @@ date: "2026-05-03T07:14:43"
 description: "A Reddit user speculates on GTA 6's potential to feature highly detailed food animations, citing impressive liquid physics from trailers and comparing expectations to Yakuza 7's memorable bread scene."
 tags: ["GTA 6", "Rockstar Games", "Yakuza 7", "Food Animations", "Liquid Physics", "Game Details", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1t2egtp/will_gta_6_top_the_yakuza_7_bread_scene_with/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Rockstar's Food Animations Surpass Yakuza 7's Iconic Bread Scene?

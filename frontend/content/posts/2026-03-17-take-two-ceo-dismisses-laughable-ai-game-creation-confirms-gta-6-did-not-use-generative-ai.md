@@ -4,6 +4,7 @@ date: "2026-03-17T17:24:00"
 description: "Strauss Zelnick, CEO of Take-Two Interactive, calls the idea of AI generating hit games with a button press 'laughable' and clarifies that GTA 6 did not use generative AI, despite the tech being used for internal efficiencies."
 tags: ["GTA 6", "Grand Theft Auto 6", "Take-Two Interactive", "Strauss Zelnick", "AI in Gaming", "Game Development", "Rockstar Games", "Generative AI", "Gaming Industry", "PS5", "Xbox Series X|S", "Google Genie"]
 source: "https://www.gamespot.com/articles/gta-6-parent-company-boss-dismisses-laughable-ai-uses-amid-a-flood-of-countless-games/1100-6538835/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # Take-Two CEO Dismisses 'Laughable' AI Game Creation, Confirms GTA 6 Did Not Use Generative AI

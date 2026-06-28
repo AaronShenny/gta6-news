@@ -4,6 +4,7 @@ date: "2026-04-03T13:53:00"
 description: "A former Rockstar Games developer, Rob Carr, indicates that GTA 6 will probably integrate features from Red Dead Redemption 2, citing the studio's history of borrowing ideas from previous titles."
 tags: ["GTA 6", "Grand Theft Auto 6", "Red Dead Redemption 2", "RDR2", "Rockstar Games", "Rob Carr", "Game Development", "Game Features", "Industry News", "Gaming News"]
 source: "https://www.gamespot.com/articles/gta-6-will-likely-borrow-ideas-from-red-dead-redemption-2-former-rockstar-dev-says/1100-6539209/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Likely to Adopt Elements from Red Dead Redemption 2, Former Rockstar Developer Suggests

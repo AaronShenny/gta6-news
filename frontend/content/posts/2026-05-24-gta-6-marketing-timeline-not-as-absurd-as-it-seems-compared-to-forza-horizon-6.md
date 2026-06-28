@@ -4,6 +4,7 @@ date: "2026-05-24T01:50:50"
 description: "A gaming journalist analyzes the current GTA 6 info drought, arguing it's not unusual by comparing it to Forza Horizon 6's condensed 4-month marketing campaign leading up to release."
 tags: ["GTA 6", "Grand Theft Auto 6", "Forza Horizon 6", "Game Marketing", "Release Date", "Gaming Industry", "Rockstar Games", "Xbox"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlymqw/compared_to_forza_horizon_6_the_gta_6_marketing/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Marketing Timeline: Not as Absurd as It Seems, Compared to Forza Horizon 6

@@ -4,6 +4,7 @@ date: "2026-03-19T00:15:30"
 description: "With Grand Theft Auto 6's launch approximately eight months away, fan excitement for the long-awaited title is reaching new heights."
 tags: ["GTA 6", "Grand Theft Auto", "Release Date", "Hype", "Gaming News", "Rockstar Games", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rxl71d/were_officially_8_months_away_from_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6: Eight Months Out, Hype Intensifies as Release Nears

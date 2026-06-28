@@ -4,6 +4,7 @@ date: "2026-03-15T17:16:35"
 description: "An unexpected Grand Theft Auto VI themed attraction has reportedly appeared in Holešovice, Czechia, much to the amusement of fans awaiting the game's official release."
 tags: ["GTA 6", "Grand Theft Auto VI", "attraction", "Czechia", "Hole\u0161ovice", "gaming news", "fan culture", "pre-release"]
 source: "https://www.reddit.com/r/GTA6/comments/1rujr7w/grand_theft_auto_vi_attraction/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Attraction Surfaces in Czechia, Years Before Game's Launch

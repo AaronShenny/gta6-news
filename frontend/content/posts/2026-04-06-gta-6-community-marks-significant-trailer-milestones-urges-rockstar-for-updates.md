@@ -4,6 +4,7 @@ date: "2026-04-06T12:39:06"
 description: "A Reddit post highlights the reported age of GTA 6 trailers (Trailer 1 at 2 years, 4 months; Trailer 2 nearing 1 year) as fans express impatience for new game information."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming Community", "Trailer Release", "Game Development", "Anticipation", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sdxpl3/in_one_month_gta_6_trailer_2_will_be_a_year_old/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Community Marks Significant Trailer Milestones, Urges Rockstar for Updates

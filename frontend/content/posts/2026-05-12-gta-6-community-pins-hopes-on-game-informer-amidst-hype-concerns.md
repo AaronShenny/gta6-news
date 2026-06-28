@@ -4,6 +4,7 @@ date: "2026-05-12T14:55:07"
 description: "The GTA 6 community anxiously awaited news from Game Informer around 11 AM CST, with some fans expressing concern over publications leveraging hype without new details."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Informer", "Gaming News", "Hype", "Community", "Reddit", "Anticipation", "Rockstar Games", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tb41i8/11_am_cst/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Pins Hopes on Game Informer Amidst Hype Concerns

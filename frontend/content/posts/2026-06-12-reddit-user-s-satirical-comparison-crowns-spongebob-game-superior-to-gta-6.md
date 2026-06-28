@@ -4,6 +4,7 @@ date: "2026-06-12T02:24:00"
 description: "A recent Reddit post humorously compares the highly anticipated GTA 6 to SpongeBob Truth or Square for the Xbox 360, comically declaring the latter superior in graphics and story originality."
 tags: ["GTA 6", "SpongeBob Truth or Square", "Satire", "Video Game Comparison", "Humor", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u3ip7u/gta_6_vs_spongebob_truth_or_square_for_the_xbox/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User's Satirical Comparison Crowns SpongeBob Game Superior to GTA 6

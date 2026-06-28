@@ -4,6 +4,7 @@ date: "2026-06-03T18:06:16"
 description: "A popular fan theory suggests that GTA 6 could feature retired Liberty City mafia associates as background NPCs in Leonida, offering a grounded take on organized crime's evolution."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Fan Theory", "Mafia", "Organized Crime", "Liberty City", "Leonida", "Vice City", "NPCs", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tvxhf1/retired_liberty_city_mafia_associates_as/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Theory: Retired Liberty City Mobsters Could Populate Leonida's Background

@@ -4,6 +4,7 @@ date: "2026-03-08T05:53:17"
 description: "A dedicated fan outlines two detailed theories for Grand Theft Auto 6's opening mission, involving high-stakes heists, police ambushes, and Lucia's eventual arrest."
 tags: ["GTA 6", "Grand Theft Auto 6", "Prologue", "First Mission", "Lucia", "Jason", "Fan Theory", "Speculation", "Heist", "Arrest", "Rockstar Games", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1rnwt8p/how_i_think_the_prologuefirst_mission_will_be/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Prologue Theories: Fan Speculates on Lucia's Arrest and Jason's Role

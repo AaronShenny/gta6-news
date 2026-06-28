@@ -4,6 +4,7 @@ date: "2026-04-04T03:49:18"
 description: "A Reddit user sparks discussion, questioning if GTA 6's perceived 'serious' tone from trailers will match the iconic, over-the-top humor and satire that defined GTA V."
 tags: ["GTA 6", "GTA V", "humor", "satire", "game tone", "Rockstar Games", "trailer analysis", "community discussion", "gaming journalism"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbyvxs/will_gta_6_be_as_satirical_and_funny_as_gta_v/"
+classification: "UNKNOWN"
 ---
 
 # Will GTA 6 Retain the Beloved Satirical Humor of GTA V?

@@ -4,6 +4,7 @@ date: "2026-03-06T22:59:55"
 description: "A GTA community member and streamer expresses frustration with malicious modders in GTA Online, hoping GTA 6 will feature stronger anti-cheat like BattleEye to prevent PC crashes and harassment."
 tags: ["GTA 6", "Grand Theft Auto", "Modding", "Anti-Cheat", "Streamers", "PC Gaming", "Rockstar Games", "BattleEye", "Online Security", "Player Experience"]
 source: "https://www.reddit.com/r/GTA6/comments/1rmt1t7/modders/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Calls for Robust Anti-Modding Security to Protect Players and Streamers

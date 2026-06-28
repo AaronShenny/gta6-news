@@ -4,6 +4,7 @@ date: "2026-05-18T15:10:06"
 description: "A critical look at the ongoing cycle of incorrect GTA 6 theories and unfulfilled predictions from the community, highlighting the constant hype and subsequent letdowns."
 tags: ["GTA 6", "Grand Theft Auto", "Gaming Theories", "Community Speculation", "Rockstar Games", "Game Predictions", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1tgpij0/all_these_gta_6_theories_keep_being_wrong/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Theories: A Never-Ending Cycle of Disappointment

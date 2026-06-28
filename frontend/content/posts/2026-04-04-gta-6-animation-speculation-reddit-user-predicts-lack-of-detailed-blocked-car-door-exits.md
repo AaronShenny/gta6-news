@@ -4,6 +4,7 @@ date: "2026-04-04T15:37:26"
 description: "A Reddit user has made a specific prediction about Grand Theft Auto VI, suggesting the game will not feature proper exiting animations for blocked car doors, and promises a public apology if proven wrong by Rockstar Games."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Predictions", "Game Animations", "Fan Speculation", "Reddit", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1sccdj9/im_predicting_that_gta_vi_will_not_have_a_proper/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Animation Speculation: Reddit User Predicts Lack of Detailed Blocked Car Door Exits

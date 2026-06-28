@@ -4,6 +4,7 @@ date: "2026-05-03T01:39:28"
 description: "A music producer actively followed by Rockstar Games on Instagram is set to release a track titled 'Welcome to Vice City' on May 15, sparking intense speculation among fans about its potential connection to Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Vice City", "Music", "Speculation", "Game News", "Rumors", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1t27zsl/a_music_producer_and_musician_who_is_followed_by/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Hype Builds: Rockstar-Followed Producer Announces 'Welcome to Vice City' Track

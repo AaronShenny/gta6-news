@@ -4,6 +4,7 @@ date: "2026-04-29T08:33:26"
 description: "A Reddit user suggests that fans eager for GTA VI's immersive world and intricate details might find an unexpected interim experience in Kingdom Come: Deliverance 2."
 tags: ["GTA 6", "Grand Theft Auto VI", "Kingdom Come Deliverance 2", "KCD2", "Game Recommendation", "Open World", "World Exploration", "Gaming Community", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1sysul7/if_youre_excited_for_gta_vi_because_of_small/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Fans Eyeing World Details Should Consider Kingdom Come: Deliverance 2

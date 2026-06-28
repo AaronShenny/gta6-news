@@ -4,6 +4,7 @@ date: "2026-03-24T01:01:37"
 description: "A Reddit user from r/GTA6 asserts that Grand Theft Auto 6 requires a specific, unnamed feature to avoid being deemed mediocre by players."
 tags: ["GTA 6", "Grand Theft Auto", "Reddit", "Gaming Opinion", "Game Expectations", "Community Discussion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1zl86/gta_6_needs_this_one_thing_or_else_it_will_be/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Needs This One Thing Or Else It Will Be Automatically Mid

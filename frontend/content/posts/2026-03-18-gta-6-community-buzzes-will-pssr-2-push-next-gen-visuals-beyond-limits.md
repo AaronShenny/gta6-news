@@ -4,6 +4,7 @@ date: "2026-03-18T17:23:37"
 description: "Gaming enthusiasts on Reddit are speculating how the newly released PSSR 2 technology could dramatically enhance Grand Theft Auto 6's graphical fidelity, questioning if it will set an unprecedented visual benchmark."
 tags: ["GTA 6", "Grand Theft Auto 6", "PSSR 2", "Gaming Technology", "Visuals", "Graphics", "Next-Gen", "Community Speculation", "Reddit", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rxa58v/pssr_2_x_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzzes: Will PSSR 2 Push Next-Gen Visuals Beyond Limits?

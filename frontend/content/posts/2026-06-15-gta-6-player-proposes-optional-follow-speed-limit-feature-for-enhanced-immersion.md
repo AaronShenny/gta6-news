@@ -4,6 +4,7 @@ date: "2026-06-15T23:23:11"
 description: "A Reddit user suggests an optional 'Follow Speed Limit' feature for GTA 6, allowing players to cruise, enjoy the detailed world, and enhance immersion, similar to the first Mafia game."
 tags: ["GTA 6", "Grand Theft Auto VI", "Gameplay Suggestion", "Fan Feature", "Speed Limit", "Immersion", "Open World", "Driving Mechanics", "Quality of Life", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6wv9q/would_anyone_else_love_a_follow_speed_limit/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Player Proposes Optional 'Follow Speed Limit' Feature for Enhanced Immersion

@@ -4,6 +4,7 @@ date: "2026-06-25T12:15:11"
 description: "A Reddit post titled 'GTA VI prices for each country' was submitted to r/GTA6, but the 'article content' provided contains only the submission details and a link to a decade-old discussion thread, lacking any actual pricing data for the upcoming game."
 tags: ["GTA 6", "Pricing", "Reddit", "Speculation", "Article Analysis", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1uf8bj5/gta_vi_prices_for_each_country/"
+classification: "RUMOR"
 ---
 
 # Analysis: Reddit Post on GTA VI Prices Offers No Concrete Information

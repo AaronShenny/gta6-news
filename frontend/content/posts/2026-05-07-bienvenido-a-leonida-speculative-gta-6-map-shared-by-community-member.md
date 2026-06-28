@@ -4,6 +4,7 @@ date: "2026-05-07T16:46:10"
 description: "A Reddit user has shared a 'heavily speculative' state map of Leonida, the rumored setting for GTA 6, based on a community mapping project."
 tags: ["GTA 6", "Leonida", "Map", "Speculation", "Community Project", "Leak", "Grand Theft Auto VI"]
 source: "https://www.reddit.com/r/GTA6/comments/1t6g3y6/bienvenido_a_leonida/"
+classification: "RUMOR"
 ---
 
 # Bienvenido a Leonida: Speculative GTA 6 Map Shared by Community Member

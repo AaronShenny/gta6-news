@@ -4,6 +4,7 @@ date: "2026-06-13T11:14:51"
 description: "Dedicated GTA fans are discussing which characters or references from GTA 5 might appear in the upcoming GTA 6, ranging from media mentions to direct character cameos."
 tags: ["GTA 6", "GTA 5", "Character speculation", "Easter eggs", "Cameos", "Rockstar Games", "Fan theories", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4o8xs/who_do_you_think/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculation Ignites Over Potential GTA 5 Character Returns

@@ -4,6 +4,7 @@ date: "2026-04-08T04:33:52"
 description: "A bare-bones Reddit post on r/GTA6 mentions 'May 6th, 2025' in its title in relation to Grand Theft Auto VI, but provides no actual content or context, sparking fan speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Reddit", "Speculation", "Meme", "Release Date Rumors", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfiyud/gta_6_when_you_ask_them_what_happen_on_may_6th/"
+classification: "RUMOR"
 ---
 
 # Cryptic Reddit Post Teases GTA 6 and Unexplained May 6th, 2025 Date

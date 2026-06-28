@@ -4,6 +4,7 @@ date: "2026-04-29T17:24:39"
 description: "A Reddit user argues that Take-Two CEO Strauss Zelnick's high-profile comments about GTA 6 are not a prelude, but the actual start of the game's marketing campaign, generating widespread discussion."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "Gaming Marketing", "Video Game Hype", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1sz5exk/the_marketing_rollout_has_begun/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Marketing: Has Take-Two's CEO Already Kicked Off the Hype Train?

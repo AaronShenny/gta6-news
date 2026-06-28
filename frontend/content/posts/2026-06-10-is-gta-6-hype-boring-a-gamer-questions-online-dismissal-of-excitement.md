@@ -4,6 +4,7 @@ date: "2026-06-10T02:00:47"
 description: "A Reddit user expresses confusion and frustration over a perceived trend of dismissing excitement for Grand Theft Auto 6, asking if it's 'trendy' to call the highly anticipated title boring."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gaming Community", "Hype", "Online Trends", "Video Game Excitement", "Reddit Discussion", "Gaming Culture", "Player Opinion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1ottx/is_it_trendy_to_pretend_that_gta_6_is_boring_and/"
+classification: "UNKNOWN"
 ---
 
 # Is GTA 6 Hype 'Boring'? A Gamer Questions Online Dismissal of Excitement

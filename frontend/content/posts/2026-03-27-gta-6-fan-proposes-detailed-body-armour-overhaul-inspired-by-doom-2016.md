@@ -4,6 +4,7 @@ date: "2026-03-27T21:41:51"
 description: "A dedicated GTA 6 fan suggests a complete rework of body armour mechanics, drawing inspiration from Doom 2016 to offer more distinct and durable protection types than GTA 5."
 tags: ["GTA 6", "Grand Theft Auto VI", "Body Armour", "Game Mechanics", "Fan Concept", "Doom 2016", "Reddit", "Gameplay Suggestion"]
 source: "https://www.reddit.com/r/GTA6/comments/1s5hkkt/how_body_armour_should_work_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Proposes Detailed Body Armour Overhaul Inspired by Doom 2016

@@ -4,6 +4,7 @@ date: "2026-03-09T21:40:51"
 description: "A Reddit post on r/GTA6 has sparked a lively community discussion, inviting fans to share their predictions and hopes for the potential locations featured in the upcoming Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Locations", "Community Discussion", "Reddit", "Speculation", "Fan Theories", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1rpdpdd/which_location_do_you_expect_to_see_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Ignites Speculation Over Expected In-Game Locations

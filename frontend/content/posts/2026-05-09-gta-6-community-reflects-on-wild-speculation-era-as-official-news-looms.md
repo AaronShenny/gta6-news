@@ -4,6 +4,7 @@ date: "2026-05-09T08:56:52"
 description: "A look back at the GTA 6 community's most elaborate theories and 'deranged' speculation, from moon phases to cat fur, as the game's official marketing push begins."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Community", "Fan Theories", "Speculation", "Video Game Launch", "Trailer 3", "November 2026", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t7zkyh/time_to_retire_the_moon_27_auto_sales_and_that/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Reflects on Wild Speculation Era as Official News Looms

@@ -4,6 +4,7 @@ date: "2026-05-22T16:54:57"
 description: "A gaming industry insider, NateTheHate, has reportedly leaked information on GTA Forums about a potential GTA 6 Trailer 3 dropping on Tuesday. Get the latest details on this unconfirmed rumor."
 tags: ["GTA 6", "Grand Theft Auto VI", "GTA 6 Trailer 3", "Leak", "Rumor", "NateTheHate", "GTA Forums", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tkot26/reliable_source_in_the_gaming_industry/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3 Rumor: 'Reliable Source' Points to Tuesday Release

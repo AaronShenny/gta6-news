@@ -4,6 +4,7 @@ date: "2026-06-10T08:30:07"
 description: "Fans are buzzing with speculation on Reddit about the potential return of iconic in-game radio personality Fernando Martinez in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fernando Martinez", "Radio Host", "Speculation", "Community Discussion", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u1w90b/will_the_radio_god_fernando_martinez_return_in/"
+classification: "RUMOR"
 ---
 
 # Will the Radio God Fernando Martinez return in GTA 6?

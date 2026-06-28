@@ -4,6 +4,7 @@ date: "2026-04-04T11:46:36"
 description: "New discussions suggest GTA VI's police AI could set traps, spike strips, and ambushes, dramatically changing how players experience wanted levels and high-speed pursuits."
 tags: ["GTA 6", "Grand Theft Auto VI", "Police AI", "Gameplay Features", "Leaks", "Wanted Levels", "Rockstar Games", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1sc75un/gta_vi_cops_trap_features_breakdown/"
+classification: "RUMOR"
 ---
 
 # GTA VI Police AI: Traps, Ambushes, and Next-Gen Chases?

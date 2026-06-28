@@ -4,6 +4,7 @@ date: "2026-02-13T23:33:55"
 description: "A recent Reddit post highlights the 200-weekday countdown to Grand Theft Auto 6, capturing the anticipation among dedicated fans awaiting its release."
 tags: ["GTA 6", "Grand Theft Auto 6", "Countdown", "Release Date", "Fan Anticipation", "Gaming News", "Reddit", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1r44rpr/we_are_officially_200_days_away_from_gta_6/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Countdown: Fans Mark 200 Weekdays Until Release

@@ -4,6 +4,7 @@ date: "2026-03-01T20:38:56"
 description: "A Reddit user sparks discussion on the future of GTA 6 Online, questioning whether it can truly innovate beyond GTA V's mechanics or if new graphics and a map will be the sole advancements."
 tags: ["GTA 6", "GTA 6 Online", "Rockstar Games", "Gaming Innovation", "Community Speculation", "Online Multiplayer", "Grand Theft Auto"]
 source: "https://www.reddit.com/r/GTA6/comments/1ri8dwg/gta_6_online_future/"
+classification: "RUMOR"
 ---
 
 # Community Debates GTA 6 Online's Potential for Innovation

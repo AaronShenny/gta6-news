@@ -4,6 +4,7 @@ date: "2026-03-15T04:01:22"
 description: "A Reddit discussion on r/GTA6 explores fan opinions on the financial consequences of dying in Grand Theft Auto VI, ranging from no loss to losing all cash."
 tags: ["GTA 6", "Grand Theft Auto VI", "death penalty", "money loss", "game mechanics", "community debate", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1ru469n/how_much_money_should_you_lose_after_you_die_in/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Death Penalty: Community Debates Money Loss Mechanics

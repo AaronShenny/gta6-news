@@ -4,6 +4,7 @@ date: "2026-03-03T03:47:24"
 description: "A Reddit user sparks discussion on whether GTA 6 Online will offer a more grounded experience, moving away from the flying rocket bikes and sci-fi vehicles seen in GTA 5 Online."
 tags: ["GTA 6", "GTA Online", "Rockstar Games", "Game Speculation", "Community Feedback", "Online Gameplay", "Flying Vehicles"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjewgz/any_chance_gta_6_online_will_be_more_grounded_and/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Will Rockstar Dial Back the Absurdity?

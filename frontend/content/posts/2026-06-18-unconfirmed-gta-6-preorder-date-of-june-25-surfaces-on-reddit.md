@@ -4,6 +4,7 @@ date: "2026-06-18T13:08:07"
 description: "A Reddit post suggests GTA 6 preorders could begin June 25. This unverified claim lacks official confirmation from Rockstar Games and should be treated as a rumor."
 tags: ["GTA 6", "Grand Theft Auto VI", "preorders", "rumor", "leak", "Reddit", "Rockstar Games", "speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1u95t0g/gta_6_preorders_june_25/"
+classification: "RUMOR"
 ---
 
 # Unconfirmed GTA 6 Preorder Date of June 25 Surfaces on Reddit

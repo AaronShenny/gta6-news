@@ -4,6 +4,7 @@ date: "2026-06-06T22:56:29"
 description: "A Reddit post sparks debate on how GTA 6 Online will innovate, questioning whether its future updates will remain grounded or venture into far-fetched territory, given GTA V's exhaustive content history."
 tags: ["GTA 6 Online", "Grand Theft Auto VI", "GTA V Online Updates", "Rockstar Games", "Online Gaming", "Game Development", "Future Content", "Gaming Community"]
 source: "https://www.reddit.com/r/GTA6/comments/1tyveew/how_are_they_gonna_do_online/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Can it Surpass GTA V's Decade of Content?

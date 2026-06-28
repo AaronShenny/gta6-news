@@ -4,6 +4,7 @@ date: "2026-06-09T04:29:42"
 description: "A Reddit user shares a nostalgic screenshot of the Rockstar website from GTA V's launch in September 2013, expressing excitement and speculating on GTA VI's release within 24 weeks."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Community", "Fan Anticipation", "GTA V", "Reddit", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1u0uv4q/september_2013/"
+classification: "UNKNOWN"
 ---
 
 # Reddit User Reflects on GTA V's Launch, Anticipates GTA VI Within 24 Weeks

@@ -4,6 +4,7 @@ date: "2026-03-08T12:00:56"
 description: "A Reddit post titled 'GTA 6 getting delayed reaction...' hints at community discussions around potential delays for the upcoming Grand Theft Auto title, though no further details are provided within the source."
 tags: ["GTA 6", "Grand Theft Auto", "Delay Rumors", "Community Reaction", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1ro351f/gta_6_getting_delayed_reaction/"
+classification: "RUMOR"
 ---
 
 # GTA 6 getting delayed reaction...

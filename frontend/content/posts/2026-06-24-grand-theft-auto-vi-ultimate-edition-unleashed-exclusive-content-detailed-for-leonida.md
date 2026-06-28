@@ -4,6 +4,7 @@ date: "2026-06-24T10:16:02"
 description: "Rockstar Games has unveiled the GTAVI Ultimate Edition, packed with premium vehicles, weapons, apparel, and unique missions for Jason and Lucia, launching November 19, 2026. Discover all the exclusive content and pre-order bonuses."
 tags: ["GTA 6", "Grand Theft Auto VI", "Ultimate Edition", "Rockstar Games", "PS5", "Xbox Series X|S", "Release Date", "Pre-order Bonus", "Leonida", "Vice City", "Jason and Lucia", "Gaming News", "Premium Edition", "GTA+"]
 source: "https://www.reddit.com/r/GTA6/comments/1ue9iat/gtavi_ultimate_edition_announced/"
+classification: "CONFIRMED"
 ---
 
 # Grand Theft Auto VI: Ultimate Edition Unleashed – Exclusive Content Detailed for Leonida

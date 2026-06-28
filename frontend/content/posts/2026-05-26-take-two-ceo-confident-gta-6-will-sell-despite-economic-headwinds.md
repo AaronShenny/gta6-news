@@ -4,6 +4,7 @@ date: "2026-05-26T16:11:12"
 description: "Take-Two CEO Strauss Zelnick believes players will flock to GTA 6 regardless of rising living costs, emphasizing the game's compelling value and the historical decline in real game prices."
 tags: ["GTA 6", "Grand Theft Auto 6", "Take-Two", "Rockstar Games", "Strauss Zelnick", "Game Pricing", "Economic Impact", "Inflation", "Microtransactions", "PS5", "Xbox Series X|S", "Release Date"]
 source: "https://www.gamespot.com/articles/take-two-boss-knows-youre-paying-more-for-gas-groceries-says-youll-buy-gta-6-anyway/"
+classification: "UNKNOWN"
 ---
 
 # Take-Two CEO Confident GTA 6 Will Sell Despite Economic Headwinds

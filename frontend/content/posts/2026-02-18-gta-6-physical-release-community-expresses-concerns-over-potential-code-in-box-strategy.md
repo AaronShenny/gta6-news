@@ -4,6 +4,7 @@ date: "2026-02-18T17:40:14"
 description: "Gamers are voicing apprehension regarding the physical release of Grand Theft Auto 6, fearing a 'code-in-the-box' approach similar to Fallout 76, which would forgo a traditional game disc."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Physical Release", "Digital Download", "Code-in-Box", "Fallout 76", "Gaming News", "Game Industry", "Community Concern"]
 source: "https://www.reddit.com/r/GTA6/comments/1r89on7/were_so_cooked_for_the_gta_6_physical_release/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Physical Release: Community Expresses Concerns Over Potential 'Code-in-Box' Strategy

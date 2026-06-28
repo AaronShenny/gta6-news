@@ -4,6 +4,7 @@ date: "2026-04-06T19:51:21"
 description: "A deep dive into the GTA VI trailer pinpoints the mysterious bird seen at 00:01, revealing it to be the iconic Florida-native Boat-tailed Grackle."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Wildlife", "Fauna", "Birds", "Boat-tailed Grackle", "Trailer Analysis", "Gaming News", "Florida Wildlife"]
 source: "https://www.reddit.com/r/GTA6/comments/1se9iea/your_daily_bird_in_gta_vi_who_am_i_fauna_in_gta/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI's Feathered Mystery Solved: Identifying Vice City's Trailer Bird

@@ -4,6 +4,7 @@ date: "2026-03-12T20:40:00"
 description: "This week's Nintendo Switch and Switch 2 deals highlight top games and accessories, with Cyberpunk 2077 suggested as an open-world option amidst uncertainty surrounding GTA VI's Switch 2 release."
 tags: ["Nintendo Switch", "Switch 2", "GTA VI", "Cyberpunk 2077", "Game Deals", "Open World Games", "Gaming News", "March 2026 Deals", "Nintendo Accessories", "Console Sales", "Mario Day Deals"]
 source: "https://www.gamespot.com/articles/nintendo-physical-digital-game-deals/1100-6538446/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # Nintendo Switch Deals Feature Open-World Alternatives as GTA VI's Switch 2 Fate Remains Unclear

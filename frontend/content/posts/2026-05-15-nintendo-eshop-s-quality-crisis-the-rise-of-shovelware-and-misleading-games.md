@@ -4,6 +4,7 @@ date: "2026-05-15T14:47:00"
 description: "The Nintendo eShop is facing a quality crisis, with an influx of low-effort 'shovelware' games like 'Dead Gears: Space of War' undermining the platform, despite Nintendo's insufficient efforts to combat the issue."
 tags: ["Nintendo eShop", "Shovelware", "Dead Gears: Space of War", "Game Quality", "Indie Games", "Digital Storefronts", "Nintendo Switch", "Gaming Industry", "AI Art", "Asset Flips"]
 source: "https://www.gamespot.com/articles/nintendo-eshop-continues-its-war-against-quality-with-this-dead-space-and-gears-of-war-knockoff/1100-6539984/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # Nintendo eShop's Quality Crisis: The Rise of Shovelware and Misleading Games

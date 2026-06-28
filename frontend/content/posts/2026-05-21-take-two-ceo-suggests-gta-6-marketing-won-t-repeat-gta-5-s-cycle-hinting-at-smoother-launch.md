@@ -4,6 +4,7 @@ date: "2026-05-21T16:15:42"
 description: "Take-Two Interactive's CEO indicates a different marketing approach for Grand Theft Auto VI compared to its predecessor, sparking speculation about a more streamlined development and fewer delays."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Gaming News", "Marketing Strategy", "Game Development", "Release Date", "Delays"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjpf1e/take_two_ceo_say_gta_6_marketing_wont_resemble/"
+classification: "RUMOR"
 ---
 
 # Take-Two CEO Suggests GTA 6 Marketing Won't Repeat GTA 5's Cycle, Hinting at Smoother Launch

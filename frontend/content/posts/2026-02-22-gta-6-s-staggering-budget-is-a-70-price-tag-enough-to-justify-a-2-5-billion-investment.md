@@ -4,6 +4,7 @@ date: "2026-02-22T16:21:21"
 description: "A viral Reddit post highlights the immense estimated budget of GTA 6 ($2.5 billion) compared to GTA 5, questioning if a mere $10 price increase can justify the staggering 843% budget hike."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Gaming Budget", "Game Pricing", "GTA 5", "Game Development Costs", "Gaming Industry", "Financial Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1rbq095/just_to_put_things_in_perspective_about_budget_of/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Staggering Budget: Is a $70 Price Tag Enough to Justify a $2.5 Billion Investment?

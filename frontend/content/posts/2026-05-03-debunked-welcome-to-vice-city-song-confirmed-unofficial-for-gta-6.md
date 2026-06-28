@@ -4,6 +4,7 @@ date: "2026-05-03T08:33:47"
 description: "A popular fan-made track, 'Welcome to Vice City,' often linked to Grand Theft Auto 6, has been clarified as unofficial, quashing long-standing community speculation."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Unofficial Song", "Fan Speculation", "Rockstar Games", "Gaming Rumors", "Community News"]
 source: "https://www.reddit.com/r/GTA6/comments/1t2fugm/welcome_to_vice_city_song_is_not_official/"
+classification: "RUMOR"
 ---
 
 # Debunked: 'Welcome to Vice City' Song Confirmed Unofficial for GTA 6

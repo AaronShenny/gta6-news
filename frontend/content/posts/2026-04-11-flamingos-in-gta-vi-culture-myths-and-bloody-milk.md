@@ -4,6 +4,7 @@ date: "2026-04-11T15:54:40"
 description: "Explore the cultural significance and unique facts about flamingos in GTA VI's Leonida, from their potential status as Florida's state bird to bizarre urban myths and their blood-red 'crop milk'."
 tags: ["GTA VI", "Leonida", "Flamingos", "Fauna", "Florida", "State Bird", "Urban Myth", "Wildlife", "Gaming News", "Analysis"]
 source: "https://www.reddit.com/r/GTA6/comments/1simr2y/your_daily_bird_in_gta_vi_flamingos_gta_vi_fauna/"
+classification: "RUMOR"
 ---
 
 # Flamingos in GTA VI: Culture, Myths, and Bloody Milk

@@ -4,6 +4,7 @@ date: "2026-05-11T07:42:23"
 description: "A Reddit discussion explores the potential for deep social media integration in GTA 6 Online, from basic friend feeds to interactive posting and live features, drawing parallels with real-world platforms."
 tags: ["GTA 6", "GTA Online", "Social Media", "In-Game Features", "Phone Functionality", "FiveM", "Rockstar Games", "Gaming Speculation", "Online Gaming"]
 source: "https://www.reddit.com/r/GTA6/comments/1t9wc5t/gta_6_online_social_media_how_deep_will_it_go/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Online: Speculating on the Depth of In-Game Social Media

@@ -4,6 +4,7 @@ date: "2026-05-27T14:20:09"
 description: "A Reddit user shared their late realization about the potential for custom 'GTA VI' license plates in Miami, sparking speculation on who might have already secured them."
 tags: ["GTA 6", "Grand Theft Auto VI", "Vice City", "Miami", "Fan Speculation", "Gaming Community", "Reddit", "License Plates"]
 source: "https://www.reddit.com/r/GTA6/comments/1tp70dm/i_thought_of_this_idea_way_too_late_i_hope/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Expresses Regret Over Missed Opportunity for Custom Miami License Plates

@@ -4,6 +4,7 @@ date: "2026-05-15T10:26:08"
 description: "Fans are closely monitoring Rockstar Games' Bilibili account for a potential Grand Theft Auto VI announcement, as no post has appeared following yesterday's GTA Online update."
 tags: ["GTA 6", "Rockstar Games", "Bilibili", "Gaming News", "Grand Theft Auto VI", "Update Speculation", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1tds785/still_no_bilibili_post_from_rockstar_games_today/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Update Watch: Rockstar's Bilibili Silence Fuels Speculation

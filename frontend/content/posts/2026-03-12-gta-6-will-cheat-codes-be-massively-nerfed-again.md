@@ -4,6 +4,7 @@ date: "2026-03-12T02:41:12"
 description: "A Reddit user sparks discussion on the future of cheat codes in GTA 6, reflecting on their nostalgic joy with cheats in Vice City and San Andreas versus the 'nerfed' experience in GTA V."
 tags: ["GTA 6", "Cheat Codes", "Grand Theft Auto", "Gaming Nostalgia", "Game Mechanics", "GTA V", "Vice City", "San Andreas", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rreuth/do_you_guys_think_cheat_codes_will_get_massively/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Will Cheat Codes Be 'Massively Nerfed' Again?

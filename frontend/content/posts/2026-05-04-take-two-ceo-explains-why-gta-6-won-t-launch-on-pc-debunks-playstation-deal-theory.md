@@ -4,6 +4,7 @@ date: "2026-05-04T20:57:00"
 description: "Strauss Zelnick confirms GTA 6 will launch on PS5 and Xbox Series X|S first, explaining Rockstar's console-first strategy and denying any PlayStation exclusivity deal."
 tags: ["GTA 6", "Grand Theft Auto VI", "PC Launch", "Console Exclusive", "Rockstar Games", "Take-Two Interactive", "Strauss Zelnick", "PS5", "Xbox Series X|S", "Gaming News", "Release Date"]
 source: "https://www.gamespot.com/articles/why-gta-6-is-not-coming-to-pc-at-launch-and-its-not-due-to-a-playstation-deal/1100-6539775/?ftag=CAD-01-10abi2f"
+classification: "RUMOR"
 ---
 
 # Take-Two CEO Explains Why GTA 6 Won't Launch on PC, Debunks PlayStation Deal Theory

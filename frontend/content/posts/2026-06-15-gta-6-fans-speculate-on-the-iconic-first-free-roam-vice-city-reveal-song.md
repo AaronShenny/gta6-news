@@ -4,6 +4,7 @@ date: "2026-06-15T13:43:20"
 description: "Gaming enthusiasts are buzzing about the crucial musical choice for GTA 6's highly anticipated first free roam moment, where Vice City will be revealed. Will Rockstar opt for a high-energy track or a cinematic score?"
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Rockstar Games", "Soundtrack", "Music", "Open World", "Gaming Community", "Game Reveal"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6h0if/what_song_do_you_think_gta_6_will_use_for_that/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Speculate on the Iconic 'First Free Roam' Vice City Reveal Song

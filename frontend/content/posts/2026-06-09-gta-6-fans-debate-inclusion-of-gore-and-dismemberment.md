@@ -4,6 +4,7 @@ date: "2026-06-09T16:21:58"
 description: "A recent online discussion among GTA fans questions whether GTA 6 will feature detailed gore and dismemberment, comparing it to RDR2 and older GTA titles, and speculating on Rockstar's content choices."
 tags: ["GTA 6", "Rockstar Games", "Gore", "Dismemberment", "Fan Debate", "Content Rating", "Red Dead Redemption 2", "Game Features"]
 source: "https://www.reddit.com/r/GTA6/comments/1u19uih/would_you_prefer_to_see_gta_6_include_gore_or/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Debate Inclusion of Gore and Dismemberment

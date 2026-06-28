@@ -4,6 +4,7 @@ date: "2026-02-14T09:10:55"
 description: "Community buzz suggests that the music of artists Neon Indian and Panama will be featured in the highly anticipated Grand Theft Auto VI, hinting at the game's evolving soundtrack."
 tags: ["GTA 6", "Grand Theft Auto VI", "Soundtrack", "Music", "Neon Indian", "Panama", "Rockstar Games", "Gaming News", "Rumors", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1r4g3y3/neon_indian_and_panamas_music_is_returning_in_gta/"
+classification: "RUMOR"
 ---
 
 # Neon Indian and Panama's Music Reportedly Returning to Grand Theft Auto VI

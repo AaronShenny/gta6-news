@@ -4,6 +4,7 @@ date: "2026-05-30T08:36:48"
 description: "A Reddit theory suggests GTA Online's massive success altered Rockstar's release schedule, potentially delaying GTA 6 and future titles like GTA 7."
 tags: ["GTA 6", "GTA Online", "GTA 7", "Rockstar Games", "Release Date", "Speculation", "Fan Theory", "Gaming Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1truah0/we_might_have_talked_about_gta_7/"
+classification: "RUMOR"
 ---
 
 # GTA Online's Success May Have Delayed GTA 6, Prompting Speculation on GTA 7

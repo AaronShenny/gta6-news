@@ -4,6 +4,7 @@ date: "2026-03-09T23:59:40"
 description: "A gamer invests in a PS5 Pro, primarily hoping for a 60fps performance mode in GTA 6, citing the importance of frame rate over resolution for the highly anticipated title."
 tags: ["GTA 6", "PS5 Pro", "Grand Theft Auto 6", "60fps", "Performance Mode", "Rockstar Games", "Gaming Hardware", "PS5", "Frame Rate", "PSSR", "RTGI", "PlayStation"]
 source: "https://www.reddit.com/r/GTA6/comments/1rph9ou/upgraded_to_ps5_pro_mainly_for_gta_6_hoping_for_a/"
+classification: "RUMOR"
 ---
 
 # Dedicated Gamer Upgrades to PS5 Pro, Eyes 60fps for Grand Theft Auto 6

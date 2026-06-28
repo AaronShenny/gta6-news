@@ -4,6 +4,7 @@ date: "2026-03-05T16:25:00"
 description: "Craig Clark, producer of Hell Let Loose, suggests Rockstar Games is 'quaking' with nervousness over GTA 6's unprecedented hype and player expectations, highlighting industry-wide concerns."
 tags: ["GTA 6", "Rockstar Games", "Hell Let Loose", "Craig Clark", "Game Development", "Video Game Hype", "Industry Trends", "Game Release Dates", "Gaming News"]
 source: "https://www.gamespot.com/articles/gta-6-studio-must-be-quaking-with-nervousness-about-living-up-to-hype-hell-let-loose-dev-says/1100-6538592/?ftag=CAD-01-10abi2f"
+classification: "UNKNOWN"
 ---
 
 # Rockstar Games Under Immense Pressure to Deliver on GTA 6 Hype, Says Hell Let Loose Producer

@@ -4,6 +4,7 @@ date: "2026-02-16T07:37:18"
 description: "A Reddit post highlights the significant time gap between GTA V and GTA VI, comparing it to the leap between GTA San Andreas and Red Dead Redemption 2, raising questions about the pace of gaming advancement."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Development", "Gaming Industry", "Technological Advancement", "GTA V", "Red Dead Redemption 2", "GTA San Andreas", "Gaming Debate"]
 source: "https://www.reddit.com/r/GTA6/comments/1r63d4a/the_time_gap_between_gta_sa_and_rdr2_is_almost/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Development Gap Sparks Debate: Is Gaming Innovation Slowing Down?

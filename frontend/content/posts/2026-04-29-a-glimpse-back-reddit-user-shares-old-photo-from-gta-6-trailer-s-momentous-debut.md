@@ -4,6 +4,7 @@ date: "2026-04-29T08:46:25"
 description: "A Reddit user on r/GTA6 shared an 'old photo' reportedly captured minutes after the Grand Theft Auto 6 trailer's release, sparking nostalgic community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer Release", "Reddit", "Gaming Community", "Nostalgia", "Hype", "Fan Content"]
 source: "https://www.reddit.com/r/GTA6/comments/1syt2iv/old_photo_of_the_gta_6_trailer_minutes_after_it/"
+classification: "RUMOR"
 ---
 
 # A Glimpse Back: Reddit User Shares 'Old Photo' From GTA 6 Trailer's Momentous Debut

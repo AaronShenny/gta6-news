@@ -4,6 +4,7 @@ date: "2026-04-04T19:21:13"
 description: "Speculation is mounting that GTA VI's Leonida setting, mirroring real-world Miami's 'Little Moscow,' will include Russian factions and NPCs, drawing parallels to GTA IV's Eastern European presence."
 tags: ["GTA VI", "Grand Theft Auto 6", "Rockstar Games", "Vice City", "Leonida", "Russian Factions", "Little Moscow", "NPCs", "Eastern European", "Miami", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sci3x9/do_you_think_well_see_a_russian_faction_or/"
+classification: "RUMOR"
 ---
 
 # GTA VI: Will Vice City Feature a 'Little Moscow' and Russian Factions?

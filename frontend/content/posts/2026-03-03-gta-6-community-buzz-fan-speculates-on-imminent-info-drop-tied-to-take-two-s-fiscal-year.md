@@ -4,6 +4,7 @@ date: "2026-03-03T15:25:48"
 description: "A dedicated Grand Theft Auto fan theorizes that Rockstar Games might release new GTA 6 details, possibly Trailer 3 or pre-order info, to boost Take-Two's stock before their fiscal year concludes."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Take-Two Interactive", "Speculation", "Fan Theory", "Gaming News", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1rjs70s/guys_am_i_on_to_something_or_on_something/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Buzz: Fan Speculates on Imminent Info Drop Tied to Take-Two's Fiscal Year

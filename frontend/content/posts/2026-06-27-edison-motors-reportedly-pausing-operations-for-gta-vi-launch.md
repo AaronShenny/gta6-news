@@ -4,6 +4,7 @@ date: "2026-06-27T16:17:20"
 description: "A Reddit post indicates Edison Motors plans to pause operations for the Grand Theft Auto VI release, sparking discussion on employee-friendly policies."
 tags: ["GTA 6", "Grand Theft Auto VI", "Edison Motors", "Gaming Culture", "Employee Benefits", "Reddit News", "Gaming Release"]
 source: "https://www.reddit.com/r/GTA6/comments/1uh6uc4/edison_motors_putting_operations_on_pause_for_the/"
+classification: "UNKNOWN"
 ---
 
 # Edison Motors Reportedly Pausing Operations for GTA VI Launch

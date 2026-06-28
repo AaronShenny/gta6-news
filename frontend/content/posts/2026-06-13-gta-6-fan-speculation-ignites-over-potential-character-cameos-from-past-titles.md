@@ -4,6 +4,7 @@ date: "2026-06-13T15:04:53"
 description: "A Reddit post sparks discussion among the GTA community regarding the possibility of familiar faces from GTA V or previous Grand Theft Auto games appearing in GTA 6's story or online."
 tags: ["GTA 6", "Grand Theft Auto 6", "Character Cameos", "GTA 5", "Fan Speculation", "Gaming News", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1u4t9yy/do_yall_think_any_gta_5_or_any_past_gta_character/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fan Speculation Ignites Over Potential Character Cameos from Past Titles

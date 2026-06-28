@@ -4,6 +4,7 @@ date: "2026-05-11T16:45:00"
 description: "The YANIS community map for GTA 6 receives its V12 update, bringing extensive geographical fixes, new buildings, roads, and speculative additions to the fan-made rendition of Leonida."
 tags: ["GTA 6", "YANIS Map", "Community Map", "Fan-Made Map", "Vice City", "Leonida", "Map Update", "Changelog", "Leaks", "Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1ta8vjg/latest_version_of_yanis_community_map_v12/"
+classification: "RUMOR"
 ---
 
 # YANIS Community Map V12 Rolls Out with Massive GTA 6 World Overhaul

@@ -4,6 +4,7 @@ date: "2026-04-09T07:12:58"
 description: "A Reddit user's question about whether GTA V is a necessary prerequisite for GTA 6 highlights a common concern for new players entering long-running game series."
 tags: ["GTA 6", "GTA V", "New Players", "Grand Theft Auto Series", "Gaming Accessibility", "Rockstar Games", "Player Questions"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgijfi/do_i_need_to_play_gta_v_before_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Do New Players Need to Play GTA V First?

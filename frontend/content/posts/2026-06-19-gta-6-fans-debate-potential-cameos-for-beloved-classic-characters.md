@@ -4,6 +4,7 @@ date: "2026-06-19T08:18:13"
 description: "The GTA 6 community on Reddit is actively discussing which iconic characters from previous Grand Theft Auto titles they hope to see make a small appearance in the upcoming installment."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "returning characters", "cameos", "fan speculation", "community discussion", "Reddit", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1u9w57a/which_old_character_would_you_like_to_see_make_a/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Debate Potential Cameos for Beloved Classic Characters

@@ -4,6 +4,7 @@ date: "2026-04-01T06:40:51"
 description: "The GTA 6 community on Reddit is buzzing with speculation about a possible third trailer dropping in April, though no official confirmation from Rockstar Games has been made."
 tags: ["GTA6", "GrandTheftAutoVI", "RockstarGames", "Trailer3", "GameNews", "Speculation", "GamingCommunity", "AprilRelease"]
 source: "https://www.reddit.com/r/GTA6/comments/1s9ctmv/april_just_started_any_chance_of_gta_6_trailer_3/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3: Community Speculates on Potential April Release

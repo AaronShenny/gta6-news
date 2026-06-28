@@ -4,6 +4,7 @@ date: "2026-05-04T15:08:14"
 description: "Recent positive movement in Take-Two Interactive's stock price has sparked speculation among investors and online communities, suggesting potential insider knowledge of upcoming Grand Theft Auto 6 news, possibly in May."
 tags: ["GTA 6", "Grand Theft Auto 6", "Take-Two Interactive", "TTWO Stock", "Rockstar Games", "Gaming Rumors", "Investor Speculation", "Video Game Industry"]
 source: "https://www.reddit.com/r/GTA6/comments/1t3kgbe/ttwo_stock_growth/"
+classification: "RUMOR"
 ---
 
 # Take-Two Stock Growth Fuels GTA 6 News Speculation Among Investors

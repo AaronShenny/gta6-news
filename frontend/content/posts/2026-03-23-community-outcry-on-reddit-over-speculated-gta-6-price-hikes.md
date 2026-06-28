@@ -4,6 +4,7 @@ date: "2026-03-23T21:55:27"
 description: "A Reddit user voices strong opposition to a potential $80 price for GTA 6, arguing it's excessive and driven by corporate greed, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto VI", "Game Pricing", "Video Game Industry", "Consumer Sentiment", "Reddit Discussion", "Rockstar Games", "Gaming News", "Price Hikes"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1uxtc/will_gta_vi_be_80_dollars/"
+classification: "UNKNOWN"
 ---
 
 # Community Outcry on Reddit Over Speculated GTA 6 Price Hikes

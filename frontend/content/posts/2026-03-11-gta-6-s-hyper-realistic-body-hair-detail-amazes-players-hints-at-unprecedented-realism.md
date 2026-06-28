@@ -4,6 +4,7 @@ date: "2026-03-11T19:49:44"
 description: "A Reddit user uncovers astonishing character detail in GTA 6, highlighting visible individual strands of body hair, signaling Rockstar's commitment to next-level realism."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Character Detail", "Realism", "Graphics", "Body Hair", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rr4af3/body_hair/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Hyper-Realistic Body Hair Detail Amazes Players, Hints at Unprecedented Realism

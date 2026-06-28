@@ -4,6 +4,7 @@ date: "2026-05-28T03:28:28"
 description: "Gaming enthusiasts are buzzing with anticipation and speculation regarding how Rockstar Games will unveil the official Grand Theft Auto 6 cover art, drawing comparisons to the elaborate mural reveal for GTA V."
 tags: ["GTA 6", "Rockstar Games", "Cover Art", "Reveal", "Grand Theft Auto", "Gaming News", "Speculation", "Marketing", "Mural", "Video Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1tprr5f/how_the_official_cover_art_for_gta_6_will_be/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Cover Art Reveal: Fans Speculate on Rockstar's Next Grand Spectacle

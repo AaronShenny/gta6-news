@@ -4,6 +4,7 @@ date: "2026-06-27T21:28:54"
 description: "A gaming journalist explores the debate around GTA 6's special edition content, questioning if the current backlash is selective, considering Rockstar Games' long-standing practice of locking content behind pricier editions since Red Dead Redemption 1."
 tags: ["GTA 6", "Rockstar Games", "Special Editions", "Content Locking", "Gaming Industry", "Monetization", "Red Dead Redemption", "GTA V", "Criticism", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1uhehzs/selective_outrage_is_crazy_rockstar_has_been/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6's Special Edition Content: Is the Outrage Selective, Given Rockstar's History?

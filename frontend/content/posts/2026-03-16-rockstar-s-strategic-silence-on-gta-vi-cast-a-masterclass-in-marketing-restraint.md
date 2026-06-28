@@ -4,6 +4,7 @@ date: "2026-03-16T12:04:52"
 description: "Explore how Rockstar Games' deliberate withholding of GTA VI cast details is a calculated marketing strategy, leveraging fan speculation for unprecedented buzz."
 tags: ["GTA 6", "Rockstar Games", "Video Game Marketing", "Game Development", "Speculation", "Cast Rumors", "Word-of-Mouth", "Gaming Industry", "Marketing Strategy"]
 source: "https://www.reddit.com/r/GTA6/comments/1rv7kh6/i_love_rockstars_classy_oldschool_and_timeproven/"
+classification: "RUMOR"
 ---
 
 # Rockstar's Strategic Silence on GTA VI Cast: A Masterclass in Marketing Restraint

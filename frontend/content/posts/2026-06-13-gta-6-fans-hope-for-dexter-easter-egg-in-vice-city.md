@@ -4,6 +4,7 @@ date: "2026-06-13T21:44:57"
 description: "A Reddit user speculates on the possibility of a Dexter-themed Easter egg or reference in the upcoming Grand Theft Auto 6, given its Vice City setting."
 tags: ["GTA 6", "Grand Theft Auto", "Vice City", "Dexter", "Easter Egg", "Fan Speculation", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u532mt/there_must_be_a_dexter_easter_egg_right/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Fans Hope for Dexter Easter Egg in Vice City

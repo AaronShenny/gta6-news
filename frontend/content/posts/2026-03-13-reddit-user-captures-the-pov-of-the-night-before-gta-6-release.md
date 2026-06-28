@@ -4,6 +4,7 @@ date: "2026-03-13T18:55:22"
 description: "A Reddit user shares a 'Point of View' post envisioning the intense anticipation and atmosphere on the night before Grand Theft Auto 6 launches, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Anticipation", "Reddit", "Gaming Community", "Pre-release Hype", "POV"]
 source: "https://www.reddit.com/r/GTA6/comments/1rsw77a/pov_the_night_before_gta_6_releases/"
+classification: "LEAK"
 ---
 
 # Reddit User Captures the 'POV' of the Night Before GTA 6 Release

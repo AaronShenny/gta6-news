@@ -4,6 +4,7 @@ date: "2026-03-03T21:00:49"
 description: "A Reddit user draws comparisons to RDR2's Arthurian themes, speculating that GTA 6 protagonists Jason and Lucia could have their own literary parallels, notably 'Jason and the Argonauts' for Jason."
 tags: ["GTA 6", "Grand Theft Auto VI", "Jason", "Lucia", "Literary Parallels", "Rockstar Games", "RDR2", "Red Dead Redemption 2", "Arthurian Legend", "Jason and the Argonauts", "Gaming News", "Speculation", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1rk1e02/literary_parallels_with_the_protagonists/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Community Speculates on Literary Parallels for Protagonists Jason and Lucia

@@ -4,6 +4,7 @@ date: "2026-03-15T00:30:12"
 description: "A dedicated GTA V player shares common frustrations, including one-time missions and character outfit resets, while outlining hopes for New Game Plus and persistent customization in GTA VI."
 tags: ["GTA 6", "GTA V", "Grand Theft Auto", "Rockstar Games", "Player Feedback", "New Game Plus", "Customization", "Replayability", "Community Wishlist"]
 source: "https://www.reddit.com/r/GTA6/comments/1rtzsuv/what_disappointed_you_the_most_in_gta_v_and_what/"
+classification: "RUMOR"
 ---
 
 # GTA V Player Highlights Key Disappointments, Lays Out Hopes for GTA VI's Future

@@ -4,6 +4,7 @@ date: "2026-06-22T13:59:15"
 description: "A Reddit user speculates that Grand Theft Auto 6 could follow GTA V's marketing strategy by releasing separate character trailers for protagonists Lucia and Jason."
 tags: ["GTA 6", "Grand Theft Auto 6", "Lucia", "Jason", "Character Trailers", "Rockstar Games", "Gaming News", "Speculation", "GTA V", "Marketing Strategy"]
 source: "https://www.reddit.com/r/GTA6/comments/1uclcqe/gta_6_character_trailers/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Will Lucia and Jason Receive Individual Character Trailers?

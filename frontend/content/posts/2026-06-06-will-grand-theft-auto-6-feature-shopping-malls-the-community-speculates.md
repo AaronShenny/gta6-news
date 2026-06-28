@@ -4,6 +4,7 @@ date: "2026-06-06T11:47:04"
 description: "The GTA 6 community is buzzing with speculation about the potential inclusion of shopping malls in Rockstar's highly anticipated title. What could this mean for gameplay and immersion?"
 tags: ["GTA 6", "Grand Theft Auto 6", "Shopping Malls", "Community Speculation", "Rockstar Games", "Open World", "Gameplay Features", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1tyf4a6/malls_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Will Grand Theft Auto 6 Feature Shopping Malls? The Community Speculates

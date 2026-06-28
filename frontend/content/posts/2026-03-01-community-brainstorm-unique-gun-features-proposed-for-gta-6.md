@@ -4,6 +4,7 @@ date: "2026-03-01T23:35:53"
 description: "A Reddit user suggests intriguing new gun mechanics for Grand Theft Auto 6, including weapon jamming, bayonet attachments, and an RDR2-style inventory system."
 tags: ["GTA 6", "Grand Theft Auto 6", "Gunplay", "Weapon Features", "Community Suggestions", "Reddit", "Gaming News", "Weapon Jamming", "Bayonet", "RDR2 Weapon System"]
 source: "https://www.reddit.com/r/GTA6/comments/1ricul6/gun_features_that_would_be_interesting_in_gta_6/"
+classification: "RUMOR"
 ---
 
 # Community Brainstorm: Unique Gun Features Proposed for GTA 6

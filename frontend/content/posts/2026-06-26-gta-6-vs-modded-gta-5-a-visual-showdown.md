@@ -4,6 +4,7 @@ date: "2026-06-26T08:55:55"
 description: "A Reddit user's comparison delves into how GTA 6's default visuals stack up against a heavily modded GTA 5, highlighting strengths and weaknesses for both."
 tags: ["GTA 6", "GTA 5", "Modding", "Natural Vision Enhanced", "Graphics Comparison", "Visual Fidelity", "Rockstar Games", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ug1dib/gta_vi_vs_gta_v_natural_vision_enhanced_grotti/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 vs. Modded GTA 5: A Visual Showdown

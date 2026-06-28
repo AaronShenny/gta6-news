@@ -4,6 +4,7 @@ date: "2026-06-21T19:46:38"
 description: "A compilation of early, heavily compressed GTA VI map clips from Rockstar's website has emerged, offering a sneak peek at the game's world with a crucial note on expected final visual quality."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Map Clips", "Game Leaks", "Visual Fidelity", "Gaming News", "DriftRespawn"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubzbta/a_compilation_of_every_gta_vi_map_clip_released/"
+classification: "LEAK"
 ---
 
 # Early GTA VI Map Clips Surface from Rockstar's Website, Visual Fidelity Disclaimer Issued

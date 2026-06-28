@@ -4,6 +4,7 @@ date: "2026-03-27T04:05:06"
 description: "A Reddit discussion speculates on the core criminal theme of GTA 6, drawing parallels to the distinct focuses of previous Grand Theft Auto titles like mafia, drug trafficking, gang warfare, and heists."
 tags: ["GTA 6", "Grand Theft Auto", "Criminal Focus", "Game Speculation", "Rockstar Games", "Open World", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s4tsmx/criminal_focus_gta_6/"
+classification: "RUMOR"
 ---
 
 # What Criminal Focus Will Grand Theft Auto 6 Take?

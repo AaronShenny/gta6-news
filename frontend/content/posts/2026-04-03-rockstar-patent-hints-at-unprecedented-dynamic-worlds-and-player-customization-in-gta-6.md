@@ -4,6 +4,7 @@ date: "2026-04-03T18:18:55"
 description: "A recently surfaced Rockstar patent, US10987587B2, reveals advanced procedural generation for game environments and interiors, promising unparalleled dynamism and player-driven customization in Grand Theft Auto VI."
 tags: ["GTA 6", "Rockstar Games", "Patent", "Procedural Generation", "Game Development", "Open World", "Environment Generation", "Player Customization", "US10987587B2"]
 source: "https://www.reddit.com/r/GTA6/comments/1sbldh9/rockstar_patent_system_and_method_for_game_object/"
+classification: "UNKNOWN"
 ---
 
 # Rockstar Patent Hints at Unprecedented Dynamic Worlds and Player Customization in GTA 6

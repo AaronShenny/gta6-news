@@ -4,6 +4,7 @@ date: "2026-06-07T15:55:11"
 description: "A Reddit discussion speculates on GTA 6's car customization, suggesting specialized shops for wheels, engines, and visuals, aligning with its Florida setting and the game's anticipated scale."
 tags: ["GTA 6", "Grand Theft Auto VI", "Car Customization", "Vice City", "Rockstar Games", "Gaming News", "Vehicle Tuning", "Open World", "Florida Setting"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzfu7e/will_we_have_a_vice_city_customs_or_different/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Customization: Will Vice City Offer Specialized Mod Shops or a Central Hub?

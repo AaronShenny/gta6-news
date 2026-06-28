@@ -4,6 +4,7 @@ date: "2026-06-13T22:37:21"
 description: "A dedicated fan argues that GTA 6 Online should feature a more balanced economy where extreme wealth is rarer and financial decisions hold more weight, contrasting with GTA Online's current wealth saturation."
 tags: ["GTA 6", "GTA Online", "Game Economy", "Wealth Management", "Player Progression", "Rockstar Games", "Online Gaming", "Player Feedback"]
 source: "https://www.reddit.com/r/GTA6/comments/1u548pm/gta_6_wealth_management/"
+classification: "UNKNOWN"
 ---
 
 # Player Suggests GTA 6 Online Needs a More Meaningful Economy, Advocating for Rarer Extreme Wealth

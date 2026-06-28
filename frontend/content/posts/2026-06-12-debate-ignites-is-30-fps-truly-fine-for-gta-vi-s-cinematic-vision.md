@@ -4,6 +4,7 @@ date: "2026-06-12T17:34:15"
 description: "A Reddit user sparks controversy, arguing that Grand Theft Auto VI's cinematic experience and graphical fidelity make 30 FPS a perfectly acceptable frame rate, even for high-refresh-rate gamers."
 tags: ["GTA 6", "Grand Theft Auto VI", "FPS", "Frame Rate", "30 FPS", "Gaming Debate", "Cinematic Gaming", "Graphics", "Reddit Opinion", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u421be/30_fps_is_honestly_fine_for_gta_vi/"
+classification: "UNKNOWN"
 ---
 
 # Debate Ignites: Is 30 FPS Truly 'Fine' for GTA VI's Cinematic Vision?

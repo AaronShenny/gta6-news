@@ -4,6 +4,7 @@ date: "2026-02-26T11:44:57"
 description: "A dedicated gamer on a budget weighs the pros and cons of Xbox Series X versus PlayStation 5 to experience GTA 6 with optimal graphics, considering existing game libraries and upscaling technology."
 tags: ["GTA 6", "Grand Theft Auto 6", "Xbox Series X", "PlayStation 5", "Console Comparison", "Gaming Budget", "Next-Gen Graphics", "Rockstar Games", "Gaming Hardware", "Upscaling Technology"]
 source: "https://www.reddit.com/r/GTA6/comments/1rf80pw/help_with_console_for_gta_6/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Console Dilemma: Xbox Series X or PS5 for Best Visuals Under $600?

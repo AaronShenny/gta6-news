@@ -4,6 +4,7 @@ date: "2026-05-23T17:14:53"
 description: "A frustrated Grand Theft Auto fan criticizes Rockstar's current reward system and boring collectibles in GTA 5 and RDR2, urging for significant improvements in GTA 6's gameplay and incentives."
 tags: ["GTA 6", "Rockstar Games", "Collectibles", "Reward System", "Side Missions", "GTA 5", "RDR2", "Gaming Feedback", "Player Experience", "Game Design"]
 source: "https://www.reddit.com/r/GTA6/comments/1tlmacd/gta_6_better_have_a_better_reward_system_and_less/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Players Demand More Rewarding Collectibles and Overhauled Side Missions

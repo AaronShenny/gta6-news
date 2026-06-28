@@ -4,6 +4,7 @@ date: "2026-03-23T21:13:54"
 description: "A Reddit post discussing 'procedural breakable glass' for GTA VI vehicles and props has ignited fan speculation about the game's advanced environmental realism and destruction."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Game Features", "Procedural Generation", "Graphics", "Realism", "Rumor", "Speculation", "Community Discussion", "Vehicles", "Environmental Destruction"]
 source: "https://www.reddit.com/r/GTA6/comments/1s1ttic/gta_vi_procedural_breakable_glass_for_vehicles/"
+classification: "RUMOR"
 ---
 
 # GTA VI Community Buzzes Over Potential Procedural Breakable Glass Feature

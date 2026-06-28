@@ -4,6 +4,7 @@ date: "2026-06-06T00:42:39"
 description: "A Reddit user raises concerns about Grand Theft Auto 6's potential for immediate negative public reception, citing a growing trend of rapid judgment in new media."
 tags: ["GTA 6", "Grand Theft Auto", "Game Reception", "Player Criticism", "Gaming Trends", "Public Opinion", "Reddit Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1ty2nbf/gta_overall_ratings/"
+classification: "UNKNOWN"
 ---
 
 # Will GTA 6 Face an Avalanche of Instant Criticism Upon Release?

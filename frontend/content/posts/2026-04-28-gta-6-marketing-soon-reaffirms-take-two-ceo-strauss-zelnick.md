@@ -4,6 +4,7 @@ date: "2026-04-28T23:08:14"
 description: "Take-Two Interactive CEO Strauss Zelnick reconfirmed that marketing for Grand Theft Auto 6 is coming 'soon,' though no specific date was provided."
 tags: ["GTA 6", "Grand Theft Auto VI", "Take-Two Interactive", "Strauss Zelnick", "Marketing", "Gaming News", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1syhd8p/today_strauss_zelnick_reconfirmed_that_marketing/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Marketing 'Soon,' Reaffirms Take-Two CEO Strauss Zelnick

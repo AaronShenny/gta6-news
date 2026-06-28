@@ -4,6 +4,7 @@ date: "2026-03-08T07:05:15"
 description: "A Reddit user shares their hopes for Grand Theft Auto 6, expressing a desire for an open-world ecosystem, dynamic random encounters, and an honor system reminiscent of Red Dead Redemption 2."
 tags: ["GTA 6", "Grand Theft Auto 6", "Red Dead Redemption 2", "RDR2", "Open World", "Ecosystem", "Random Encounters", "Honor System", "Player Choice", "Rockstar Games", "Fan Wishlist", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rny4pl/heres_hoping/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Wishes for RDR2-Style Ecosystem, Random Encounters, and Honor System

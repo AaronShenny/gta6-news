@@ -4,6 +4,7 @@ date: "2026-05-26T02:40:39"
 description: "The GTA 6 community is buzzing with anticipation for the potential comeback of a beloved, iconic narrator in the game's highly anticipated gameplay video, sparking fan discussions."
 tags: ["GTA 6", "Grand Theft Auto", "Rockstar Games", "Gaming News", "Gameplay Trailer", "Narrator", "Fan Anticipation", "Reddit", "Community Discussion"]
 source: "https://www.reddit.com/r/GTA6/comments/1tntuju/cant_wait_to_hear_this_iconic_narrator_make_a/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Eagerly Await Iconic Narrator's Return in Upcoming Gameplay Reveal

@@ -4,6 +4,7 @@ date: "2026-05-07T13:04:00"
 description: "Take-Two Interactive, the company behind GTA 6, discusses the significant financial failure of its MLB 2K series and creative hurdles with NFL games, while highlighting successful sports franchises."
 tags: ["GTA 6", "Take-Two Interactive", "Strauss Zelnick", "MLB 2K", "NBA 2K", "NFL 2K", "Video Game Industry", "Financials", "Gaming News", "Franchise Management", "Sports Games", "Publishing"]
 source: "https://www.gamespot.com/articles/gta-6-company-reveals-which-one-of-its-franchises-lost-a-great-deal-of-money/1100-6539833/?ftag=CAD-01-10abi2f"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Publisher Take-Two Reveals Major Past Financial Losses, Unlikely to Revive MLB 2K

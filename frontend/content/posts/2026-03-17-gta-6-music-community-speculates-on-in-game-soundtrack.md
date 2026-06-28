@@ -4,6 +4,7 @@ date: "2026-03-17T02:47:28"
 description: "Fans on Reddit are actively discussing what music and radio stations they hope to see in Grand Theft Auto 6, debating new tracks versus returning GTA V favorites."
 tags: ["GTA 6", "Grand Theft Auto 6", "Music", "Soundtrack", "Radio Stations", "Community Discussion", "Speculation", "Gaming News", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rvuqcs/music_of_gta_6/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Music: Community Speculates on In-Game Soundtrack

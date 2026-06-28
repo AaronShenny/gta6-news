@@ -4,6 +4,7 @@ date: "2026-02-15T14:32:30"
 description: "A Reddit user on r/GTA6 proposes the intriguing idea of private islands in Grand Theft Auto VI, drawing inspiration from Florida's geography and discussing potential gameplay implications."
 tags: ["GTA 6", "Grand Theft Auto VI", "private islands", "Florida", "Vice City", "speculation", "gameplay", "map design", "Reddit", "fan theory", "open world"]
 source: "https://www.reddit.com/r/GTA6/comments/1r5g1xs/private_islands_in_gta_vi/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fan Speculation: Could Private Islands Expand Vice City's Map?

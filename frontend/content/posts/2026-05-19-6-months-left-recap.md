@@ -4,6 +4,7 @@ date: "2026-05-19T06:02:44"
 description: "A deep dive into the Grand Theft Auto VI community's tumultuous journey, from early leaks and record-breaking trailers to multiple delays, leading up to its anticipated November 2026 release."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming Community", "Game Leaks", "Game Trailers", "Release Date", "Game Delays", "Gaming News", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1thdxxd/6_months_left_recap/"
+classification: "LEAK"
 ---
 
 # 6 months left recap.

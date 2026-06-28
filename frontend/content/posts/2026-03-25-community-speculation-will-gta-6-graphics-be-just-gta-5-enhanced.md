@@ -4,6 +4,7 @@ date: "2026-03-25T04:31:31"
 description: "A Reddit user claims Grand Theft Auto 6's graphics will offer minimal improvement over GTA 5 Enhanced, sparking debate over anticipated visual upgrades."
 tags: ["GTA 6", "Grand Theft Auto 6", "Graphics", "GTA 5 Enhanced", "Gaming News", "Community Discussion", "Reddit", "Visuals", "Expectations"]
 source: "https://www.reddit.com/r/GTA6/comments/1s30zg9/gta_6_graphics_is_basically_gta_5_enhanced/"
+classification: "RUMOR"
 ---
 
 # Community Speculation: Will GTA 6 Graphics Be Just 'GTA 5 Enhanced'?

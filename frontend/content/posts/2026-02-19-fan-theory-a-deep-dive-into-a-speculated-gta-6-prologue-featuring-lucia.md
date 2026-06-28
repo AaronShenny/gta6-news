@@ -4,6 +4,7 @@ date: "2026-02-19T06:28:57"
 description: "A popular Reddit theory outlines a potential GTA 6 intro, envisioning a playable prologue with Lucia years prior, a dramatic robbery, and a music-driven title sequence featuring Steve Winwood."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Speculation", "Lucia", "Jason", "Prologue", "Intro", "Leonida", "Rockstar Games", "Gaming News", "Reddit Theory"]
 source: "https://www.reddit.com/r/GTA6/comments/1r8ruq5/gta_6_intro_predictionspeculation/"
+classification: "RUMOR"
 ---
 
 # Fan Theory: A Deep Dive into a Speculated GTA 6 Prologue Featuring Lucia

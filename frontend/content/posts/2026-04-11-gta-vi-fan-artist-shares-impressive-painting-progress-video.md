@@ -4,6 +4,7 @@ date: "2026-04-11T09:53:47"
 description: "Reddit user u/subhaanart provides a captivating video update on their ongoing Grand Theft Auto VI painting, showcasing the vibrant fan art community."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Art", "Painting", "Reddit", "Gaming Community", "Art Progress", "Rockstar Games", "u/subhaanart"]
 source: "https://www.reddit.com/r/GTA6/comments/1sieuug/progress_on_my_gta_vi_painting_thought_id_share_a/"
+classification: "CONFIRMED"
 ---
 
 # GTA VI Fan Artist Shares Impressive Painting Progress Video

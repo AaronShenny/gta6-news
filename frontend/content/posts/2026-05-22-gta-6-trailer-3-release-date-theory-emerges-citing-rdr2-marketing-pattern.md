@@ -4,6 +4,7 @@ date: "2026-05-22T07:19:49"
 description: "A new fan theory speculates on the release date for Grand Theft Auto VI's third trailer, drawing parallels to Red Dead Redemption 2's marketing timeline and suggesting a May 2026 reveal."
 tags: ["GTA 6", "Grand Theft Auto VI", "Trailer 3", "Release Date Theory", "Rockstar Games", "RDR2", "Speculation", "Gaming News", "Fan Theory"]
 source: "https://www.reddit.com/r/GTA6/comments/1tkbisb/gta_vi_trailer_3_theory/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3 Release Date Theory Emerges, Citing RDR2 Marketing Pattern

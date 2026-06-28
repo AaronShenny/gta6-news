@@ -4,6 +4,7 @@ date: "2026-06-19T16:54:23"
 description: "A dedicated fan has meticulously extracted high-quality 'shards' of the official GTA 6 cover art, revealing previously obscured details hidden behind the game's logo."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Cover Art", "Hidden Details", "Easter Eggs", "Game Design", "Fan Analysis", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1ua7aao/hidden_details_in_the_cover_shards/"
+classification: "CONFIRMED"
 ---
 
 # GTA 6 Cover Art: Hidden Details Emerge from 'Shards' Extracted by Fan

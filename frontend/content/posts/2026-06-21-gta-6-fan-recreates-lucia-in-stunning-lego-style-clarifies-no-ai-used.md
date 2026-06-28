@@ -4,6 +4,7 @@ date: "2026-06-21T15:49:21"
 description: "A talented fan artist, u/Unique_Tomato8137, has brought GTA 6's iconic 'Lady' (Lucia) to life in a detailed LEGO render using Blender and Nuke, explicitly stating no AI was involved after a previous moderation issue."
 tags: ["GTA 6", "Grand Theft Auto VI", "Lucia", "LEGO", "Fan Art", "3D Render", "Blender", "Nuke", "Gaming News", "Community Creation", "No AI"]
 source: "https://www.reddit.com/r/GTA6/comments/1ubtet4/gta_vi_lady_but_in_lego_no_ai/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Recreates Lucia in Stunning LEGO Style, Clarifies No AI Used

@@ -4,6 +4,7 @@ date: "2026-03-25T03:56:08"
 description: "Explore the compelling evidence suggesting Grand Theft Auto 6, Red Dead Redemption 2, and GTA Online share a single universe, from recurring brands and historical figures to intricate lore details."
 tags: ["GTA 6", "Red Dead Redemption 2", "GTA Online", "Rockstar Games", "Gaming Lore", "Shared Universe", "Easter Eggs", "Francis Sinclair", "Epsilon Program", "Video Game Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1s309vh/gta_6_and_red_dead_redemption_2_are_in_the_same/"
+classification: "RUMOR"
 ---
 
 # GTA 6 and Red dead Redemption 2 are in the same universe

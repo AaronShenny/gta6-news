@@ -4,6 +4,7 @@ date: "2026-04-09T14:50:33"
 description: "A journalist speculates on GTA 6's map accessibility, arguing for a fully unlocked world from the start, citing player retention, modern design, and dual protagonists as key factors."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Open World", "Map Design", "Gaming Speculation", "Player Experience", "Lucia", "Jason", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1sgrt0c/i_think_theres_a_pretty_good_chance_that_the_map/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Map: Will Vice City Be Fully Open From Day One?

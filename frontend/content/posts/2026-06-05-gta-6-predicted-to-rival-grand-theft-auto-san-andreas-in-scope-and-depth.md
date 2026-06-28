@@ -4,6 +4,7 @@ date: "2026-06-05T23:48:47"
 description: "A gaming journalist speculates that Grand Theft Auto 6 will draw heavily from San Andreas and Red Dead Redemption 2, offering a grounded story, deep customization, and extensive exploration that could make it a formidable competitor to the beloved classic."
 tags: ["GTA 6", "Grand Theft Auto", "San Andreas", "RDR2", "Rockstar Games", "Open World", "Gaming News", "Game Features", "Speculation", "Leaks"]
 source: "https://www.reddit.com/r/GTA6/comments/1ty1gh0/why_i_think_gta_6_might_be_a_big_competitor_to/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Predicted to Rival Grand Theft Auto: San Andreas in Scope and Depth

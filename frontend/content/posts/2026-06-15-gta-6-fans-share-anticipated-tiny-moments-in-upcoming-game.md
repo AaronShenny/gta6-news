@@ -4,6 +4,7 @@ date: "2026-06-15T15:35:40"
 description: "A viral Reddit post on the GTA 6 subreddit sparks community discussion about the small, often overlooked details and experiences players are surprisingly excited for in Grand Theft Auto 6, coupled with a lighthearted note on forum etiquette."
 tags: ["GTA 6", "Grand Theft Auto 6", "Reddit Community", "Fan Expectations", "Gaming Discussion", "Anticipation", "Online Forums", "Rockstar Games"]
 source: "https://www.reddit.com/r/GTA6/comments/1u6k17f/whats_a_tiny_moment_in_gta_6_youre_weirdly/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fans Share Anticipated 'Tiny Moments' in Upcoming Game

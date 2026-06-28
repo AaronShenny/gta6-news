@@ -4,6 +4,7 @@ date: "2026-04-05T21:48:42"
 description: "A Reddit user's vivid dream about GTA 6 paints a unique picture of character dynamics, jail sequences, and a grounded 'Lester-like' lawyer, sparking community discussion."
 tags: ["GTA 6", "Grand Theft Auto", "Fan Dream", "Reddit", "Game Rumors", "Character Dynamics", "Gameplay Mechanics", "PS5 Performance", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1sdg59z/dreamt_of_gta_6/"
+classification: "RUMOR"
 ---
 
 # Reddit User Shares Wild Dream Details of a Drastically Different GTA 6 Story

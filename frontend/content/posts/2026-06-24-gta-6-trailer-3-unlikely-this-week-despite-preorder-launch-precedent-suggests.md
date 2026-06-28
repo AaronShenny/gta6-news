@@ -4,6 +4,7 @@ date: "2026-06-24T10:47:49"
 description: "Gaming journalists analyze Rockstar's past marketing patterns, suggesting GTA 6's third trailer may not coincide with preorders this week, potentially arriving in early July."
 tags: ["GTA 6", "Grand Theft Auto 6", "Rockstar Games", "Trailer 3", "Preorders", "Marketing Strategy", "Gaming News", "Release Date", "GTA 5", "GTA 4", "Red Dead Redemption 2"]
 source: "https://www.gamespot.com/articles/if-rockstar-follows-its-own-precedent-dont-expect-gta-6-trailer-3-this-week/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Trailer 3 Unlikely This Week Despite Preorder Launch, Precedent Suggests

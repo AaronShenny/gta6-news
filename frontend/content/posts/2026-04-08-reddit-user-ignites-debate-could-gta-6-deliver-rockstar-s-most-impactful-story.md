@@ -4,6 +4,7 @@ date: "2026-04-08T17:08:06"
 description: "A recent Reddit post sparks community discussion on Grand Theft Auto 6's narrative potential, with one user confidently predicting it will be Rockstar's most impactful story."
 tags: ["GTA 6", "Rockstar Games", "storytelling", "narrative", "impact", "community discussion", "Reddit", "fan speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1sfyy77/do_you_think_gta_6_has_the_potential_to_be/"
+classification: "RUMOR"
 ---
 
 # Reddit User Ignites Debate: Could GTA 6 Deliver Rockstar's Most Impactful Story?

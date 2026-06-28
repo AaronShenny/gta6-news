@@ -4,6 +4,7 @@ date: "2026-05-31T01:29:42"
 description: "A dedicated Grand Theft Auto fan expresses hope that GTA 6's story mode economy will offer deeper money sinks and recurring expenses to make earning cash continually rewarding, unlike GTA V."
 tags: ["GTA 6", "Grand Theft Auto", "Story Mode", "Economy", "GTA V", "Money Sinks", "Single-player", "Rockstar Games", "Player Progression"]
 source: "https://www.reddit.com/r/GTA6/comments/1tshgoz/i_really_hope_gta_6_gives_us_a_reason_to_keep/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Story Mode Economy Needs to Keep Money Meaningful, Says Fan

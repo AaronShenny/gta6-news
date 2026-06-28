@@ -4,6 +4,7 @@ date: "2026-05-05T15:05:52"
 description: "Frustration mounts among GTA 6 fans as Rockstar Games approaches a full year without any new official information or updates on the highly anticipated title."
 tags: ["GTA 6", "Grand Theft Auto VI", "Rockstar Games", "Gaming News", "Game Development", "Updates", "Community", "Anticipation"]
 source: "https://www.reddit.com/r/GTA6/comments/1t4i5pq/we_are_officially_going_365_days_without_any_info/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Community Marks One Year of Silence from Rockstar Games

@@ -4,6 +4,7 @@ date: "2026-03-16T19:08:03"
 description: "Explore fan speculation and theories about the potential secrets, mysteries, puzzles, and Easter eggs Rockstar Games might include in the highly anticipated Grand Theft Auto 6."
 tags: ["GTA 6", "Grand Theft Auto 6", "Easter Eggs", "Secrets", "Mysteries", "Puzzles", "Rockstar Games", "Fan Theories", "Speculation", "Gaming News", "Open World"]
 source: "https://www.reddit.com/r/GTA6/comments/1rviwx3/what_secrets_mysteries_puzzles_and_easter_eggs_do/"
+classification: "RUMOR"
 ---
 
 # What secrets, mysteries, puzzles, and Easter eggs do you think will be in GTA 6?

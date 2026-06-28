@@ -4,6 +4,7 @@ date: "2026-02-17T22:08:54"
 description: "A Reddit user shares their highly specific and humorous first-day agenda for Grand Theft Auto 6, involving a custom car, a swamp alligator, and a unique pet name."
 tags: ["GTA 6", "Grand Theft Auto", "Player Plans", "Humor", "Reddit", "Gaming Community", "Open World", "Alligators", "Princess Peanut Cupcakke"]
 source: "https://www.reddit.com/r/GTA6/comments/1r7kg7r/the_first_thing_ill_do_in_gta_6_is_getting_a_good/"
+classification: "UNKNOWN"
 ---
 
 # Player Shares Quirky Day-One Plans for GTA 6: Alligators, Downtown Walks, and 'Princess Peanut Cupcakke'

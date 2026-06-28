@@ -4,6 +4,7 @@ date: "2026-03-05T22:22:12"
 description: "A Reddit user sparks a passionate discussion within the GTA community, questioning the desire for GTA 5 Online account transfers to GTA 6 and its potential impact on the new game's experience."
 tags: ["GTA 6", "GTA Online", "Account Transfer", "Player Progression", "Community Debate", "Gaming Discussion", "Day One Experience", "Reddit"]
 source: "https://www.reddit.com/r/GTA6/comments/1rlvqfk/why_do_you_think_this_is_a_good_idea/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: The Great Debate Over GTA Online Account Transfers

@@ -4,6 +4,7 @@ date: "2026-06-09T12:35:55"
 description: "A Reddit discussion explores the controversial idea of Grand Theft Auto 6 introducing a mechanic that makes players feel bad for killing NPCs, considering the series' history of criminal protagonists."
 tags: ["GTA 6", "Grand Theft Auto", "NPCs", "Player Morality", "Gaming Discussion", "Rockstar Games", "Gaming Ethics"]
 source: "https://www.reddit.com/r/GTA6/comments/1u13qnp/do_yall_want_to_feel_bad_about_killing_random/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6: Should Players Feel Guilt for NPC Kills?

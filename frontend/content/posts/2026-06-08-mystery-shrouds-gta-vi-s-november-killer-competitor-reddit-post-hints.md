@@ -4,6 +4,7 @@ date: "2026-06-08T03:36:58"
 description: "A Reddit post by /u/DoomEDLT5 teases the identity of Grand Theft Auto VI's major competitor, claiming it will be revealed in November, sparking community speculation."
 tags: ["GTA VI", "Grand Theft Auto 6", "Gaming Competition", "Reddit Rumors", "Video Game News", "November Release", "Gaming Speculation"]
 source: "https://www.reddit.com/r/GTA6/comments/1tzwnqk/the_gta_vi_killer/"
+classification: "RUMOR"
 ---
 
 # Mystery Shrouds GTA VI's November 'Killer' Competitor, Reddit Post Hints

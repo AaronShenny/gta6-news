@@ -4,6 +4,7 @@ date: "2026-03-30T17:13:16"
 description: "A recent fan theory speculates on GTA 6's intro, suggesting a botched heist lands Lucia in jail while players explore Vice City before her release, possibly with an ankle monitor."
 tags: ["GTA 6", "Grand Theft Auto VI", "Fan Theory", "Intro", "Opening Sequence", "Lucia", "Vice City", "Botched Heist", "Speculation", "Gaming News"]
 source: "https://www.reddit.com/r/GTA6/comments/1s7wrx1/what_im_guessing_for_the_intro/"
+classification: "RUMOR"
 ---
 
 # Fan Speculation: GTA 6's Opening Hours Could Feature Botched Heists and Early Vice City Exploration

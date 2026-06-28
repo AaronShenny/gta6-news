@@ -4,6 +4,7 @@ date: "2026-03-03T22:41:07"
 description: "A 30-year-old Reddit user is actively recruiting fellow gamers to form an online crew for Grand Theft Auto VI's multiplayer component."
 tags: ["GTA 6", "Grand Theft Auto VI", "Online Gaming", "Multiplayer", "Gaming Community", "Player Search", "Reddit", "Crew Recruitment"]
 source: "https://www.reddit.com/r/GTA6/comments/1rk40ko/looking_for_future_gta_6_gamers/"
+classification: "UNKNOWN"
 ---
 
 # GTA 6 Fan Seeks Online Crew Ahead of Launch

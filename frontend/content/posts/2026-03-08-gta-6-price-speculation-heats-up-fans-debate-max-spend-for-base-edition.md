@@ -4,6 +4,7 @@ date: "2026-03-08T15:05:14"
 description: "A Reddit user on r/GTA6 speculates on the maximum price they'd pay for the base edition of Grand Theft Auto 6, setting a personal limit of $120 before waiting for a price drop."
 tags: ["GTA 6", "Grand Theft Auto 6", "Game Price", "Gaming Industry", "Rockstar Games", "Reddit", "Price Speculation", "Video Game Launch"]
 source: "https://www.reddit.com/r/GTA6/comments/1ro73vs/how_much_max_are_you_willing_to_pay_even_for_base/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Price Speculation Heats Up: Fans Debate Max Spend for Base Edition

@@ -4,6 +4,7 @@ date: "2026-05-21T09:12:02"
 description: "A deep dive into the curious timing of Grand Theft Auto VI announcements and their potential connection to Take-Two Interactive's stock performance and market hours."
 tags: ["GTA 6", "Rockstar Games", "Take-Two Interactive", "Stock Market", "Gaming Industry", "Corporate Strategy", "Game Development"]
 source: "https://www.reddit.com/r/GTA6/comments/1tjexjf/gta_vi_tweets_and_the_stock_market/"
+classification: "RUMOR"
 ---
 
 # Are Rockstar's GTA VI Tweets Strategically Timed for the Stock Market?

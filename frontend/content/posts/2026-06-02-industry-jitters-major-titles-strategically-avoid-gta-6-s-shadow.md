@@ -4,6 +4,7 @@ date: "2026-06-02T22:51:45"
 description: "A recent Reddit post highlights how upcoming titles like 'Silent F,' 'Control Resonant,' and 'Onimusha' are clustering their releases, seemingly to avoid the anticipated market dominance of Grand Theft Auto 6."
 tags: ["GTA 6", "Release Dates", "Gaming Industry", "Market Strategy", "Game Competition", "Silent F", "Control Resonant", "Onimusha", "Anticipation", "GOAT"]
 source: "https://www.reddit.com/r/GTA6/comments/1tv6z94/silent_f_and_control_resonant_are_coming_out_the/"
+classification: "UNKNOWN"
 ---
 
 # Industry Jitters: Major Titles Strategically Avoid GTA 6's Shadow

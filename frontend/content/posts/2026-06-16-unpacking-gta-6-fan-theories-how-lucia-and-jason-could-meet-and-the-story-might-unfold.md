@@ -4,6 +4,7 @@ date: "2026-06-16T18:23:58"
 description: "Dive into fan speculation regarding GTA 6's story start, including theories on Lucia and Jason's initial encounter, early game missions, and the potential timeline for Vice City exploration."
 tags: ["GTA 6", "Grand Theft Auto VI", "Story Speculation", "Lucia", "Jason", "Vice City", "Fan Theories", "Gaming News", "Rockstar Games", "Leaks"]
 source: "https://www.reddit.com/r/GTA6/comments/1u7lphn/how_will_the_story_start_and_develop/"
+classification: "RUMOR"
 ---
 
 # Unpacking GTA 6 Fan Theories: How Lucia and Jason Could Meet and the Story Might Unfold

@@ -4,6 +4,7 @@ date: "2026-02-26T19:20:12"
 description: "Gamers are actively speculating about the potential first mission and opening sequence of Grand Theft Auto 6, sparking lively discussions online."
 tags: ["GTA 6", "Grand Theft Auto VI", "Mission Speculation", "Game Predictions", "Community Discussion", "Rockstar Games", "Opening Mission", "Game Start"]
 source: "https://www.reddit.com/r/GTA6/comments/1rfjkkl/what_do_you_think_the_first_mission_of_gta_6_will/"
+classification: "RUMOR"
 ---
 
 # Community Buzz: GTA 6's Opening Mission Predictions

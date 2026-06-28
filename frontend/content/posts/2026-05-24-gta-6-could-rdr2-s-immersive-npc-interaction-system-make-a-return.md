@@ -4,6 +4,7 @@ date: "2026-05-24T18:00:18"
 description: "A Reddit discussion explores the possibility of Grand Theft Auto 6 adopting or expanding upon Red Dead Redemption 2's highly praised 'Greet/Antagonize' NPC interaction system, enhancing player immersion."
 tags: ["GTA 6", "Red Dead Redemption 2", "NPC Interaction", "Immersion", "Rockstar Games", "Community Discussion", "Gameplay Features", "Reddit", "Vice City"]
 source: "https://www.reddit.com/r/GTA6/comments/1tmjcpj/greetantagonize_system/"
+classification: "RUMOR"
 ---
 
 # GTA 6: Could RDR2's Immersive NPC Interaction System Make a Return?

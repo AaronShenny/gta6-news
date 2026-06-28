@@ -4,6 +4,7 @@ date: "2026-03-14T12:59:21"
 description: "A newly discovered, intricate detail in the 13-year-old Grand Theft Auto V has gamers marveling at Rockstar's craftsmanship and speculating about the unprecedented fidelity expected from Grand Theft Auto VI."
 tags: ["GTA V", "GTA VI", "Rockstar Games", "Game Details", "Realism", "Open World", "Game Development", "Graphics", "Anticipation", "Fan Discovery"]
 source: "https://www.reddit.com/r/GTA6/comments/1rtit3c/the_way_this_sweater_reacts_to_the_wind_what/"
+classification: "RUMOR"
 ---
 
 # GTA V's Unseen Detail Sparks Fresh Speculation on GTA VI's Fidelity

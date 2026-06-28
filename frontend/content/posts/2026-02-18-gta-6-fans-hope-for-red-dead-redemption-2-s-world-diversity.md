@@ -4,6 +4,7 @@ date: "2026-02-18T01:37:54"
 description: "A Reddit user expresses strong hope that Grand Theft Auto 6's open world will match the diverse and distinct environments found in Red Dead Redemption 2."
 tags: ["GTA 6", "Red Dead Redemption 2", "RDR2", "Open World", "World Design", "Map", "Environment", "Diversity", "Rockstar Games", "Fan Expectations"]
 source: "https://www.reddit.com/r/GTA6/comments/1r7phdw/rdr2s_world_feels_so_diverse_and_every_location/"
+classification: "RUMOR"
 ---
 
 # GTA 6 Fans Hope for Red Dead Redemption 2's World Diversity

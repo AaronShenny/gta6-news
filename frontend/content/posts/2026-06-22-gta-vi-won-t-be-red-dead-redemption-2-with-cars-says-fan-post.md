@@ -4,6 +4,7 @@ date: "2026-06-22T00:07:03"
 description: "A popular Reddit post argues GTA VI will prioritize chaotic gameplay and immersion over hyper-realistic life simulation, debunking common fan predictions."
 tags: ["GTA VI", "Grand Theft Auto 6", "Rockstar Games", "Gaming Predictions", "Game Design", "Realism vs. Immersion", "Red Dead Redemption 2", "Open World Games", "Fan Theories"]
 source: "https://www.reddit.com/r/GTA6/comments/1uc5cc2/gta_vi_isnt_going_to_be_rdr2_with_cars/"
+classification: "UNKNOWN"
 ---
 
 # GTA VI Won't Be Red Dead Redemption 2 With Cars, Says Fan Post

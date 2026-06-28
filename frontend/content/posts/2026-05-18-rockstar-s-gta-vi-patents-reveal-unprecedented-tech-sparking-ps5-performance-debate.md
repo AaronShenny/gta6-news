@@ -4,6 +4,7 @@ date: "2026-05-18T07:54:41"
 description: "Dive into Rockstar's ambitious GTA VI patents, detailing advanced AI, dynamic animations, seamless world streaming, and more. Explore how these groundbreaking features might push current-gen console hardware, particularly the PS5, to its limits."
 tags: ["GTA 6", "Rockstar Games", "Patents", "Gaming Technology", "PS5 Performance", "NPC AI", "Game Development", "Open World", "Next-Gen Gaming", "Grand Theft Auto VI"]
 source: "https://www.reddit.com/r/GTA6/comments/1tgfpjj/taketworockstars_patents_for_gta_vi_are_unreal/"
+classification: "LEAK"
 ---
 
 # Rockstar's GTA VI Patents Reveal Unprecedented Tech, Sparking PS5 Performance Debate
