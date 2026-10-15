@@ -20,6 +20,70 @@ export interface PostData extends PostSummary {
     contentHtml: string;
 }
 
+function stripWrappingQuotes(value: string): string {
+    const trimmed = value.trim();
+    if ((trimmed.startsWith('"') && trimmed.endsWith('"')) || (trimmed.startsWith("'") && trimmed.endsWith("'"))) {
+        return trimmed.slice(1, -1);
+    }
+    return trimmed;
+}
+
+function parseFrontmatterFallback(fileContents: string): { data: Record<string, unknown>; content: string } {
+    const lines = fileContents.split('\n');
+    if (lines[0]?.trim() !== '---') {
+        return { data: {}, content: fileContents };
+    }
+
+    const data: Record<string, unknown> = {};
+    let separatorIndex = -1;
+
+    for (let i = 1; i < lines.length; i++) {
+        const line = lines[i];
+        if (line.trim() === '---') {
+            separatorIndex = i;
+            break;
+        }
+
+        const match = line.match(/^([a-zA-Z0-9_-]+):\s*(.*)$/);
+        if (!match) {
+            continue;
+        }
+
+        const [, key, rawValue] = match;
+        const value = rawValue.trim();
+        if (key === 'tags') {
+            try {
+                data.tags = JSON.parse(value);
+            } catch {
+                data.tags = [];
+            }
+            continue;
+        }
+
+        data[key] = stripWrappingQuotes(value);
+    }
+
+    const content = separatorIndex >= 0 ? lines.slice(separatorIndex + 1).join('\n') : fileContents;
+    return { data, content };
+}
+
+function safeParseMatter(fileContents: string): { data: Record<string, unknown>; content: string } {
+    try {
+        const parsed = matter(fileContents);
+        return { data: parsed.data as Record<string, unknown>, content: parsed.content };
+    } catch {
+        return parseFrontmatterFallback(fileContents);
+    }
+}
+
+function getStringValue(value: unknown, fallback = ''): string {
+    return typeof value === 'string' ? value : fallback;
+}
+
+function getTagsValue(value: unknown): string[] {
+    return Array.isArray(value) ? value.filter((tag): tag is string => typeof tag === 'string') : [];
+}
+
 export function getSortedPostsData(): PostSummary[] {
     if (!fs.existsSync(postsDirectory)) {
         fs.mkdirSync(postsDirectory, { recursive: true });
@@ -34,16 +98,16 @@ export function getSortedPostsData(): PostSummary[] {
             const fullPath = path.join(postsDirectory, fileName);
             const fileContents = fs.readFileSync(fullPath, 'utf8');
 
-            const matterResult = matter(fileContents);
+            const matterResult = safeParseMatter(fileContents);
 
             return {
                 slug,
-                title: matterResult.data.title || '',
-                date: matterResult.data.date || '',
-                description: matterResult.data.description || '',
-                tags: matterResult.data.tags || [],
-                source: matterResult.data.source || '',
-                classification: matterResult.data.classification || 'UNKNOWN',
+                title: getStringValue(matterResult.data.title),
+                date: getStringValue(matterResult.data.date),
+                description: getStringValue(matterResult.data.description),
+                tags: getTagsValue(matterResult.data.tags),
+                source: getStringValue(matterResult.data.source),
+                classification: getStringValue(matterResult.data.classification, 'UNKNOWN'),
             };
         });
 
@@ -78,7 +142,7 @@ export async function getPostData(slug: string): Promise<PostData> {
     }
 
     const fileContents = fs.readFileSync(fullPath, 'utf8');
-    const matterResult = matter(fileContents);
+    const matterResult = safeParseMatter(fileContents);
 
     const processedContent = await remark()
         .use(html)
@@ -89,11 +153,11 @@ export async function getPostData(slug: string): Promise<PostData> {
     return {
         slug,
         contentHtml,
-        title: matterResult.data.title || '',
-        date: matterResult.data.date || '',
-        description: matterResult.data.description || '',
-        tags: matterResult.data.tags || [],
-        source: matterResult.data.source || '',
-        classification: matterResult.data.classification || 'UNKNOWN',
+        title: getStringValue(matterResult.data.title),
+        date: getStringValue(matterResult.data.date),
+        description: getStringValue(matterResult.data.description),
+        tags: getTagsValue(matterResult.data.tags),
+        source: getStringValue(matterResult.data.source),
+        classification: getStringValue(matterResult.data.classification, 'UNKNOWN'),
     };
 }
